@@ -1,0 +1,194 @@
+<voice lang="en">Software<break time="1s"></voice>
+<voice lang="es">Software<break time="1s"></voice>
+
+
+<voice lang="en">Move the file to the new folder.<break time="5s"></voice>
+<voice lang="es">Mueva el archivo a la nueva carpeta.<break time="3s"></voice>
+
+<voice lang="en">Delete the old version of the server.<break time="5s"></voice>
+<voice lang="es">Borra la versión antigua del servidor.<break time="3s"></voice>
+
+<voice lang="en">Save the changes before closing the program.<break time="5s"></voice>
+<voice lang="es">Guarde los cambios antes de cerrar el programa.<break time="3s"></voice>
+
+<voice lang="en">Archive the old project files.<break time="5s"></voice>
+<voice lang="es">Archiva los ficheros antiguos del proyecto.<break time="3s"></voice>
+
+<voice lang="es">Control de Versiones (Git)<break time="3s"></voice>
+
+<voice lang="en">Commit your changes to the repository.<break time="5s"></voice>
+<voice lang="es">Confirme sus cambios en el repositorio.<break time="3s"></voice>
+
+<voice lang="en">Push the branch to the remote server.<break time="5s"></voice>
+<voice lang="es">Empuja la rama al servidor remoto.<break time="3s"></voice>
+
+<voice lang="en">Pull the latest changes from main.<break time="5s"></voice>
+<voice lang="es">Extrae los últimos cambios de main.<break time="3s"></voice>
+
+<voice lang="es">Merge the feature branch into development.<break time="6s"></voice>
+<voice lang="es">Fusione la rama de características en desarrollo.<break time="3s"></voice>
+
+<voice lang="en">Create a new branch for this task.<break time="5s"></voice>
+<voice lang="es">Cree una nueva rama para esta tarea.<break time="3s"></voice>
+
+<voice lang="en">Clone the repository to your local machine.<break time="6s"></voice>
+<voice lang="es">Clone el repositorio en su máquina local.<break time="3s"></voice>
+
+<voice lang="en">Revert to the previous version.<break time="5s"></voice>
+<voice lang="es">Volver a la versión anterior.<break time="3s"></voice>
+
+<voice lang="en">Review the pull request before approving it.<break time="6s"></voice>
+<voice lang="es">Revise el pull request antes de aprobarlo.<break time="3s"></voice>
+
+<voice lang="es">Compilación y Despliegue<break time="3s"></voice>
+
+<voice lang="en">Compile the program and check for warnings.<break time="6s"></voice>
+<voice lang="en">Compila el programa y comprueba si hay advertencias.<break time="3s"></voice>
+
+<voice lang="en">Deploy the application to production.<break time="5s"></voice>
+<voice lang="es">Despliegue la aplicación en producción.<break time="3s"></voice>
+
+<voice lang="en">Update the dependencies in the package file.<break time="6s"></voice>
+<voice lang="es">Actualice las dependencias en el archivo del paquete.<break time="3s"></voice>
+
+<voice lang="en">Pruebas (Testing)<break time="2s"></voice>
+<voice lang="es">Pruebas (Testing)<break time="2s"></voice>
+
+
+<voice lang="en">Write unit tests for the new feature.<break time="5s"></voice>
+<voice lang="es">Escribir pruebas unitarias para la nueva función.<break time="3s"></voice>
+
+<voice lang="en">Run the test suite to check everything works.<break time="6s"></voice>
+<voice lang="es">Ejecute el conjunto de pruebas para comprobar que todo funciona.<break time="3s"></voice>
+
+<voice lang="es">Depuración y Corrección de Errores<break time="3s"></voice>
+
+<voice lang="en">Debug the code to find the error.<break time="5s"></voice>
+<voice lang="es">Depura el código para encontrar el error.<break time="3s"></voice>
+
+<voice lang="en">Fix the bug in the login function.<break time="5s"></voice>
+<voice lang="es">Corrección del error en la función de inicio de sesión.<break time="3s"></voice>
+
+<voice lang="en">Check for error messages in the logs.<break time="5s"></voice>
+<voice lang="es">Compruebe si hay mensajes de error en los registros.<break time="3s"></voice>
+
+<voice lang="es">Mantenimiento y Optimización de Código<break time="3s"></voice>
+
+<voice lang="en">Refactor this code to improve performance.<break time="6s"></voice>
+<voice lang="es">Refactorice este código para mejorar el rendimiento.<break time="3s"></voice>
+
+<voice lang="en">Optimize the query to improve speed.<break time="5s"></voice>
+<voice lang="es">Optimice la consulta para mejorar la velocidad.<break time="3s"></voice>
+
+<voice lang="en">Comment out the unused code.<break time="5s"></voice>
+<voice lang="es">Comente el código no utilizado.<break time="3s"></voice>
+
+<voice lang="en">Configuración y Entorno<break time="2s"></voice>
+<voice lang="es">Configuración y Entorno<break time="2s"></voice>
+
+
+<voice lang="en">Open the terminal and run the command.<break time="5s"></voice>
+<voice lang="en">Abra el terminal y ejecute el comando.<break time="3s"></voice>
+
+<voice lang="en">Install the latest update.<break time="5s"></voice>
+<voice lang="es">Instale la última actualización.<break time="3s"></voice>
+
+<voice lang="es">Configure the database connection.<break time="5s"></voice>
+<voice lang="es">Configure la conexión a la base de datos.<break time="3s"></voice>
+
+<voice lang="es">Set up the development environment.<break time="5s"></voice>
+<voice lang="es">Configure el entorno de desarrollo.<break time="3s"></voice>
+
+<voice lang="en">Restart the service to apply the configuration.<break time="6s"></voice>
+<voice lang="es">Reinicie el servicio para aplicar la configuración.<break time="3s"></voice>
+
+<voice lang="en">Documentación<break time="2s"></voice>
+<voice lang="es">Documentación<break time="2s"></voice>
+
+
+<voice lang="en">Document the API endpoints.<break time="5s"></voice>
+<voice lang="en">Documente los puntos finales de la API.<break time="3s"></voice>
+
+<voice lang="es">Gestión de Base de Datos<break time="3s"></voice>
+
+<voice lang="en">Back up the database before making changes.<break time="6s"></voice>
+<voice lang="es">Haga una copia de seguridad de la base de datos antes de realizar cambios.<break time="3s"></voice>
+
+<voice lang="en">Seguridad<break time="2s"></voice>
+<voice lang="es">Seguridad<break time="2s"></voice>
+
+
+<voice lang="en">Audit the code for security vulnerabilities.<break time="6s"></voice>
+<voice lang="es">Auditar el código para vulnerabilidades de seguridad.<break time="3s"></voice>
+
+<voice lang="en">Implement two-factor authentication.<break time="5s"></voice>
+<voice lang="es">Implementar autenticación de dos factores.<break time="3s"></voice>
+
+<voice lang="en">Update the SSL certificates.<break time="5s"></voice>
+<voice lang="es">Actualizar los certificados SSL.<break time="3s"></voice>
+
+<voice lang="en">Review database access permissions.<break time="5s"></voice>
+<voice lang="es">Revisar los permisos de acceso a la base de datos.<break time="3s"></voice>
+
+<voice lang="en">Monitoreo y Análisis<break time="2s"></voice>
+<voice lang="es">Monitoreo y Análisis<break time="2s"></voice>
+
+
+<voice lang="es">Configure performance alerts.<break time="5s"></voice>
+<voice lang="es">Configurar alertas de rendimiento.<break time="3s"></voice>
+
+<voice lang="en">Analyze application usage metrics.<break time="5s"></voice>
+<voice lang="es">Analizar las métricas de uso de la aplicación.<break time="3s"></voice>
+
+<voice lang="en">Monitor server resource consumption.<break time="5s"></voice>
+<voice lang="es">Monitorear el consumo de recursos del servidor.<break time="3s"></voice>
+
+Integración Continua/Entrega Continua (CI/CD)
+<voice lang="es">Set up the continuous integration pipeline.<break time="6s"></voice>
+<voice lang="es">Configurar el pipeline de integración continua.<break time="3s"></voice>
+
+<voice lang="en">Automate the deployment process.<break time="5s"></voice>
+<voice lang="es">Automatizar el proceso de despliegue.<break time="3s"></voice>
+
+<voice lang="en">Run automated tests on every commit.<break time="5s"></voice>
+<voice lang="es">Ejecutar pruebas automáticas en cada commit.<break time="3s"></voice>
+
+<voice lang="en">Colaboración y Comunicación<break time="2s"></voice>
+<voice lang="es">Colaboración y Comunicación<break time="2s"></voice>
+
+
+<voice lang="en">Update the task board in Jira.<break time="5s"></voice>
+<voice lang="es">Actualizar el tablero de tareas en Jira.<break time="3s"></voice>
+
+<voice lang="es">Notify the team about important changes.<break time="5s"></voice>
+<voice lang="es">Notificar al equipo sobre los cambios importantes.<break time="3s"></voice>
+
+<voice lang="en">Schedule a code review meeting.<break time="5s"></voice>
+<voice lang="es">Programar una reunión de revisión de código.<break time="3s"></voice>
+
+<voice lang="en">Gestión de Dependencias<break time="2s"></voice>
+<voice lang="es">Gestión de Dependencias<break time="2s"></voice>
+
+
+<voice lang="en">Check for vulnerabilities in dependencies.<break time="6s"></voice>
+<voice lang="es">Verificar vulnerabilidades en las dependencias.<break time="3s"></voice>
+
+<voice lang="en">Update outdated libraries.<break time="5s"></voice>
+<voice lang="es">Actualizar las bibliotecas obsoletas.<break time="3s"></voice>
+
+<voice lang="en">Resolve version conflicts.<break time="5s"></voice>
+<voice lang="es">Resolver conflictos de versiones.<break time="3s"></voice>
+
+<voice lang="en">Rendimiento (Performance)<break time="3s"></voice>
+
+<voice lang="en">Perform load testing.<break time="5s"></voice>
+<voice lang="es">Realizar pruebas de carga.<break time="3s"></voice>
+
+<voice lang="en">Identify bottlenecks in the system.<break time="5s"></voice>
+<voice lang="en">Identificar cuellos de botella en el sistema.<break time="3s"></voice>
+
+<voice lang="en">Implement caching to improve response time.<break time="6s"></voice>
+<voice lang="es">Implementar caché para mejorar la respuesta.<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

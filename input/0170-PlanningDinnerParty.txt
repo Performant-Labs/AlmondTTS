@@ -1,0 +1,323 @@
+<voice lang="en">Planning a Dinner Party<break time="1s"></voice>
+<voice lang="es">Planificando una Cena<break time="1s"></voice>
+
+
+<voice lang="en">What date works best for everyone?<break time="5s"></voice>
+<voice lang="es">¿Qué fecha es la mejor para todos?<break time="3s"></voice>
+
+<voice lang="en">What's our headcount looking like?<break time="5s"></voice>
+<voice lang="es">¿Cómo está nuestra plantilla?<break time="3s"></voice>
+
+<voice lang="en">Should I send out proper invitations or just text everyone?<break time="7s"></voice>
+<voice lang="es">¿Debo enviar invitaciones como es debido o simplemente enviar mensajes de texto a todo el mundo?<break time="3s"></voice>
+
+<voice lang="en">Feel free to bring a plus-one if you'd like.<break time="6s"></voice>
+<voice lang="es">Si quieres, puedes traer a alguien más.<break time="3s"></voice>
+
+<voice lang="en">What time should I tell people to arrive?<break time="6s"></voice>
+<voice lang="es">¿A qué hora debo decir a la gente que llegue?<break time="3s"></voice>
+
+<voice lang="en">I'm thinking of serving around 7:30, so come at 6:00 for drinks.<break time="9s"></voice>
+<voice lang="es">Estoy pensando en servir alrededor de las 7:30, así que ven a las 6:00 para las bebidas.<break time="3s"></voice>
+
+<voice lang="en">Necesidades de comida y dietéticas<break time="2s"></voice>
+<voice lang="es">Necesidades de comida y dietéticas<break time="2s"></voice>
+
+
+<voice lang="en">Does anyone have dietary restrictions or allergies?<break time="7s"></voice>
+<voice lang="es">¿Alguien tiene restricciones dietéticas o alergias?<break time="3s"></voice>
+
+<voice lang="en">Should I handle all the cooking or make it potluck?<break time="7s"></voice>
+<voice lang="es">¿Debería encargarme yo de cocinar o hacerlo en grupo?<break time="3s"></voice>
+
+<voice lang="en">How many courses should we have?<break time="5s"></voice>
+<voice lang="es">¿Cuántos cursos deberíamos tener?<break time="3s"></voice>
+
+<voice lang="en">What's the latest I can prep ahead of time?<break time="6s"></voice>
+<voice lang="es">¿Qué es lo último que puedo preparar con antelación?<break time="3s"></voice>
+
+<voice lang="en">What's for dessert—should I make it or buy something special?<break time="8s"></voice>
+<voice lang="es">¿Qué hay de postre? ¿Lo hago o compro algo especial?<break time="3s"></voice>
+
+<voice lang="en">I'm making my famous lasagna—hope everyone likes Italian!<break time="8s"></voice>
+<voice lang="es">Estoy haciendo mi famosa lasaña, ¡espero que a todos les guste la italiana!<break time="3s"></voice>
+
+<voice lang="en">I'll handle the main course and dessert.<break time="6s"></voice>
+<voice lang="es">Yo me encargaré del plato principal y del postre.<break time="3s"></voice>
+
+<voice lang="en">Contribuciones de invitados<break time="2s"></voice>
+<voice lang="es">Contribuciones de invitados<break time="2s"></voice>
+
+
+<voice lang="en">Just bring yourselves—I've got everything covered.<break time="7s"></voice>
+<voice lang="es">Tráiganse lo que quieran, yo me encargo de todo.<break time="3s"></voice>
+
+<voice lang="en">If you want to bring wine, that would be great!<break time="6s"></voice>
+<voice lang="es">Si quieres traer vino, ¡sería estupendo!<break time="3s"></voice>
+
+<voice lang="es">Let me know if you can bring a side dish or appetizer.<break time="7s"></voice>
+<voice lang="es">Avísame si puedes traer una guarnición o un aperitivo.<break time="3s"></voice>
+
+<voice lang="en">If anyone wants to contribute, maybe some bread or a salad?<break time="8s"></voice>
+<voice lang="es">Si alguien quiere contribuir, ¿quizás un poco de pan o una ensalada?<break time="3s"></voice>
+
+<voice lang="en">Estilo y ambiente<break time="2s"></voice>
+<voice lang="es">Estilo y ambiente<break time="2s"></voice>
+
+
+<voice lang="en">Should we do a sit-down dinner or more casual buffet style?<break time="8s"></voice>
+<voice lang="es">¿Hacemos una cena sentados o un buffet más informal?<break time="3s"></voice>
+
+<voice lang="en">What kind of vibe are we going for—formal or relaxed?<break time="7s"></voice>
+<voice lang="es">¿Qué tipo de ambiente queremos, formal o relajado?<break time="3s"></voice>
+
+<voice lang="en">Do we want to do a theme?<break time="5s"></voice>
+<voice lang="es">¿Queremos hacer un tema?<break time="3s"></voice>
+
+<voice lang="en">I'm doing a Mexican theme, so dress casual.<break time="6s"></voice>
+<voice lang="es">Voy a hacer un tema mexicano, así que vístete informal.<break time="3s"></voice>
+
+<voice lang="en">Should I plan some background music, and what kind?<break time="7s"></voice>
+<voice lang="es">¿Debería poner música de fondo, y de qué tipo?<break time="3s"></voice>
+
+<voice lang="en">What's the lighting situation—candles, dimmer, or bright?<break time="7s"></voice>
+<voice lang="es">¿Cuál es la situación de la iluminación: velas, más tenue o brillante?<break time="3s"></voice>
+
+<voice lang="en">Bebidas<break time="2s"></voice>
+<voice lang="es">Bebidas<break time="2s"></voice>
+
+
+<voice lang="en">Should I plan for cocktails before dinner?<break time="6s"></voice>
+<voice lang="es">¿Preparo un cóctel antes de la cena?<break time="3s"></voice>
+
+<voice lang="en">Should we pair wines with each course?<break time="6s"></voice>
+<voice lang="es">¿Deberíamos maridar los vinos con cada plato?<break time="3s"></voice>
+
+<voice lang="en">Should I set up a separate drinks station or serve from the table?<break time="9s"></voice>
+<voice lang="es">¿Debo montar un puesto de bebidas aparte o servir desde la mesa?<break time="3s"></voice>
+
+<voice lang="en">Should I plan a signature cocktail or just offer wine and beer?<break time="8s"></voice>
+<voice lang="es">¿Preparo un cóctel de autor o sólo ofrezco vino y cerveza?<break time="3s"></voice>
+
+<voice lang="en">Do I need to stock up on ice?<break time="5s"></voice>
+<voice lang="es">¿Necesito abastecerme de hielo?<break time="3s"></voice>
+
+<voice lang="en">Asientos y disposición<break time="2s"></voice>
+<voice lang="es">Asientos y disposición<break time="2s"></voice>
+
+
+<voice lang="en">Should we do assigned seating or let people sit where they want?<break time="9s"></voice>
+<voice lang="es">¿Deberíamos asignar asientos o dejar que la gente se siente donde quiera?<break time="3s"></voice>
+
+<voice lang="en">Should I do place cards with names?<break time="5s"></voice>
+<voice lang="es">¿Debería hacer tarjetas con nombres?<break time="3s"></voice>
+
+<voice lang="en">Do I have enough seating for everyone, or should I borrow chairs?<break time="8s"></voice>
+<voice lang="es">¿Tengo suficientes asientos para todos, o debo pedir prestadas sillas?<break time="3s"></voice>
+
+<voice lang="en">We're eating outside on the patio if the weather holds.<break time="8s"></voice>
+<voice lang="es">Comeremos fuera, en el patio, si el tiempo acompaña.<break time="3s"></voice>
+
+<voice lang="en">Logística y suministros<break time="2s"></voice>
+<voice lang="es">Logística y suministros<break time="2s"></voice>
+
+
+<voice lang="en">What's a reasonable budget per person?<break time="6s"></voice>
+<voice lang="es">¿Cuál es un presupuesto razonable por persona?<break time="3s"></voice>
+
+<voice lang="en">Do I have enough plates, glasses, and silverware?<break time="7s"></voice>
+<voice lang="es">¿Tengo suficientes platos, vasos y cubiertos?<break time="3s"></voice>
+
+<voice lang="en">What's the parking situation—should I warn guests ahead of time?<break time="8s"></voice>
+<voice lang="es">¿Cómo está el aparcamiento? ¿Debo avisar a los huéspedes con antelación?<break time="3s"></voice>
+
+<voice lang="en">Do I need to childproof anything if kids are coming?<break time="7s"></voice>
+<voice lang="es">¿Tengo que poner algo a prueba de niños si vienen niños?<break time="3s"></voice>
+
+<voice lang="en">What's my timeline for the evening—when should dinner actually be served?<break time="9s"></voice>
+<voice lang="es">¿Cuál es el calendario de la velada? ¿Cuándo debe servirse la cena?<break time="3s"></voice>
+
+<voice lang="en">Entretenimiento y Ayuda<break time="2s"></voice>
+<voice lang="es">Entretenimiento y Ayuda<break time="2s"></voice>
+
+
+<voice lang="en">Do we need activities or games, or just let conversation flow?<break time="9s"></voice>
+<voice lang="es">¿Necesitamos actividades o juegos, o simplemente dejar que fluya la conversación?<break time="3s"></voice>
+
+<voice lang="en">What's my backup plan if someone cancels last minute?<break time="8s"></voice>
+<voice lang="es">¿Cuál es mi plan alternativo si alguien cancela en el último minuto?<break time="3s"></voice>
+
+<voice lang="en">Should I hire help or can I manage this solo?<break time="7s"></voice>
+<voice lang="es">¿Debo contratar ayuda o puedo hacerlo solo?<break time="3s"></voice>
+
+<voice lang="en">Planificación de menús y estrategia culinaria<break time="2s"></voice>
+<voice lang="es">Planificación de menús y estrategia culinaria<break time="2s"></voice>
+
+<voice lang="en">Should I go with a crowd-pleaser or try something adventurous?<break time="8s"></voice>
+<voice lang="es">¿Debería elegir un plato popular o probar algo más atrevido?<break time="3s"></voice>
+
+<voice lang="en">I'm thinking of doing a Mediterranean spread with mezze and grilled fish.<break time="10s"></voice>
+<voice lang="es">Estoy pensando en hacer una mesa mediterránea con mezze y pescado a la parrilla.<break time="3s"></voice>
+
+<voice lang="en">Would a make-ahead casserole be easier than something I have to time perfectly?<break time="10s"></voice>
+<voice lang="es">¿Sería más fácil una cazuela que se pueda hacer con anticipación que algo que tenga que salir justo a tiempo?<break time="3s"></voice>
+
+<voice lang="en">Should the main course be meat, fish, or vegetarian?<break time="7s"></voice>
+<voice lang="es">¿El plato principal debe ser carne, pescado o vegetariano?<break time="3s"></voice>
+
+<voice lang="en">I want to showcase seasonal ingredients—what's good right now?<break time="8s"></voice>
+<voice lang="es">Quiero mostrar los ingredientes de temporada: ¿qué está bueno ahora?<break time="3s"></voice>
+
+<voice lang="en">Is it too risky to try a new recipe for the first time?<break time="7s"></voice>
+<voice lang="es">¿Es demasiado arriesgado probar una receta nueva por primera vez?<break time="3s"></voice>
+
+<voice lang="en">Should I do family-style serving or plate everything in the kitchen?<break time="9s"></voice>
+<voice lang="es">¿Debo servir en familia o emplatar todo en la cocina?<break time="3s"></voice>
+
+<voice lang="en">Maybe I'll do a cheese board as an appetizer while people arrive.<break time="9s"></voice>
+<voice lang="es">Tal vez haga una tabla de quesos como aperitivo mientras llega la gente.<break time="3s"></voice>
+
+<voice lang="en">Does anyone have strong feelings about spicy food?<break time="7s"></voice>
+<voice lang="es">¿Alguien tiene alguna opinión fuerte sobre el picante?<break time="3s"></voice>
+
+<voice lang="en">I'm planning to make everything from scratch except the bread.<break time="8s"></voice>
+<voice lang="es">Estoy planeando hacer todo desde cero excepto el pan.<break time="3s"></voice>
+
+<voice lang="en">Decoración y presentación de la mesa<break time="2s"></voice>
+<voice lang="es">Decoración y presentación de la mesa<break time="2s"></voice>
+
+
+<voice lang="en">Should I use my nice china or keep it casual with everyday dishes?<break time="9s"></voice>
+<voice lang="es">¿Debo usar mi vajilla bonita o mantenerla informal con platos de uso diario?<break time="3s"></voice>
+
+<voice lang="en">I'm thinking fresh flowers for the centerpiece.<break time="6s"></voice>
+<voice lang="es">Estoy pensando en flores frescas para el centro de mesa.<break time="3s"></voice>
+
+<voice lang="en">Do we want cloth napkins or is that too fussy?<break time="7s"></voice>
+<voice lang="es">¿Queremos servilletas de tela o es demasiado pretencioso?<break time="3s"></voice>
+
+<voice lang="en">Should I set the table beforehand or wait until closer to dinner?<break time="9s"></voice>
+<voice lang="es">¿Debo poner la mesa antes o esperar a que se acerque la hora de la cena?<break time="3s"></voice>
+
+<voice lang="en">I found these great candle holders that would look perfect.<break time="8s"></voice>
+<voice lang="es">Encontré estos estupendos portavelas que quedarían perfectos.<break time="3s"></voice>
+
+<voice lang="en">Should we eat in the dining room or is the kitchen table fine?<break time="8s"></voice>
+<voice lang="es">¿Debemos comer en el comedor o está bien la mesa de la cocina?<break time="3s"></voice>
+
+<voice lang="en">I'm going for a rustic farmhouse look with neutral linens.<break time="8s"></voice>
+<voice lang="es">Voy por un estilo rústico de granja con mantelería neutra.<break time="3s"></voice>
+
+<voice lang="en">Does anyone have those string lights I could borrow for the patio?<break time="9s"></voice>
+<voice lang="es">¿Alguien tiene esas luces de cuerda que me prestaría para el patio?<break time="3s"></voice>
+
+<voice lang="en">Should I put out name cards or let it be informal?<break time="7s"></voice>
+<voice lang="es">¿Debo poner tarjetas con los nombres o dejar que sea informal?<break time="3s"></voice>
+
+<voice lang="en">I'm debating whether to use a tablecloth or show off the wood table.<break time="9s"></voice>
+<voice lang="es">Me debato entre usar un mantel o lucir la mesa de madera.<break time="3s"></voice>
+
+<voice lang="en">Horario<break time="2s"></voice>
+<voice lang="es">Horario<break time="2s"></voice>
+
+
+<voice lang="en">What time should I start prepping in the morning?<break time="7s"></voice>
+<voice lang="es">¿A qué hora debo empezar a preparar la comida por la mañana?<break time="3s"></voice>
+
+<voice lang="en">I need to get the roast in the oven by 4:00 at the latest.<break time="8s"></voice>
+<voice lang="es">Necesito meter el asado en el horno a las 4:00 a más tardar.<break time="3s"></voice>
+
+<voice lang="en">Should cocktail hour be 30 minutes or a full hour?<break time="7s"></voice>
+<voice lang="es">¿La hora del cóctel debe durar 30 minutos o una hora entera?<break time="3s"></voice>
+
+<voice lang="en">When's the best time to set out the appetizers?<break time="6s"></voice>
+<voice lang="es">¿Cuál es el mejor momento para servir los aperitivos?<break time="3s"></voice>
+
+<voice lang="en">I'm planning to have everything ready 15 minutes before guests arrive.<break time="9s"></voice>
+<voice lang="es">Pienso tenerlo todo listo 15 minutos antes de que lleguen los invitados.<break time="3s"></voice>
+
+<voice lang="en">Should we aim for a quick two-hour dinner or a longer, leisurely evening?<break time="10s"></voice>
+<voice lang="es">¿Deberíamos apuntar a una cena rápida de dos horas o una velada más larga y pausada?<break time="3s"></voice>
+
+<voice lang="en">What time is too late for dessert and coffee?<break time="6s"></voice>
+<voice lang="es">¿A qué hora es demasiado tarde para el postre y el café?<break time="3s"></voice>
+
+<voice lang="en">I'll need at least 30 minutes after the main course before serving dessert.<break time="10s"></voice>
+<voice lang="es">Necesitaré al menos 30 minutos después del plato principal antes de servir el postre.<break time="3s"></voice>
+
+<voice lang="en">Should I clear plates right away or let people linger?<break time="8s"></voice>
+<voice lang="es">¿Debo retirar los platos enseguida o dejar que la gente se tome su tiempo?<break time="3s"></voice>
+
+<voice lang="en">I'm thinking we wrap up by 10:00 on a weeknight.<break time="7s"></voice>
+<voice lang="es">Creo que terminaremos a las 10:00 en una noche de semana.<break time="3s"></voice>
+
+<voice lang="en">Presupuesto y compras<break time="2s"></voice>
+<voice lang="es">Presupuesto y compras<break time="2s"></voice>
+
+
+<voice lang="en">I'm setting aside $200 for groceries—does that sound reasonable?<break time="9s"></voice>
+<voice lang="es">Voy a reservar 400 dólares para la compra, ¿suena razonable?<break time="3s"></voice>
+
+<voice lang="en">Should I splurge on good steaks or save money with chicken?<break time="8s"></voice>
+<voice lang="es">¿Debo derrochar en buenos filetes o ahorrar dinero con pollo?<break time="3s"></voice>
+
+<voice lang="en">I can get everything at one store or hit the farmers market too.<break time="9s"></voice>
+<voice lang="es">Puedo comprar de todo en una tienda o tambien ir al mercado de agricultores.<break time="3s"></voice>
+
+<voice lang="en">Is it worth buying fresh herbs or just use dried?<break time="7s"></voice>
+<voice lang="es">¿Merece la pena comprar hierbas frescas o usar sólo las secas?<break time="3s"></voice>
+
+<voice lang="en">I'm going to Costco for the basics and then the specialty shop for cheese.<break time="10s"></voice>
+<voice lang="es">Voy a Costco por lo básico y luego a la tienda especializada en quesos.<break time="3s"></voice>
+
+<voice lang="en">Should I buy flowers or just clip some from the garden?<break time="8s"></voice>
+<voice lang="es">¿Debo comprar flores o simplemente cortar algunas del jardín?<break time="3s"></voice>
+
+<voice lang="en">I found a great deal on wine at Trader Joe's.<break time="7s"></voice>
+<voice lang="es">Encontré una gran oferta de vino en Trader Joe's.<break time="3s"></voice>
+
+<voice lang="en">Is it cheaper to make dessert or buy something from the bakery?<break time="8s"></voice>
+<voice lang="es">¿Es más barato hacer el postre o comprar algo de la panadería?<break time="3s"></voice>
+
+<voice lang="en">I'm debating whether fancy appetizers are worth the extra cost.<break time="9s"></voice>
+<voice lang="es">Me pregunto si vale la pena gastar más en aperitivos de lujo.<break time="3s"></voice>
+
+<voice lang="en">Should I stock up now or do a last-minute shop for fresh ingredients?<break time="10s"></voice>
+<voice lang="es">¿Debo hacer la compra ahora o esperar hasta último momento para comprar ingredientes frescos?<break time="3s"></voice>
+
+<voice lang="en">Preparativos del día<break time="2s"></voice>
+<voice lang="es">Preparativos del día<break time="2s"></voice>
+
+
+<voice lang="en">I'll clean the house the morning of and then focus on cooking.<break time="9s"></voice>
+<voice lang="es">Limpiaré la casa la mañana del evento y luego me centraré en cocinar.<break time="3s"></voice>
+
+<voice lang="en">Someone needs to remind me to chill the wine an hour before.<break time="8s"></voice>
+<voice lang="es">Alguien tiene que recordarme que enfríe el vino una hora antes.<break time="3s"></voice>
+
+<voice lang="en">I'm going to shower and change right before guests arrive.<break time="8s"></voice>
+<voice lang="es">Voy a ducharme y cambiarme justo antes de que lleguen los invitados.<break time="3s"></voice>
+
+<voice lang="en">Should I do a trial run of the playlist beforehand?<break time="7s"></voice>
+<voice lang="es">¿Debo hacer una prueba previa de la lista de reproducción?<break time="3s"></voice>
+
+<voice lang="en">I need to remember to put out hand towels in the bathroom.<break time="8s"></voice>
+<voice lang="es">Tengo que acordarme de poner toallas de mano en el baño.<break time="3s"></voice>
+
+<voice lang="en">I'll set out serving utensils so I'm not scrambling last minute.<break time="10s"></voice>
+<voice lang="es">Dejaré listos los utensilios para servir, así no tendré que andar apurado en el último momento.<break time="3s"></voice>
+
+<voice lang="en">The trash needs to go out before people get here.<break time="7s"></voice>
+<voice lang="es">Hay que sacar la basura antes de que llegue la gente.<break time="3s"></voice>
+
+<voice lang="en">I should light the candles about 10 minutes before everyone arrives.<break time="9s"></voice>
+<voice lang="es">Debería encender las velas unos 10 minutos antes de que lleguen todos.<break time="3s"></voice>
+
+<voice lang="en">I'm going to prep a backup snack in case dinner runs late.<break time="8s"></voice>
+<voice lang="es">Voy a preparar un tentempié de reserva por si la cena se retrasa.<break time="3s"></voice>
+
+<voice lang="en">Don't let me forget to turn on the porch light!<break time="7s"></voice>
+<voice lang="es">¡Que no se me olvide encender la luz del porche!<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

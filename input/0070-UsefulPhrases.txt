@@ -1,0 +1,173 @@
+<voice lang="en">Useful Phrases<break time="1s"></voice>
+<voice lang="es">Frases Útiles<break time="1s"></voice>
+
+<voice lang="en">Don't worry<break time="5s"></voice>
+<voice lang="es">No se preocupe<break time="3s"></voice>
+
+<voice lang="en">I'm worried<break time="5s"></voice>
+<voice lang="es">Estoy preocupado<break time="3s"></voice>
+
+<voice lang="en">I'm not worried<break time="5s"></voice>
+<voice lang="es">No me preocupa<break time="3s"></voice>
+
+<voice lang="en">That's a shame<break time="5s"></voice>
+<voice lang="es">Es una pena<break time="3s"></voice>
+
+<voice lang="en">That's wonderful<break time="5s"></voice>
+<voice lang="es">Eso es maravilloso<break time="3s"></voice>
+
+<voice lang="en">That doesn't matter<break time="5s"></voice>
+<voice lang="es">Eso no importa<break time="3s"></voice>
+
+<voice lang="en">That matters a lot<break time="5s"></voice>
+<voice lang="es">Eso importa mucho<break time="3s"></voice>
+
+<voice lang="en">I can't believe it<break time="5s"></voice>
+<voice lang="es">No me lo puedo creer<break time="3s"></voice>
+
+<voice lang="en">I believe<break time="5s"></voice>
+<voice lang="en">Creo<break time="2s"></voice>
+
+<voice lang="en">I believe it<break time="5s"></voice>
+<voice lang="es">Me lo creo<break time="3s"></voice>
+
+<voice lang="en">You're messing with me<break time="5s"></voice>
+<voice lang="es">Me estás tomando el pelo<break time="3s"></voice>
+
+<voice lang="en">I'm serious<break time="5s"></voice>
+<voice lang="es">Lo digo en serio<break time="3s"></voice>
+
+<voice lang="en">That's incredible<break time="5s"></voice>
+<voice lang="es">Es increíble<break time="3s"></voice>
+
+<voice lang="en">That's boring<break time="5s"></voice>
+<voice lang="es">Eso es aburrido<break time="3s"></voice>
+
+<voice lang="en">That makes sense<break time="5s"></voice>
+<voice lang="es">Eso tiene sentido<break time="3s"></voice>
+
+<voice lang="en">That's confusing<break time="5s"></voice>
+<voice lang="es">Eso es confuso<break time="3s"></voice>
+
+<voice lang="en">I have no idea<break time="5s"></voice>
+<voice lang="es">No tengo ni idea<break time="3s"></voice>
+
+<voice lang="en">I know exactly<break time="5s"></voice>
+<voice lang="es">Lo sé exactamente<break time="3s"></voice>
+
+<voice lang="en">That's ridiculous<break time="5s"></voice>
+<voice lang="es">Eso es ridículo<break time="3s"></voice>
+
+<voice lang="en">That's reasonable<break time="5s"></voice>
+<voice lang="es">Es razonable<break time="3s"></voice>
+
+<voice lang="en">I'm exhausted<break time="5s"></voice>
+<voice lang="es">Estoy agotado<break time="3s"></voice>
+
+<voice lang="en">I'm full of energy<break time="5s"></voice>
+<voice lang="es">Estoy lleno de energía<break time="3s"></voice>
+
+<voice lang="en">That's typical<break time="5s"></voice>
+<voice lang="es">Eso es típico<break time="3s"></voice>
+
+<voice lang="en">That's unusual<break time="5s"></voice>
+<voice lang="es">Eso es inusual<break time="3s"></voice>
+
+<voice lang="en">I'm starving<break time="5s"></voice>
+<voice lang="es">Me muero de hambre<break time="3s"></voice>
+
+<voice lang="en">I'm dying of thirst<break time="5s"></voice>
+<voice lang="es">Me muero de sed<break time="3s"></voice>
+
+<voice lang="en">I'm full<break time="5s"></voice>
+<voice lang="es">Estoy lleno<break time="3s"></voice>
+
+<voice lang="en">What a mess<break time="5s"></voice>
+<voice lang="es">Qué desastre<break time="3s"></voice>
+
+<voice lang="en">That's perfect<break time="5s"></voice>
+<voice lang="en">Perfecto<break time="3s"></voice>
+
+<voice lang="en">I'm freezing<break time="5s"></voice>
+<voice lang="es">Me estoy congelando<break time="3s"></voice>
+
+<voice lang="en">I'm dying of cold<break time="5s"></voice>
+<voice lang="es">Me muero de frío<break time="3s"></voice>
+
+<voice lang="en">I'm roasting<break time="5s"></voice>
+<voice lang="es">Me estoy asando<break time="3s"></voice>
+
+<voice lang="en">It's super hot<break time="5s"></voice>
+<voice lang="es">Hace un calorón<break time="3s"></voice>
+
+<voice lang="en">That's funny<break time="5s"></voice>
+<voice lang="es">Qué gracioso<break time="3s"></voice>
+
+<voice lang="en">No way, that's hilarious!<break time="5s"></voice>
+<voice lang="es">¡No manches, qué chistoso!-<break time="3s"></voice>
+
+<voice lang="en">That's not funny<break time="5s"></voice>
+<voice lang="es">No tiene gracia<break time="0.75s">No es chistoso<break time="3s"></voice>
+
+<voice lang="en">I've had enough<break time="5s"></voice>
+<voice lang="en">Ya he tenido bastante<break time="3s"></voice>
+
+<voice lang="en">I haven't had enough<break time="5s"></voice>
+<voice lang="es">No he tenido suficiente<break time="3s"></voice>
+
+<voice lang="en">What a nightmare<break time="5s"></voice>
+<voice lang="es">Qué pesadilla<break time="3s"></voice>
+
+<voice lang="en">That's a dream<break time="5s"></voice>
+<voice lang="es">Es un sueño<break time="3s"></voice>
+
+<voice lang="en">I'm not surprised<break time="5s"></voice>
+<voice lang="es">No me sorprende<break time="3s"></voice>
+
+<voice lang="en">I'm surprised<break time="5s"></voice>
+<voice lang="es">Estoy sorprendido<break time="3s"></voice>
+
+<voice lang="en">I'm tired of the same thing<break time="5s"></voice>
+<voice lang="es">Estoy cansado de lo mismo<break time="3s"></voice>
+
+<voice lang="en">I'm fed up<break time="5s"></voice>
+<voice lang="es">Estoy harto<break time="3s"></voice>
+
+<voice lang="en">I'm fed up (vulgar)<break time="5s"></voice>
+<voice lang="es">Ya estoy hasta la madre<break time="3s"></voice>
+
+<voice lang="en">I'm pleased<break time="5s"></voice>
+<voice lang="es">Me alegro<break time="3s"></voice>
+
+<voice lang="en">I can't stand it<break time="5s"></voice>
+<voice lang="es">No lo soporto<break time="3s"></voice>
+
+<voice lang="en">I'm calm<break time="5s"></voice>
+<voice lang="es">Estoy tranquilo<break time="3s"></voice>
+
+<voice lang="en">Bloody hell<break time="5s"></voice>
+<voice lang="es">Maldita sea<break time="3s"></voice>
+
+<voice lang="en">Damn/Hell<break time="5s"></voice>
+<voice lang="en">Carajo<break time="3s"></voice>
+
+<voice lang="en">Damn/Hell<break time="5s"></voice>
+<voice lang="en">Diablos<break time="3s"></voice>
+
+<voice lang="en">Darn<break time="5s"></voice>
+<voice lang="en">Chin<break time="3s"></voice>
+
+<voice lang="en">Fair enough<break time="5s"></voice>
+<voice lang="es">Me parece justo<break time="3s"></voice>
+
+<voice lang="en">What a relief<break time="5s"></voice>
+<voice lang="es">Qué alivio<break time="3s"></voice>
+
+<voice lang="en">No way<break time="5s"></voice>
+<voice lang="es">De ninguna manera<break time="3s"></voice>
+
+<voice lang="en">I'm finished<break time="5s"></voice>
+<voice lang="es">Ya terminé<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

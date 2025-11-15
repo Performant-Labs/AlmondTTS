@@ -1,0 +1,167 @@
+<voice lang="en">Motorcycle Riding<break time="1s"></voice>
+<voice lang="es">Conducción de Motocicletas<break time="1s"></voice>
+
+
+<voice lang="en">I need to buy a new helmet for my motorcycle.<break time="8s"></voice>
+<voice lang="es">Necesito comprar un casco nuevo para mi moto.<break time="3s"></voice>
+
+<voice lang="en">My motorcycle engine is making a strange noise.<break time="8s"></voice>
+<voice lang="es">El motor de mi moto hace un ruido extraño.<break time="3s"></voice>
+
+<voice lang="en">I need new brake pads.<break time="6s"></voice>
+<voice lang="es">Necesito pastillas de freno nuevas.<break time="3s"></voice>
+
+<voice lang="en">My tires are almost bald.<break time="6s"></voice>
+<voice lang="es">Mis neumáticos están casi lisos.<break time="3s"></voice>
+
+<voice lang="en">I just had my motorcycle serviced last week.<break time="8s"></voice>
+<voice lang="es">Acabo de hacer la revisión de mi moto la semana pasada.<break time="3s"></voice>
+
+<voice lang="en">I need to adjust my suspension.<break time="7s"></voice>
+<voice lang="es">Necesito ajustar mi suspensión.<break time="3s"></voice>
+
+<voice lang="en">I have to change the oil soon.<break time="7s"></voice>
+<voice lang="es">Tengo que cambiar el aceite pronto.<break time="3s"></voice>
+
+<voice lang="en">I try to grease the chain often.<break time="7s"></voice>
+<voice lang="es">Procuro engrasar la cadena a menudo.<break time="3s"></voice>
+
+<voice lang="en">My exhaust sounds incredible after the mod.<break time="8s"></voice>
+<voice lang="es">Mi escape suena increíble después de la mod.<break time="3s"></voice>
+
+<voice lang="en">Are parts easy to get?<break time="6s"></voice>
+<voice lang="es">¿Es fácil conseguir piezas?<break time="3s"></voice>
+
+<voice lang="en">The battery is dead, I need to charge it.<break time="8s"></voice>
+<voice lang="es">La batería está descargada, necesito cargarla.<break time="3s"></voice>
+
+<voice lang="en">I should check the tire pressure before leaving.<break time="9s"></voice>
+<voice lang="es">Debo revisar la presión de los neumáticos antes de salir.<break time="3s"></voice>
+
+<voice lang="en">How often do you change the air filter?<break time="8s"></voice>
+<voice lang="es">¿Cada cuánto cambias el filtro de aire?<break time="3s"></voice>
+
+<voice lang="en">Planificación de viajes y rutas (Trip Planning and Routes)<break time="2s"></voice>
+<voice lang="es">Planificación de viajes y rutas (Trip Planning and Routes)<break time="2s"></voice>
+
+
+<voice lang="es">Let's go for a ride this weekend.<break time="7s"></voice>
+<voice lang="es">Vamos a dar una vuelta este fin de semana.<break time="3s"></voice>
+
+<voice lang="en">What route should we take?<break time="6s"></voice>
+<voice lang="es">¿Qué ruta tomamos?<break time="3s"></voice>
+
+<voice lang="en">I want to visit that little town.<break time="7s"></voice>
+<voice lang="en">Quiero visitar ese pueblito.<break time="3s"></voice>
+
+<voice lang="en">What's the best route for scenic views?<break time="9s"></voice>
+<voice lang="es">¿Cuál es la mejor ruta para disfrutar de vistas panorámicas?<break time="3s"></voice>
+
+<voice lang="en">The weather looks perfect for a ride today.<break time="8s"></voice>
+<voice lang="es">El tiempo parece perfecto para dar una vuelta hoy.<break time="3s"></voice>
+
+<voice lang="es">Let's stop at that café up ahead.<break time="7s"></voice>
+<voice lang="es">Paremos en esa cafetería de ahí delante.<break time="3s"></voice>
+
+<voice lang="en">How many kilometers will we do today?<break time="8s"></voice>
+<voice lang="es">¿Cuántos kilómetros haremos hoy?<break time="3s"></voice>
+
+<voice lang="en">I need to charge my phone to use the GPS.<break time="8s"></voice>
+<voice lang="en">Necesito cargar el celular para usar el GPS.<break time="3s"></voice>
+
+<voice lang="en">Should we stop for gas in the next town?<break time="8s"></voice>
+<voice lang="es">¿Paramos a cargar gasolina en el próximo pueblo?<break time="3s"></voice>
+
+<voice lang="en">Seguridad y equipo (Safety and Gear)<break time="2s"></voice>
+<voice lang="es">Seguridad y equipo (Safety and Gear)<break time="2s"></voice>
+
+
+<voice lang="en">You'll need a helmet, a warm jacket, gloves, long pants, tall boots, and warm clothing underneath everything.<break time="12s"></voice>
+<voice lang="es">Necesitarás un casco, una chamarra abrigada, guantes, pantalones largos, botas altas y ropa abrigada debajo de todo.<break time="3s"></voice>
+
+<voice lang="en">Be careful when riding motorcycles on wet roads.<break time="8s"></voice>
+<voice lang="es">Ten cuidado al manejar motos en caminos mojados.<break time="3s"></voice>
+
+<voice lang="en">Watch out for potholes on that road. And also for gravel.<break time="10s"></voice>
+<voice lang="es">Cuidado con los baches en esa carretera. Y también con la grava.<break time="3s"></voice>
+
+<voice lang="en">Don't forget to wear back protection.<break time="7s"></voice>
+<voice lang="es">No olvides usar protección para la espalda.<break time="3s"></voice>
+
+<voice lang="en">My gloves are already worn out, I need new ones.<break time="9s"></voice>
+<voice lang="es">Mis guantes ya están desgastados, necesito unos nuevos.<break time="3s"></voice>
+
+<voice lang="en">It's important to wear clothing with elbow and knee protection.<break time="10s"></voice>
+<voice lang="es">Es importante usar ropa con protecciones en codos y rodillas.<break time="3s"></voice>
+
+<voice lang="en">Experiencia de conducción y habilidades (Riding Experience and Skills)<break time="2s"></voice>
+<voice lang="es">Experiencia de conducción y habilidades (Riding Experience and Skills)<break time="2s"></voice>
+
+
+<voice lang="en">I love the feeling of freedom I get when I ride.<break time="9s"></voice>
+<voice lang="es">Me encanta la sensación de libertad que siento cuando conduzco.<break time="3s"></voice>
+
+<voice lang="en">Mountain riding can be nerve-wracking.<break time="7s"></voice>
+<voice lang="es">La conducción en montaña puede ser angustiosa.<break time="3s"></voice>
+
+<voice lang="en">Night riding can be tricky due to poor visibility.<break time="9s"></voice>
+<voice lang="es">Conducir de noche puede ser complicado por la escasa visibilidad.<break time="3s"></voice>
+
+<voice lang="en">Have you tried off-road riding?<break time="7s"></voice>
+<voice lang="es">¿Has probado a conducir fuera de la carretera?<break time="3s"></voice>
+
+<voice lang="en">90% of the world's roads are dirt, so exploring the world requires dirt riding skills.<break time="12s"></voice>
+<voice lang="es">El 90% de las carreteras del mundo son de tierra, por lo que para explorar el mundo se necesitan habilidades de conducción en tierra.<break time="3s"></voice>
+
+<voice lang="en">I drop my bike in the dirt all the time, but luckily that hasn't happened on pavement yet.<break time="12s"></voice>
+<voice lang="es">Se me cae la moto en la suciedad todo el tiempo, pero por suerte eso no ha sucedido en el pavimento todavía.<break time="3s"></voice>
+
+<voice lang="en">There was a bunch of awesome curves.<break time="7s"></voice>
+<voice lang="es">Había un chorro de curvas chidas.<break time="3s"></voice>
+
+<voice lang="en">The curves on that road are very tight.<break time="8s"></voice>
+<voice lang="es">Las curvas de esa carretera son muy cerradas.<break time="3s"></voice>
+
+<voice lang="en">I prefer roads with light traffic.<break time="7s"></voice>
+<voice lang="es">Prefiero las carreteras con poco tráfico.<break time="3s"></voice>
+
+<voice lang="en">The wind was very strong on the highway.<break time="8s"></voice>
+<voice lang="es">El viento estaba muy fuerte en la autopista.<break time="3s"></voice>
+
+<voice lang="en">Características y especificaciones (Features and Specifications)<break time="2s"></voice>
+<voice lang="es">Características y especificaciones (Features and Specifications)<break time="2s"></voice>
+
+
+<voice lang="en">What do you ride?<break time="5s"></voice>
+<voice lang="es">¿Qué manejas?<break time="3s"></voice>
+
+<voice lang="en">How many liters does your tank hold?<break time="7s"></voice>
+<voice lang="es">¿Cuántos litros tiene tu tanque?<break time="3s"></voice>
+
+<voice lang="en">What's the mileage on your motorcycle?<break time="7s"></voice>
+<voice lang="es">¿Qué kilometraje tiene tu moto?<break time="3s"></voice>
+
+<voice lang="en">Nice bike!<break time="5s"></voice>
+<voice lang="es">¡Bonita moto!<break time="3s"></voice>
+
+<voice lang="en">How many horsepower does your motorcycle have?<break time="8s"></voice>
+<voice lang="es">¿Cuántos caballos de fuerza tiene tu moto?<break time="3s"></voice>
+
+<voice lang="en">My motorcycle has a manual transmission.<break time="8s"></voice>
+<voice lang="es">Mi moto es de transmisión manual.<break time="3s"></voice>
+
+<voice lang="en">Is it a sport bike or a touring bike?<break time="8s"></voice>
+<voice lang="es">¿Es una moto deportiva o de turismo?<break time="3s"></voice>
+
+<voice lang="en">Ventajas del motociclismo (Advantages of Motorcycling)<break time="2s"></voice>
+<voice lang="es">Ventajas del motociclismo (Advantages of Motorcycling)<break time="2s"></voice>
+
+
+<voice lang="en">Motorcycles are faster in city traffic.<break time="8s"></voice>
+<voice lang="es">Las motos son más rápidas en el tráfico de la ciudad.<break time="3s"></voice>
+
+<voice lang="en">Do you like riding motorcycles?<break time="6s"></voice>
+<voice lang="es">¿Te gusta andar en moto?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

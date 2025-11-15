@@ -1,0 +1,38 @@
+<voice lang="en">About the Company<break time="1s"></voice>
+<voice lang="es">Acerca e la empressa<break time="1s"></voice>
+
+<voice lang="en">There are three people on the team:<break time="5s"></voice>
+<voice lang="es">El equipo está formado por tres personas:<break time="3s"></voice>
+
+<voice lang="en">There is me, a developer and technical project manager.<break time="5s"></voice>
+<voice lang="es">yo, un desarrollador y un gestor técnico de proyectos.<break time="3s"></voice>
+
+<voice lang="en">Our first three clients were the University of California Office of the President,<break time="5s"></voice>
+<voice lang="es">Nuestros tres primeros clientes fueron la Oficina del Presidente de la Universidad de California,<break time="3s"></voice>
+
+<voice lang="en">Stanford Neuroscience and a small newspaper in New York State.<break time="5s"></voice>
+<voice lang="es">Stanford Neuroscience y un pequeño periódico del estado de Nueva York.<break time="3s"></voice>
+
+<voice lang="en">We released a Drupal module that also contains two sets of smoke tests,<break time="5s"> </voice>
+<voice lang="es">Hemos lanzado un módulo Drupal que también contiene dos conjuntos de pruebas de humo,<break time="3s"> </voice>
+
+<voice lang="en">one set written in Playwright and the other in Cypress.<break time="5s"></voice>
+<voice lang="es">uno escrito en Playwright y otro en Cypress.<break time="3s"></voice>
+
+<voice lang="en">Our module is open-source<break time="5s"></voice>
+<voice lang="es">Nuestro módulo es de código abierto,<break time="ss"></voice>
+
+<voice lang="en">so clients can implement it themselves.<break time="5s"></voice>
+<voice lang="es">por lo que los clientes pueden implementarlo ellos mismos.<break time="3s"></voice>
+
+<voice lang="en">However, if they don't have the skill or time,<break time="5s"> </voice>
+<voice lang="es">Sin embargo, si no tienen los conocimientos o el tiempo necesarios,<break time="3s"></voice>
+
+<voice lang="en">we are happy to customize the smoke tests for their site<break time="5s"></voice>
+<voice lang="es">estaremos encantados de personalizar las pruebas de humo para su sitio web<break time="3s"> </voice>
+
+<voice lang="en">and write any other tests they need.<break time="5s"></voice>
+<voice lang="es">y de escribir cualquier otra prueba que necesiten.<break time="3s"></voice>
+
+El final
+<voice lang="en"><break time="4s"></voice>

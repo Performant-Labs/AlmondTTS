@@ -1,0 +1,675 @@
+<voice lang="en">Verbs<break time="1s"></voice>
+<voice lang="es">Verbos<break time="1s"></voice>
+
+<voice lang="en">First Level Frequency<break time="2s"></voice>
+<voice lang="es">Frecuencia de primer nivel<break time="2s"></voice>
+
+<voice lang="es">ir (to go)<break time="3s"></voice>
+<voice lang="en">I went<break time="0.75s">you went<break time="0.75s">he went<break time="4s"> </voice>
+<voice lang="es">fui<break time="0.75s">fuisté<break time="0.75s">fué<break time="3s"> </voice>
+
+<voice lang="es">decir (to say)<break time="3s"></voice>
+<voice lang="en">I said<break time="0.75s">you said<break time="0.75s">he said<break time="4s"> </voice>
+<voice lang="es">dije<break time="0.75s">dijiste<break time="0.75s">dijo<break time="3s"></voice>
+
+<voice lang="es">decir (to say)<break time="3s"></voice>
+<voice lang="en">I told<break time="0.75s">you told<break time="0.75s">he told<break time="4s"> </voice>
+<voice lang="es">dije<break time="0.75s">dijiste<break time="0.75s">dijo<break time="3s"></voice>
+
+<voice lang="es">estar (to be)<break time="3s"></voice>
+<voice lang="en">I was<break time="0.75s">you were<break time="0.75s">he was<break time="4s"> </voice>
+<voice lang="es">estaba<break time="0.75s">estabas<break time="0.75s">estaba<break time="3s"></voice>
+
+<voice lang="es">vivir (to live)<break time="3s"></voice>
+<voice lang="en">I lived<break time="0.75s">you lived<break time="0.75s">he lived<break time="4s"> </voice>
+<voice lang="es">viví<break time="0.75s">viviste<break time="0.75s">vivió<break time="3s"></voice>
+
+<voice lang="es">ver (to watch)<break time="3s"></voice>
+<voice lang="en">I watched<break time="0.75s">you watched<break time="0.75s">he watched<break time="4s"> </voice>
+<voice lang="es">vi<break time="0.75s">viste<break time="0.75s">vio<break time="3s"></voice>
+
+<voice lang="es">tener (to have - specific events)<break time="3s"></voice>
+<voice lang="en">I had<break time="0.75s">you had<break time="0.75s">he had (specific events)<break time="4s"> </voice>
+<voice lang="es">tuve<break time="0.75s">tuviste<break time="0.75s">tuvo (specific events)<break time="3s"></voice>
+
+<voice lang="es">tener (to have - descriptions)<break time="3s"></voice>
+<voice lang="en">I had<break time="0.75s">you had<break time="0.75s">he had (descriptions)<break time="4s"> </voice>
+<voice lang="es">tenía<break time="0.75s">tenías<break time="0.75s">tenía (descriptions)<break time="3s"></voice>
+
+<voice lang="es">querer (to want)<break time="3s"></voice>
+<voice lang="en">I wanted<break time="0.75s">you wanted<break time="0.75s">he wanted<break time="4s"> </voice>
+<voice lang="es">quería<break time="0.75s">querías<break time="0.75s">quería<break time="3s"></voice>
+
+<voice lang="es">conocer (to meet - first time)<break time="3s"></voice>
+<voice lang="en">I met<break time="0.75s">you met<break time="0.75s">he met (first time)<break time="4s"> </voice>
+<voice lang="es">conocí<break time="0.75s">conociste<break time="0.75s">conoció (first time)<break time="3s"></voice>
+
+<voice lang="es">empezar (to start)<break time="3s"></voice>
+<voice lang="en">I started<break time="0.75s">you started<break time="0.75s">he started<break time="4s"> </voice>
+<voice lang="es">empecé<break time="0.75s">empezaste<break time="0.75s">empezó<break time="3s"></voice>
+
+<voice lang="es">comenzar (to start)<break time="3s"></voice>
+<voice lang="en">I started<break time="0.75s">you started<break time="0.75s">he started<break time="4s"> </voice>
+<voice lang="es">comencé<break time="0.75s">comenzaste<break time="0.75s">comenzó<break time="3s"></voice>
+
+<voice lang="es">terminar (to finish)<break time="3s"></voice>
+<voice lang="en">I finished<break time="0.75s">you finished<break time="0.75s">he finished<break time="4s"> </voice>
+<voice lang="es">terminé<break time="0.75s">terminaste<break time="0.75s">terminó<break time="3s"></voice>
+
+<voice lang="es">hacer (to do)<break time="3s"></voice>
+<voice lang="en">I did<break time="0.75s">you did<break time="0.75s">he did<break time="4s"> </voice>
+<voice lang="es">hice<break time="0.75s">hiciste<break time="0.75s">hizo<break time="3s"></voice>
+
+<voice lang="es">hacer (to make)<break time="3s"></voice>
+<voice lang="en">I made<break time="0.75s">you made<break time="0.75s">he made<break time="4s"> </voice>
+<voice lang="es">hice<break time="0.75s">hiciste<break time="0.75s">hizo<break time="3s"></voice>
+
+<voice lang="es">manejar (to drive)<break time="3s"></voice>
+<voice lang="en">I drove<break time="0.75s">you drove<break time="0.75s">he drove<break time="4s"> </voice>
+<voice lang="es">manejé<break time="0.75s">manejaste<break time="0.75s">manejó<break time="3s"></voice>
+
+<voice lang="es">conducir (to drive)<break time="3s"></voice>
+<voice lang="en">I drove<break time="0.75s">you drove<break time="0.75s">he drove<break time="4s"> </voice>
+<voice lang="es">conduje<break time="0.75s">condujiste<break time="0.75s">condujo<break time="3s"></voice>
+
+<voice lang="es">poner (to put)<break time="3s"></voice>
+<voice lang="en">I put<break time="0.75s">you put<break time="0.75s">he put<break time="4s"> </voice>
+<voice lang="es">puse<break time="0.75s">pusiste<break time="0.75s">puso<break time="3s"></voice>
+
+<voice lang="es">saber (to know)<break time="3s"></voice>
+<voice lang="en">I knew<break time="0.75s">you knew<break time="0.75s">he knew<break time="4s"> </voice>
+<voice lang="es">sabía<break time="0.75s">sabías<break time="0.75s">sabía<break time="3s"></voice>
+
+<voice lang="es">gustar (to like)<break time="3s"></voice>
+<voice lang="en">I liked<break time="0.75s">you liked<break time="0.75s">he liked<break time="4s"> </voice>
+<voice lang="es">me gustó<break time="0.75s">te gustó<break time="0.75s">le gustó<break time="3s"></voice>
+
+<voice lang="es">encantar (to love)<break time="3s"></voice>
+<voice lang="en">I loved<break time="0.75s">you loved<break time="0.75s">he loved<break time="4s"> </voice>
+<voice lang="es">me encantó<break time="0.75s">te encantó<break time="0.75s">le encantó<break time="3s"></voice>
+
+<voice lang="es">caer bien (to like someone's personality)<break time="3s"></voice>
+<voice lang="en">I liked someone's personality<break time="0.75s">you liked someone's personality<break time="0.75s">he liked someone's personality<break time="4s">me cayó bien<break time="0.75s">te cayó bien<break time="0.75s">le cayó bien<break time="3s"></voice>
+
+<voice lang="es">acostarse (to go to bed)<break time="3s"></voice>
+<voice lang="en">I went to bed<break time="0.75s">you went to bed<break time="0.75s">he went to bed<break time="4s"> </voice>
+<voice lang="es">me acosté<break time="0.75s">te acostaste<break time="0.75s">se acostó<break time="3s"></voice>
+
+<voice lang="es">sentirse (to feel)<break time="3s"></voice>
+<voice lang="en">I felt<break time="0.75s">you felt<break time="0.75s">he felt<break time="4s"> </voice>
+<voice lang="es">me sentí<break time="0.75s">te sentiste<break time="0.75s">se sintió<break time="3s"></voice>
+
+<voice lang="es">quedarse (to stay)<break time="3s"></voice>
+<voice lang="en">I stayed<break time="0.75s">you stayed<break time="0.75s">he stayed<break time="4s"> </voice>
+<voice lang="es">me quedé<break time="0.75s">te quedaste<break time="0.75s">se quedó<break time="3s"></voice>
+
+<voice lang="es">ser (to be - permanent characteristics)<break time="3s"></voice>
+<voice lang="en">I was<break time="0.75s">you were<break time="0.75s">he was (permanent characteristics)<break time="4s"> </voice>
+<voice lang="es">era<break time="0.75s">eras<break time="0.75s">era (permanent characteristics)<break time="3s"></voice>
+
+<voice lang="en">haber (there was/were)<break time="3s"></voice>
+<voice lang="en">there was<break time="0.75s">there were<break time="0.75s">there was<break time="4s"> </voice>
+<voice lang="es">había<break time="0.75s">había<break time="0.75s">había<break time="3s"></voice>
+
+<voice lang="es">poder (to be able to/could)<break time="3s"></voice>
+<voice lang="en">I could<break time="0.75s">you could<break time="0.75s">he could<break time="4s"> </voice>
+<voice lang="es">pude<break time="0.75s">pudiste<break time="0.75s">pudo<break time="3s"></voice>
+
+<voice lang="es">poder (to be able to/could)<break time="3s"></voice>
+<voice lang="en">I could<break time="0.75s">you could<break time="0.75s">he could<break time="4s"> </voice>
+<voice lang="es">podía<break time="0.75s">podías<break time="0.75s">podía<break time="3s"></voice>
+
+<voice lang="es">dar (to give)<break time="3s"></voice>
+<voice lang="en">I gave<break time="0.75s">you gave<break time="0.75s">he gave<break time="4s"> </voice>
+<voice lang="es">di<break time="0.75s">diste<break time="0.75s">dio<break time="3s"></voice>
+
+<voice lang="es">venir (to come)<break time="3s"></voice>
+<voice lang="en">I came<break time="0.75s">you came<break time="0.75s">he came<break time="4s"> </voice>
+<voice lang="es">vine<break time="0.75s">viniste<break time="0.75s">vino<break time="3s"></voice>
+
+<voice lang="es">encontrar (to find)<break time="3s"></voice>
+<voice lang="en">I found<break time="0.75s">you found<break time="0.75s">he found<break time="4s"> </voice>
+<voice lang="es">encontré<break time="0.75s">encontraste<break time="0.75s">encontró<break time="3s"></voice>
+
+<voice lang="es">parecer (to seem)<break time="3s"></voice>
+<voice lang="en">it seemed<break time="0.75s">it seemed<break time="0.75s">it seemed<break time="4s"> </voice>
+<voice lang="es">parecía<break time="0.75s">parecías<break time="0.75s">parecía<break time="3s"></voice>
+
+<voice lang="es">seguir (to continue)<break time="3s"></voice>
+<voice lang="en">I continued<break time="0.75s">you continued<break time="0.75s">he continued<break time="4s"> </voice>
+<voice lang="es">seguí<break time="0.75s">seguiste<break time="0.75s">siguió<break time="3s"></voice>
+
+<voice lang="en">Modal and Auxiliary Verbs<break time="2s"></voice>
+<voice lang="es">Verbos modales y auxiliares<break time="2s"></voice>
+
+
+<voice lang="es">deber (to have to/should)<break time="3s"></voice>
+<voice lang="en">I had to<break time="0.75s">you had to<break time="0.75s">he had to<break time="4s">debí<break time="0.75s">debiste<break time="0.75s">debió<break time="3s"></voice>
+
+<voice lang="es">soler (to usually do)<break time="3s"></voice>
+<voice lang="en">I usually did<break time="0.75s">you usually did<break time="0.75s">he usually did<break time="4s">solía<break time="0.75s">solías<break time="0.75s">solía<break time="3s"></voice>
+
+<voice lang="en">Movement and Position<break time="2s"></voice>
+<voice lang="es">Movimiento y Posición<break time="2s"></voice>
+
+
+<voice lang="es">caminar (to walk)<break time="3s"></voice>
+<voice lang="en">I walked<break time="0.75s">you walked<break time="0.75s">he walked<break time="4s"></voice>
+<voice lang="es">caminé<break time="0.75s">caminaste<break time="0.75s">caminó<break time="3s"></voice>
+
+<voice lang="es">cruzar (to cross)<break time="3s"></voice>
+<voice lang="en">I crossed<break time="0.75s">you crossed<break time="0.75s">he crossed<break time="4s"></voice>
+<voice lang="es">crucé<break time="0.75s">cruzaste<break time="0.75s">cruzó<break time="3s"></voice>
+
+<voice lang="es">mudarse (to move residences)<break time="3s"></voice>
+<voice lang="en">I moved<break time="0.75s">you moved<break time="0.75s">he moved<break time="4s"></voice>
+<voice lang="es">me mudé<break time="0.75s">te mudaste<break time="0.75s">se mudó<break time="3s"></voice>
+
+<voice lang="es">escapar (to escape)<break time="3s"></voice>
+<voice lang="en">I escaped<break time="0.75s">you escaped<break time="0.75s">he escaped<break time="4s"></voice>
+<voice lang="es">escapé<break time="0.75s">escapaste<break time="0.75s">escapó<break time="3s"></voice>
+
+<voice lang="es">alcanzar (to reach/catch up)<break time="3s"></voice>
+<voice lang="en">I reached<break time="0.75s">you reached<break time="0.75s">he reached<break time="4s"></voice>
+<voice lang="es">alcancé<break time="0.75s">alcanzaste<break time="0.75s">alcanzó<break time="3s"></voice>
+
+<voice lang="es">andar (to walk)<break time="3s"></voice>
+<voice lang="en">I walked<break time="0.75s">you walked<break time="0.75s">he walked<break time="4s">anduve<break time="0.75s">anduviste<break time="0.75s">anduvo<break time="3s"></voice>
+
+<voice lang="es">correr (to run)<break time="3s"></voice>
+<voice lang="en">I ran<break time="0.75s">you ran<break time="0.75s">he ran<break time="4s">corrí<break time="0.75s">corriste<break time="0.75s">corrió<break time="3s"></voice>
+
+<voice lang="es">volar (to fly)<break time="3s"></voice>
+<voice lang="en">I flew<break time="0.75s">you flew<break time="0.75s">he flew<break time="4s"></voice>
+<voice lang="es">volé<break time="0.75s">volaste<break time="0.75s">voló<break time="3s"></voice>
+
+<voice lang="es">caer (to fall)<break time="3s"></voice>
+<voice lang="en">I fell<break time="0.75s">you fell<break time="0.75s">he fell<break time="4s">caí<break time="0.75s">caíste<break time="0.75s">cayó<break time="3s"></voice>
+
+<voice lang="es">subir (to go up/climb)<break time="3s"></voice>
+<voice lang="en">I went up<break time="0.75s">you went up<break time="0.75s">he went up<break time="4s">subí<break time="0.75s">subiste<break time="0.75s">subió<break time="3s"></voice>
+
+<voice lang="es">bajar (to go down/descend)<break time="3s"></voice>
+<voice lang="en">I went down<break time="0.75s">you went down<break time="0.75s">he went down<break time="4s">bajé<break time="0.75s">bajaste<break time="0.75s">bajó<break time="3s"></voice>
+
+<voice lang="es">entrar (to enter)<break time="3s"></voice>
+<voice lang="en">I entered<break time="0.75s">you entered<break time="0.75s">he entered<break time="4s">entré<break time="0.75s">entraste<break time="0.75s">entró<break time="3s"></voice>
+
+<voice lang="es">regresar (to return)<break time="3s"></voice>
+<voice lang="en">I returned<break time="0.75s">you returned<break time="0.75s">he returned<break time="4s">regresé<break time="0.75s">regresaste<break time="0.75s">regresó<break time="3s"></voice>
+
+<voice lang="es">volver (to return/come back)<break time="3s"></voice>
+<voice lang="en">I returned<break time="0.75s">you returned<break time="0.75s">he returned<break time="4s">volví<break time="0.75s">volviste<break time="0.75s">volvió<break time="3s"></voice>
+
+<voice lang="en">sentarse (to sit down)<break time="3s"></voice>
+<voice lang="en">I sat down<break time="0.75s">you sat down<break time="0.75s">he sat down<break time="4s">me senté<break time="0.75s">te sentaste<break time="0.75s">se sentó<break time="3s"></voice>
+
+<voice lang="es">parar (to stop)<break time="3s"></voice>
+<voice lang="en">I stopped<break time="0.75s">you stopped<break time="0.75s">he stopped<break time="4s">paré<break time="0.75s">paraste<break time="0.75s">paró<break time="3s"></voice>
+
+<voice lang="es">salir (to go out)<break time="3s"></voice>
+<voice lang="en">I went out<break time="0.75s">you went out<break time="0.75s">he went out<break time="4s"> </voice>
+<voice lang="es">salí<break time="0.75s">saliste<break time="0.75s">salió<break time="3s"></voice>
+
+<voice lang="es">llegar (to arrive)<break time="3s"></voice>
+<voice lang="en">I arrived<break time="0.75s">you arrived<break time="0.75s">he arrived<break time="4s"> </voice>
+<voice lang="es">llegué<break time="0.75s">llegaste<break time="0.75s">llegó<break time="3s"></voice>
+
+<voice lang="es">pasar (to spend time)<break time="3s"></voice>
+<voice lang="en">I spent<break time="0.75s">you spent<break time="0.75s">he spent (time)<break time="4s"> </voice>
+<voice lang="es">pasé<break time="0.75s">pasaste<break time="0.75s">pasó (time)<break time="3s"></voice>
+
+<voice lang="es">pasar (to happen)<break time="3s"></voice>
+<voice lang="en">it happened<break time="4s"> </voice>
+<voice lang="es">pasó<break time="3s"></voice>
+
+<voice lang="es">buscar (to look for)<break time="3s"></voice>
+<voice lang="en">I looked for<break time="0.75s">you looked for<break time="0.75s">he looked for<break time="4s"> </voice>
+<voice lang="es">busqué<break time="0.75s">buscaste<break time="0.75s">buscó<break time="3s"></voice>
+
+<voice lang="es">encontrarse con (to meet with)<break time="3s"></voice>
+<voice lang="en">I met with<break time="0.75s">you met with<break time="0.75s">he met with<break time="4s"> </voice>
+<voice lang="es">me encontré con<break time="0.75s">te encontraste con<break time="0.75s">se encontró con<break time="3s"></voice>
+
+<voice lang="es">comprar (to buy)<break time="3s"></voice>
+<voice lang="en">I bought<break time="0.75s">you bought<break time="0.75s">he bought<break time="4s"> </voice>
+<voice lang="es">compré<break time="0.75s">compraste<break time="0.75s">compró<break time="3s"></voice>
+
+<voice lang="es">leer (to read)<break time="3s"></voice>
+<voice lang="en">I read<break time="0.75s">you read<break time="0.75s">he read<break time="4s"> </voice>
+<voice lang="es">leí<break time="0.75s">leíste<break time="0.75s">leyó<break time="3s"></voice>
+
+<voice lang="es">escribir (to write)<break time="3s"></voice>
+<voice lang="en">I wrote<break time="0.75s">you wrote<break time="0.75s">he wrote<break time="4s"> </voice>
+<voice lang="es">escribí<break time="0.75s">escribiste<break time="0.75s">escribió</voice>
+
+<voice lang="en">Communication and Thought<break time="2s"></voice>
+<voice lang="es">Comunicación y pensamiento<break time="2s"></voice>
+
+
+<voice lang="es">avisar (to inform/warn)<break time="3s"></voice>
+<voice lang="en">I informed<break time="0.75s">you informed<break time="0.75s">he informed<break time="4s"></voice>
+<voice lang="es">avisé<break time="0.75s">avisaste<break time="0.75s">avisó<break time="3s"></voice>
+
+<voice lang="es">invitar (to invite)<break time="3s"></voice>
+<voice lang="en">I invited<break time="0.75s">you invited<break time="0.75s">he invited<break time="4s"></voice>
+<voice lang="es">invité<break time="0.75s">invitaste<break time="0.75s">invitó<break time="3s"></voice>
+
+<voice lang="es">prometer (to promise)<break time="3s"></voice>
+<voice lang="en">I promised<break time="0.75s">you promised<break time="0.75s">he promised<break time="4s"></voice>
+<voice lang="es">prometí<break time="0.75s">prometiste<break time="0.75s">prometió<break time="3s"></voice>
+
+<voice lang="es">mentir (to lie)<break time="3s"></voice>
+<voice lang="en">I lied<break time="0.75s">you lied<break time="0.75s">he lied<break time="4s"></voice>
+<voice lang="es">mentí<break time="0.75s">mentiste<break time="0.75s">mintió<break time="3s"></voice>
+
+<voice lang="es">agradecer (to thank)<break time="3s"></voice>
+<voice lang="en">I thanked<break time="0.75s">you thanked<break time="0.75s">he thanked<break time="4s"></voice>
+<voice lang="es">agradecí<break time="0.75s">agradeciste<break time="0.75s">agradeció<break time="3s"></voice>
+
+<voice lang="es">hablar con (to talk to)<break time="3s"></voice>
+<voice lang="en">I talked to<break time="0.75s">you talked to<break time="0.75s">he talked to<break time="4s"> </voice>
+<voice lang="es">hablé con<break time="0.75s">hablaste con<break time="0.75s">habló con<break time="3s"></voice>
+
+<voice lang="es">hablar de (to talk about)<break time="3s"></voice>
+<voice lang="en">I talked about<break time="0.75s">you talked about<break time="0.75s">he talked about<break time="4s"> </voice>
+<voice lang="es">hablé de<break time="0.75s">hablaste de<break time="0.75s">habló de<break time="3s"></voice>
+
+<voice lang="es">llamar (to call)<break time="3s"></voice>
+<voice lang="en">I called<break time="0.75s">you called<break time="0.75s">he called<break time="4s"> </voice>
+<voice lang="es">llamé<break time="0.75s">llamaste<break time="0.75s">llamó<break time="3s"></voice>
+
+<voice lang="es">pensar (to think)<break time="3s"></voice>
+<voice lang="en">I thought<break time="0.75s">you thought<break time="0.75s">he thought<break time="4s"> </voice>
+<voice lang="es">pensé<break time="0.75s">pensaste<break time="0.75s">pensó<break time="3s"> </voice>
+
+<voice lang="es">creer (to believe)<break time="3s"></voice>
+<voice lang="en">I believed<break time="0.75s">you believed<break time="0.75s">he believed<break time="4s"> </voice>
+<voice lang="es">creí que<break time="0.75s">creíste que<break time="0.75s">creyó que<break time="3s"></voice>
+
+<voice lang="en">Communication and Interaction<break time="2s"></voice>
+<voice lang="es">Comunicación e interacción<break time="2s"></voice>
+
+
+<voice lang="es">preguntar (to ask)<break time="3s"></voice>
+<voice lang="en">I asked<break time="0.75s">you asked<break time="0.75s">he asked<break time="4s">pregunté<break time="0.75s">preguntaste<break time="0.75s">preguntó<break time="3s"></voice>
+
+<voice lang="es">responder (to answer)<break time="3s"></voice>
+<voice lang="en">I answered<break time="0.75s">you answered<break time="0.75s">he answered<break time="4s">respondí<break time="0.75s">respondiste<break time="0.75s">respondió<break time="3s"></voice>
+
+<voice lang="es">contestar (to answer)<break time="3s"></voice>
+<voice lang="en">I answered<break time="0.75s">you answered<break time="0.75s">he answered<break time="4s">contesté<break time="0.75s">contestaste<break time="0.75s">contestó<break time="3s"></voice>
+
+<voice lang="es">explicar (to explain)<break time="3s"></voice>
+<voice lang="en">I explained<break time="0.75s">you explained<break time="0.75s">he explained<break time="4s">expliqué<break time="0.75s">explicaste<break time="0.75s">explicó<break time="3s"></voice>
+
+<voice lang="es">contar (to count/tell a story)<break time="3s"></voice>
+<voice lang="en">I counted<break time="0.75s">you counted<break time="0.75s">he counted<break time="4s">conté<break time="0.75s">contaste<break time="0.75s">contó<break time="3s"></voice>
+
+<voice lang="es">gritar (to shout)<break time="3s"></voice>
+<voice lang="en">I shouted<break time="0.75s">you shouted<break time="0.75s">he shouted<break time="4s">grité<break time="0.75s">gritaste<break time="0.75s">gritó<break time="3s"></voice>
+
+<voice lang="en">Cognitive and Perception<break time="2s"></voice>
+<voice lang="es">Cognitivo y percepción<break time="2s"></voice>
+
+
+<voice lang="es">decidir (to decide)<break time="3s"></voice>
+<voice lang="en">I decided<break time="0.75s">you decided<break time="0.75s">he decided<break time="4s"></voice>
+<voice lang="es">decidí<break time="0.75s">decidiste<break time="0.75s">decidió<break time="3s"></voice>
+
+<voice lang="es">elegir (to choose)<break time="3s"></voice>
+<voice lang="en">I chose<break time="0.75s">you chose<break time="0.75s">he chose<break time="4s"></voice>
+<voice lang="es">elegí<break time="0.75s">elegiste<break time="0.75s">eligió<break time="3s"></voice>
+
+<voice lang="es">imaginar (to imagine)<break time="3s"></voice>
+<voice lang="en">I imagined<break time="0.75s">you imagined<break time="0.75s">he imagined<break time="4s"></voice>
+<voice lang="es">imaginé<break time="0.75s">imaginaste<break time="0.75s">imaginó<break time="3s"></voice>
+
+<voice lang="es">dudar (to doubt)<break time="3s"></voice>
+<voice lang="en">I doubted<break time="0.75s">you doubted<break time="0.75s">he doubted<break time="4s"></voice>
+<voice lang="es">dudé<break time="0.75s">dudaste<break time="0.75s">dudó<break time="3s"></voice>
+
+<voice lang="es">reconocer (to recognize)<break time="3s"></voice>
+<voice lang="en">I recognized<break time="0.75s">you recognized<break time="0.75s">he recognized<break time="4s"></voice>
+<voice lang="es">reconocí<break time="0.75s">reconociste<break time="0.75s">reconoció<break time="3s"></voice>
+
+<voice lang="es">recordar (to remember)<break time="3s"></voice>
+<voice lang="en">I remembered<break time="0.75s">you remembered<break time="0.75s">he remembered<break time="4s"></voice>
+<voice lang="es">recordé<break time="0.75s">recordaste<break time="0.75s">recordó<break time="3s"></voice>
+
+<voice lang="es">olvidar (to forget)<break time="3s"></voice>
+<voice lang="en">I forgot<break time="0.75s">you forgot<break time="0.75s">he forgot<break time="4s"></voice>
+<voice lang="es">olvidé<break time="0.75s">olvidaste<break time="0.75s">olvidó<break time="3s"></voice>
+
+<voice lang="es">entender (to understand)<break time="3s"></voice>
+<voice lang="en">I understood<break time="0.75s">you understood<break time="0.75s">he understood<break time="4s"></voice>
+<voice lang="es">entendí<break time="0.75s">entendiste<break time="0.75s">entendió<break time="3s"></voice>
+
+<voice lang="es">aprender (to learn)<break time="3s"></voice>
+<voice lang="en">I learned<break time="0.75s">you learned<break time="0.75s">he learned<break time="4s"></voice>
+<voice lang="es">aprendí<break time="0.75s">aprendiste<break time="0.75s">aprendió<break time="3s"></voice>
+
+<voice lang="es">escuchar (to listen)<break time="3s"></voice>
+<voice lang="en">I listened<break time="0.75s">you listened<break time="0.75s">he listened<break time="4s"></voice>
+<voice lang="es">escuché<break time="0.75s">escuchaste<break time="0.75s">escuchó<break time="3s"></voice>
+
+<voice lang="es">mirar (to look at/watch)<break time="3s"></voice>
+<voice lang="en">I looked<break time="0.75s">you looked<break time="0.75s">he looked<break time="4s"></voice>
+<voice lang="es">miré<break time="0.75s">miraste<break time="0.75s">miró<break time="3s"></voice>
+
+<voice lang="es">oír (to hear)<break time="3s"></voice>
+<voice lang="en">I heard<break time="0.75s">you heard<break time="0.75s">he heard<break time="4s"></voice>
+<voice lang="es">oí<break time="0.75s">oíste<break time="0.75s">oyó<break time="3s"></voice>
+
+<voice lang="en">Process and Effort<break time="2s"></voice>
+<voice lang="es">Proceso y Esfuerzo<break time="2s"></voice>
+
+<voice lang="es">intentar (to try)<break time="3s"></voice>
+<voice lang="en">I tried<break time="0.75s">you tried<break time="0.75s">he tried<break time="4s"></voice>
+<voice lang="es">intenté<break time="0.75s">intentaste<break time="0.75s">intentó<break time="3s"></voice>
+
+<voice lang="es">lograr (to achieve)<break time="3s"></voice>
+<voice lang="en">I achieved<break time="0.75s">you achieved<break time="0.75s">he achieved<break time="4s"></voice>
+<voice lang="es">logré<break time="0.75s">lograste<break time="0.75s">logró<break time="3s"></voice>
+
+<voice lang="es">conseguir (to get/obtain)<break time="3s"></voice>
+<voice lang="en">I got<break time="0.75s">you got<break time="0.75s">he got<break time="4s"></voice>
+<voice lang="es">conseguí<break time="0.75s">conseguiste<break time="0.75s">consiguió<break time="3s"></voice>
+
+<voice lang="es">faltar (to lack/be missing)<break time="3s"></voice>
+<voice lang="en">it lacked<break time="0.75s">it lacked<break time="0.75s">it lacked<break time="4s"></voice>
+<voice lang="es">faltó<break time="0.75s">faltó<break time="0.75s">faltó<break time="3s"></voice>
+
+<voice lang="es">fallar (to fail)<break time="3s"></voice>
+<voice lang="en">I failed<break time="0.75s">you failed<break time="0.75s">he failed<break time="4s"></voice>
+<voice lang="es">fallé<break time="0.75s">fallaste<break time="0.75s">falló<break time="3s"></voice>
+
+<voice lang="en">Actions on Objects<break time="2s"></voice>
+<voice lang="es">Acciones sobre Objetos<break time="2s"></voice>
+
+<voice lang="es">guardar (to keep/save)<break time="3s"></voice>
+<voice lang="en">I kept<break time="0.75s">you kept<break time="0.75s">he kept<break time="4s"></voice>
+<voice lang="es">guardé<break time="0.75s">guardaste<break time="0.75s">guardó<break time="3s"></voice>
+
+<voice lang="es">dejar (to leave/let)<break time="3s"></voice>
+<voice lang="en">I left<break time="0.75s">you left<break time="0.75s">he left<break time="4s"></voice>
+<voice lang="es">dejé<break time="0.75s">dejaste<break time="0.75s">dejó<break time="3s"></voice>
+
+<voice lang="es">sacar (to take out)<break time="3s"></voice>
+<voice lang="en">I took out<break time="0.75s">you took out<break time="0.75s">he took out<break time="4s"></voice>
+<voice lang="es">saqué<break time="0.75s">sacaste<break time="0.75s">sacó<break time="3s"></voice>
+
+<voice lang="es">meter (to put in)<break time="3s"></voice>
+<voice lang="en">I put in<break time="0.75s">you put in<break time="0.75s">he put in<break time="4s"></voice>
+<voice lang="es">metí<break time="0.75s">metiste<break time="0.75s">metió<break time="3s"></voice>
+
+<voice lang="es">colgar (to hang)<break time="3s"></voice>
+<voice lang="en">I hung<break time="0.75s">you hung<break time="0.75s">he hung<break time="4s"></voice>
+<voice lang="es">colgué<break time="0.75s">colgaste<break time="0.75s">colgó<break time="3s"></voice>
+
+<voice lang="es">arreglar (to fix/arrange)<break time="3s"></voice>
+<voice lang="en">I fixed<break time="0.75s">you fixed<break time="0.75s">he fixed<break time="4s"></voice>
+<voice lang="es">arreglé<break time="0.75s">arreglaste<break time="0.75s">arregló<break time="3s"></voice>
+
+<voice lang="en">Daily Activities and Actions<break time="2s"></voice>
+<voice lang="es">Actividades y acciones diarias<break time="2s"></voice>
+
+
+<voice lang="es">pagar (to pay)<break time="3s"></voice>
+<voice lang="en">I paid<break time="0.75s">you paid<break time="0.75s">he paid<break time="4s"></voice>
+<voice lang="es">pagué<break time="0.75s">pagaste<break time="0.75s">pagó<break time="3s"></voice>
+
+<voice lang="es">vender (to sell)<break time="3s"></voice>
+<voice lang="en">I sold<break time="0.75s">you sold<break time="0.75s">he sold<break time="4s"></voice>
+<voice lang="es">vendí<break time="0.75s">vendiste<break time="0.75s">vendió<break time="3s"></voice>
+
+<voice lang="es">mandar (to send/order)<break time="3s"></voice>
+<voice lang="en">I sent<break time="0.75s">you sent<break time="0.75s">he sent<break time="4s"></voice>
+<voice lang="es">mandé<break time="0.75s">mandaste<break time="0.75s">mandó<break time="3s"></voice>
+
+<voice lang="es">enviar (to send)<break time="3s"></voice>
+<voice lang="en">I sent<break time="0.75s">you sent<break time="0.75s">he sent<break time="4s"></voice>
+<voice lang="es">envié<break time="0.75s">enviaste<break time="0.75s">envió<break time="3s"></voice>
+
+<voice lang="es">coger (to take/grab)<break time="3s"></voice>
+<voice lang="en">I took<break time="0.75s">you took<break time="0.75s">he took<break time="4s"></voice>
+<voice lang="es">cogí<break time="0.75s">cogiste<break time="0.75s">cogió<break time="3s"></voice>
+
+<voice lang="es">tirar (to throw)<break time="3s"></voice>
+<voice lang="en">I threw<break time="0.75s">you threw<break time="0.75s">he threw<break time="4s"></voice>
+<voice lang="es">tiré<break time="0.75s">tiraste<break time="0.75s">tiró<break time="3s"></voice>
+
+<voice lang="es">romper (to break)<break time="3s"></voice>
+<voice lang="en">I broke<break time="0.75s">you broke<break time="0.75s">he broke<break time="4s"></voice>
+<voice lang="es">rompí<break time="0.75s">rompiste<break time="0.75s">rompió<break time="3s"></voice>
+
+<voice lang="es">cortar (to cut)<break time="3s"></voice>
+<voice lang="en">I cut<break time="0.75s">you cut<break time="0.75s">he cut<break time="4s"></voice>
+<voice lang="es">corté<break time="0.75s">cortaste<break time="0.75s">cortó<break time="3s"></voice>
+
+<voice lang="es">probar (to try/taste)<break time="3s"></voice>
+<voice lang="en">I tried<break time="0.75s">you tried<break time="0.75s">he tried<break time="4s"></voice>
+<voice lang="es">probé<break time="0.75s">probaste<break time="0.75s">probó<break time="3s"></voice>
+
+<voice lang="es">cuidar (to take care of)<break time="3s"></voice>
+<voice lang="en">I took care of<break time="0.75s">you took care of<break time="0.75s">he took care of<break time="4s"></voice>
+<voice lang="es">cuidé<break time="0.75s">cuidaste<break time="0.75s">cuidó<break time="3s"></voice>
+
+<voice lang="es">dormir (to sleep)<break time="3s"></voice>
+<voice lang="en">I slept<break time="0.75s">you slept<break time="0.75s">he slept<break time="4s"> </voice>
+<voice lang="es">dormí<break time="0.75s">dormiste<break time="0.75s">durmió<break time="3s"></voice>
+
+<voice lang="es">levantarse (to get up)<break time="3s"></voice>
+<voice lang="en">I got up<break time="0.75s">you got up<break time="0.75s">he got up<break time="4s"> </voice>
+<voice lang="es">me levanté<break time="0.75s">te levantaste<break time="0.75s">se levantó<break time="3s"></voice>
+
+<voice lang="es">despertarse (to wake up)<break time="3s"></voice>
+<voice lang="en">I woke up<break time="0.75s">you woke up<break time="0.75s">he woke up<break time="4s"> </voice>
+<voice lang="es">me desperté<break time="0.75s">te despertaste<break time="0.75s">se despertó<break time="3s"></voice>
+
+<voice lang="es">comer (to eat)<break time="3s"></voice>
+<voice lang="en">I ate<break time="0.75s">you ate<break time="0.75s">he ate<break time="4s"> </voice>
+<voice lang="es">comí<break time="0.75s">comiste<break time="0.75s">comió<break time="3s"></voice>
+
+<voice lang="es">beber (to drink)<break time="3s"></voice>
+<voice lang="en">I drank<break time="0.75s">you drank<break time="0.75s">he drank<break time="4s"> </voice>
+<voice lang="es">bebí<break time="0.75s">bebiste<break time="0.75s">bebió<break time="3s"></voice>
+
+<voice lang="es">desayunar (to have breakfast)<break time="3s"></voice>
+<voice lang="en">I had breakfast<break time="0.75s">you had breakfast<break time="0.75s">he had breakfast<break time="4s"> </voice>
+<voice lang="es">desayuné<break time="0.75s">desayunaste<break time="0.75s">desayunó<break time="3s"></voice>
+
+<voice lang="es">almorzar (to have lunch)<break time="3s"></voice>
+<voice lang="en">I had lunch<break time="0.75s">you had lunch<break time="0.75s">he had lunch<break time="4s"> </voice>
+<voice lang="es">almorcé<break time="0.75s">almorzaste<break time="0.75s">almorzó<break time="3s"></voice>
+
+<voice lang="es">cenar (to have dinner)<break time="3s"></voice>
+<voice lang="en">I had dinner<break time="0.75s">you had dinner<break time="0.75s">he had dinner<break time="4s"> </voice>
+<voice lang="es">cené<break time="0.75s">cenaste<break time="0.75s">cenó<break time="3s"></voice>
+
+<voice lang="es">trabajar (to work)<break time="3s"></voice>
+<voice lang="en">I worked<break time="0.75s">you worked<break time="0.75s">he worked<break time="4s"> </voice>
+<voice lang="es">trabajé<break time="0.75s">trabajaste<break time="0.75s">trabajó<break time="3s"></voice>
+
+<voice lang="es">estudiar (to study)<break time="3s"></voice>
+<voice lang="en">I studied<break time="0.75s">you studied<break time="0.75s">he studied<break time="4s"> </voice>
+<voice lang="es">estudié<break time="0.75s">estudiaste<break time="0.75s">estudió<break time="3s"></voice>
+
+<voice lang="es">limpiar (to clean)<break time="3s"></voice>
+<voice lang="en">I cleaned<break time="0.75s">you cleaned<break time="0.75s">he cleaned<break time="4s"></voice>
+<voice lang="es">limpié<break time="0.75s">limpiaste<break time="0.75s">limpió<break time="3s"></voice>
+
+<voice lang="es">cocinar (to cook)<break time="3s"></voice>
+<voice lang="en">I cooked<break time="0.75s">you cooked<break time="0.75s">he cooked<break time="4s"></voice>
+<voice lang="es">cociné<break time="0.75s">cocinaste<break time="0.75s">cocinó<break time="3s"></voice>
+
+<voice lang="es">preparar (to prepare)<break time="3s"></voice>
+<voice lang="en">I prepared<break time="0.75s">you prepared<break time="0.75s">he prepared<break time="4s"></voice>
+<voice lang="es">preparé<break time="0.75s">preparaste<break time="0.75s">preparó<break time="3s"></voice>
+
+<voice lang="es">usar (to use)<break time="3s"></voice>
+<voice lang="en">I used<break time="0.75s">you used<break time="0.75s">he used<break time="4s"></voice>
+<voice lang="es">usé<break time="0.75s">usaste<break time="0.75s">usó<break time="3s"></voice>
+
+<voice lang="es">llevar (to carry/wear/take)<break time="3s"></voice>
+<voice lang="en">I carried<break time="0.75s">you carried<break time="0.75s">he carried<break time="4s"></voice>
+<voice lang="es">llevé<break time="0.75s">llevaste<break time="0.75s">llevó<break time="3s"></voice>
+
+<voice lang="es">traer (to bring)<break time="3s"></voice>
+<voice lang="en">I brought<break time="0.75s">you brought<break time="0.75s">he brought<break time="4s"></voice>
+<voice lang="es">traje<break time="0.75s">trajiste<break time="0.75s">trajo<break time="3s"></voice>
+
+<voice lang="es">abrir (to open)<break time="3s"></voice>
+<voice lang="en">I opened<break time="0.75s">you opened<break time="0.75s">he opened<break time="4s"></voice>
+<voice lang="es">abrí<break time="0.75s">abriste<break time="0.75s">abrió<break time="3s"></voice>
+
+<voice lang="es">cerrar (to close)<break time="3s"></voice>
+<voice lang="en">I closed<break time="0.75s">you closed<break time="0.75s">he closed<break time="4s"></voice>
+<voice lang="es">cerré<break time="0.75s">cerraste<break time="0.75s">cerró<break time="3s"></voice>
+
+<voice lang="es">tocar (to touch/play instrument)<break time="3s"></voice>
+<voice lang="en">I touched<break time="0.75s">you touched<break time="0.75s">he touched<break time="4s"></voice>
+<voice lang="es">toqué<break time="0.75s">tocaste<break time="0.75s">tocó<break time="3s"></voice>
+
+<voice lang="es">jugar (to play)<break time="3s"></voice>
+<voice lang="en">I played<break time="0.75s">you played<break time="0.75s">he played<break time="4s"></voice>
+<voice lang="es">jugué<break time="0.75s">jugaste<break time="0.75s">jugó<break time="3s"></voice>
+
+<voice lang="es">necesitar (to need)<break time="3s"></voice>
+<voice lang="en">I needed<break time="0.75s">you needed<break time="0.75s">he needed<break time="4s"></voice>
+<voice lang="es">necesité<break time="0.75s">necesitaste<break time="0.75s">necesitó<break time="3s"></voice>
+
+<voice lang="en">Social and Emotional<break time="2s"></voice>
+<voice lang="es">Social y emocional<break time="2s"></voice>
+
+
+<voice lang="es">presentar (to introduce/present)<break time="3s"></voice>
+<voice lang="en">I introduced<break time="0.75s">you introduced<break time="0.75s">he introduced<break time="4s"></voice>
+<voice lang="es">presenté<break time="0.75s">presentaste<break time="0.75s">presentó<break time="3s"></voice>
+
+<voice lang="es">saludar (to greet)<break time="3s"></voice>
+<voice lang="en">I greeted<break time="0.75s">you greeted<break time="0.75s">he greeted<break time="4s"></voice>
+<voice lang="es">saludé<break time="0.75s">saludaste<break time="0.75s">saludó<break time="3s"></voice>
+
+<voice lang="es">despedir (to say goodbye)<break time="3s"></voice>
+<voice lang="en">I said goodbye<break time="0.75s">you said goodbye<break time="0.75s">he said goodbye<break time="4s"></voice>
+<voice lang="es">despedí<break time="0.75s">despediste<break time="0.75s">despidió<break time="3s"></voice>
+
+<voice lang="es">visitar (to visit)<break time="3s"></voice>
+<voice lang="en">I visited<break time="0.75s">you visited<break time="0.75s">he visited<break time="4s"></voice>
+<voice lang="es">visité<break time="0.75s">visitaste<break time="0.75s">visitó<break time="3s"></voice>
+
+<voice lang="es">acompañar (to accompany)<break time="3s"></voice>
+<voice lang="en">I accompanied<break time="0.75s">you accompanied<break time="0.75s">he accompanied<break time="4s"></voice>
+<voice lang="es">acompañé<break time="0.75s">acompañaste<break time="0.75s">acompañó<break time="3s"></voice>
+
+<voice lang="es">compartir (to share)<break time="3s"></voice>
+<voice lang="en">I shared<break time="0.75s">you shared<break time="0.75s">he shared<break time="4s"></voice>
+<voice lang="es">compartí<break time="0.75s">compartiste<break time="0.75s">compartió<break time="3s"></voice>
+
+<voice lang="es">permitir (to allow/permit)<break time="3s"></voice>
+<voice lang="en">I allowed<break time="0.75s">you allowed<break time="0.75s">he allowed<break time="4s"></voice>
+<voice lang="es">permití<break time="0.75s">permitiste<break time="0.75s">permitió<break time="3s"></voice>
+
+<voice lang="es">desear (to wish/desire)<break time="3s"></voice>
+<voice lang="en">I wished<break time="0.75s">you wished<break time="0.75s">he wished<break time="4s"></voice>
+<voice lang="es">deseé<break time="0.75s">deseaste<break time="0.75s">deseó<break time="3s"></voice>
+
+<voice lang="es">llorar (to cry)<break time="3s"></voice>
+<voice lang="en">I cried<break time="0.75s">you cried<break time="0.75s">he cried<break time="4s"></voice>
+<voice lang="es">lloré<break time="0.75s">lloraste<break time="0.75s">lloró<break time="3s"></voice>
+
+<voice lang="es">reír (to laugh)<break time="3s"></voice>
+<voice lang="en">I laughed<break time="0.75s">you laughed<break time="0.75s">he laughed<break time="4s"></voice>
+<voice lang="es">reí<break time="0.75s">reíste<break time="0.75s">rió<break time="3s"></voice>
+
+<voice lang="es">preocuparse (to worry)<break time="3s"></voice>
+<voice lang="en">I worried<break time="0.75s">you worried<break time="0.75s">he worried<break time="4s"></voice>
+<voice lang="es">me preocupé<break time="0.75s">te preocupaste<break time="0.75s">se preocupó<break time="3s"></voice>
+
+<voice lang="es">alegrarse (to be happy)<break time="3s"></voice>
+<voice lang="en">I was happy<break time="0.75s">you were happy<break time="0.75s">he was happy<break time="4s"></voice>
+<voice lang="es">me alegré<break time="0.75s">te alegraste<break time="0.75s">se alegró<break time="3s"></voice>
+
+<voice lang="es">enojar (to anger)<break time="3s"></voice>
+<voice lang="en">I angered<break time="0.75s">you angered<break time="0.75s">he angered<break time="4s"></voice>
+<voice lang="es">enojé<break time="0.75s">enojaste<break time="0.75s">enojó<break time="3s"></voice>
+
+<voice lang="es">asustarse (to get scared)<break time="3s"></voice>
+<voice lang="en">I got scared<break time="0.75s">you got scared<break time="0.75s">he got scared<break time="4s"></voice>
+<voice lang="es">me asusté<break time="0.75s">te asustaste<break time="0.75s">se asustó<break time="3s"></voice>
+
+<voice lang="es">ayudar (to help)<break time="3s"></voice>
+<voice lang="en">I helped<break time="0.75s">you helped<break time="0.75s">he helped<break time="4s"></voice>
+<voice lang="es">ayudé<break time="0.75s">ayudaste<break time="0.75s">ayudó<break time="3s"></voice>
+
+<voice lang="es">amar (to love)<break time="3s"></voice>
+<voice lang="en">I loved<break time="0.75s">you loved<break time="0.75s">he loved<break time="4s"></voice>
+<voice lang="es">amé<break time="0.75s">amaste<break time="0.75s">amó<break time="3s"></voice>
+
+<voice lang="es">odiar (to hate)<break time="3s"></voice>
+<voice lang="en">I hated<break time="0.75s">you hated<break time="0.75s">he hated<break time="4s"></voice>
+<voice lang="es">odié<break time="0.75s">odiaste<break time="0.75s">odió<break time="3s"></voice>
+
+<voice lang="es">esperar (to wait/hope)<break time="3s"></voice>
+<voice lang="en">I waited<break time="0.75s">you waited<break time="0.75s">he waited<break time="4s"></voice>
+<voice lang="es">esperé<break time="0.75s">esperaste<break time="0.75s">esperó<break time="3s"></voice>
+
+<voice lang="es">perder (to lose)<break time="3s"></voice>
+<voice lang="en">I lost<break time="0.75s">you lost<break time="0.75s">he lost<break time="4s"></voice>
+<voice lang="es">perdí<break time="0.75s">perdiste<break time="0.75s">perdió<break time="3s"></voice>
+
+<voice lang="es">ganar (to win/earn)<break time="3s"></voice>
+<voice lang="en">I won<break time="0.75s">you won<break time="0.75s">he won<break time="4s"></voice>
+<voice lang="es">gané<break time="0.75s">ganaste<break time="0.75s">ganó<break time="3s"></voice>
+
+<voice lang="es">recibir (to receive)<break time="3s"></voice>
+<voice lang="en">I received<break time="0.75s">you received<break time="0.75s">he received<break time="4s"></voice>
+<voice lang="es">recibí<break time="0.75s">recibiste<break time="0.75s">recibió<break time="3s"></voice>
+
+<voice lang="en">Change and Transformation<break time="2s"></voice>
+<voice lang="es">Cambio y transformación<break time="2s"></voice>
+
+
+<voice lang="es">cambiar (to change)<break time="3s"></voice>
+<voice lang="en">I changed<break time="0.75s">you changed<break time="0.75s">he changed<break time="4s"></voice>
+<voice lang="es">cambié<break time="0.75s">cambiaste<break time="0.75s">cambió<break time="3s"></voice>
+
+<voice lang="es">convertir (to convert/become)<break time="3s"></voice>
+<voice lang="en">I converted<break time="0.75s">you converted<break time="0.75s">he converted<break time="4s"></voice>
+<voice lang="es">convertí<break time="0.75s">convertiste<break time="0.75s">convirtió<break time="3s"></voice>
+
+<voice lang="es">mejorar (to improve)<break time="3s"></voice>
+<voice lang="en">I improved<break time="0.75s">you improved<break time="0.75s">he improved<break time="4s"></voice>
+<voice lang="es">mejoré<break time="0.75s">mejoraste<break time="0.75s">mejoró<break time="3s"></voice>
+
+<voice lang="es">morir (to die)<break time="3s"></voice>
+<voice lang="en">I died<break time="0.75s">you died<break time="0.75s">he died<break time="4s"></voice>
+<voice lang="es">morí<break time="0.75s">moriste<break time="0.75s">murió<break time="3s"></voice>
+
+<voice lang="es">nacer (to be born)<break time="3s"></voice>
+<voice lang="en">I was born<break time="0.75s">you were born<break time="0.75s">he was born<break time="4s"></voice>
+<voice lang="es">nací<break time="0.75s">naciste<break time="0.75s">nació<break time="3s"></voice>
+
+<voice lang="es">crecer (to grow)<break time="3s"></voice>
+<voice lang="en">I grew<break time="0.75s">you grew<break time="0.75s">he grew<break time="4s"></voice>
+<voice lang="es">crecí<break time="0.75s">creciste<break time="0.75s">creció<break time="3s"></voice>
+
+<voice lang="en">Evaluation and Opinion<break time="2s"></voice>
+<voice lang="es">Evaluación y opinión<break time="2s"></voice>
+
+
+<voice lang="es">importar (to matter/be important)<break time="3s"></voice>
+<voice lang="en">it mattered<break time="0.75s">it mattered<break time="0.75s">it mattered<break time="4s"></voice>
+<voice lang="es">importó<break time="0.75s">importó<break time="0.75s">importó<break time="3s"></voice>
+
+<voice lang="es">interesar (to interest)<break time="3s"></voice>
+<voice lang="en">it interested<break time="0.75s">it interested<break time="0.75s">it interested<break time="4s"></voice>
+<voice lang="es">interesó<break time="0.75s">interesó<break time="0.75s">interesó<break time="3s"></voice>
+
+<voice lang="es">parecer (to seem/appear)<break time="3s"></voice>
+<voice lang="en">I seemed<break time="0.75s">you seemed<break time="0.75s">he seemed<break time="4s"></voice>
+<voice lang="es">parecí<break time="0.75s">pareciste<break time="0.75s">pareció<break time="3s"></voice>
+
+En final
+<break time="4s">

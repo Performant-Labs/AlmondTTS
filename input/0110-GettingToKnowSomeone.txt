@@ -1,0 +1,521 @@
+<voice lang="en">Getting to Know Someone<break time="1s"></voice>
+<voice lang="es">Conociendo a Alguien<break time="1s"></voice>
+
+<voice lang="es">Conocer a alguien<break time="3s"></voice>
+
+<voice lang="en">ENFOQUE INICIAL / CUMPLIMENTOS<break time="3s"></voice>
+
+<voice lang="en">I really like your hat, it looks good on you.<break time="5s"></voice>
+<voice lang="es">Me gusta mucho tu sombrero, te queda muy bien.<break time="3s"></voice>
+
+<voice lang="en">I really like your hat<break time="5s"></voice>
+<voice lang="es">Me gusta mucho tu sombrero<break time="3s"></voice>
+
+<voice lang="en">You stood out to me<break time="5s"></voice>
+<voice lang="es">Me llamaste la atención<break time="3s"></voice>
+
+<voice lang="en">You're so beautiful<break time="5s"></voice>
+<voice lang="en">Eres tan hermosa<break time="3s"></voice>
+
+<voice lang="en">That dress looks sexy on you<break time="5s"></voice>
+<voice lang="es">Ese vestido te queda sexy<break time="3s"></voice>
+
+<voice lang="en">You look stunning in that dress.<break time="5s"></voice>
+<voice lang="es">Te ves increíble con ese vestido.<break time="3s"></voice>
+
+<voice lang="en">You look breathtaking tonight.<break time="5s"></voice>
+<voice lang="es">Estás impresionante esta noche.<break time="3s"></voice>
+
+<voice lang="en">You look really hot in that.<break time="5s"></voice>
+<voice lang="es">Te ves muy sexy con eso.<break time="3s"></voice>
+
+<voice lang="en">You look amazing tonight.<break time="5s"></voice>
+<voice lang="es">Te ves increíble esta noche.<break time="3s"></voice>
+
+<voice lang="es">ATRIBUTOS FÍSICOS / APARIENCIA<break time="3s"></voice>
+
+<voice lang="en">You have beautiful eyes<break time="5s"></voice>
+<voice lang="es">Tienes ojos hermosos<break time="3s"></voice>
+
+<voice lang="en">You have soft skin<break time="5s"></voice>
+<voice lang="es">Tienes la piel suave<break time="3s"></voice>
+
+<voice lang="en">You have a nice smile<break time="5s"></voice>
+<voice lang="es">Tienes una sonrisa linda<break time="3s"></voice>
+
+<voice lang="en">You have great hair<break time="5s"></voice>
+<voice lang="es">Tienes un pelo hermoso<break time="3s"></voice>
+
+<voice lang="en">You have strong arms<break time="5s"></voice>
+<voice lang="es">Tienes brazos fuertes<break time="3s"></voice>
+
+<voice lang="en">You have a nice figure<break time="5s"></voice>
+<voice lang="es">Tienes una linda figura<break time="3s"></voice>
+
+<voice lang="en">You have a beautiful body<break time="5s"></voice>
+<voice lang="es">Tienes un cuerpo hermoso<break time="3s"></voice>
+
+<voice lang="en">You have pretty hands<break time="5s"></voice>
+<voice lang="es">Tienes manos bonitas<break time="3s"></voice>
+
+<voice lang="en">You have a lovely voice<break time="5s"></voice>
+<voice lang="es">Tienes una voz encantadora<break time="3s"></voice>
+
+<voice lang="en">What color are your eyes?<break time="5s"></voice>
+<voice lang="es">¿De qué color son tus ojos?<break time="3s"></voice>
+
+<voice lang="en">You have a beautiful smile.<break time="5s"></voice>
+<voice lang="es">Tienes una sonrisa preciosa.<break time="3s"></voice>
+
+<voice lang="en">I love the way you dress.<break time="5s"></voice>
+<voice lang="es">Me encanta cómo te vistes.<break time="3s"></voice>
+
+<voice lang="en">You have great taste.<break time="5s"></voice>
+<voice lang="es">Tienes muy buen gusto.<break time="3s"></voice>
+
+<voice lang="es">PERSONALIDAD / ENERGÍA<break time="3s"></voice>
+
+<voice lang="en">Your energy is very open and calming<break time="5s"></voice>
+<voice lang="es">Tu energía es muy abierta y calmante<break time="3s"></voice>
+
+<voice lang="en">I love your sense of humor.<break time="5s"></voice>
+<voice lang="es">Me encanta tu sentido del humor.<break time="3s"></voice>
+
+<voice lang="en">Your laugh is contagious.<break time="5s"></voice>
+<voice lang="en">Tu risa es contagiosa.<break time="3s"></voice>
+
+<voice lang="en">You're really easy to talk to.<break time="5s"></voice>
+<voice lang="es">Es muy fácil hablar contigo.<break time="3s"></voice>
+
+<voice lang="en">I feel really comfortable talking to you.<break time="5s"></voice>
+<voice lang="es">Me siento muy cómodo hablando contigo.<break time="3s"></voice>
+
+<voice lang="en">There's something about you I find really attractive.<break time="5s"></voice>
+<voice lang="es">Hay algo en ti que encuentro realmente atractivo.<break time="3s"></voice>
+
+<voice lang="en">I can't stop thinking about you.<break time="5s"></voice>
+<voice lang="es">No puedo dejar de pensar en ti.<break time="3s"></voice>
+
+<voice lang="es">UBICACIÓN / ANTECEDENTES<break time="3s"></voice>
+
+<voice lang="en">Do you live around here?<break time="5s"></voice>
+<voice lang="es">¿Vives por aquí?<break time="3s"></voice>
+
+<voice lang="en">Are you from around here?<break time="5s"></voice>
+<voice lang="es">¿Eres de por aquí?<break time="3s"></voice>
+
+<voice lang="en">What's your ethnicity?<break time="5s"></voice>
+<voice lang="es">¿Cuál es tu etnia?<break time="3s"></voice>
+
+<voice lang="en">Where are you from?<break time="5s"></voice>
+<voice lang="es">¿De dónde eres?<break time="3s"></voice>
+
+<voice lang="en">From a big city or more of a smaller town?<break time="5s"></voice>
+<voice lang="es">¿De una gran ciudad o más bien de un pueblo pequeño?<break time="3s"></voice>
+
+<voice lang="en">Where do you think I'm from?<break time="5s"></voice>
+<voice lang="es">¿De dónde crees que soy?<break time="3s"></voice>
+
+<voice lang="en">You're close!<break time="5s"></voice>
+<voice lang="es">¡Estás cerca!<break time="3s"></voice>
+
+<voice lang="en">I'm originally from Toronto, Canada, but I live in Idaho in the summer and Mexico in the winter.<break time="10s"></voice>
+<voice lang="es">Soy originario de Toronto, Canadá, pero vivo en Idaho en el verano y en México en el invierno.<break time="3s"></voice>
+
+<voice lang="en">I lived in California for 20 years before moving to Idaho and Mexico.<break time="8s"></voice>
+<voice lang="es">Viví en California durante 20 años antes de mudarme a Idaho y México.<break time="3s"></voice>
+
+<voice lang="en">Have you visited ___?<break time="5s"></voice>
+<voice lang="es">¿Has visitado ___?<break time="3s"></voice>
+
+<voice lang="en">Have you ever been to Canada?<break time="5s"></voice>
+<voice lang="es">¿Alguna vez has estado en Canadá?<break time="3s"></voice>
+
+<voice lang="en">I just came back from there.<break time="5s"></voice>
+<voice lang="es">Acabo de regresar de allí.<break time="3s"></voice>
+
+<voice lang="es">CONOCIÉNDOTE<break time="3s"></voice>
+
+<voice lang="en">What is your name?<break time="5s"></voice>
+<voice lang="es">¿Cómo te llamas?<break time="3s"></voice>
+
+<voice lang="en">That's a beautiful name<break time="5s"></voice>
+<voice lang="es">Es un nombre precioso.<break time="3s"></voice>
+
+<voice lang="en">Are you an artist of some sort?<break time="5s"></voice>
+<voice lang="es">¿Eres artista?<break time="3s"></voice>
+
+<voice lang="en">What do you do for fun?<break time="5s"></voice>
+<voice lang="es">¿Qué haces para divertirte?<break time="3s"></voice>
+
+<voice lang="en">Do you come here often?<break time="5s"></voice>
+<voice lang="es">¿Vienes aquí a menudo?<break time="3s"></voice>
+
+<voice lang="en">What kind of music do you like?<break time="5s"></voice>
+<voice lang="es">¿Qué tipo de música te gusta?<break time="3s"></voice>
+
+<voice lang="en">Do you have any hidden talents?<break time="5s"></voice>
+<voice lang="es">¿Tienes algún talento oculto?<break time="3s"></voice>
+
+<voice lang="en">What are you passionate about?<break time="5s"></voice>
+<voice lang="es">¿Qué te apasiona?<break time="3s"></voice>
+
+<voice lang="en">What's your favorite way to spend a weekend?<break time="5s"></voice>
+<voice lang="es">¿Cuál es tu forma favorita de pasar el fin de semana?<break time="3s"></voice>
+
+<voice lang="en">What's your idea of a perfect date?<break time="5s"></voice>
+<voice lang="es">¿Cuál es tu idea de una cita perfecta?<break time="3s"></voice>
+
+<voice lang="en">Do you believe in love at first sight?<break time="5s"></voice>
+<voice lang="es">¿Crees en el amor a primera vista?<break time="3s"></voice>
+
+<voice lang="es">ESTADO DE LA RELACIÓN<break time="3s"></voice>
+
+<voice lang="en">Do you have a partner?<break time="5s"></voice>
+<voice lang="es">¿Tienes pareja?"<break time="3s"></voice>
+
+<voice lang="en">Are you seeing someone?<break time="5s"></voice>
+<voice lang="es">¿Estás saliendo con alguien?<break time="3s"></voice>
+
+<voice lang="en">Are you with someone?<break time="5s"></voice>
+<voice lang="es">¿Andas con alguien?<break time="3s"></voice>
+
+<voice lang="en">Are you in a relationship?<break time="5s"></voice>
+<voice lang="es">¿Estás en una relación?<break time="3s"></voice>
+
+<voice lang="en">I'd like to get to know you better. Do you have a boyfriend?<break time="5s"></voice>
+<voice lang="es">Me gustaría conocerte mejor. ¿Tienes novio?<break time="3s"></voice>
+
+<voice lang="en">PEDIR SALIR / CITAS<break time="3s"></voice>
+
+<voice lang="en">I would love to take you out for a coffee or a drink.<break time="5s"></voice>
+<voice lang="es">Me encantaría invitarte a tomar un café o una copa.<break time="3s"></voice>
+
+<voice lang="en">Can I buy you a drink?<break time="5s"></voice>
+<voice lang="es">¿Puedo invitarte a una copa?<break time="3s"></voice>
+
+<voice lang="es">Tell me we're going to go on a date.<break time="5s"></voice>
+<voice lang="es">Dime que vamos a tener una cita.<break time="3s"></voice>
+
+<voice lang="en">Does this count as a date?<break time="5s"></voice>
+<voice lang="es">¿Esto cuenta como una cita?<break time="3s"></voice>
+
+<voice lang="en">Are you asking me out on a date?<break time="5s"></voice>
+<voice lang="es">¿Me estás invitando a una cita?<break time="3s"></voice>
+
+<voice lang="en">I think we should have a date<break time="5s"></voice>
+<voice lang="es">Creo que deberíamos tener una cita<break time="3s"></voice>
+
+<voice lang="es">INFORMACIÓN DE CONTACTO<break time="3s"></voice>
+
+<voice lang="en">Can I get your number?<break time="5s"></voice>
+<voice lang="es">¿Puedo obtener tu número de celular?<break time="3s"></voice>
+
+<voice lang="en">Will you give me your number?<break time="5s"></voice>
+<voice lang="es">¿Me das tu número?<break time="3s"></voice>
+
+<voice lang="en">What's your number?<break time="5s"></voice>
+<voice lang="es">¿Cuál es tu número?<break time="3s"></voice>
+
+<voice lang="en">Should we exchange numbers?<break time="5s"></voice>
+<voice lang="es">¿Nos intercambiamos números?<break time="3s"></voice>
+
+<voice lang="en">I'd like to stay in touch, will you give me your number?<break time="6s"></voice>
+<voice lang="es">Me gustaría seguir en contacto, ¿me das tu número?<break time="3s"></voice>
+
+<voice lang="en">So we don't lose touch, give me your number?<break time="5s"></voice>
+<voice lang="es">Para no perder contacto, ¿me pasas tu número?<break time="3s"></voice>
+
+<voice lang="en">Can I call/text you?<break time="5s"></voice>
+<voice lang="es">¿Te puedo llamar/escribir?<break time="3s"></voice>
+
+<voice lang="en">I will text you to see when you are free.<break time="5s"></voice>
+<voice lang="es">Te enviaré un mensaje para ver cuándo estás libre<break time="3s"></voice>
+
+<voice lang="en">I will text you and see when you are free (#2)<break time="5s"></voice>
+<voice lang="es">Te mando un mensaje para ver cuándo estás libre<break time="3s"></voice>
+
+<voice lang="en">I'll text you later to coordinate<break time="5s"></voice>
+<voice lang="es">Te escribo después para coordinar<break time="3s"></voice>
+
+<voice lang="en">I'll text you so we can agree/make plans<break time="5s"></voice>
+<voice lang="es">Te escribo para ponernos de acuerdo<break time="3s"></voice>
+
+<voice lang="en">I'll send you a message and we'll coordinate<break time="5s"></voice>
+<voice lang="es">Te mando un mensaje y coordinamos<break time="3s"></voice>
+
+<voice lang="en">I'll text you during the week to see when we can meet<break time="5s"></voice>
+<voice lang="es">Te escribo en la semana para ver cuándo nos podemos ver<break time="3s"></voice>
+
+<voice lang="en">Can I take a picture with you?<break time="5s"></voice>
+<voice lang="es">¿Puedo tomarme una foto contigo?<break time="3s"></voice>
+
+<voice lang="en">REACCIONES / FRASES GENERALES<break time="3s"></voice>
+
+<voice lang="en">That's cool<break time="5s"></voice>
+<voice lang="es">Qué cool<break time="3s"></voice>
+
+<voice lang="en">That's cool (Costa Rica)<break time="5s"></voice>
+<voice lang="es">Qué tuanis<break time="3s"></voice>
+
+<voice lang="en">That's cool (Mexico)<break time="5s"></voice>
+<voice lang="es">Está padrísimo<break time="3s"></voice>
+
+<voice lang="en">That's cool (general)<break time="5s"></voice>
+<voice lang="es">Qué genial<break time="3s"></voice>
+
+<voice lang="en">We don't judge here<break time="5s"></voice>
+<voice lang="es">Aquí no juzgamos<break time="3s"></voice>
+
+<voice lang="es">Congratulations!<break time="5s"></voice>
+<voice lang="es">¡Felicidades!<break time="3s"></voice>
+
+<voice lang="en">COMIDA Y BEBIDAS<break time="2s"></voice>
+<voice lang="es">COMIDA Y BEBIDAS<break time="2s"></voice>
+
+
+<voice lang="en">What's your favorite food?<break time="5s"></voice>
+<voice lang="es">¿Cuál es tu comida favorita?<break time="3s"></voice>
+
+<voice lang="en">Do you like spicy food?<break time="5s"></voice>
+<voice lang="es">¿Te gusta la comida picante?<break time="3s"></voice>
+
+<voice lang="en">Have you tried tacos al pastor?<break time="5s"></voice>
+<voice lang="es">¿Has probado los tacos al pastor?<break time="3s"></voice>
+
+<voice lang="en">What's the best restaurant you've been to?<break time="5s"></voice>
+<voice lang="es">¿Cuál es el mejor restaurante al que has ido?<break time="3s"></voice>
+
+<voice lang="en">Do you cook?<break time="5s"></voice>
+<voice lang="es">¿Cocinas?<break time="3s"></voice>
+
+<voice lang="en">Do you like to cook?<break time="5s"></voice>
+<voice lang="es">¿Te gusta cocinar?<break time="3s"></voice>
+
+<voice lang="en">What do you like to cook?<break time="5s"></voice>
+<voice lang="es">¿Qué te gusta cocinar?<break time="3s"></voice>
+
+<voice lang="en">Coffee or tea?<break time="5s"></voice>
+<voice lang="es">¿Café o té?<break time="3s"></voice>
+
+<voice lang="en">What do you like to drink?<break time="5s"></voice>
+<voice lang="es">¿Qué te gusta tomar?<break time="3s"></voice>
+
+<voice lang="en">ACTIVIDADES Y AFICIONES<break time="2s"></voice>
+<voice lang="es">ACTIVIDADES Y AFICIONES<break time="2s"></voice>
+
+<voice lang="en">What do you like to do in your free time?<break time="5s"></voice>
+<voice lang="es">¿Qué te gusta hacer en tu tiempo libre?<break time="3s"></voice>
+
+<voice lang="en">Do you play any sports?<break time="5s"></voice>
+<voice lang="es">¿Practicas algún deporte?<break time="3s"></voice>
+
+<voice lang="en">Are you into fitness?<break time="5s"></voice>
+<voice lang="es">¿Te gusta el ejercicio?<break time="3s"></voice>
+
+<voice lang="en">Do you work out?<break time="5s"></voice>
+<voice lang="es">¿Haces ejercicio?<break time="3s"></voice>
+
+<voice lang="en">Do you like to dance?<break time="5s"></voice>
+<voice lang="es">¿Te gusta bailar?<break time="3s"></voice>
+
+<voice lang="en">Do you travel often?<break time="5s"></voice>
+<voice lang="es">¿Viajas seguido?<break time="3s"></voice>
+
+<voice lang="en">What's the best place you've traveled to?<break time="5s"></voice>
+<voice lang="es">¿Cuál es el mejor lugar al que has viajado?<break time="3s"></voice>
+
+<voice lang="en">Where would you like to travel?<break time="5s"></voice>
+<voice lang="es">¿A dónde te gustaría viajar?<break time="3s"></voice>
+
+<voice lang="en">Do you like the beach or the mountains?<break time="5s"></voice>
+<voice lang="es">¿Te gusta más la playa o la montaña?<break time="3s"></voice>
+
+<voice lang="en">What do you do on weekends?<break time="5s"></voice>
+<voice lang="es">¿Qué haces los fines de semana?<break time="3s"></voice>
+
+<voice lang="en">TRABAJO/CARRERA PROFESIONAL<break time="2s"></voice>
+<voice lang="es">TRABAJO/CARRERA PROFESIONAL<break time="2s"></voice>
+
+
+<voice lang="en">What do you do for work?<break time="5s"></voice>
+<voice lang="es">¿A qué te dedicas?<break time="3s"></voice>
+
+<voice lang="en">Do you enjoy your job?<break time="5s"></voice>
+<voice lang="es">¿Te gusta tu trabajo?<break time="3s"></voice>
+
+<voice lang="en">What did you study?<break time="5s"></voice>
+<voice lang="es">¿Qué estudiaste?<break time="3s"></voice>
+
+<voice lang="en">Where did you go to school?<break time="5s"></voice>
+<voice lang="es">¿Dónde estudiaste?<break time="3s"></voice>
+
+<voice lang="en">What's your dream job?<break time="5s"></voice>
+<voice lang="es">¿Cuál es el trabajo de tus sueños?<break time="3s"></voice>
+
+<voice lang="en">DURANTE LA CITA<break time="2s"></voice>
+<voice lang="es">DURANTE LA CITA<break time="2s"></voice>
+
+
+<voice lang="en">I'm having a great time with you<break time="5s"></voice>
+<voice lang="es">La estoy pasando muy bien contigo<break time="3s"></voice>
+
+<voice lang="en">This is nice<break time="5s"></voice>
+<voice lang="es">Esto está lindo<break time="3s"></voice>
+
+<voice lang="en">I'm really enjoying our conversation<break time="5s"></voice>
+<voice lang="es">Estoy disfrutando mucho nuestra conversación<break time="3s"></voice>
+
+<voice lang="en">You make me laugh<break time="5s"></voice>
+<voice lang="es">Me haces reír<break time="3s"></voice>
+
+<voice lang="en">I feel a connection with you<break time="5s"></voice>
+<voice lang="es">Siento una conexión contigo<break time="3s"></voice>
+
+<voice lang="en">The time is flying by<break time="5s"></voice>
+<voice lang="es">El tiempo está volando<break time="3s"></voice>
+
+<voice lang="en">I don't want this to end<break time="5s"></voice>
+<voice lang="es">No quiero que esto termine<break time="3s"></voice>
+
+<voice lang="en">This feels natural<break time="5s"></voice>
+<voice lang="es">Esto se siente natural<break time="3s"></voice>
+
+<voice lang="en">I'm glad I met you<break time="5s"></voice>
+<voice lang="es">Me alegra haberte conocido<break time="3s"></voice>
+
+<voice lang="en">COQUETEO/ESCALADA<break time="2s"></voice>
+<voice lang="es">COQUETEO/ESCALADA<break time="2s"></voice>
+
+
+<voice lang="en">I love talking to you<break time="5s"></voice>
+<voice lang="es">Me encanta hablar contigo<break time="3s"></voice>
+
+<voice lang="en">You're different from other people<break time="5s"></voice>
+<voice lang="en">Eres diferente a otras personas<break time="3s"></voice>
+
+<voice lang="en">There's something special about you<break time="5s"></voice>
+<voice lang="es">Hay algo especial en ti<break time="3s"></voice>
+
+<voice lang="en">I'm attracted to you<break time="5s"></voice>
+<voice lang="es">Me atraes<break time="3s"></voice>
+
+<voice lang="en">I feel chemistry between us<break time="5s"></voice>
+<voice lang="es">Siento química entre nosotros<break time="3s"></voice>
+
+<voice lang="en">Can I hold your hand?<break time="5s"></voice>
+<voice lang="es">¿Puedo tomar tu mano?<break time="3s"></voice>
+
+<voice lang="en">Can I kiss you?<break time="5s"></voice>
+<voice lang="es">¿Puedo besarte?<break time="3s"></voice>
+
+<voice lang="en">I want to see you again<break time="5s"></voice>
+<voice lang="en">Quiero verte otra vez<break time="3s"></voice>
+
+<voice lang="en">When can I see you again?<break time="5s"></voice>
+<voice lang="es">¿Cuándo te puedo volver a ver?<break time="3s"></voice>
+
+<voice lang="en">I don't want to say goodbye yet<break time="5s"></voice>
+<voice lang="es">No quiero despedirme todavía<break time="3s"></voice>
+
+<voice lang="en">LOGÍSTICA/ASPECTOS PRÁCTICOS<break time="2s"></voice>
+<voice lang="es">LOGÍSTICA/ASPECTOS PRÁCTICOS<break time="2s"></voice>
+
+
+<voice lang="en">What time do you need to leave?<break time="5s"></voice>
+<voice lang="es">¿A qué hora te tienes que ir?<break time="3s"></voice>
+
+<voice lang="en">Where are you headed?<break time="5s"></voice>
+<voice lang="es">¿A dónde vas?<break time="3s"></voice>
+
+<voice lang="en">Can I walk you to your car?<break time="5s"></voice>
+<voice lang="es">¿Te acompaño a tu carro?<break time="3s"></voice>
+
+<voice lang="en">Can I walk you home?<break time="5s"></voice>
+<voice lang="es">¿Te acompaño a tu casa?<break time="3s"></voice>
+
+<voice lang="en">Do you need a ride?<break time="5s"></voice>
+<voice lang="es">¿Necesitas que te lleve?<break time="3s"></voice>
+
+<voice lang="en">Can I give you a ride?<break time="5s"></voice>
+<voice lang="es">¿Te puedo llevar?<break time="3s"></voice>
+
+<voice lang="en">Are you free this weekend?<break time="5s"></voice>
+<voice lang="es">¿Estás libre este fin de semana?<break time="3s"></voice>
+
+<voice lang="en">What are you doing tomorrow?<break time="5s"></voice>
+<voice lang="es">¿Qué haces mañana?<break time="3s"></voice>
+
+<voice lang="en">Do you have plans tonight?<break time="5s"></voice>
+<voice lang="es">¿Tienes planes esta noche?<break time="3s"></voice>
+
+<voice lang="en">RESPUESTAS A ELLA<break time="2s"></voice>
+<voice lang="es">RESPUESTAS A ELLA<break time="2s"></voice>
+
+
+<voice lang="en">Really? Tell me more<break time="5s"></voice>
+<voice lang="es">¿En serio? Cuéntame más<break time="3s"></voice>
+
+<voice lang="en">That's interesting<break time="5s"></voice>
+<voice lang="es">Qué interesante<break time="3s"></voice>
+
+<voice lang="en">I didn't know that<break time="5s"></voice>
+<voice lang="es">No sabía eso<break time="3s"></voice>
+
+<voice lang="es">Me too!<break time="5s"></voice>
+<voice lang="es">¡Yo también!<break time="3s"></voice>
+
+<voice lang="en">That's amazing<break time="5s"></voice>
+<voice lang="es">Eso es increíble<break time="3s"></voice>
+
+<voice lang="en">I'd love to hear about that<break time="5s"></voice>
+<voice lang="es">Me encantaría escuchar sobre eso<break time="3s"></voice>
+
+<voice lang="en">That sounds fun<break time="5s"></voice>
+<voice lang="en">Suena divertido<break time="3s"></voice>
+
+<voice lang="en">I agree<break time="5s"></voice>
+<voice lang="es">Estoy de acuerdo<break time="3s"></voice>
+
+<voice lang="en">Exactly!<break time="5s"></voice>
+<voice lang="es">¡Exacto!<break time="3s"></voice>
+
+<voice lang="en">For sure<break time="5s"></voice>
+<voice lang="es">Claro que sí<break time="3s"></voice>
+
+<voice lang="en">ADIÓS<break time="2s"></voice>
+<voice lang="es">ADIÓS<break time="2s"></voice>
+
+
+<voice lang="en">It was great meeting you<break time="5s"></voice>
+<voice lang="es">Fue un placer conocerte<break time="3s"></voice>
+
+<voice lang="en">I had a really good time<break time="5s"></voice>
+<voice lang="es">La pasé muy bien<break time="3s"></voice>
+
+<voice lang="en">I hope to see you soon<break time="5s"></voice>
+<voice lang="es">Espero verte pronto<break time="3s"></voice>
+
+<voice lang="en">Have a good night<break time="5s"></voice>
+<voice lang="es">Que tengas buena noche<break time="3s"></voice>
+
+<voice lang="en">Get home safe<break time="5s"></voice>
+<voice lang="en">Llega bien a casa<break time="3s"></voice>
+
+<voice lang="en">Take care<break time="5s"></voice>
+<voice lang="es">Cuídate<break time="3s"></voice>
+
+<voice lang="en">Sweet dreams<break time="5s"></voice>
+<voice lang="es">Dulces sueños<break time="3s"></voice>
+
+<voice lang="en">Until next time<break time="5s"></voice>
+<voice lang="es">Hasta la próxima<break time="3s"></voice>
+
+<voice lang="es">See you soon<break time="5s"></voice>
+<voice lang="es">Nos vemos pronto<break time="3s"></voice>
+
+<voice lang="en">Talk to you later<break time="5s"></voice>
+<voice lang="en">Hablamos luego<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

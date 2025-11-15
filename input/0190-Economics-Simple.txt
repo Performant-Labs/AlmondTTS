@@ -1,0 +1,85 @@
+<voice lang="en">Economics - Simple<break time="1s"></voice>
+<voice lang="es">Economía - Simple<break time="1s"></voice>
+
+
+<voice lang="en">Hopefully a real conversation about the debt and deficit is actually starting<break time="6s"></voice>
+<voice lang="es">Ojalá que empiece una conversación real sobre la deuda y el déficit<break time="3s"></voice>
+
+<voice lang="en">Here we go again from the King of Chaos<break time="6s"></voice>
+<voice lang="es">Aquí vamos otra vez con el Rey del Caos<break time="3s"></voice>
+
+<voice lang="en">He speaks the reality of America's fiscal situation: DOGE is a gimmick<break time="6s"></voice>
+<voice lang="es">Habla de la realidad de la situación fiscal de Estados Unidos: DOGE es puro show<break time="3s"></voice>
+
+<voice lang="en">Is Trump the right man for the job?<break time="6s"></voice>
+<voice lang="es">¿Es Trump el hombre indicado para el puesto?<break time="3s"></voice>
+
+<voice lang="en">Absolutely not<break time="5s"></voice>
+<voice lang="es">Para nada (or "Claro que no")<break time="3s"></voice>
+
+<voice lang="en">All he does is get people to dig in their heels<break time="6s"></voice>
+<voice lang="es">Lo único que logra es que la gente se ponga más terca<break time="3s"></voice>
+
+<voice lang="en">America is broke, politics has frozen, and the system can't function as the Founders envisaged<break time="8s"></voice>
+<voice lang="es">Estados Unidos está quebrado, la política está congelada y el sistema no puede funcionar como lo imaginaron los Fundadores<break time="3s"></voice>
+
+<voice lang="es">No less striking, paralysis is spreading through the whole government apparatus<break time="8s"></voice>
+<voice lang="es">Igual de impactante, la parálisis se está extendiendo por todo el aparato gubernamental<break time="3s"></voice>
+
+<voice lang="en">Temas Económicos y Financieros<break time="2s"></voice>
+<voice lang="es">Temas Económicos y Financieros<break time="2s"></voice>
+
+
+<voice lang="en">Basically we're all fracked<break time="5s"></voice>
+<voice lang="es">Básicamente, estamos bien jodidos (or "estamos fritos")<break time="3s"></voice>
+
+<voice lang="en">And the aging population is a time bomb<break time="6s"></voice>
+<voice lang="es">Y el envejecimiento de la población es una bomba de tiempo<break time="3s"></voice>
+
+<voice lang="en">He's giving free lessons in financial literacy<break time="6s"></voice>
+<voice lang="es">Está dando clases gratis de educación financiera<break time="3s"></voice>
+
+<voice lang="en">Besides, that just brings the budget into balance—It does nothing to work down the existing debt!<break time="8s"></voice>
+<voice lang="es">Además, eso solo balancea el presupuesto—¡no hace nada para reducir la deuda que ya existe!<break time="3s"></voice>
+
+<voice lang="en">Referencias a Criptomonedas<break time="2s"></voice>
+<voice lang="es">Referencias a Criptomonedas<break time="2s"></voice>
+
+
+<voice lang="es">Melania has launched her own shit coin<break time="6s"></voice>
+<voice lang="es">Melania lanzó su propia moneda basura (or "su propia shitcoin")<break time="3s"></voice>
+
+<voice lang="en">He'll let it go high, cash in, and then it'll be worthless?<break time="6s"></voice>
+<voice lang="es">¿La dejará subir, sacará su dinero y luego no va a valer nada?<break time="3s"></voice>
+
+<voice lang="en">Plus anyone can buy them and blackmail him<break time="6s"></voice>
+<voice lang="es">Además, cualquiera puede comprarlas y chantajearlo<break time="3s"></voice>
+
+<voice lang="en">Muletillas y Reacciones Conversacionales<break time="2s"></voice>
+<voice lang="es">Muletillas y Reacciones Conversacionales<break time="2s"></voice>
+
+
+<voice lang="en">Here are the bullet points, thx to one of the bots<break time="6s"></voice>
+<voice lang="es">Aquí están los puntos principales, gracias a uno de los bots<break time="3s"></voice>
+
+<voice lang="en">This is nuts if true<break time="5s"></voice>
+<voice lang="es">Esto es una locura si es cierto<break time="3s"></voice>
+
+<voice lang="en">Exactly what I was saying<break time="5s"></voice>
+<voice lang="es">Exactamente lo que yo decía (this one was already good)<break time="3s"></voice>
+
+<voice lang="en">Preguntas y Aclaraciones<break time="2s"></voice>
+<voice lang="es">Preguntas y Aclaraciones<break time="2s"></voice>
+
+
+<voice lang="en">That's why they killed them off<break time="5s"></voice>
+<voice lang="es">Por eso los mataron<break time="3s"></voice>
+
+<voice lang="en">Who is they in this case?<break time="5s"></voice>
+<voice lang="es">¿Quiénes son "ellos" en este caso?<break time="3s"></voice>
+
+<voice lang="en">There is a trans terror cult???<break time="5s"></voice>
+<voice lang="es">¿Existe un culto terrorista trans???<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

@@ -1,0 +1,227 @@
+<voice lang="en">Basic Grammar<break time="1s"></voice>
+<voice lang="es">Gramática básica<break time="1s"></voice>
+
+<voice lang="en">The apple is red.<break time="5s"></voice>
+<voice lang="es">La manzana es roja.<break time="3s"></voice>
+
+<voice lang="en">Is the apple red?<break time="5s"></voice>
+<voice lang="es">¿Es roja la manzana?<break time="3s"></voice>
+
+<voice lang="en">The apples are red.<break time="5s"></voice>
+<voice lang="es">Las manzanas son rojas.<break time="3s"></voice>
+
+<voice lang="en">Are the apples red?<break time="5s"></voice>
+<voice lang="es">¿Son rojas las manzanas?<break time="3s"></voice>
+
+<voice lang="en">The apples aren't red.<break time="5s"></voice>
+<voice lang="es">Las manzanas no son rojas.<break time="3s"></voice>
+
+<voice lang="en">The red apples are red.<break time="5s"></voice>
+<voice lang="es">Las manzanas rojas son rojas.<break time="3s"></voice>
+
+<voice lang="en">It is John's apple.<break time="5s"></voice>
+<voice lang="es">Es la manzana de John.<break time="3s"></voice>
+
+<voice lang="en">It is not John's apple.<break time="5s"></voice>
+<voice lang="es">No es la manzana de John.<break time="3s"></voice>
+
+<voice lang="en">Is the apple John's?<break time="5s"></voice>
+<voice lang="es">¿La manzana es de John?<break time="3s"></voice>
+
+<voice lang="en">It is my apple.<break time="5s"></voice>
+<voice lang="es">Es mi manzana.<break time="3s"></voice>
+
+<voice lang="en">Is it your apple?<break time="5s"></voice>
+<voice lang="es">¿Es tu manzana?<break time="3s"></voice>
+
+<voice lang="en">It is our apple.<break time="5s"></voice>
+<voice lang="es">Es nuestra manzana.<break time="3s"></voice>
+
+<voice lang="en">I like the apple.<break time="5s"></voice>
+<voice lang="es">Me gusta la manzana.<break time="3s"></voice>
+
+<voice lang="en">Do you like the apple?<break time="5s"></voice>
+<voice lang="es">¿Te gusta la manzana?<break time="3s"></voice>
+
+<voice lang="en">I don't like the apple.<break time="5s"></voice>
+<voice lang="es">No me gusta la manzana.<break time="3s"></voice>
+
+<voice lang="en">We like the apple.<break time="5s"></voice>
+<voice lang="es">Nos gusta la manzana.<break time="3s"></voice>
+
+<voice lang="en">He likes the apple.<break time="5s"></voice>
+<voice lang="es">Le gusta la manzana.<break time="3s"></voice>
+
+<voice lang="en">I give John the apple.<break time="5s"></voice>
+<voice lang="es">Le doy la manzana a John.<break time="3s"></voice>
+
+<voice lang="en">I don't give him the apple.<break time="5s"></voice>
+<voice lang="es">No le doy la manzana.<break time="3s"></voice>
+
+<voice lang="en">We give him the apple.<break time="5s"></voice>
+<voice lang="es">Le damos la manzana.<break time="3s"></voice>
+
+<voice lang="en">He gives it to John.<break time="5s"></voice>
+<voice lang="es">Se lo da a John.<break time="3s"></voice>
+
+<voice lang="en">She gives it to him.<break time="5s"></voice>
+<voice lang="es">Ella se lo da.<break time="3s"></voice>
+
+<voice lang="en">I must give it to him.<break time="5s"></voice>
+<voice lang="es">Debo dárselo.<break time="3s"></voice>
+
+<voice lang="en">I must not give it to you.<break time="5s"></voice>
+<voice lang="es">No debo dártelo.<break time="3s"></voice>
+
+<voice lang="en">You must give it to me.<break time="5s"></voice>
+<voice lang="es">Debes dármelo.<break time="3s"></voice>
+
+<voice lang="en">They must give it to us.<break time="5s"></voice>
+<voice lang="es">Deben dárnoslo.<break time="3s"></voice>
+
+<voice lang="en">We must give it to them.<break time="5s"></voice>
+<voice lang="es">Debemos dárselo.<break time="3s"></voice>
+
+<voice lang="en">I want to give it to her.<break time="5s"></voice>
+<voice lang="es">Quiero dárselo.<break time="3s"></voice>
+
+<voice lang="en">Do you want to give it to me?<break time="5s"></voice>
+<voice lang="es">¿Quieres dármelo?<break time="3s"></voice>
+
+<voice lang="en">She wants to give it to you.<break time="5s"></voice>
+<voice lang="es">Quiere dártelo.<break time="3s"></voice>
+
+<voice lang="en">Give me the apple!<break time="5s"></voice>
+<voice lang="es">¡Dame la manzana!<break time="3s"></voice>
+
+<voice lang="en">Buy the apple!<break time="5s"></voice>
+<voice lang="es">¡Compra la manzana!<break time="3s"></voice>
+
+<voice lang="en">Don't give him the apple!<break time="5s"></voice>
+<voice lang="es">¡No le des la manzana!<break time="3s"></voice>
+
+<voice lang="en">Don't buy the apple!<break time="5s"></voice>
+<voice lang="es">¡No compres la manzana!<break time="3s"></voice>
+
+<voice lang="en">Eat the apple now!<break time="5s"></voice>
+<voice lang="es">¡Cómete la manzana ya!<break time="3s"></voice>
+
+<voice lang="en">Don't eat the apple!<break time="5s"></voice>
+<voice lang="es">¡No te comas la manzana!<break time="3s"></voice>
+
+<voice lang="en">I'm going to buy it tomorrow.<break time="5s"></voice>
+<voice lang="es">Voy a comprarlo mañana.<break time="3s"></voice>
+
+<voice lang="en">He is going to buy it tomorrow.<break time="5s"></voice>
+<voice lang="es">Va a comprarlo mañana.<break time="3s"></voice>
+
+<voice lang="en">You are going to buy it tomorrow.<break time="5s"></voice>
+<voice lang="es">Vas a comprarlo mañana.<break time="3s"></voice>
+
+<voice lang="en">They are going to buy it tomorrow.<break time="5s"></voice>
+<voice lang="es">Van a comprarlo mañana.<break time="3s"></voice>
+
+<voice lang="en">I can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No puedo comerme la manzana.<break time="3s"></voice>
+
+<voice lang="en">You can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No puedes comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">We can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No podemos comernos la manzana.<break time="3s"></voice>
+
+<voice lang="en">I can't give you the apple.<break time="5s"></voice>
+<voice lang="es">No puedo darte la manzana.<break time="3s"></voice>
+
+<voice lang="en">You can't buy the apple.<break time="5s"></voice>
+<voice lang="es">No puedes comprar la manzana.<break time="3s"></voice>
+
+<voice lang="en">I have bought the apple.<break time="5s"></voice>
+<voice lang="en">He comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">I have eaten the apple.<break time="5s"></voice>
+<voice lang="es">Me he comido la manzana.<break time="3s"></voice>
+
+<voice lang="en">I have given the apple to her.<break time="5s"></voice>
+<voice lang="es">Le he dado la manzana.<break time="3s"></voice>
+
+<voice lang="en">I haven't given the apple to her.<break time="5s"></voice>
+<voice lang="es">No le he dado la manzana.<break time="3s"></voice>
+
+<voice lang="en">You have bought the apple.<break time="5s"></voice>
+<voice lang="en">Has comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">You haven't bought the apple.<break time="5s"></voice>
+<voice lang="es">No has comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">If I have a book, I read the book.<break time="5s"></voice>
+<voice lang="es">Si tengo un libro, leo el libro.<break time="3s"></voice>
+
+<voice lang="en">If I have a book, I'll read it.<break time="5s"></voice>
+<voice lang="es">Si tengo un libro, lo leeré.<break time="3s"></voice>
+
+<voice lang="en">You should read the book.<break time="5s"></voice>
+<voice lang="es">Deberías leer el libro.<break time="3s"></voice>
+
+<voice lang="en">You shouldn't read the book.<break time="5s"></voice>
+<voice lang="es">No deberías leer el libro.<break time="3s"></voice>
+
+<voice lang="en">I shouldn't have read the book.<break time="5s"></voice>
+<voice lang="es">No debería haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">We should have read the book.<break time="5s"></voice>
+<voice lang="es">Deberíamos haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">If I had a book, I would read the book.<break time="5s"></voice>
+<voice lang="es">Si tuviera un libro, leería el libro.<break time="3s"></voice>
+
+<voice lang="en">If we had a book, we would read the book.<break time="5s"></voice>
+<voice lang="es">Si tuviéramos un libro, leeríamos el libro.<break time="3s"></voice>
+
+<voice lang="en">You could have read the book.<break time="5s"></voice>
+<voice lang="es">Podrías haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">You couldn't have read the book.<break time="5s"></voice>
+<voice lang="es">No podrías haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">If I have an apple, I eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tengo una manzana, me como la manzana.<break time="3s"></voice>
+
+<voice lang="en">If I have an apple, I will eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tengo una manzana, me la comeré.<break time="3s"></voice>
+
+<voice lang="en">You should eat the apple.<break time="5s"></voice>
+<voice lang="es">Deberías comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">You shouldn't eat the apple.<break time="5s"></voice>
+<voice lang="es">No deberías comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">I shouldn't have eaten the apple.<break time="5s"></voice>
+<voice lang="es">No debería haberme comido la manzana.<break time="3s"></voice>
+
+<voice lang="en">We should have eaten the apple.<break time="5s"></voice>
+<voice lang="es">Deberíamos habernos comido la manzana.<break time="3s"></voice>
+
+<voice lang="en">If I had an apple, I would eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tuviera una manzana, me comería la manzana.<break time="3s"></voice>
+
+<voice lang="en">If we had an apple, we would eat the apple.<break time="6s"></voice>
+<voice lang="es">Si tuviéramos una manzana, nos comeríamos la manzana.<break time="3s"></voice>
+
+<voice lang="en">You could have bought the apple.<break time="5s"></voice>
+<voice lang="es">Podrías haber comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">You couldn't have bought the apple.<break time="5s"></voice>
+<voice lang="es">No podrías haber comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">I want you to eat the apple.<break time="5s"></voice>
+<voice lang="en">Quiero que te comas la manzana.<break time="3s"></voice>
+
+<voice lang="en">I've told you to eat the apple.<break time="5s"></voice>
+<voice lang="es">Te he dicho que te comas la manzana.<break time="3s"></voice>
+
+<voice lang="en">You want me to eat the apple.<break time="5s"></voice>
+<voice lang="en">Quieres que me coma la manzana.<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>
