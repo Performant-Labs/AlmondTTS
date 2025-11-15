@@ -1,0 +1,564 @@
+<voice lang="en">Sentence Starters<break time="1s"></voice>
+<voice lang="es">Inicios de frases<break time="1s"></voice>
+
+<voice lang="en">TIME AND SEQUENCE<break time="2s"></voice>
+<voice lang="es">TIEMPO Y SECUENCIA<break time="2s"></voice>
+
+<voice lang="en">Meanwhile<break time="3s"></voice>
+<voice lang="es">Mientras tanto<break time="3s"></voice>
+
+<voice lang="en">Previously<break time="3s"></voice>
+<voice lang="es">Anteriormente<break time="3s"></voice>
+
+<voice lang="en">Earlier<break time="3s"></voice>
+<voice lang="es">Antes<break time="3s"></voice>
+
+<voice lang="en">Afterwards<break time="3s"></voice>
+<voice lang="es">Después<break time="3s"></voice>
+
+<voice lang="en">Eventually<break time="3s"></voice>
+<voice lang="es">Con el tiempo<break time="3s"></voice>
+
+<voice lang="en">Initially<break time="3s"></voice>
+<voice lang="es">Inicialmente<break time="3s"></voice>
+
+<voice lang="en">First of all<break time="3s"></voice>
+<voice lang="es">En primer lugar<break time="3s"></voice>
+
+<voice lang="en">To start with<break time="3s"></voice>
+<voice lang="es">Para empezar<break time="3s"></voice>
+
+<voice lang="en">At first<break time="3s"></voice>
+<voice lang="es">Al principio<break time="3s"></voice>
+
+<voice lang="en">In the beginning<break time="3s"></voice>
+<voice lang="es">Al comienzo<break time="3s"></voice>
+
+<voice lang="en">Sometimes<break time="3s"></voice>
+<voice lang="en">A veces<break time="3s"></voice>
+
+<voice lang="en">Suddenly<break time="3s"></voice>
+<voice lang="en">De repente<break time="3s"></voice>
+
+<voice lang="en">From now on<break time="3s"></voice>
+<voice lang="en">De ahora en adelante<break time="3s"></voice>
+
+<voice lang="en">Until now<break time="3s"></voice>
+<voice lang="en">Hasta ahora<break time="3s"></voice>
+
+<voice lang="en">Up to this point<break time="3s"></voice>
+<voice lang="en">Hasta este punto<break time="3s"></voice>
+
+<voice lang="en">Since then<break time="3s"></voice>
+<voice lang="en">Desde entonces<break time="3s"></voice>
+
+<voice lang="en">After this<break time="3s"></voice>
+<voice lang="es">Después de esto<break time="3s"></voice>
+
+<voice lang="en">Before that<break time="3s"></voice>
+<voice lang="es">Antes de eso<break time="3s"></voice>
+
+<voice lang="en">As soon as<break time="3s"></voice>
+<voice lang="en">En cuanto<break time="3s"></voice>
+
+<voice lang="en">Right away<break time="3s"></voice>
+<voice lang="en">De inmediato<break time="3s"></voice>
+
+<voice lang="en">At the same time<break time="3s"></voice>
+<voice lang="es">Al mismo tiempo<break time="3s"></voice>
+
+<voice lang="en">Little by little<break time="3s"></voice>
+<voice lang="en">Poco a poco<break time="3s"></voice>
+
+<voice lang="en">Step by step<break time="3s"></voice>
+<voice lang="en">Paso a paso<break time="3s"></voice>
+
+<voice lang="en">Out of nowhere<break time="3s"></voice>
+<voice lang="en">De la nada<break time="3s"></voice>
+
+<voice lang="en">All of a sudden<break time="3s"></voice>
+<voice lang="en">De golpe<break time="3s"></voice>
+
+<voice lang="en">Sooner or later<break time="3s"></voice>
+<voice lang="en">Tarde o temprano<break time="3s"></voice>
+
+<voice lang="en">In the meantime<break time="3s"></voice>
+<voice lang="es">Mientras tanto<break time="3s"></voice>
+
+<voice lang="en">For the time being<break time="3s"></voice>
+<voice lang="en">Por el momento<break time="3s"></voice>
+
+<voice lang="en">As usual<break time="3s"></voice>
+<voice lang="en">Como de costumbre<break time="3s"></voice>
+
+<voice lang="en">Once again<break time="3s"></voice>
+<voice lang="es">Una vez más<break time="3s"></voice>
+
+<voice lang="en">In the end<break time="3s"></voice>
+<voice lang="es">Al final<break time="3s"></voice>
+
+<voice lang="en">CONTRAST AND OPPOSITION<break time="2s"></voice>
+<voice lang="es">CONTRASTE Y OPOSICIÓN<break time="2s"></voice>
+
+<voice lang="en">On the other hand<break time="3s"></voice>
+<voice lang="es">Por otro lado<break time="3s"></voice>
+
+<voice lang="en">On the contrary<break time="3s"></voice>
+<voice lang="es">Al contrario<break time="3s"></voice>
+
+<voice lang="en">However<break time="3s"></voice>
+<voice lang="es">Sin embargo<break time="3s"></voice>
+
+<voice lang="en">Yet<break time="3s"></voice>
+<voice lang="es">Aun así<break time="3s"></voice>
+
+<voice lang="en">Instead<break time="3s"></voice>
+<voice lang="en">En su lugar<break time="3s"></voice>
+
+<voice lang="en">Rather<break time="3s"></voice>
+<voice lang="es">Más bien<break time="3s"></voice>
+
+<voice lang="en">Conversely<break time="3s"></voice>
+<voice lang="es">En cambio<break time="3s"></voice>
+
+<voice lang="en">In contrast<break time="3s"></voice>
+<voice lang="es">Por el contrario<break time="3s"></voice>
+
+<voice lang="en">On one hand<break time="3s"></voice>
+<voice lang="en">Por un lado<break time="3s"></voice>
+
+<voice lang="en">Even so<break time="3s"></voice>
+<voice lang="es">Aun así<break time="3s"></voice>
+
+<voice lang="en">Despite that<break time="3s"></voice>
+<voice lang="es">A pesar de eso<break time="3s"></voice>
+
+<voice lang="en">Regardless<break time="3s"></voice>
+<voice lang="en">Independientemente<break time="3s"></voice>
+
+<voice lang="en">COMPARISON AND SIMILARITY<break time="2s"></voice>
+<voice lang="es">CCOMPARACIÓN Y SIMILITUD<break time="2s"></voice>
+
+
+<voice lang="en">Similarly<break time="3s"></voice>
+<voice lang="en">De manera similar<break time="3s"></voice>
+
+<voice lang="en">Likewise<break time="3s"></voice>
+<voice lang="en">Asimismo<break time="3s"></voice>
+
+<voice lang="en">Compared to that<break time="3s"></voice>
+<voice lang="en">Comparado con eso<break time="3s"></voice>
+
+<voice lang="en">CAUSE AND EFFECT<break time="2s"></voice>
+<voice lang="es">CAUSA Y EFECTO<break time="2s"></voice>
+
+<voice lang="en">So<break time="3s"></voice>
+<voice lang="es">Así que..<break time="3s"></voice>
+
+<voice lang="en">Therefore<break time="3s"></voice>
+<voice lang="es">Por lo tanto<break time="3s"></voice>
+
+<voice lang="en">Consequently<break time="3s"></voice>
+<voice lang="es">En consecuencia<break time="3s"></voice>
+
+<voice lang="en">As a result<break time="3s"></voice>
+<voice lang="es">Como resultado<break time="3s"></voice>
+
+<voice lang="en">Because of that<break time="3s"></voice>
+<voice lang="es">Por eso<break time="3s"></voice>
+
+<voice lang="en">That's why<break time="3s"></voice>
+<voice lang="es">Es por eso que<break time="3s"></voice>
+
+<voice lang="en">For that reason<break time="3s"></voice>
+<voice lang="es">Por esa razón<break time="3s"></voice>
+
+<voice lang="en">Due to that<break time="3s"></voice>
+<voice lang="es">Debido a eso<break time="3s"></voice>
+
+<voice lang="en">ADDITION AND EMPHASIS<break time="2s"></voice>
+<voice lang="es">ADICIÓN Y ÉNFASIS<break time="2s"></voice>
+
+
+<voice lang="en">Also<break time="3s"></voice>
+<voice lang="es">También<break time="3s"></voice>
+
+<voice lang="en">Plus<break time="3s"></voice>
+<voice lang="es">Más<break time="3s"></voice>
+
+<voice lang="en">Besides<break time="3s"></voice>
+<voice lang="es">Además<break time="3s"></voice>
+
+<voice lang="en">Furthermore<break time="3s"></voice>
+<voice lang="es">Además de eso<break time="3s"></voice>
+
+<voice lang="en">Moreover<break time="3s"></voice>
+<voice lang="es">Es más<break time="3s"></voice>
+
+<voice lang="en">Additionally<break time="3s"></voice>
+<voice lang="es">Adicionalmente<break time="3s"></voice>
+
+<voice lang="en">What's more<break time="3s"></voice>
+<voice lang="es">Y es más<break time="3s"></voice>
+
+<voice lang="en">On top of that<break time="3s"></voice>
+<voice lang="es">Encima de eso<break time="3s"></voice>
+
+<voice lang="en">Not only that<break time="3s"></voice>
+<voice lang="es">Y no sólo eso<break time="3s"></voice>
+
+<voice lang="en">Apart from that<break time="3s"></voice>
+<voice lang="es">Aparte de eso<break time="3s"></voice>
+
+<voice lang="en">Above all<break time="3s"></voice>
+<voice lang="es">Sobre todo<break time="3s"></voice>
+
+<voice lang="en">Most importantly<break time="3s"></voice>
+<voice lang="es">Lo más importante<break time="3s"></voice>
+
+<voice lang="en">Especially<break time="3s"></voice>
+<voice lang="es">Especialmente<break time="3s"></voice>
+
+<voice lang="en">CLARIFICATION AND EXPLANATION<break time="2s"></voice>
+<voice lang="es">ACLARACIÓN Y EXPLICACIÓN<break time="2s"></voice>
+
+
+<voice lang="en">I mean<break time="3s"></voice>
+<voice lang="en">Quiero decir<break time="3s"></voice>
+
+<voice lang="en">In other words<break time="3s"></voice>
+<voice lang="es">En otras palabras<break time="3s"></voice>
+
+<voice lang="en">That is<break time="3s"></voice>
+<voice lang="en">Es decir<break time="3s"></voice>
+
+<voice lang="en">Specifically<break time="3s"></voice>
+<voice lang="es">Específicamente<break time="3s"></voice>
+
+<voice lang="en">Particularly<break time="3s"></voice>
+<voice lang="en">En particular<break time="3s"></voice>
+
+<voice lang="en">To clarify<break time="3s"></voice>
+<voice lang="es">Para aclarar<break time="3s"></voice>
+
+<voice lang="en">To put it another way<break time="3s"></voice>
+<voice lang="en">Dicho de otro modo<break time="3s"></voice>
+
+<voice lang="en">What I'm saying is<break time="3s"></voice>
+<voice lang="en">Lo que quiero decir es<break time="3s"></voice>
+
+<voice lang="en">In particular<break time="3s"></voice>
+<voice lang="en">En especial<break time="3s"></voice>
+
+<voice lang="en">The thing is<break time="3s"></voice>
+<voice lang="en">Lo que pasa es que<break time="3s"></voice>
+
+<voice lang="en">The point is<break time="3s"></voice>
+<voice lang="en">El caso es<break time="3s"></voice>
+
+<voice lang="en">CERTAINTY AND CONVICTION<break time="2s"></voice>
+<voice lang="es">CERTEZA Y CONVICCIÓN<break time="2s"></voice>
+
+
+<voice lang="en">Obviously<break time="3s"></voice>
+<voice lang="es">Obviamente<break time="3s"></voice>
+
+<voice lang="en">Clearly<break time="3s"></voice>
+<voice lang="es">Claramente<break time="3s"></voice>
+
+<voice lang="en">Definitely<break time="3s"></voice>
+<voice lang="en">Definitivamente<break time="3s"></voice>
+
+<voice lang="en">Absolutely<break time="3s"></voice>
+<voice lang="en">Absolutamente<break time="3s"></voice>
+
+<voice lang="en">Certainly<break time="3s"></voice>
+<voice lang="en">Ciertamente<break time="3s"></voice>
+
+<voice lang="en">Without a doubt<break time="3s"></voice>
+<voice lang="en">Sin duda alguna<break time="3s"></voice>
+
+<voice lang="en">No doubt<break time="3s"></voice>
+<voice lang="en">Sin duda<break time="3s"></voice>
+
+<voice lang="en">For sure<break time="3s"></voice>
+<voice lang="en">Seguro<break time="3s"></voice>
+
+<voice lang="en">Indeed<break time="3s"></voice>
+<voice lang="en">En efecto<break time="3s"></voice>
+
+<voice lang="en">Undoubtedly<break time="3s"></voice>
+<voice lang="en">Indudablemente<break time="3s"></voice>
+
+<voice lang="en">Of course<break time="3s"></voice>
+<voice lang="es">Por supuesto<break time="3s"></voice>
+
+<voice lang="en">UNCERTAINTY AND POSSIBILITY<break time="2s"></voice>
+<voice lang="es">INCERTIDUMBRE Y POSIBILIDAD<break time="2s"></voice>
+
+
+<voice lang="en">Maybe<break time="3s"></voice>
+<voice lang="es">Tal vez<break time="3s"></voice>
+
+<voice lang="en">Perhaps<break time="3s"></voice>
+<voice lang="es">Quizás<break time="3s"></voice>
+
+<voice lang="en">Possibly<break time="3s"></voice>
+<voice lang="en">Posiblemente<break time="3s"></voice>
+
+<voice lang="en">Probably<break time="3s"></voice>
+<voice lang="en">Probablemente<break time="3s"></voice>
+
+<voice lang="en">Apparently<break time="3s"></voice>
+<voice lang="en">Aparentemente<break time="3s"></voice>
+
+<voice lang="en">Seemingly<break time="3s"></voice>
+<voice lang="es">Al parecer<break time="3s"></voice>
+
+<voice lang="en">Presumably<break time="3s"></voice>
+<voice lang="en">Es de suponer<break time="3s"></voice>
+
+<voice lang="en">I guess<break time="3s"></voice>
+<voice lang="en">Me imagino<break time="3s"></voice>
+
+<voice lang="en">I suppose<break time="3s"></voice>
+<voice lang="en">Supongo<break time="3s"></voice>
+
+<voice lang="en">Kind of<break time="3s"></voice>
+<voice lang="es">Algo así<break time="3s"></voice>
+
+<voice lang="en">PERSONAL OPINION<break time="2s"></voice>
+<voice lang="es">OPINIÓN PERSONAL<break time="2s"></voice>
+
+
+<voice lang="en">Personally<break time="3s"></voice>
+<voice lang="en">Personalmente<break time="3s"></voice>
+
+<voice lang="en">In my opinion<break time="3s"></voice>
+<voice lang="es">En mi opinión<break time="3s"></voice>
+
+<voice lang="en">If you ask me<break time="3s"></voice>
+<voice lang="es">Si me preguntas a mí<break time="3s"></voice>
+
+<voice lang="en">From my perspective<break time="3s"></voice>
+<voice lang="en">Desde mi punto de vista<break time="3s"></voice>
+
+<voice lang="en">The way I see it<break time="3s"></voice>
+<voice lang="en">Tal y como yo lo veo<break time="3s"></voice>
+
+<voice lang="en">As far as I'm concerned<break time="3s"></voice>
+<voice lang="es">Por lo que a mí respecta<break time="3s"></voice>
+
+<voice lang="en">To me<break time="3s"></voice>
+<voice lang="es">Para mí<break time="3s"></voice>
+
+<voice lang="en">I think<break time="3s"></voice>
+<voice lang="en">Pienso que<break time="3s"></voice>
+
+<voice lang="en">I feel like<break time="3s"></voice>
+<voice lang="en">Siento que<break time="3s"></voice>
+
+<voice lang="en">I believe<break time="3s"></voice>
+<voice lang="en">Creo<break time="3s"></voice>
+
+<voice lang="en">From my experience<break time="3s"></voice>
+<voice lang="en">Por mi experiencia<break time="3s"></voice>
+
+<voice lang="en">In my view<break time="3s"></voice>
+<voice lang="en">A mi parecer<break time="3s"></voice>
+
+<voice lang="en">HONESTY AND FRANKNESS<break time="2s"></voice>
+<voice lang="es">HONESTIDAD Y FRANQUEZA<break time="2s"></voice>
+
+
+<voice lang="en">Honestly<break time="3s"></voice>
+<voice lang="en">Sinceramente<break time="3s"></voice>
+
+<voice lang="en">To be honest<break time="3s"></voice>
+<voice lang="es">Para ser sincero<break time="3s"></voice>
+
+<voice lang="en">Frankly<break time="3s"></voice>
+<voice lang="en">Francamente<break time="3s"></voice>
+
+<voice lang="en">To tell you the truth<break time="3s"></voice>
+<voice lang="es">A decir verdad<break time="3s"></voice>
+
+<voice lang="en">Truth be told<break time="3s"></voice>
+<voice lang="en">La verdad sea dicha<break time="3s"></voice>
+
+<voice lang="en">Let's be honest<break time="3s"></voice>
+<voice lang="en">Seamos sinceros<break time="3s"></voice>
+
+<voice lang="en">Between you and me<break time="3s"></voice>
+<voice lang="es">Entre tú y yo<break time="3s"></voice>
+
+<voice lang="en">I'll be straight with you<break time="3s"></voice>
+<voice lang="es">Seré sincero contigo<break time="3s"></voice>
+
+<voice lang="en">Not gonna lie<break time="3s"></voice>
+<voice lang="en">No voy a mentir<break time="3s"></voice>
+
+<voice lang="en">Real talk<break time="3s"></voice>
+<voice lang="en">Hablemos en serio<break time="3s"></voice>
+
+<voice lang="en">SURPRISE AND REACTION<break time="2s"></voice>
+<voice lang="es">SORPRESA Y REACCIÓN<break time="2s"></voice>
+
+
+<voice lang="en">Surprisingly<break time="3s"></voice>
+<voice lang="en">Sorprendentemente<break time="3s"></voice>
+
+<voice lang="en">Interestingly<break time="3s"></voice>
+<voice lang="en">Interesante<break time="3s"></voice>
+
+<voice lang="en">Oddly enough<break time="3s"></voice>
+<voice lang="en">Curiosamente<break time="3s"></voice>
+
+<voice lang="en">Strangely enough<break time="3s"></voice>
+<voice lang="es">Por extraño que parezca<break time="3s"></voice>
+
+<voice lang="en">Believe it or not<break time="3s"></voice>
+<voice lang="en">Lo creas o no<break time="3s"></voice>
+
+<voice lang="en">Funnily enough<break time="3s"></voice>
+<voice lang="es">Qué curioso<break time="3s"></voice>
+
+<voice lang="en">As it turns out<break time="3s"></voice>
+<voice lang="en">Resulta que<break time="3s"></voice>
+
+<voice lang="en">Weirdly<break time="3s"></voice>
+<voice lang="es">Extrañamente<break time="3s"></voice>
+
+<voice lang="en">It turns out that<break time="3s"></voice>
+<voice lang="en">Resulta que<break time="3s"></voice>
+
+<voice lang="en">LUCK AND EMOTION<break time="2s"></voice>
+<voice lang="es">SUERTE Y EMOCIÓN<break time="2s"></voice>
+
+
+<voice lang="en">Fortunately<break time="3s"></voice>
+<voice lang="en">Afortunadamente<break time="3s"></voice>
+
+<voice lang="en">Unfortunately<break time="3s"></voice>
+<voice lang="en">Desgraciadamente<break time="3s"></voice>
+
+<voice lang="en">Sadly<break time="3s"></voice>
+<voice lang="en">Lamentablemente<break time="3s"></voice>
+
+<voice lang="en">Luckily<break time="3s"></voice>
+<voice lang="en">Por suerte<break time="3s"></voice>
+
+<voice lang="en">To make matters worse<break time="3s"></voice>
+<voice lang="es">Para empeorar las cosas<break time="3s"></voice>
+
+<voice lang="en">On a positive note<break time="3s"></voice>
+<voice lang="en">En el lado positivo<break time="3s"></voice>
+
+<voice lang="en">DIGRESSION AND TOPIC CHANGE<break time="2s"></voice>
+<voice lang="es">DIGRESIÓN Y CAMBIO DE TEMA<break time="2s"></voice>
+
+
+<voice lang="en">By the way<break time="3s"></voice>
+<voice lang="en">Por cierto<break time="3s"></voice>
+
+<voice lang="en">Speaking of which<break time="3s"></voice>
+<voice lang="en">Hablando de eso<break time="3s"></voice>
+
+<voice lang="en">Look<break time="3s"></voice>
+<voice lang="en">Mira<break time="3s"></voice>
+
+<voice lang="en">I meant to say<break time="3s"></voice>
+<voice lang="es">Quería decir<break time="3s"></voice>
+
+<voice lang="en">So/then<break time="3s"></voice>
+<voice lang="es">Entonces<break time="3s"></voice>
+
+<voice lang="en">On second thought<break time="3s"></voice>
+<voice lang="es">Pensándolo mejor<break time="3s"></voice>
+
+<voice lang="en">REALITY AND FACTUALITY<break time="2s"></voice>
+<voice lang="es">REALIDAD Y FACTUALIDAD<break time="2s"></voice>
+
+<voice lang="en">Actually<break time="3s"></voice>
+<voice lang="es">En realidad<break time="3s"></voice>
+
+<voice lang="en">In fact<break time="3s"></voice>
+<voice lang="es">De hecho<break time="3s"></voice>
+
+<voice lang="en">As a matter of fact<break time="3s"></voice>
+<voice lang="es">A decir verdad<break time="3s"></voice>
+
+<voice lang="en">Basically<break time="3s"></voice>
+<voice lang="es">Básicamente<break time="3s"></voice>
+
+<voice lang="en">Essentially<break time="3s"></voice>
+<voice lang="en">Esencialmente<break time="3s"></voice>
+
+<voice lang="en">Generally speaking<break time="3s"></voice>
+<voice lang="en">En general<break time="3s"></voice>
+
+<voice lang="en">REFLECTION AND RECONSIDERATION<break time="2s"></voice>
+<voice lang="es">REFLEXIÓN Y RECONSIDERACIÓN<break time="2s"></voice>
+
+
+<voice lang="en">Come to think of it<break time="3s"></voice>
+<voice lang="es">Pensándolo bien<break time="3s"></voice>
+
+<voice lang="en">Now that I think about it<break time="3s"></voice>
+<voice lang="en">Ahora que lo pienso<break time="3s"></voice>
+
+<voice lang="en">For what it's worth<break time="3s"></voice>
+<voice lang="en">Por si sirve de algo<break time="3s"></voice>
+
+<voice lang="en">That said<break time="3s"></voice>
+<voice lang="en">Dicho esto<break time="3s"></voice>
+
+<voice lang="en">Having said that<break time="3s"></voice>
+<voice lang="en">Dicho lo cual<break time="3s"></voice>
+
+<voice lang="en">All things considered<break time="3s"></voice>
+<voice lang="en">Considerando todo<break time="3s"></voice>
+
+<voice lang="en">DESCARTE Y CONTINUACIÓN<break time="2s"></voice>
+<voice lang="es">DISMISSAL AND CONTINUATION<break time="2s"></voice>
+
+<voice lang="en">In any case<break time="3s"></voice>
+<voice lang="es">En cualquier caso<break time="3s"></voice>
+
+<voice lang="en">At any rate<break time="3s"></voice>
+<voice lang="es">De todos modos<break time="3s"></voice>
+
+<voice lang="en">Anyway<break time="3s"></voice>
+<voice lang="en">En fin<break time="3s"></voice>
+
+<voice lang="en">CONDITIONAL AND LOGICAL<break time="2s"></voice>
+<voice lang="es">CONDICIONAL Y LÓGICO<break time="2s"></voice>
+
+
+<voice lang="en">Given that<break time="3s"></voice>
+<voice lang="es">Dado que<break time="3s"></voice>
+
+<voice lang="en">Considering that<break time="3s"></voice>
+<voice lang="en">Considerando que<break time="3s"></voice>
+
+<voice lang="en">Assuming that<break time="3s"></voice>
+<voice lang="en">Suponiendo que<break time="3s"></voice>
+
+<voice lang="en">Provided that<break time="3s"></voice>
+<voice lang="es">Siempre que<break time="3s"></voice>
+
+<voice lang="en">SUMMARY AND CONCLUSION<break time="2s"></voice>
+<voice lang="es">RESUMEN Y CONCLUSIÓN<break time="2s"></voice>
+
+
+<voice lang="en">In summary<break time="3s"></voice>
+<voice lang="en">En resumen<break time="3s"></voice>
+
+<voice lang="en">To sum up<break time="3s"></voice>
+<voice lang="es">Para resumir<break time="3s"></voice>
+
+<voice lang="en">All in all<break time="3s"></voice>
+<voice lang="es">Al fin y al cabo<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

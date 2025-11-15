@@ -1,0 +1,98 @@
+<voice lang="en">Economics - Compound and Complex<break time="2s"></voice>
+<voice lang="es">Economía - Compuesta y Compleja<break time="2s"></voice>
+
+<voice lang="en">## Cryptocurrency/Financial Scams<break time="6s"></voice>
+<voice lang="es">## Estafas de criptomonedas/financieras<break time="3s"></voice>
+
+<voice lang="en">Trump is pushing a rug pull crypto scam.<break time="6s"></voice>
+<voice lang="es">Trump está impulsando una estafa criptográfica que tira de la manta.<break time="3s"></voice>
+
+<voice lang="en">You shouldn't invest anything you can't afford to lose into this sort of thing.<break time="6s"></voice>
+<voice lang="es">No deberías invertir nada que no puedas permitirte perder en este tipo de cosas.<break time="3s"></voice>
+
+<voice lang="en">## U.S. National Debt & Fiscal Policy<break time="6s"></voice>
+<voice lang="es">## Deuda nacional estadounidense y política fiscal<break time="3s"></voice>
+
+<voice lang="en">U.S. debt is projected to be $37.2 trillion by the end of the budget year.<break time="8s"></voice>
+<voice lang="es">Se prevé que la deuda estadounidense alcance los 37,2 billones de dólares al final del ejercicio presupuestario.<break time="3s"></voice>
+
+<voice lang="en">An additional $20 trillion is expected over the next 10 years.<break time="6s"></voice>
+<voice lang="es">Se espera que en los próximos 10 años se inviertan otros 20 billones de dólares.<break time="3s"></voice>
+
+<voice lang="en">Expiring provisions from the 2017 tax reform add another $5.5 trillion by 2035.<break time="8s"></voice>
+<voice lang="es">Las disposiciones que expiran de la reforma fiscal de 2017 añaden otros 5,5 billones de dólares para 2035.<break time="3s"></voice>
+
+<voice lang="en">Interest on debt adds another $1.3 trillion.<break time="6s"></voice>
+<voice lang="es">Los intereses de la deuda añaden otros 1,3 billones de dólares.<break time="3s"></voice>
+
+<voice lang="en">Total debt could reach $74 trillion by 2035.<break time="6s"></voice>
+<voice lang="es">La deuda total podría alcanzar los 74 billones de dólares en 2035.<break time="3s"></voice>
+
+<voice lang="en">The debt to GDP ratio could exceed 155%.<break time="6s"></voice>
+<voice lang="es">La ratio deuda/PIB podría superar el 155%.<break time="3s"></voice>
+
+<voice lang="en">Publicly held debt was around $28 trillion when elected.<break time="6s"></voice>
+<voice lang="es">La deuda pública rondaba los 28 billones de dólares cuando fue elegido.<break time="3s"></voice>
+
+<voice lang="en">It is expected to double in nine years.<break time="6s"></voice>
+<voice lang="es">Se espera que se duplique en nueve años.<break time="3s"></voice>
+
+<voice lang="en">This stresses the need for immediate action to avoid financial Armageddon.<break time="6s"></voice>
+<voice lang="es">Esto subraya la necesidad de actuar de inmediato para evitar el Armagedón financiero.<break time="3s"></voice>
+
+<voice lang="en">This criticizes the lack of understanding and urgency among policymakers.<break time="6s"></voice>
+<voice lang="es">Esto critica la falta de comprensión y urgencia entre los responsables políticos.<break time="3s"></voice>
+
+<voice lang="en">## Demographics & Economic Growth<break time="6s"></voice>
+<voice lang="es">## Demografía y crecimiento económico<break time="3s"></voice>
+
+<voice lang="en">An aging population and insufficient young people threaten to support economic growth.<break time="6s"></voice>
+<voice lang="es">El envejecimiento de la población y la insuficiencia de jóvenes amenazan el crecimiento económico.<break time="3s"></voice>
+
+<voice lang="en">## Entitlement Programs & Benefits<break time="6s"></voice>
+<voice lang="es">## Programas de prestaciones y beneficios<break time="3s"></voice>
+
+<voice lang="es">Medicare and other earned benefits are major contributors to future debt.<break time="6s"></voice>
+<voice lang="es">Medicare y otras prestaciones devengadas contribuyen en gran medida a la deuda futura.<break time="3s"></voice>
+
+<voice lang="en">This advocates for modernization and cost changes to avoid raising taxes on working people.<break time="8s"></voice>
+<voice lang="es">Esto aboga por la modernización y los cambios de costes para evitar subir los impuestos a los trabajadores.<break time="3s"></voice>
+
+<voice lang="en">## Fiscal Management & Policy<break time="6s"></voice>
+<voice lang="es">## Gestión fiscal y política<break time="3s"></voice>
+
+<voice lang="en">This emphasizes the need for offsets to manage the debt.<break time="6s"></voice>
+<voice lang="es">Esto subraya la necesidad de compensaciones para gestionar la deuda.<break time="3s"></voice>
+
+<voice lang="en">This argues it is immoral to raise taxes without finding ways to pay for it.<break time="6s"></voice>
+<voice lang="en">Sostiene que es inmoral subir los impuestos sin encontrar formas de pagarlos.<break time="3s"></voice>
+
+<voice lang="en">This calls for responsible fiscal management to avoid burdening future generations.<break time="6s"></voice>
+<voice lang="es">Esto exige una gestión fiscal responsable para evitar gravar a las generaciones futuras.<break time="3s"></voice>
+
+<voice lang="en">## Global Economic Context<break time="6s"></voice>
+<voice lang="es">## Contexto económico mundial<break time="3s"></voice>
+
+<voice lang="en">This is the highest global debt ratio since the Napoleonic Wars.<break time="6s"></voice>
+<voice lang="es">Se trata de la tasa de endeudamiento mundial más elevada desde las guerras napoleónicas.<break time="3s"></voice>
+
+<voice lang="en">This warns of potential global economic instability.<break time="6s"></voice>
+<voice lang="es">Esto advierte de una posible inestabilidad económica mundial.<break time="3s"></voice>
+
+<voice lang="en">## Law Enforcement/FBI Investigation<break time="6s"></voice>
+<voice lang="es">## Aplicación de la ley/Investigación del FBI<break time="3s"></voice>
+
+<voice lang="en">The FBI is taking the case of the US Border Patrol agent's shooting death in Vermont more seriously.<break time="6s"></voice>
+<voice lang="es">El FBI se está tomando más en serio el caso de la muerte a tiros de un agente de la Patrulla Fronteriza estadounidense en Vermont.<break time="3s"></voice>
+
+<voice lang="en">A significant raid occurred on February 5th in Chatham County, North Carolina, involving over 50 FBI agents and local sheriff's deputies.<break time="10s"></voice>
+<voice lang="es">El 5 de febrero se produjo una importante redada en el condado de Chatham, Carolina del Norte, en la que participaron más de 50 agentes del FBI y ayudantes del sheriff local.<break time="3s"></voice>
+
+<voice lang="en">The raid took place in a neighborhood near Chapel Hill, with authorities searching the wooded area.<break time="8s"></voice>
+<voice lang="es">La redada tuvo lugar en un barrio cercano a Chapel Hill, y las autoridades registraron la zona boscosa.<break time="3s"></voice>
+
+<voice lang="en">Key members include Felix Ophelia Baukolt and Teresa Milo Youngblood.<break time="6s"></voice>
+<voice lang="es">Entre sus principales miembros figuran Felix Ophelia Baukolt y Teresa Milo Youngblood.<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

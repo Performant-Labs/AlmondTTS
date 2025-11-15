@@ -1,0 +1,104 @@
+<voice lang="en">Restaurant - Problems and Payment<break time="1s"></voice>
+<voice lang="es">Restaurante - Problemas y Pago<break time="1s"></voice>
+
+
+<voice lang="en">Do you accept credit cards?<break time="5s"></voice>
+<voice lang="es">¿Aceptan tarjetas de crédito?<break time="3s"></voice>
+
+<voice lang="en">Can I pay with a card?<break time="5s"></voice>
+<voice lang="es">¿Puedo pagar con tarjeta?<break time="3s"></voice>
+
+<voice lang="en">Do you only accept cash?<break time="5s"></voice>
+<voice lang="es">¿Aceptan efectivo solamente?<break time="3s"></voice>
+
+<voice lang="en">The check, please.<break time="5s"></voice>
+<voice lang="es">La cuenta, por favor.<break time="3s"></voice>
+
+<voice lang="en">How much is the total?<break time="5s"></voice>
+<voice lang="es">¿Cuánto es en total?<break time="3s"></voice>
+
+<voice lang="en">I think there's an error on the bill.<break time="5s"></voice>
+<voice lang="es">Creo que hay un error en la cuenta.<break time="3s"></voice>
+
+<voice lang="en">Can you check the bill, please?<break time="5s"></voice>
+<voice lang="es">¿Pueden revisar la cuenta, por favor?<break time="3s"></voice>
+
+<voice lang="en">It's my treat this time.<break time="5s"></voice>
+<voice lang="en">Yo invito esta vez.<break time="3s"></voice>
+
+<voice lang="es">Let me pay for dinner.<break time="5s"></voice>
+<voice lang="es">Permítame pagar la cena.<break time="3s"></voice>
+
+<voice lang="en">Can we split it fifty-fifty?<break time="5s"></voice>
+<voice lang="es">¿Podemos pagar a medias?<break time="3s"></voice>
+
+<voice lang="en">Problemas con las facturas<break time="2s"></voice>
+<voice lang="es">Problemas con las facturas<break time="2s"></voice>
+
+
+<voice lang="en">We didn't order that.<break time="5s"></voice>
+<voice lang="es">No pedimos eso.<break time="3s"></voice>
+
+<voice lang="en">You were going to remove that.<break time="5s"></voice>
+<voice lang="en">Iba a quitar eso.<break time="3s"></voice>
+
+<voice lang="en">You charged us twice for this.<break time="5s"></voice>
+<voice lang="es">Nos cobraron dos veces por esto.<break time="3s"></voice>
+
+<voice lang="en">This item shouldn't be on the bill.<break time="5s"></voice>
+<voice lang="es">Este artículo no debería estar en la cuenta.<break time="3s"></voice>
+
+<voice lang="en">You said you'd take that off the bill.<break time="5s"></voice>
+<voice lang="es">Dijo que lo quitaría de la cuenta.<break time="3s"></voice>
+
+<voice lang="en">We only ordered three drinks, not four.<break time="5s"></voice>
+<voice lang="en">Solo pedimos tres bebidas, no cuatro.<break time="3s"></voice>
+
+<voice lang="en">The prices don't match the menu.<break time="5s"></voice>
+<voice lang="es">Los precios no coinciden con el menú.<break time="3s"></voice>
+
+<voice lang="en">We returned that dish, remember?<break time="5s"></voice>
+<voice lang="es">Devolvimos ese plato, ¿recuerda?<break time="3s"></voice>
+
+<voice lang="en">You're charging for something we didn't receive.<break time="5s"></voice>
+<voice lang="es">Están cobrando por algo que no recibimos.<break time="3s"></voice>
+
+<voice lang="en">Can you explain this charge?<break time="5s"></voice>
+<voice lang="es">¿Puede explicar este cargo?<break time="3s"></voice>
+
+<voice lang="en">Problemas con los pedidos<break time="2s"></voice>
+<voice lang="es">Problemas con los pedidos<break time="2s"></voice>
+
+
+<voice lang="en">This meat is very undercooked.<break time="5s"></voice>
+<voice lang="es">Esta carne está muy cruda.<break time="3s"></voice>
+
+<voice lang="en">I ordered my steak well done.<break time="5s"></voice>
+<voice lang="es">Pedí mi bistec bien cocido.<break time="3s"></voice>
+
+<voice lang="en">This soup is cold.<break time="5s"></voice>
+<voice lang="es">Esta sopa está fría.<break time="3s"></voice>
+
+<voice lang="en">One dish from our order is missing.<break time="5s"></voice>
+<voice lang="es">Falta un plato de nuestra orden.<break time="3s"></voice>
+
+<voice lang="en">This isn't fresh.<break time="5s"></voice>
+<voice lang="es">Esto no está fresco.<break time="3s"></voice>
+
+<voice lang="en">My food arrived cold.<break time="5s"></voice>
+<voice lang="es">Mi comida llegó fría.<break time="3s"></voice>
+
+<voice lang="en">We're still waiting for our drinks.<break time="5s"></voice>
+<voice lang="es">Todavía estamos esperando nuestras bebidas.<break time="3s"></voice>
+
+<voice lang="en">This dish has too much salt.<break time="5s"></voice>
+<voice lang="es">Este plato tiene demasiada sal.<break time="3s"></voice>
+
+<voice lang="en">I ordered it without onions.<break time="5s"></voice>
+<voice lang="es">Pedí sin cebolla.<break time="3s"></voice>
+
+<voice lang="en">I'm allergic to shellfish, can you verify the ingredients?<break time="5s"></voice>
+<voice lang="es">Soy alérgico a los mariscos, ¿puede verificar los ingredientes?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

@@ -1,0 +1,426 @@
+<voice lang="en">The Human Body<break time="1s"></voice>
+<voice lang="es">El Cuerpo Humano<break time="1s"></voice>
+
+
+<voice lang="en">My stomach hurts.<break time="5s"></voice>
+<voice lang="es">Me duele el estómago.<break time="3s"></voice>
+
+<voice lang="en">My throat hurts.<break time="5s"></voice>
+<voice lang="es">Me duele la garganta.<break time="3s"></voice>
+
+<voice lang="en">My ears hurt.<break time="5s"></voice>
+<voice lang="es">Me duelen los oídos.<break time="3s"></voice>
+
+<voice lang="en">I feel nauseous.<break time="5s"></voice>
+<voice lang="es">Siento náuseas.<break time="3s"></voice>
+
+<voice lang="en">My back hurts.<break time="5s"></voice>
+<voice lang="es">Me duele la espalda.<break time="3s"></voice>
+
+<voice lang="en">My nose is bleeding.<break time="5s"></voice>
+<voice lang="es">Me sangra la nariz.<break time="3s"></voice>
+
+<voice lang="en">I have a fever.<break time="5s"></voice>
+<voice lang="es">Tengo fiebre.<break time="3s"></voice>
+
+<voice lang="en">I have chills.<break time="5s"></voice>
+<voice lang="es">Tengo escalofríos.<break time="3s"></voice>
+
+<voice lang="en">My eyes are itchy.<break time="5s"></voice>
+<voice lang="es">Me pican los ojos.<break time="3s"></voice>
+
+<voice lang="en">My muscles are sore.<break time="5s"></voice>
+<voice lang="es">Me duelen los músculos.<break time="3s"></voice>
+
+<voice lang="en">I'm out of breath.<break time="5s"></voice>
+<voice lang="es">Me he quedado sin aliento.<break time="3s"></voice>
+
+<voice lang="en">My vision is blurry.<break time="5s"></voice>
+<voice lang="es">Mi visión es borrosa.<break time="3s"></voice>
+
+<voice lang="en">I have a stuffy nose.<break time="5s"></voice>
+<voice lang="es">Tengo la nariz tapada.<break time="3s"></voice>
+
+<voice lang="en">I'm losing my voice.<break time="5s"></voice>
+<voice lang="es">Estoy perdiendo la voz.<break time="3s"></voice>
+
+<voice lang="en">My gums are bleeding.<break time="5s"></voice>
+<voice lang="es">Me sangran las encías.<break time="3s"></voice>
+
+<voice lang="en">I have a hoarse voice.<break time="5s"></voice>
+<voice lang="es">Tengo la voz ronca.<break time="3s"></voice>
+
+<voice lang="en">I broke my finger.<break time="5s"></voice>
+<voice lang="es">Me rompí el dedo.<break time="3s"></voice>
+
+<voice lang="en">DESCRIPCIONES FÍSICAS<break time="2s"></voice>
+<voice lang="es">DESCRIPCIONES FÍSICAS<break time="2s"></voice>
+
+
+<voice lang="en">My head is almost bald.<break time="5s"></voice>
+<voice lang="es">Mi cabeza está casi calva.<break time="3s"></voice>
+
+<voice lang="en">My hair is almost completely grey.<break time="5s"></voice>
+<voice lang="en">Mi pelo es casi completamente gris.<break time="3s"></voice>
+
+<voice lang="en">I have green eyes.<break time="5s"></voice>
+<voice lang="es">Tengo los ojos verdes.<break time="3s"></voice>
+
+<voice lang="en">I am of average height.<break time="5s"></voice>
+<voice lang="en">Soy de estatura media.<break time="3s"></voice>
+
+<voice lang="en">I have freckles on my face.<break time="5s"></voice>
+<voice lang="es">Tengo pecas en la cara.<break time="3s"></voice>
+
+<voice lang="en">My nails are long.<break time="5s"></voice>
+<voice lang="es">Tengo las uñas largas.<break time="3s"></voice>
+
+<voice lang="en">I have broad shoulders.<break time="5s"></voice>
+<voice lang="es">Tengo los hombros anchos.<break time="3s"></voice>
+
+<voice lang="en">I have a scar on my arm.<break time="5s"></voice>
+<voice lang="es">Tengo una cicatriz en el brazo.<break time="3s"></voice>
+
+<voice lang="en">My teeth are white.<break time="5s"></voice>
+<voice lang="es">Mis dientes son blancos.<break time="3s"></voice>
+
+<voice lang="en">I have thick eyebrows.<break time="5s"></voice>
+<voice lang="es">Tengo cejas gruesas.<break time="3s"></voice>
+
+<voice lang="en">My cheeks are rosy.<break time="5s"></voice>
+<voice lang="es">Mis mejillas están sonrosadas.<break time="3s"></voice>
+
+<voice lang="en">I have moles on my neck.<break time="5s"></voice>
+<voice lang="es">Tengo lunares en el cuello.<break time="3s"></voice>
+
+<voice lang="en">I have dark circles under my eyes.<break time="5s"></voice>
+<voice lang="es">Tengo ojeras.<break time="3s"></voice>
+
+<voice lang="en">I have a double chin.<break time="5s"></voice>
+<voice lang="es">Tengo papada.<break time="3s"></voice>
+
+<voice lang="en">I have wrinkles around my eyes.<break time="5s"></voice>
+<voice lang="es">Tengo arrugas alrededor de los ojos.<break time="3s"></voice>
+
+<voice lang="en">My eyelashes are long.<break time="5s"></voice>
+<voice lang="es">Mis pestañas son largas.<break time="3s"></voice>
+
+<voice lang="en">I have bags under my eyes.<break time="5s"></voice>
+<voice lang="es">Tengo bolsas bajo los ojos.<break time="3s"></voice>
+
+<voice lang="en">My complexion is pale.<break time="5s"></voice>
+<voice lang="es">Mi tez es pálida.<break time="3s"></voice>
+
+<voice lang="en">My posture is slouched.<break time="5s"></voice>
+<voice lang="en">Mi postura es encorvada.<break time="3s"></voice>
+
+<voice lang="en">AFECCIONES DE LA PIEL<break time="2s"></voice>
+<voice lang="es">AFECCIONES DE LA PIEL<break time="2s"></voice>
+
+
+<voice lang="en">I have dry skin.<break time="5s"></voice>
+<voice lang="es">Tengo la piel seca.<break time="3s"></voice>
+
+<voice lang="en">I have chapped lips.<break time="5s"></voice>
+<voice lang="es">Tengo los labios agrietados.<break time="3s"></voice>
+
+<voice lang="en">I have blisters on my feet.<break time="5s"></voice>
+<voice lang="es">Tengo ampollas en los pies.<break time="3s"></voice>
+
+<voice lang="en">I have a rash on my chest.<break time="5s"></voice>
+<voice lang="es">Tengo una erupción en el pecho.<break time="3s"></voice>
+
+<voice lang="en">I have goosebumps.<break time="5s"></voice>
+<voice lang="es">Tengo la piel de gallina.<break time="3s"></voice>
+
+<voice lang="en">My skin is oily.<break time="5s"></voice>
+<voice lang="en">Mi piel es grasa.<break time="3s"></voice>
+
+<voice lang="en">I have a sunburn on my shoulders.<break time="5s"></voice>
+<voice lang="es">Tengo una quemadura de sol en los hombros.<break time="3s"></voice>
+
+<voice lang="en">CONDICIONES FÍSICAS TEMPORALES<break time="2s"></voice>
+<voice lang="es">CONDICIONES FÍSICAS TEMPORALES<break time="2s"></voice>
+
+
+<voice lang="en">My knees are swollen.<break time="5s"></voice>
+<voice lang="es">Tengo las rodillas hinchadas.<break time="3s"></voice>
+
+<voice lang="en">My mouth is dry.<break time="5s"></voice>
+<voice lang="es">Tengo la boca seca.<break time="3s"></voice>
+
+<voice lang="en">My hands are shaking.<break time="5s"></voice>
+<voice lang="es">Me tiemblan las manos.<break time="3s"></voice>
+
+<voice lang="en">My feet are cold.<break time="5s"></voice>
+<voice lang="es">Tengo los pies fríos.<break time="3s"></voice>
+
+<voice lang="en">My face is red.<break time="5s"></voice>
+<voice lang="es">Tengo la cara roja.<break time="3s"></voice>
+
+<voice lang="en">My forehead is sweating.<break time="5s"></voice>
+<voice lang="es">Me suda la frente.<break time="3s"></voice>
+
+<voice lang="en">My tongue is white.<break time="5s"></voice>
+<voice lang="en">Mi lengua es blanca.<break time="3s"></voice>
+
+<voice lang="en">My ankles are weak.<break time="5s"></voice>
+<voice lang="es">Mis tobillos están débiles.<break time="3s"></voice>
+
+<voice lang="en">My joints are stiff.<break time="5s"></voice>
+<voice lang="es">Mis articulaciones están rígidas.<break time="3s"></voice>
+
+<voice lang="en">My fingernails are brittle.<break time="5s"></voice>
+<voice lang="es">Tengo las uñas quebradizas.<break time="3s"></voice>
+
+<voice lang="en">My palms are sweaty.<break time="5s"></voice>
+<voice lang="es">Me sudan las palmas de las manos.<break time="3s"></voice>
+
+<voice lang="en">EMOCIONES Y SENTIMIENTOS<break time="2s"></voice>
+<voice lang="es">EMOCIONES Y SENTIMIENTOS<break time="2s"></voice>
+
+
+<voice lang="en">I'm happy<break time="5s"></voice>
+<voice lang="es">Estoy feliz<break time="3s"></voice>
+
+<voice lang="en">I'm sad<break time="5s"></voice>
+<voice lang="es">Estoy triste<break time="3s"></voice>
+
+<voice lang="en">I'm nervous<break time="5s"></voice>
+<voice lang="es">Estoy nervioso<break time="3s"></voice>
+
+<voice lang="en">I'm excited<break time="5s"></voice>
+<voice lang="es">Estoy emocionado<break time="3s"></voice>
+
+<voice lang="en">I'm tired<break time="5s"></voice>
+<voice lang="es">Estoy cansado<break time="3s"></voice>
+
+<voice lang="en">I'm stressed<break time="5s"></voice>
+<voice lang="es">Estoy estresado<break time="3s"></voice>
+
+<voice lang="en">I'm relaxed<break time="5s"></voice>
+<voice lang="es">Estoy relajado<break time="3s"></voice>
+
+<voice lang="en">I'm worried<break time="5s"></voice>
+<voice lang="es">Estoy preocupado<break time="3s"></voice>
+
+<voice lang="en">I'm confident<break time="5s"></voice>
+<voice lang="es">Estoy seguro<break time="3s"></voice>
+
+<voice lang="en">I'm scared<break time="5s"></voice>
+<voice lang="es">Tengo miedo<break time="3s"></voice>
+
+<voice lang="en">I'm anxious<break time="5s"></voice>
+<voice lang="es">Estoy ansioso<break time="3s"></voice>
+
+<voice lang="en">I'm calm<break time="5s"></voice>
+<voice lang="es">Estoy tranquilo<break time="3s"></voice>
+
+<voice lang="en">I'm frustrated<break time="5s"></voice>
+<voice lang="es">Estoy frustrado<break time="3s"></voice>
+
+<voice lang="en">I'm confused<break time="5s"></voice>
+<voice lang="es">Estoy confundido<break time="3s"></voice>
+
+<voice lang="en">I'm surprised<break time="5s"></voice>
+<voice lang="es">Estoy sorprendido<break time="3s"></voice>
+
+<voice lang="en">I'm bored<break time="5s"></voice>
+<voice lang="es">Estoy aburrido<break time="3s"></voice>
+
+<voice lang="en">I'm angry<break time="5s"></voice>
+<voice lang="es">Estoy enojado<break time="3s"></voice>
+
+<voice lang="en">I'm disappointed<break time="5s"></voice>
+<voice lang="es">Estoy decepcionado<break time="3s"></voice>
+
+<voice lang="en">SENSACIONES FÍSICAS (sin dolor)<break time="2s"></voice>
+<voice lang="es">SENSACIONES FÍSICAS (sin dolor)<break time="2s"></voice>
+
+
+<voice lang="en">I'm hungry<break time="5s"></voice>
+<voice lang="es">Tengo hambre<break time="3s"></voice>
+
+<voice lang="en">I'm thirsty<break time="5s"></voice>
+<voice lang="es">Tengo sed<break time="3s"></voice>
+
+<voice lang="en">I'm full<break time="5s"></voice>
+<voice lang="es">Estoy lleno<break time="3s"></voice>
+
+<voice lang="en">I'm sleepy<break time="5s"></voice>
+<voice lang="es">Tengo sueño<break time="3s"></voice>
+
+<voice lang="en">I'm dizzy<break time="5s"></voice>
+<voice lang="es">Estoy mareado<break time="3s"></voice>
+
+<voice lang="en">I'm energetic<break time="5s"></voice>
+<voice lang="es">Estoy con energía<break time="3s"></voice>
+
+<voice lang="en">I'm warm<break time="5s"></voice>
+<voice lang="es">Tengo calor<break time="3s"></voice>
+
+<voice lang="en">I'm cold<break time="5s"></voice>
+<voice lang="es">Tengo frío<break time="3s"></voice>
+
+<voice lang="en">I'm comfortable<break time="5s"></voice>
+<voice lang="es">Estoy cómodo<break time="3s"></voice>
+
+<voice lang="en">I'm uncomfortable<break time="5s"></voice>
+<voice lang="es">Estoy incómodo<break time="3s"></voice>
+
+<voice lang="en">I'm exhausted<break time="5s"></voice>
+<voice lang="es">Estoy agotado<break time="3s"></voice>
+
+<voice lang="en">I'm refreshed<break time="5s"></voice>
+<voice lang="es">Me siento renovado<break time="3s"></voice>
+
+<voice lang="en">I'm weak<break time="5s"></voice>
+<voice lang="es">Me siento débil<break time="3s"></voice>
+
+<voice lang="en">I'm strong<break time="5s"></voice>
+<voice lang="es">Me siento fuerte<break time="3s"></voice>
+
+<voice lang="en">ACCIONES CON PARTES DEL CUERPO<break time="2s"></voice>
+<voice lang="es">ACCIONES CON PARTES DEL CUERPO<break time="2s"></voice>
+
+
+<voice lang="en">I need to wash my hands<break time="5s"></voice>
+<voice lang="es">Necesito lavarme las manos<break time="3s"></voice>
+
+<voice lang="en">I need to cut my hair<break time="5s"></voice>
+<voice lang="en">Necesito cortarme el pelo<break time="3s"></voice>
+
+<voice lang="en">I need to brush my teeth<break time="5s"></voice>
+<voice lang="es">Necesito cepillarme los dientes<break time="3s"></voice>
+
+<voice lang="en">I twisted my ankle<break time="5s"></voice>
+<voice lang="es">Me torcí el tobillo<break time="3s"></voice>
+
+<voice lang="en">I bit my tongue<break time="5s"></voice>
+<voice lang="es">Me mordí la lengua<break time="3s"></voice>
+
+<voice lang="en">I burned my hand<break time="5s"></voice>
+<voice lang="es">Me quemé la mano<break time="3s"></voice>
+
+<voice lang="en">I stubbed my toe<break time="5s"></voice>
+<voice lang="es">Me golpeé el dedo del pie<break time="3s"></voice>
+
+<voice lang="en">I scratched my arm<break time="5s"></voice>
+<voice lang="es">Me rasguñé el brazo<break time="3s"></voice>
+
+<voice lang="en">I need to rest my eyes<break time="5s"></voice>
+<voice lang="es">Necesito descansar los ojos<break time="3s"></voice>
+
+<voice lang="en">I need to stretch my legs<break time="5s"></voice>
+<voice lang="es">Necesito estirar las piernas<break time="3s"></voice>
+
+<voice lang="en">I sprained my wrist<break time="5s"></voice>
+<voice lang="es">Me esguincé la muñeca<break time="3s"></voice>
+
+<voice lang="en">I cut my finger<break time="5s"></voice>
+<voice lang="es">Me corté el dedo<break time="3s"></voice>
+
+<voice lang="en">I bumped my head<break time="5s"></voice>
+<voice lang="es">Me golpeé la cabeza<break time="3s"></voice>
+
+<voice lang="en">I pulled a muscle<break time="5s"></voice>
+<voice lang="es">Me jalé un músculo<break time="3s"></voice>
+
+<voice lang="en">EN EL DOCTOR/FARMACIA<break time="2s"></voice>
+<voice lang="es">EN EL DOCTOR/FARMACIA<break time="2s"></voice>
+
+
+<voice lang="en">I need medicine<break time="5s"></voice>
+<voice lang="en">Necesito medicina<break time="3s"></voice>
+
+<voice lang="en">Do you have something for pain?<break time="5s"></voice>
+<voice lang="es">¿Tienes algo para el dolor?<break time="3s"></voice>
+
+<voice lang="en">I need a bandage<break time="5s"></voice>
+<voice lang="es">Necesito una venda<break time="3s"></voice>
+
+<voice lang="en">I need aspirin<break time="5s"></voice>
+<voice lang="en">Necesito aspirina<break time="3s"></voice>
+
+<voice lang="en">When should I take this?<break time="5s"></voice>
+<voice lang="es">¿Cuándo debo tomar esto?<break time="3s"></voice>
+
+<voice lang="en">How often do I take this?<break time="5s"></voice>
+<voice lang="es">¿Con qué frecuencia tomo esto?<break time="3s"></voice>
+
+<voice lang="en">I'm allergic to penicillin<break time="5s"></voice>
+<voice lang="es">Soy alérgico a la penicilina<break time="3s"></voice>
+
+<voice lang="en">I need a prescription<break time="5s"></voice>
+<voice lang="es">Necesito una receta<break time="3s"></voice>
+
+<voice lang="en">Do I need a prescription?<break time="5s"></voice>
+<voice lang="es">¿Necesito receta?<break time="3s"></voice>
+
+<voice lang="en">How much does this cost?<break time="5s"></voice>
+<voice lang="es">¿Cuánto cuesta esto?<break time="3s"></voice>
+
+<voice lang="en">I have insurance<break time="5s"></voice>
+<voice lang="es">Tengo seguro<break time="3s"></voice>
+
+<voice lang="en">I need to see a doctor<break time="5s"></voice>
+<voice lang="es">Necesito ver a un médico<break time="3s"></voice>
+
+<voice lang="en">Where is the nearest pharmacy?<break time="5s"></voice>
+<voice lang="es">¿Dónde está la farmacia más cercana?<break time="3s"></voice>
+
+<voice lang="en">I need cough medicine<break time="5s"></voice>
+<voice lang="es">Necesito medicina para la tos<break time="3s"></voice>
+
+<voice lang="en">I need something for allergies<break time="5s"></voice>
+<voice lang="es">Necesito algo para las alergias<break time="3s"></voice>
+
+<voice lang="en">CUIDADO PERSONAL/HIGIENE<break time="2s"></voice>
+<voice lang="es">CUIDADO PERSONAL/HIGIENE<break time="2s"></voice>
+
+
+<voice lang="en">I need to shower<break time="5s"></voice>
+<voice lang="es">Necesito bañarme<break time="3s"></voice>
+
+<voice lang="en">I need to shave<break time="5s"></voice>
+<voice lang="en">Necesito afeitarme<break time="3s"></voice>
+
+<voice lang="en">I need a haircut<break time="5s"></voice>
+<voice lang="es">Necesito un corte de pelo<break time="3s"></voice>
+
+<voice lang="en">I need to trim my beard<break time="5s"></voice>
+<voice lang="es">Necesito recortarme la barba<break time="3s"></voice>
+
+<voice lang="en">I need to clip my nails<break time="5s"></voice>
+<voice lang="es">Necesito cortarme las uñas<break time="3s"></voice>
+
+<voice lang="en">I need moisturizer<break time="5s"></voice>
+<voice lang="en">Necesito crema hidratante<break time="3s"></voice>
+
+<voice lang="en">I need sunscreen<break time="5s"></voice>
+<voice lang="en">Necesito protector solar<break time="3s"></voice>
+
+<voice lang="en">I need deodorant<break time="5s"></voice>
+<voice lang="en">Necesito desodorante<break time="3s"></voice>
+
+<voice lang="en">I need toothpaste<break time="5s"></voice>
+<voice lang="es">Necesito pasta de dientes<break time="3s"></voice>
+
+<voice lang="en">I need soap<break time="5s"></voice>
+<voice lang="es">Necesito jabón<break time="3s"></voice>
+
+<voice lang="en">I need shampoo<break time="5s"></voice>
+<voice lang="es">Necesito champú<break time="3s"></voice>
+
+<voice lang="en">I need a razor<break time="5s"></voice>
+<voice lang="es">Necesito una navaja<break time="3s"></voice>
+
+<voice lang="en">I need a comb<break time="5s"></voice>
+<voice lang="es">Necesito un peine<break time="3s"></voice>
+
+<voice lang="en">I need a brush<break time="5s"></voice>
+<voice lang="es">Necesito un cepillo<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>
+

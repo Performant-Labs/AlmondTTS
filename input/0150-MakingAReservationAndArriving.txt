@@ -1,0 +1,221 @@
+<voice lang="en">Making a Reservation and Arriving<break time="1s"></voice>
+<voice lang="es">Hacer una Reserva y Llegar<break time="1s"></voice>
+
+
+<voice lang="es">Thank you for calling La Parilla, how can I help you?<break time="5s"></voice>
+<voice lang="es">Gracias por llamar a La Parilla, ¿en qué puedo ayudarle?<break time="3s"></voice>
+
+<voice lang="en">What time would you prefer to make the reservation?<break time="5s"></voice>
+<voice lang="es">¿A qué hora prefiere hacer la reserva?<break time="3s"></voice>
+
+<voice lang="en">I'm sorry, we're fully booked at that time.<break time="5s"></voice>
+<voice lang="es">Lo siento, estamos completos a esa hora.<break time="3s"></voice>
+
+<voice lang="en">Would seven-thirty be okay?<break time="5s"></voice>
+<voice lang="es">¿A las siete y media estaría bien?<break time="3s"></voice>
+
+<voice lang="en">We have availability at 6:00 or 8:30.<break time="5s"></voice>
+<voice lang="es">Tenemos disponibilidad a las 6:00 o a las 8:30.<break time="3s"></voice>
+
+<voice lang="en">Which do you prefer?<break time="5s"></voice>
+<voice lang="es">¿Qué prefiere?<break time="3s"></voice>
+
+<voice lang="en">Can you give me a phone number in case we need to contact you?<break time="9s"></voice>
+<voice lang="es">¿Puede darme un número de teléfono por si necesitamos ponernos en contacto con usted?<break time="3s"></voice>
+
+<voice lang="en">Would you like to sit inside or on our patio?<break time="5s"></voice>
+<voice lang="es">¿Desea sentarse en el interior o en nuestro patio?<break time="3s"></voice>
+
+<voice lang="en">We have a two-hour limit for tables during peak hours.<break time="5s"></voice>
+<voice lang="es">Tenemos un límite de dos horas para las mesas durante las horas punta.<break time="3s"></voice>
+
+<voice lang="en">I'll need a credit card to make the reservation.<break time="5s"></voice>
+<voice lang="es">Necesitaré una tarjeta de crédito para hacer la reserva.<break time="3s"></voice>
+
+<voice lang="en">Please arrive 15 minutes before your reservation.<break time="5s"></voice>
+<voice lang="es">Por favor, llegue 15 minutos antes de su reserva.<break time="3s"></voice>
+
+<voice lang="en">I have you down for a party of four at 7:00 PM under the name Angelantoni.<break time="9s"></voice>
+<voice lang="es">Te tengo apuntado para una fiesta de cuatro a las 19:00 bajo el nombre de Angelantoni.<break time="3s"></voice>
+
+<voice lang="en">HACER UNA RESERVA - Cliente<break time="2s"></voice>
+<voice lang="es">HACER UNA RESERVA - Cliente<break time="2s"></voice>
+
+
+<voice lang="en">I'd like to make a reservation for [number] people.<break time="5s"></voice>
+<voice lang="es">Me gustaría hacer una reserva para [número] personas.<break time="3s"></voice>
+
+<voice lang="es">I have a reservation under the name André Angelantoni.<break time="5s"></voice>
+<voice lang="es">Tengo una reserva a nombre de André Angelantoni.<break time="3s"></voice>
+
+<voice lang="en">LLEGAR SIN RESERVA - Cliente<break time="2s"></voice>
+<voice lang="es">LLEGAR SIN RESERVA - Cliente<break time="2s"></voice>
+
+
+<voice lang="en">I'd like a table for two, please.<break time="5s"></voice>
+<voice lang="es">Quisiera una mesa para dos, por favor.<break time="3s"></voice>
+
+<voice lang="en">I need a table for five please, two adults and three children.<break time="6s"></voice>
+<voice lang="es">Necesito una mesa para cinco por favor, dos adultos y tres niños.<break time="3s"></voice>
+
+<voice lang="en">It's just two of us.<break time="5s"></voice>
+<voice lang="es">Somos sólo dos personas.<break time="3s"></voice>
+
+<voice lang="en">Can we sit at the bar?<break time="5s"></voice>
+<voice lang="es">¿Podemos sentarnos en el bar?<break time="3s"></voice>
+
+<voice lang="en">We'll eat here.<break time="5s"></voice>
+<voice lang="es">Comeremos aquí.<break time="3s"></voice>
+
+<voice lang="en">How long is the wait for a table?<break time="5s"></voice>
+<voice lang="es">¿Cuánto hay que esperar para una mesa?<break time="3s"></voice>
+
+<voice lang="en">Do you have any tables available right now?<break time="5s"></voice>
+<voice lang="es">¿Tiene mesas disponibles en este momento?<break time="3s"></voice>
+
+<voice lang="en">There are six of us, do you have room?<break time="5s"></voice>
+<voice lang="es">Somos seis personas, ¿tiene sitio?<break time="3s"></voice>
+
+<voice lang="en">LLEGADA CON RESERVA - Cliente<break time="2s"></voice>
+<voice lang="es">LLEGADA CON RESERVA - Cliente<break time="2s"></voice>
+
+
+<voice lang="en">Hello, we have a reservation under the name Angelantoni.<break time="6s"></voice>
+<voice lang="es">Hola, tenemos una reserva a nombre de Angelantoni.<break time="3s"></voice>
+
+<voice lang="en">PREFERENCIAS DE ASIENTOS - Cliente<break time="2s"></voice>
+<voice lang="es">PREFERENCIAS DE ASIENTOS - Cliente<break time="2s"></voice>
+
+
+<voice lang="en">Can we sit outside, if possible?<break time="5s"></voice>
+<voice lang="es">¿Podemos sentarnos fuera, si es posible?<break time="3s"></voice>
+
+<voice lang="en">Is there a table outside?<break time="5s"></voice>
+<voice lang="es">¿Hay una mesa afuera?<break time="3s"></voice>
+
+<voice lang="es">Let me check with my friend if the heaters would work.<break time="6s"></voice>
+<voice lang="es">Déjame checar con mi amiga si los calentadores funcionarían.<break time="3s"></voice>
+
+<voice lang="en">Yes, that would be fine, but only if it's not cold outside.<break time="6s"></voice>
+<voice lang="es">Sí, estaría bien, pero solo si no hace frio afuera.<break time="3s"></voice>
+
+<voice lang="en">We need two minutes to talk among ourselves.<break time="5s"></voice>
+<voice lang="en">Necesitamos dos minutos para hablar entre nosotros.<break time="3s"></voice>
+
+<voice lang="en">We've decided to sit outside.<break time="5s"></voice>
+<voice lang="en">Hemos decidido sentarnos afuera.<break time="3s"></voice>
+
+<voice lang="en">We'd prefer a table with a view.<break time="5s"></voice>
+<voice lang="es">Preferiremos una mesa con una vista.<break time="3s"></voice>
+
+<voice lang="en">Yes, I like the table, but it needs cleaning.<break time="5s"></voice>
+<voice lang="es">Sí, me gusta la mesa, pero necesita una limpieza.<break time="3s"></voice>
+
+<voice lang="en">I haven't decided yet.<break time="5s"></voice>
+<voice lang="es">Todavía no lo he decidido.<break time="3s"></voice>
+
+<voice lang="en">SALUDAR A LOS CLIENTES - Personal del restaurante<break time="2s"></voice>
+<voice lang="es">SALUDAR A LOS CLIENTES - Personal del restaurante<break time="2s"></voice>
+
+
+<voice lang="en">Good evening, how many people are in your party?<break time="5s"></voice>
+<voice lang="es">Buenas noches, ¿cuántas personas hay en su grupo?<break time="3s"></voice>
+
+<voice lang="en">Do you prefer a table or a booth?<break time="5s"></voice>
+<voice lang="es">¿Prefiere una mesa o una cabina?<break time="3s"></voice>
+
+<voice lang="en">Your table will be ready in about 10 minutes.<break time="5s"></voice>
+<voice lang="es">Su mesa estará lista en unos 10 minutos.<break time="3s"></voice>
+
+<voice lang="en">This way, please, follow me.<break time="5s"></voice>
+<voice lang="es">Por aquí, por favor, síganme.<break time="3s"></voice>
+
+<voice lang="en">Confirmación de los detalles de la reserva<break time="2s"></voice>
+<voice lang="es">Confirmación de los detalles de la reserva<break time="2s"></voice>
+
+
+<voice lang="en">Can you confirm the reservation for tonight?<break time="5s"></voice>
+<voice lang="es">¿Puede confirmar la reserva para esta noche?<break time="3s"></voice>
+
+<voice lang="en">What name is the reservation under?<break time="5s"></voice>
+<voice lang="es">¿A nombre de quién está la reserva?<break time="3s"></voice>
+
+<voice lang="en">How many people will be dining?<break time="5s"></voice>
+<voice lang="es">¿Cuántas personas van a cenar?<break time="3s"></voice>
+
+<voice lang="en">Is this your first time dining with us?<break time="5s"></voice>
+<voice lang="es">¿Es la primera vez que cena con nosotros?<break time="3s"></voice>
+
+<voice lang="en">Cambiar o cancelar reservas<break time="2s"></voice>
+<voice lang="es">Cambiar o cancelar reservas<break time="2s"></voice>
+
+
+<voice lang="en">I need to change my reservation.<break time="5s"></voice>
+<voice lang="en">Necesito cambiar mi reserva.<break time="3s"></voice>
+
+<voice lang="en">Can I move the reservation to a different time?<break time="5s"></voice>
+<voice lang="es">¿Puedo cambiar la reserva a otra hora?<break time="3s"></voice>
+
+<voice lang="en">I need to cancel my reservation for tonight.<break time="5s"></voice>
+<voice lang="en">Necesito cancelar mi reserva para esta noche.<break time="3s"></voice>
+
+<voice lang="en">Can I add two more people to my reservation?<break time="5s"></voice>
+<voice lang="es">¿Puedo añadir dos personas más a mi reserva?<break time="3s"></voice>
+
+<voice lang="en">We're running about 15 minutes late.<break time="5s"></voice>
+<voice lang="es">Vamos a llegar unos 15 minutos tarde.<break time="3s"></voice>
+
+<voice lang="en">Tiempos de espera<break time="2s"></voice>
+<voice lang="es">Tiempos de espera<break time="2s"></voice>
+
+
+<voice lang="en">The wait is approximately 30 minutes.<break time="5s"></voice>
+<voice lang="es">La espera es de aproximadamente 30 minutos.<break time="3s"></voice>
+
+<voice lang="en">I can put your name on the waiting list.<break time="5s"></voice>
+<voice lang="es">Puedo poner su nombre en la lista de espera.<break time="3s"></voice>
+
+<voice lang="en">We'll call you when your table is ready.<break time="5s"></voice>
+<voice lang="es">Le llamaremos cuando su mesa esté lista.<break time="3s"></voice>
+
+<voice lang="en">Your table is ready now.<break time="5s"></voice>
+<voice lang="es">Su mesa está lista ahora.<break time="3s"></voice>
+
+<voice lang="en">Solicitudes especiales - Cliente<break time="2s"></voice>
+<voice lang="es">Solicitudes especiales - Cliente<break time="2s"></voice>
+
+
+<voice lang="en">Can we get a high chair for the baby?<break time="5s"></voice>
+<voice lang="es">¿Podemos conseguir una silla alta para el bebé?<break time="3s"></voice>
+
+<voice lang="en">Do you have a quiet table available?<break time="5s"></voice>
+<voice lang="es">¿Tienen una mesa tranquila disponible?<break time="3s"></voice>
+
+<voice lang="en">We're celebrating a birthday tonight.<break time="5s"></voice>
+<voice lang="es">Estamos celebrando un cumpleaños esta noche.<break time="3s"></voice>
+
+<voice lang="en">Can we request a specific server?<break time="5s"></voice>
+<voice lang="es">¿Podemos pedir un camarero específico?<break time="3s"></voice>
+
+<voice lang="en">We need a wheelchair-accessible table.<break time="5s"></voice>
+<voice lang="es">Necesitamos una mesa accesible para sillas de ruedas.<break time="3s"></voice>
+
+<voice lang="en">Is there parking available?<break time="5s"></voice>
+<voice lang="es">¿Hay estacionamiento disponible?<break time="3s"></voice>
+
+<voice lang="en">Registro<break time="2s"></voice>
+<voice lang="es">Registro<break time="2s"></voice>
+
+
+<voice lang="en">We're here for our 7 o'clock reservation.<break time="5s"></voice>
+<voice lang="es">Estamos aquí para nuestra reserva de las 7.<break time="3s"></voice>
+
+<voice lang="en">I called earlier to make a reservation.<break time="5s"></voice>
+<voice lang="es">Llamé antes para hacer una reserva.<break time="3s"></voice>
+
+<voice lang="en">Do you need my ID?<break time="5s"></voice>
+<voice lang="es">¿Necesita mi identificación?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>
+

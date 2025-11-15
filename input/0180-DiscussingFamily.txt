@@ -1,0 +1,206 @@
+<voice lang="en">Discussing Family<break time="1s"></voice>
+<voice lang="es">Hablando de la Familia<break time="1s"></voice>
+
+
+<voice lang="en">I have two brothers and one sister<break time="5s"></voice>
+<voice lang="es">Tengo dos hermanos y una hermana<break time="3s"></voice>
+
+<voice lang="en">My parents live in another city<break time="5s"></voice>
+<voice lang="es">Mis padres viven en otra ciudad<break time="3s"></voice>
+
+<voice lang="en">My grandmother is ninety years old<break time="5s"></voice>
+<voice lang="es">Mi abuela tiene noventa años<break time="3s"></voice>
+
+<voice lang="en">We get together every Sunday for dinner<break time="5s"></voice>
+<voice lang="es">Nos reunimos todos los domingos para cenar<break time="3s"></voice>
+
+<voice lang="en">My uncle works as a teacher<break time="5s"></voice>
+<voice lang="es">Mi tío trabaja como maestro<break time="3s"></voice>
+
+<voice lang="en">My cousin just had a baby<break time="5s"></voice>
+<voice lang="es">Mi primo/prima acaba de tener un bebé<break time="3s"></voice>
+
+<voice lang="en">My father's side of the family is very large<break time="5s"></voice>
+<voice lang="es">La familia de mi padre es muy grande<break time="3s"></voice>
+
+<voice lang="en">My sister is studying at the university<break time="5s"></voice>
+<voice lang="es">Mi hermana está estudiando en la universidad<break time="3s"></voice>
+
+<voice lang="en">My nephew loves to play soccer<break time="5s"></voice>
+<voice lang="es">A mi sobrino le encanta jugar fútbol<break time="3s"></voice>
+
+<voice lang="en">We celebrate all holidays together<break time="5s"></voice>
+<voice lang="es">Celebramos todas las fiestas juntos<break time="3s"></voice>
+
+<voice lang="en">Preguntar por la familia de alguien<break time="2s"></voice>
+<voice lang="es">Preguntar por la familia de alguien<break time="2s"></voice>
+
+
+<voice lang="en">Do you have any siblings?<break time="5s"></voice>
+<voice lang="es">¿Tienes hermanos?<break time="3s"></voice>
+
+<voice lang="en">How many people are in your family?<break time="5s"></voice>
+<voice lang="es">¿Cuántas personas hay en tu familia?<break time="3s"></voice>
+
+<voice lang="en">Where does your family live?<break time="5s"></voice>
+<voice lang="es">¿Dónde vive tu familia?<break time="3s"></voice>
+
+<voice lang="en">Are you close with your extended family?<break time="5s"></voice>
+<voice lang="es">¿Eres cercano/a con tu familia extendida?<break time="3s"></voice>
+
+<voice lang="en">What does your father do for work?<break time="5s"></voice>
+<voice lang="es">¿A qué se dedica tu padre?<break time="3s"></voice>
+
+<voice lang="en">How often do you see your grandparents?<break time="5s"></voice>
+<voice lang="es">¿Con qué frecuencia ves a tus abuelos?<break time="3s"></voice>
+
+<voice lang="en">Are you married or do you have children?<break time="5s"></voice>
+<voice lang="es">¿Estás casado/a o tienes hijos?<break time="3s"></voice>
+
+<voice lang="en">Does your family speak Spanish at home?<break time="5s"></voice>
+<voice lang="es">¿Tu familia habla español en casa?<break time="3s"></voice>
+
+<voice lang="en">What traditions does your family have?<break time="5s"></voice>
+<voice lang="es">¿Qué tradiciones tiene tu familia?<break time="3s"></voice>
+
+<voice lang="en">Who are you closest to in your family?<break time="5s"></voice>
+<voice lang="es">¿Con quién eres más cercano/a en tu familia?<break time="3s"></voice>
+
+<voice lang="en">Hablando sobre las relaciones familiares<break time="2s"></voice>
+<voice lang="es">Hablando sobre las relaciones familiares<break time="2s"></voice>
+
+
+<voice lang="en">I'm very close to my mother<break time="5s"></voice>
+<voice lang="en">Soy muy cercano/a a mi madre<break time="3s"></voice>
+
+<voice lang="en">My brother and I argue sometimes but we love each other<break time="5s"></voice>
+<voice lang="en">Mi hermano y yo discutimos a veces pero nos queremos<break time="3s"></voice>
+
+<voice lang="en">I look up to my older sister<break time="5s"></voice>
+<voice lang="en">Admiro a mi hermana mayor<break time="3s"></voice>
+
+<voice lang="en">My parents have been married for thirty years<break time="5s"></voice>
+<voice lang="es">Mis padres llevan casados treinta años<break time="3s"></voice>
+
+<voice lang="en">I take care of my younger siblings<break time="5s"></voice>
+<voice lang="en">Cuido a mis hermanos menores<break time="3s"></voice>
+
+<voice lang="en">My aunt is like a second mother to me<break time="5s"></voice>
+<voice lang="es">Mi tía es como una segunda madre para mí<break time="3s"></voice>
+
+<voice lang="en">We don't see my father's family very often<break time="5s"></voice>
+<voice lang="es">No vemos a la familia de mi padre muy seguido<break time="3s"></voice>
+
+<voice lang="en">My family is very supportive of me<break time="5s"></voice>
+<voice lang="en">Mi familia me apoya mucho<break time="3s"></voice>
+
+<voice lang="en">I inherited my sense of humor from my grandfather<break time="5s"></voice>
+<voice lang="es">Heredé mi sentido del humor de mi abuelo<break time="3s"></voice>
+
+<voice lang="en">My children mean everything to me<break time="5s"></voice>
+<voice lang="es">Mis hijos lo son todo para mí<break time="3s"></voice>
+
+<voice lang="en">Descripción de los miembros de la familia<break time="2s"></voice>
+<voice lang="es">Descripción de los miembros de la familia<break time="2s"></voice>
+
+
+<voice lang="en">My mother is very patient and kind<break time="5s"></voice>
+<voice lang="en">Mi madre es muy paciente y amable<break time="3s"></voice>
+
+<voice lang="en">My father has a great sense of humor<break time="5s"></voice>
+<voice lang="es">Mi padre tiene un gran sentido del humor<break time="3s"></voice>
+
+<voice lang="en">My sister is the smartest person I know<break time="5s"></voice>
+<voice lang="es">Mi hermana es la persona más inteligente que conozco<break time="3s"></voice>
+
+<voice lang="en">My brother is taller than me<break time="5s"></voice>
+<voice lang="es">Mi hermano es más alto que yo<break time="3s"></voice>
+
+<voice lang="en">My grandmother tells the best stories<break time="5s"></voice>
+<voice lang="es">Mi abuela cuenta las mejores historias<break time="3s"></voice>
+
+<voice lang="en">My daughter has my eyes<break time="5s"></voice>
+<voice lang="es">Mi hija tiene mis ojos<break time="3s"></voice>
+
+<voice lang="en">My son looks just like his father<break time="5s"></voice>
+<voice lang="en">Mi hijo se parece mucho a su padre<break time="3s"></voice>
+
+<voice lang="en">My cousin is always making everyone laugh<break time="5s"></voice>
+<voice lang="es">Mi primo/prima siempre hace reír a todos<break time="3s"></voice>
+
+<voice lang="en">My uncle is the oldest of five siblings<break time="5s"></voice>
+<voice lang="es">Mi tío es el mayor de cinco hermanos<break time="3s"></voice>
+
+<voice lang="en">My niece is learning to walk<break time="5s"></voice>
+<voice lang="es">Mi sobrina está aprendiendo a caminar<break time="3s"></voice>
+
+<voice lang="en">Actividades familiares y tiempo juntos<break time="2s"></voice>
+<voice lang="es">Actividades familiares y tiempo juntos<break time="2s"></voice>
+
+
+<voice lang="en">We always eat breakfast together on weekends<break time="5s"></voice>
+<voice lang="es">Siempre desayunamos juntos los fines de semana<break time="3s"></voice>
+
+<voice lang="en">My family loves to go camping in the summer<break time="5s"></voice>
+<voice lang="es">A mi familia le encanta ir de campamento en el verano<break time="3s"></voice>
+
+<voice lang="en">We play board games every Friday night<break time="5s"></voice>
+<voice lang="es">Jugamos juegos de mesa todos los viernes por la noche<break time="3s"></voice>
+
+<voice lang="en">My mom teaches me how to cook traditional recipes<break time="5s"></voice>
+<voice lang="es">Mi mamá me enseña a cocinar recetas tradicionales<break time="3s"></voice>
+
+<voice lang="en">We visit my grandparents every month<break time="5s"></voice>
+<voice lang="en">Visitamos a mis abuelos cada mes<break time="3s"></voice>
+
+<voice lang="en">My dad and I go fishing together<break time="5s"></voice>
+<voice lang="es">Mi papá y yo vamos a pescar juntos<break time="3s"></voice>
+
+<voice lang="en">The whole family watches movies on Sunday evenings<break time="5s"></voice>
+<voice lang="es">Toda la familia ve películas los domingos por la tarde<break time="3s"></voice>
+
+<voice lang="en">We take a family vacation every year<break time="5s"></voice>
+<voice lang="es">Tomamos vacaciones familiares cada año<break time="3s"></voice>
+
+<voice lang="en">My siblings and I video call each other weekly<break time="5s"></voice>
+<voice lang="es">Mis hermanos y yo nos hacemos videollamadas semanalmente<break time="3s"></voice>
+
+<voice lang="en">We share photos in our family group chat<break time="5s"></voice>
+<voice lang="es">Compartimos fotos en nuestro chat grupal familiar<break time="3s"></voice>
+
+<voice lang="en">Preguntas sobre los antecedentes y la historia familiar<break time="2s"></voice>
+<voice lang="es">Preguntas sobre los antecedentes y la historia familiar<break time="2s"></voice>
+
+
+<voice lang="en">Where did your grandparents come from?<break time="5s"></voice>
+<voice lang="es">¿De dónde venían tus abuelos?<break time="3s"></voice>
+
+<voice lang="en">What language did your ancestors speak?<break time="5s"></voice>
+<voice lang="es">¿Qué idioma hablaban tus antepasados?<break time="3s"></voice>
+
+<voice lang="en">Do you know much about your family history?<break time="5s"></voice>
+<voice lang="es">¿Sabes mucho sobre la historia de tu familia?<break time="3s"></voice>
+
+<voice lang="en">Are there any family stories passed down through generations?<break time="6s"></voice>
+<voice lang="es">¿Hay historias familiares que se han pasado de generación en generación?<break time="3s"></voice>
+
+<voice lang="en">What was your childhood home like?<break time="5s"></voice>
+<voice lang="es">¿Cómo era la casa de tu infancia?<break time="3s"></voice>
+
+<voice lang="en">Did your parents grow up in the same place?<break time="5s"></voice>
+<voice lang="es">¿Tus padres crecieron en el mismo lugar?<break time="3s"></voice>
+
+<voice lang="en">How did your parents meet?<break time="5s"></voice>
+<voice lang="es">¿Cómo se conocieron tus padres?<break time="3s"></voice>
+
+<voice lang="en">What kind of work did your grandparents do?<break time="5s"></voice>
+<voice lang="es">¿Qué tipo de trabajo hacían tus abuelos?<break time="3s"></voice>
+
+<voice lang="en">Do you have any family heirlooms?<break time="5s"></voice>
+<voice lang="es">¿Tienes alguna reliquia familiar?<break time="3s"></voice>
+
+<voice lang="en">Has your family always lived in this country?<break time="5s"></voice>
+<voice lang="es">¿Tu familia siempre ha vivido en este país?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"/></voice>

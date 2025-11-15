@@ -1,0 +1,247 @@
+<voice lang="en">Restaurant - Ordering<break time="1s"></voice>
+<voice lang="es">Restaurante - Ordenar<break time="1s"></voice>
+
+
+<voice lang="en">Can I see the menu, please?<break time="5s"></voice>
+<voice lang="es">¿Puedo ver el menú, por favor?<break time="3s"></voice>
+
+<voice lang="en">What drinks do you have?<break time="5s"></voice>
+<voice lang="es">¿Qué bebidas tienen?<break time="3s"></voice>
+
+<voice lang="en">What do you recommend?<break time="5s"></voice>
+<voice lang="es">¿Qué me recomienda?<break time="3s"></voice>
+
+<voice lang="en">What are your favorite dishes?<break time="5s"></voice>
+<voice lang="es">¿Cuáles son sus platos favoritos?<break time="3s"></voice>
+
+<voice lang="en">What are tonight's specials?<break time="5s"></voice>
+<voice lang="es">¿Cuáles son los platos especiales esta noche?<break time="3s"></voice>
+
+<voice lang="en">What's the soup of the day?<break time="5s"></voice>
+<voice lang="es">¿Cuál es la sopa del día?<break time="3s"></voice>
+
+<voice lang="en">Necesito más tiempo<break time="2s"></voice>
+<voice lang="es">Necesito más tiempo<break time="2s"></voice>
+
+
+<voice lang="en">One moment, please.<break time="5s"></voice>
+<voice lang="es">Un momento, por favor.<break time="3s"></voice>
+
+<voice lang="en">We need more time to decide.<break time="5s"></voice>
+<voice lang="es">Necesitamos más tiempo para decidir.<break time="3s"></voice>
+
+<voice lang="en">I'm ready to order.<break time="5s"></voice>
+<voice lang="es">Estoy listo para hacer el pedido.<break time="3s"></voice>
+
+<voice lang="es">Let's see what my friend wants.<break time="5s"></voice>
+<voice lang="es">Veamos qué quiere mi amigo.<break time="3s"></voice>
+
+<voice lang="en">Preguntas sobre los platos<break time="2s"></voice>
+<voice lang="es">Preguntas sobre los platos<break time="2s"></voice>
+
+
+<voice lang="en">What does it include?<break time="5s"></voice>
+<voice lang="es">¿Qué incluye?<break time="3s"></voice>
+
+<voice lang="en">What does that include?<break time="5s"></voice>
+<voice lang="es">¿Qué incluye eso?<break time="3s"></voice>
+
+<voice lang="en">Does it come with salad?<break time="5s"></voice>
+<voice lang="es">¿Viene con ensalada?<break time="3s"></voice>
+
+<voice lang="en">What's the difference between regular and large?<break time="5s"></voice>
+<voice lang="es">¿Cuál es la diferencia entre normal y grande?<break time="3s"></voice>
+
+<voice lang="en">How big is the portion?<break time="5s"></voice>
+<voice lang="es">¿De qué tamaño es la ración?<break time="3s"></voice>
+
+<voice lang="en">How is the fish cooked?<break time="5s"></voice>
+<voice lang="es">¿Cómo se cocina el pescado?<break time="3s"></voice>
+
+<voice lang="en">How is the fish prepared?<break time="5s"></voice>
+<voice lang="es">¿Cómo se prepara el pescado?<break time="3s"></voice>
+
+<voice lang="en">Restricciones y preferencias alimentarias<break time="2s"></voice>
+<voice lang="es">Restricciones y preferencias alimentarias<break time="2s"></voice>
+
+
+<voice lang="en">And I can't eat anything too spicy.<break time="5s"></voice>
+<voice lang="en">Y no puedo comer nada demasiado picante.<break time="3s"></voice>
+
+<voice lang="en">Gluten-free?<break time="5s"></voice>
+<voice lang="es">¿Sin gluten?<break time="3s"></voice>
+
+<voice lang="en">How spicy is medium?<break time="5s"></voice>
+<voice lang="es">¿Cómo de picante es el medio?<break time="3s"></voice>
+
+<voice lang="en">I'm trying to eat fewer carbs.<break time="5s"></voice>
+<voice lang="en">Intento comer menos carbohidratos.<break time="3s"></voice>
+
+<voice lang="en">Do you only have steamed vegetables?<break time="5s"></voice>
+<voice lang="es">¿Sólo tienes verduras al vapor?<break time="3s"></voice>
+
+<voice lang="en">With butter?<break time="5s"></voice>
+<voice lang="es">¿Con mantequilla?<break time="3s"></voice>
+
+<voice lang="en">Personalizaciones y sustituciones<break time="2s"></voice>
+<voice lang="es">Personalizaciones y sustituciones<break time="2s"></voice>
+
+
+<voice lang="en">Can I substitute the fries for a salad?<break time="5s"></voice>
+<voice lang="es">¿Puedo cambiar las patatas fritas por una ensalada?<break time="3s"></voice>
+
+<voice lang="en">Can you put the sauce on the side?<break time="5s"></voice>
+<voice lang="es">¿Puedes poner la salsa aparte?<break time="3s"></voice>
+
+<voice lang="en">Can I order extra cheese with that?<break time="5s"></voice>
+<voice lang="es">¿Puedo pedir queso extra con eso?<break time="3s"></voice>
+
+<voice lang="en">With lots of garlic, if you have it.<break time="5s"></voice>
+<voice lang="es">Con mucho ajo, si tienes.<break time="3s"></voice>
+
+<voice lang="en">I'd like the steak, medium, pink in the center.<break time="5s"></voice>
+<voice lang="es">Me gustaría el filete, medio, rosa en el centro.<break time="3s"></voice>
+
+<voice lang="en">Can you cook it medium rare?<break time="5s"></voice>
+<voice lang="es">¿Puedes cocinarlo medio crudo?<break time="3s"></voice>
+
+<voice lang="en">I'd like the fish, but with a special touch: I'd like you to add more bacon.<break time="5s"></voice>
+<voice lang="es">Me gustaría el pescado, pero con un toque especial: me gustaría que añadieras más tocino.<break time="3s"></voice>
+
+<voice lang="en">I don't mind paying a little extra for that.<break time="5s"></voice>
+<voice lang="es">No me importa pagar un poco más por eso.<break time="3s"></voice>
+
+<voice lang="en">Pedidos para terceros<break time="2s"></voice>
+<voice lang="es">Pedidos para terceros<break time="2s"></voice>
+
+
+<voice lang="en">I'll have the same as her.<break time="5s"></voice>
+<voice lang="es">Tomaré lo mismo que ella.<break time="3s"></voice>
+
+<voice lang="en">My friend will have ____.<break time="5s"></voice>
+<voice lang="es">Mi amigo tendrá ____.<break time="3s"></voice>
+
+<voice lang="en">I think tonight he just wants an appetizer.<break time="5s"></voice>
+<voice lang="es">Creo que esta noche sólo quiere un aperitivo.<break time="3s"></voice>
+
+<voice lang="en">That's all to start, but maybe my friend will want something else.<break time="5s"></voice>
+<voice lang="es">Eso es todo para empezar, pero quizá mi amigo quiera algo más.<break time="3s"></voice>
+
+<voice lang="en">Preferencias de horarios y cursos<break time="2s"></voice>
+<voice lang="es">Preferencias de horarios y cursos<break time="2s"></voice>
+
+
+<voice lang="en">Could you bring us the appetizers right now, before the main course, please?<break time="5s"></voice>
+<voice lang="es">¿Podría traernos los aperitivos ahora mismo, antes del plato principal, por favor?<break time="3s"></voice>
+
+<voice lang="en">We don't want them all together.<break time="5s"></voice>
+<voice lang="es">No los queremos a todos juntos.<break time="3s"></voice>
+
+<voice lang="en">We're thinking of just having appetizers tonight.<break time="5s"></voice>
+<voice lang="es">Estamos pensando en comer solo aperitivos esta noche.<break time="3s"></voice>
+
+<voice lang="en">Tomar decisiones<break time="2s"></voice>
+<voice lang="es">Tomar decisiones<break time="2s"></voice>
+
+
+<voice lang="en">Someone told me the chicken is good here.<break time="5s"></voice>
+<voice lang="es">Alguien me dijo que el pollo es bueno aquí.<break time="3s"></voice>
+
+<voice lang="en">What's the freshest fish you have right now?<break time="5s"></voice>
+<voice lang="es">¿Cuál es el pescado más fresco que tienes ahora mismo?<break time="3s"></voice>
+
+<voice lang="en">I eat tacos very often. I want to try something different.<break time="5s"></voice>
+<voice lang="en">Como tacos muy a menudo. Quiero probar algo diferente.<break time="3s"></voice>
+
+<voice lang="en">I haven't had chicken wings in a long time.<break time="5s"></voice>
+<voice lang="es">Hace mucho que no como alitas de pollo.<break time="3s"></voice>
+
+<voice lang="en">Bebidas<break time="2s"></voice>
+<voice lang="es">Bebidas<break time="2s"></voice>
+
+
+<voice lang="en">Can you give me a glass of dry white wine?<break time="5s"></voice>
+<voice lang="es">¿Puedes darme un vaso de vino blanco seco?<break time="3s"></voice>
+
+<voice lang="en">Sorry, I meant to say I wanted to order fun drinks.<break time="5s"></voice>
+<voice lang="es">Lo siento, quería decir que quería pedir bebidas divertidas.<break time="3s"></voice>
+
+<voice lang="en">Aclaraciones y preguntas adicionales<break time="2s"></voice>
+<voice lang="es">Aclaraciones y preguntas adicionales<break time="2s"></voice>
+
+<voice lang="en">Actually, can I ask you some questions?<break time="5s"></voice>
+<voice lang="es">De hecho, ¿puedo hacerte unas preguntas?<break time="3s"></voice>
+
+<voice lang="en">Información del menú<break time="2s"></voice>
+<voice lang="es">Información del menú<break time="2s"></voice>
+
+
+<voice lang="en">Do you have a wine list?<break time="5s"></voice>
+<voice lang="es">¿Tienen una carta de vinos?<break time="3s"></voice>
+
+<voice lang="en">Are there any vegetarian options?<break time="5s"></voice>
+<voice lang="es">¿Hay opciones vegetarianas?<break time="3s"></voice>
+
+<voice lang="en">Do you have a kids' menu?<break time="5s"></voice>
+<voice lang="es">¿Tienen menú infantil?<break time="3s"></voice>
+
+<voice lang="en">What are your desserts?<break time="5s"></voice>
+<voice lang="es">¿Cuáles son sus postres?<break time="3s"></voice>
+
+<voice lang="en">Alergias y problemas de salud<break time="2s"></voice>
+<voice lang="es">Alergias y problemas de salud<break time="2s"></voice>
+
+
+<voice lang="en">I'm allergic to nuts.<break time="5s"></voice>
+<voice lang="es">Soy alérgico a los frutos secos.<break time="3s"></voice>
+
+<voice lang="en">Does this contain dairy?<break time="5s"></voice>
+<voice lang="es">¿Esto contiene lácteos?<break time="3s"></voice>
+
+<voice lang="en">Is this dish vegan?<break time="5s"></voice>
+<voice lang="es">¿Este plato es vegano?<break time="3s"></voice>
+
+<voice lang="en">I'm lactose intolerant.<break time="5s"></voice>
+<voice lang="en">Soy intolerante a la lactosa.<break time="3s"></voice>
+
+<voice lang="en">Temperatura y punto de cocción<break time="2s"></voice>
+<voice lang="es">Temperatura y punto de cocción<break time="2s"></voice>
+
+
+<voice lang="en">Can you make sure it's hot?<break time="5s"></voice>
+<voice lang="es">¿Puedes asegurarte de que esté caliente?<break time="3s"></voice>
+
+<voice lang="en">I'd like it well done.<break time="5s"></voice>
+<voice lang="es">Lo quiero bien cocido.<break time="3s"></voice>
+
+<voice lang="en">Is the fish served raw?<break time="5s"></voice>
+<voice lang="es">¿El pescado se sirve crudo?<break time="3s"></voice>
+
+<voice lang="en">Preocupaciones sobre las porciones<break time="2s"></voice>
+<voice lang="es">Preocupaciones sobre las porciones<break time="2s"></voice>
+
+
+<voice lang="en">Is that enough for two people?<break time="5s"></voice>
+<voice lang="es">¿Eso es suficiente para dos personas?<break time="3s"></voice>
+
+<voice lang="en">Can we share this dish?<break time="5s"></voice>
+<voice lang="es">¿Podemos compartir este plato?<break time="3s"></voice>
+
+<voice lang="en">I'd like a half portion, please.<break time="5s"></voice>
+<voice lang="es">Quisiera media porción, por favor.<break time="3s"></voice>
+
+<voice lang="en">Acompañamientos<break time="2s"></voice>
+<voice lang="es">Acompañamientos<break time="2s"></voice>
+
+
+<voice lang="en">What sides does it come with?<break time="5s"></voice>
+<voice lang="es">¿Con qué guarniciones viene?<break time="3s"></voice>
+
+<voice lang="en">Can I get rice instead of potatoes?<break time="5s"></voice>
+<voice lang="es">¿Puedo pedir arroz en lugar de papas?<break time="3s"></voice>
+
+<voice lang="en">Do you have any other side options?<break time="5s"></voice>
+<voice lang="es">¿Tienen otras opciones de guarnición?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

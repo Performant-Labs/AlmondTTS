@@ -1,0 +1,83 @@
+<voice lang="en">Personal Introduction<break time="1s"></voice>
+<voice lang="es">Presentación personal<break time="1s"></voice>
+
+<voice lang="en">Hello I'm André Angelantoni.<break time="5s"></voice>
+<voice lang="es">Hola, soy André Angelantoni.<break time="3s"></voice>
+
+<voice lang="en">I was born in Canada and in 1999 moved to California.<break time="8s"></voice>
+<voice lang="es">Nací en Canadá y en mil novecientos noventa y nueve me trasladé a California.<break time="3s"></voice>
+
+<voice lang="en">I lived in San Francisco for 22 years until the pandemic.<break time="6s"></voice>
+<voice lang="es">Viví en San Francisco veintidós años, hasta la pandemia.<break time="3s"></voice>
+
+<voice lang="en">I left San Francisco in April of two thousand twenty-one in an RV<break time="5s"></voice>
+<voice lang="es">Salí de San Francisco en abril de dos mil veintiuno en una autocaravana<break time="3s"></voice>
+
+<voice lang="en">and started traveling across the USA.<break time="5s"></voice>
+<voice lang="es">y empecé a viajar por Estados Unidos.<break time="3s"></voice>
+
+<voice lang="en">A friend told me to visit her in Todos Santos, Mexico.<break time="5s"></voice>
+<voice lang="es">Una amiga me dijo que la visitara en Todos Santos, México.<break time="3s"></voice>
+
+<voice lang="en">I own a company that does automated testing for websites.<break time="6s"></voice>
+<voice lang="es">Tengo una empresa que realiza pruebas automatizadas para sitios web.<break time="3s"></voice>
+
+<voice lang="en">I have my own business.<break time="4s"></voice>
+<voice lang="es">Tengo mi propio negocio.<break time="3s"></voice>
+
+<voice lang="en">I have a business.<break time="4s"></voice>
+<voice lang="es">Tengo un negocio.<break time="3s"></voice>
+
+<voice lang="en">If you think of any large site, such as Amazon,<break time="5s"></voice>
+<voice lang="es">Si piensas en cualquier sitio grande, como Amazon,<break time="3s"></voice>
+
+<voice lang="en">there are thousands of automated tests acting like humans.<break time="5s"></voice>
+<voice lang="es">hay miles de pruebas automatizadas que actúan como humanos.<break time="3s"></voice>
+
+<voice lang="en">They verify that the website works.<break time="4s"></voice>
+<voice lang="en">Verifican que el sitio funciona.<break time="3s"></voice>
+
+<voice lang="en">The moment something breaks, the developers<break time="5s"></voice>
+<voice lang="en">En cuanto algo se rompe, los desarrolladores<break time="3s"></voice>
+
+<voice lang="en">receive a message so that they can fix it.<break time="5s"></voice>
+<voice lang="en">reciben un mensaje para que puedan arreglarlo.<break time="3s"></voice>
+
+<voice lang="en">I also do some work for a security company called HeroDevs.<break time="7s"></voice>
+<voice lang="es">También trabajo para una empresa de seguridad llamada HeroDevs.<break time="3s"></voice>
+
+<voice lang="en">I work completely online,<break time="5s"></voice>
+<voice lang="es">Trabajo completamente en línea,<break time="3s"></voice>
+
+<voice lang="en">clients these days don't care where one works.<break time="5s"></voice>
+<voice lang="es">a los clientes hoy en día no les importa dónde trabaje uno.<break time="3s"></voice>
+
+<voice lang="en">I've worked as a programmer since I was 16 years old.<break time="5s"></voice>
+<voice lang="es">He trabajado como programador desde que tenía 16 años.<break time="3s"></voice>
+
+<voice lang="en">I still have my first computer: a Commodore PET.<break time="5s"></voice>
+<voice lang="es">Todavía conservo mi primer ordenador: un Commodore PET.<break time="3s"></voice>
+
+<voice lang="en">Over the years, <break time="5s"></voice>
+<voice lang="es">A lo largo de los años, <break time="3s"></voice>
+
+<voice lang="en">I have learned to program in more than a dozen languages.<break time="5s"></voice>
+<voice lang="es">he aprendido a programar en más de una docena de lenguajes.<break time="3s"></voice>
+
+<voice lang="en">I was married for 7 years and got divorced in 2010.<break time="6s"></voice>
+<voice lang="es">Estuve casado durante siete años y me divorcié en dos mil diez.<break time="3s"></voice>
+
+<voice lang="en">I studied civil engineering but I loved computers<break time="5s"></voice>
+<voice lang="es">Estudié ingeniería civil, pero me encantaban los ordenadores<break time="3s"></voice>
+
+<voice lang="en">and became a programmer instead.<break time="5s"></voice>
+<voice lang="es">y acabé convirtiéndome en programador.<break time="3s"></voice>
+
+<voice lang="en">I have been working professionally with computers since I was 16 years old.<break time="7s"></voice>
+<voice lang="es">He trabajado profesionalmente con ordenadores desde los 16 años.<break time="3s"></voice>
+
+<voice lang="en">What do you do?<break time=5s"></voice>
+<voice lang="es">¿A qué te dedicas?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

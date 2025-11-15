@@ -1,0 +1,36 @@
+<voice lang="en">Ordering Coffee<break time="1s"></voice>
+<voice lang="es">Pedir café<break time="1s"></voice>
+
+
+<voice lang="en">How big is grande?<break time="10s"></voice>
+<voice lang="es">¿Que tan grande es grande?<break time="3s"></voice>
+
+<voice lang="en">Do you have cream? I prefer it over milk.<break time="10s"></voice>
+<voice lang="es">¿Tiene crema? La prefiero a la leche.<break time="3s"></voice>
+
+<voice lang="en">Sugar is ok but do you have Stevia, the one in the green packet?<break time="10s"></voice>
+<voice lang="es">El azúcar está bien, pero ¿tiene Stevia, la que viene en el paquete verde?<break time="3s"></voice>
+
+<voice lang="en">I prefer a smaller size.<break time="10s"></voice>
+<voice lang="es">Prefiero un tamaño más pequeño.<break time="3s"></voice>
+
+<voice lang="en">Do you have heavy cream?<break time="10s"></voice>
+<voice lang="es">¿Tiene crema espesa? ¿Tiene crema doble?<break time="3s"></voice>
+
+<voice lang="en">What is the difference between cappucino and macchiato?<break time="10s"></voice>
+<voice lang="es">¿Cuál es la diferencia entre un capuchino y un macchiato?<break time="3s"></voice>
+
+<voice lang="en">Can you make that half-caff?<break time="10s"></voice>
+<voice lang="es">¿Puede prepararlo con mitad de cafeína?<break time="3s"></voice>
+
+<voice lang="en">What's your wifi password?<break time="10s"></voice>
+<voice lang="es">¿Cual es su contraseña wifi?<break time="3s"></voice>
+
+<voice lang="en">I'll take a small coffee, room for cream.<break time="10s"></voice>
+<voice lang="es">Tomaré un café pequeño, con espacio para la leche.<break time="3s"></voice>
+
+<voice lang="en">What's the wait time for a fresh pot?<break time="10s"></voice>
+<voice lang="es">¿Cuánto tiempo hay que esperar para que sirvan café recién hecho?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>

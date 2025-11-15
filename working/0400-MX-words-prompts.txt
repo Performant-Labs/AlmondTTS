@@ -1,0 +1,5 @@
+Strip the numbers from this list and reprint one per line with no numbers or commas. Important: print one word per line.
+
+Examine this list and print out the words that aren't really words: they are numbers, abbreviations, names of cities or people, things like that.
+
+Now reprint the list without these words, one per line, no numbers or commas. Important: print one word per line.

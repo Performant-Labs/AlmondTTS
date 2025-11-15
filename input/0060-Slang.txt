@@ -1,0 +1,213 @@
+<voice lang="en">Slang<break time="1s"></voice>
+<voice lang="es">Jerga<break time="1s"></voice>
+
+
+<voice lang="en">What's up, dude?<break time="5s"></voice>
+<voice lang="es">¿Qué pasó, güey?<break time="3s"></voice>
+
+<voice lang="en">What's up?<break time="5s"></voice>
+<voice lang="es">¿Qué onda?<break time="3s"></voice>
+
+<voice lang="en">What's the problem?<break time="5s"></voice>
+<voice lang="es">¿Cuál es el pedo?<break time="3s"></voice>
+
+<voice lang="en">What?<break time="5s"></voice>
+<voice lang="es">¿Mande?<break time="3s"></voice>
+
+<voice lang="en">How's it going?<break time="5s"></voice>
+<voice lang="es">¿Qué tal?<break time="3s"></voice>
+
+<voice lang="es">See you later, dude.<break time="5s"></voice>
+<voice lang="es">Nos vemos, güey.<break time="3s"></voice>
+
+<voice lang="en">Positive Reactions<break time="2s"></voice>
+<voice lang="es">Positive Reactions<break time="2s"></voice>
+
+
+<voice lang="en">That movie is really cool.<break time="5s"></voice>
+<voice lang="es">Esa película está muy chida.<break time="3s"></voice>
+
+<voice lang="en">How cool!<break time="5s"></voice>
+<voice lang="es">¡Qué padre!<break time="3s"></voice>
+
+<voice lang="en">He's a cool person.<break time="5s"></voice>
+<voice lang="es">Él es buena onda.<break time="3s"></voice>
+
+<voice lang="en">Wow! That's great!<break time="5s"></voice>
+<voice lang="es">¡Órale! ¡Qué bien!<break time="3s"></voice>
+
+<voice lang="en">Hell yeah!<break time="5s"></voice>
+<voice lang="es">¡A huevo que sí!<break time="3s"></voice>
+
+<voice lang="en">That's awesome!<break time="5s"></voice>
+<voice lang="es">¡Está padre!<break time="3s"></voice>
+
+<voice lang="en">She's really nice.<break time="5s"></voice>
+<voice lang="es">Ella es muy buena onda.<break time="3s"></voice>
+
+<voice lang="en">Negative Reactions<break time="2s"></voice>
+<voice lang="es">Negative Reactions<break time="2s"></voice>
+
+
+<voice lang="en">That's not cool.<break time="5s"></voice>
+<voice lang="es">Eso es mala onda.<break time="3s"></voice>
+
+<voice lang="en">This phone is bad quality.<break time="5s"></voice>
+<voice lang="es">Este teléfono es bien chafa.<break time="3s"></voice>
+
+<voice lang="en">Bummer, I couldn't go.<break time="5s"></voice>
+<voice lang="en">Chale, no pude ir.<break time="3s"></voice>
+
+<voice lang="en">Don't get bummed out.<break time="5s"></voice>
+<voice lang="es">No te aguites.<break time="3s"></voice>
+
+<voice lang="en">I don't want to go!<break time="5s"></voice>
+<voice lang="es">¡Qué hueva ir!<break time="3s"></voice>
+
+<voice lang="en">He's a bad person.<break time="5s"></voice>
+<voice lang="es">Él es mala onda.<break time="3s"></voice>
+
+<voice lang="en">This is terrible quality.<break time="5s"></voice>
+<voice lang="es">Esto es bien chafa.<break time="3s"></voice>
+
+<voice lang="en">What a drag!<break time="5s"></voice>
+<voice lang="es">¡Qué hueva!<break time="3s"></voice>
+
+<voice lang="en">Surprise & Disbelief<break time="2s"></voice>
+<voice lang="es">Surprise & Disbelief<break time="2s"></voice>
+
+
+<voice lang="en">For real?<break time="5s"></voice>
+<voice lang="es">¿Neta?<break time="3s"></voice>
+
+<voice lang="en">No way! Seriously?<break time="5s"></voice>
+<voice lang="es">¡No manches! ¿En serio?<break time="3s"></voice>
+
+<voice lang="en">No way, dude!<break time="5s"></voice>
+<voice lang="es">¡No mames, güey!<break time="3s"></voice>
+
+<voice lang="en">Oh! What happened?<break time="5s"></voice>
+<voice lang="es">¡Achís! ¿Qué pasó?<break time="3s"></voice>
+
+<voice lang="en">Oops!<break time="5s"></voice>
+<voice lang="es">¡Ay, chin!<break time="3s"></voice>
+
+<voice lang="es">Seriously?<break time="5s"></voice>
+<voice lang="es">¿Neta?<break time="3s"></voice>
+
+<voice lang="en">You're kidding!<break time="5s"></voice>
+<voice lang="es">¡No manches!<break time="3s"></voice>
+
+<voice lang="en">Commands & Warnings<break time="2s"></voice>
+<voice lang="es">Commands & Warnings<break time="2s"></voice>
+
+
+<voice lang="en">Hold up, I'm coming.<break time="5s"></voice>
+<voice lang="es">Aguanta, ya voy.<break time="3s"></voice>
+
+<voice lang="en">Watch out for the car!<break time="5s"></voice>
+<voice lang="es">¡Aguas con el coche!<break time="3s"></voice>
+
+<voice lang="en">Wait for me!<break time="5s"></voice>
+<voice lang="es">¡Aguántame!<break time="3s"></voice>
+
+<voice lang="en">Be careful!<break time="5s"></voice>
+<voice lang="es">¡Aguas!<break time="3s"></voice>
+
+<voice lang="en">Agreement<break time="2s"></voice>
+<voice lang="es">Agreement<break time="2s"></voice>
+
+
+<voice lang="en">All right, see you.<break time="5s"></voice>
+<voice lang="es">Órale, nos vemos.<break time="3s"></voice>
+
+<voice lang="en">Yes, let's go.<break time="5s"></voice>
+<voice lang="es">Simón, vamos.<break time="3s"></voice>
+
+<voice lang="en">Okay, sounds good.<break time="5s"></voice>
+<voice lang="es">Órale, está bien.<break time="3s"></voice>
+
+<voice lang="en">Absolutely!<break time="5s"></voice>
+<voice lang="es">¡A huevo!<break time="3s"></voice>
+
+<voice lang="en">People<break time="2s"></voice>
+<voice lang="es">People<break time="2s"></voice>
+
+
+<voice lang="en">That boy is my cousin.<break time="5s"></voice>
+<voice lang="es">Ese morro es mi primo.<break time="3s"></voice>
+
+<voice lang="en">Do you know that girl?<break time="5s"></voice>
+<voice lang="es">¿Conoces a esa chava?<break time="3s"></voice>
+
+<voice lang="es">Hey, güera, come here.<break time="5s"></voice>
+<voice lang="es">Oye, güera, ven acá.<break time="3s"></voice>
+
+<voice lang="en">She's very snobby.<break time="5s"></voice>
+<voice lang="es">Es muy fresa.<break time="3s"></voice>
+
+<voice lang="en">What's up, bro?<break time="5s"></voice>
+<voice lang="es">¿Qué onda, carnal?<break time="3s"></voice>
+
+<voice lang="en">The kids are playing.<break time="5s"></voice>
+<voice lang="es">Los morros están jugando.<break time="3s"></voice>
+
+<voice lang="en">That guy is my friend.<break time="5s"></voice>
+<voice lang="es">Ese chavo es mi amigo.<break time="3s"></voice>
+
+<voice lang="en">My brother is coming.<break time="5s"></voice>
+<voice lang="en">Mi carnal viene.<break time="3s"></voice>
+
+<voice lang="en">Food & Drink<break time="2s"></voice>
+<voice lang="es">Food & Drink<break time="2s"></voice>
+
+
+<voice lang="es">Let's go get some beers.<break time="5s"></voice>
+<voice lang="es">Vamos por unas chelas.<break time="3s"></voice>
+
+<voice lang="en">Want a beer?<break time="5s"></voice>
+<voice lang="es">¿Quieres un cheve?<break time="3s"></voice>
+
+<voice lang="es">Let's go eat lunch.<break time="5s"></voice>
+<voice lang="es">Vamos a comer la comida.<break time="3s"></voice>
+
+<voice lang="en">I brought my lunch.<break time="5s"></voice>
+<voice lang="en">Traje mi lonche.<break time="3s"></voice>
+
+<voice lang="es">Let's grab a beer.<break time="5s"></voice>
+<voice lang="es">Vamos por una chela.<break time="3s"></voice>
+
+<voice lang="en">I want another beer.<break time="5s"></voice>
+<voice lang="en">Quiero otro cheve.<break time="3s"></voice>
+
+<voice lang="en">Work & Money<break time="2s"></voice>
+<voice lang="es">Work & Money<break time="2s"></voice>
+
+
+<voice lang="en">I have a lot of work.<break time="5s"></voice>
+<voice lang="es">Tengo mucha chamba.<break time="3s"></voice>
+
+<voice lang="en">Do me a favor.<break time="5s"></voice>
+<voice lang="es">Hazme un paro.<break time="3s"></voice>
+
+<voice lang="en">I don't have money.<break time="5s"></voice>
+<voice lang="es">No tengo feria.<break time="3s"></voice>
+
+<voice lang="en">Do you have money?<break time="5s"></voice>
+<voice lang="es">¿Tienes lana?<break time="3s"></voice>
+
+<voice lang="en">I need to go to work.<break time="5s"></voice>
+<voice lang="es">Tengo que ir a la chamba.<break time="3s"></voice>
+
+<voice lang="en">Can you do me a favor?<break time="5s"></voice>
+<voice lang="es">¿Me haces un paro?<break time="3s"></voice>
+
+<voice lang="en">I need money.<break time="5s"></voice>
+<voice lang="en">Necesito lana.<break time="3s"></voice>
+
+<voice lang="en">How much money do you have?<break time="5s"></voice>
+<voice lang="es">¿Cuánta feria tienes?<break time="3s"></voice>
+
+En final
+<voice lang="en"><break time="4s"></voice>
+

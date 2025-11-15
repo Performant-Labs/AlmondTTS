@@ -1,0 +1,5 @@
+coqui-tts>=0.24.0
+numpy>=1.24.0
+scipy>=1.10.0
+langdetect>=1.0.9
+psutil>=5.9.0
