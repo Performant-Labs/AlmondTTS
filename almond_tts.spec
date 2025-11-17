@@ -20,7 +20,17 @@ def _include_package(name: str) -> None:
     hiddenimports.extend(pkg_hidden)
 
 
-for package in ("TTS", "torch", "scipy", "langdetect", "psutil", "numpy"):
+for package in (
+    "TTS",
+    "torch",
+    "scipy",
+    "langdetect",
+    "psutil",
+    "numpy",
+    "gruut",
+    "gruut_lang_en",
+    "gruut_lang_es",
+):
     _include_package(package)
 
 if MODELS_DIR.exists():
@@ -72,15 +82,4 @@ coll = COLLECT(
     upx=False,
     upx_exclude=[],
     name="almond_tts",
-)
-
-app = BUNDLE(
-    coll,
-    name="AlmondTTS.app",
-    icon=None,
-    bundle_identifier="com.almondtts.app",
-    info_plist={
-        "CFBundleDisplayName": "AlmondTTS",
-        "CFBundleName": "AlmondTTS",
-    },
 )

@@ -6,13 +6,90 @@ from __future__ import annotations
 import os
 import subprocess
 import sys
+import shutil
 from pathlib import Path
-from typing import Optional
 
 USER_ROOT_ENV = "ALMOND_TTS_USER_ROOT"
 USER_DIR_NAMES = ("input", "output", "reference_audio", "working")
 FIRST_RUN_SENTINEL = ".almondtts_init"
-LAST_DIR_FILE = ".last_input_dir"
+SAMPLE_NAME = "0000-BasicGrammar.txt"
+SAMPLE_RELATIVE_DIRS = ("Samples", "input")
+HELP_FLAGS = ("-h", "--help")
+HELP_TEXT = """usage: {exe} [-h] [-o OUTPUT_NAME] [-d OUTPUT_DIR]
+               [-r REFERENCE_AUDIO] [-l LANGUAGE]
+               [--device {{cpu,mps,cuda,auto}}]
+               [--min-duration MIN_DURATION]
+               [--max-duration MAX_DURATION] [--keep-temp]
+               [--workers WORKERS] [--pause-after PAUSE_AFTER]
+               [--voice-map VOICE_MAP] [--auto-detect-language]
+               input_file
+
+Generate audio from long-form text with intelligent segmentation
+
+positional arguments:
+  input_file            Path to input text file or directory containing text files
+
+options:
+  -h, --help            show this help message and exit
+  -o OUTPUT_NAME, --output-name OUTPUT_NAME
+                        Base name for output files (default: input filename without extension)
+  -d OUTPUT_DIR, --output-dir OUTPUT_DIR
+                        Directory for output files (default: ~/Documents/AlmondTTS/output)
+  -r REFERENCE_AUDIO, --reference-audio REFERENCE_AUDIO
+                        Path to reference audio file for voice cloning (optional, uses built-in voice if not provided)
+  -l LANGUAGE, --language LANGUAGE
+                        Language code (default: es)
+  --device {{cpu,mps,cuda,auto}}
+                        Device to use for inference (default: auto)
+  --min-duration MIN_DURATION
+                        Minimum target segment duration in seconds (default: 30)
+  --max-duration MAX_DURATION
+                        Maximum target segment duration in seconds (default: 60)
+  --keep-temp           Keep temporary audio files
+  --workers WORKERS     Number of parallel workers for TTS generation (default: 2)
+  --pause-after PAUSE_AFTER
+                        Add a pause of this many seconds after each audio segment (overrides break tags)
+  --voice-map VOICE_MAP
+                        JSON mapping of language codes to voice files, e.g., '{{"en": "english.wav", "es": null}}'
+  --auto-detect-language
+                        Automatically detect language per segment and use the voice from --voice-map
+
+Example usage:
+  {exe} input.txt
+  {exe} input.txt --min-duration 20 --max-duration 45
+  {exe} input.txt --device cpu --keep-temp
+"""
+
+
+def _print_launch_banner() -> None:
+    print("Launching AlmondTTS... loading models can take up to 30 seconds. Please wait.")
+
+
+def _disable_typeguard_instrumentation() -> None:
+    try:
+        import typeguard  # type: ignore
+    except Exception:
+        return
+
+    def _noop(target=None, **kwargs):
+        if target is None:
+            def decorator(func):
+                return func
+            return decorator
+        return target
+
+    try:
+        import typeguard._decorators as decorators  # type: ignore
+    except Exception:
+        decorators = None
+
+    try:
+        typeguard.typechecked = _noop  # type: ignore[attr-defined]
+    except Exception:
+        pass
+
+    if decorators is not None:
+        decorators.typechecked = _noop  # type: ignore[attr-defined]
 
 
 def _set_bundle_environment() -> None:
@@ -41,25 +118,6 @@ def _set_bundle_environment() -> None:
         os.environ.setdefault("ALMOND_TTS_MODEL_DIR", str(models_dir))
 
 
-def _escape_for_applescript(text: str) -> str:
-    return text.replace("\\", "\\\\").replace('"', '\\"')
-
-
-def _show_applescript_alert(message: str, timeout: Optional[int] = None) -> bool:
-    script = (
-        'display alert "AlmondTTS" message "'
-        + _escape_for_applescript(message)
-        + '" buttons {"OK"} default button "OK"'
-    )
-    if timeout:
-        script += f" giving up after {timeout}"
-    try:
-        subprocess.run(["osascript", "-e", script], check=False, capture_output=True, text=True)
-        return True
-    except Exception:
-        return False
-
-
 def _resolve_user_root() -> Path:
     custom = os.environ.get(USER_ROOT_ENV)
     if custom:
@@ -81,26 +139,13 @@ def _show_first_run_message(input_dir: Path) -> None:
     message = (
         "AlmondTTS has created the working folders in:\n"
         f"{input_dir.parent}\n\n"
-        "Add your .txt files to the 'input' folder. After you close this message you can choose a file to render."
+        "A sample file will be placed in the 'input' folder automatically.\n"
+        "Add your .txt files to the 'input' folder and run the CLI with a file path, for example:\n"
+        f"  {Path(sys.argv[0]).name} ~/Documents/AlmondTTS/input/{SAMPLE_NAME}\n"
+        "\n"
+        "You only see this message once."
     )
-    shown = False
-    try:
-        import tkinter as tk
-        from tkinter import messagebox
-
-        root = tk.Tk()
-        root.withdraw()
-        messagebox.showinfo("AlmondTTS", message)
-        root.destroy()
-        shown = True
-    except Exception:
-        pass
-
-    if not shown:
-        shown = _show_applescript_alert(message)
-
-    if not shown:
-        print(message)
+    print(message)
 
     try:
         subprocess.run(["open", str(input_dir)], check=False)
@@ -108,93 +153,26 @@ def _show_first_run_message(input_dir: Path) -> None:
         pass
 
 
-def _get_initial_dialog_dir(user_root: Path) -> Path:
-    cfg = user_root / LAST_DIR_FILE
-    if cfg.exists():
-        content = cfg.read_text().strip()
-        if content:
-            candidate = Path(content).expanduser()
+def _copy_sample_to_input(input_dir: Path) -> None:
+    targets = [
+        Path(sys.argv[0]).resolve().parent,
+        Path(__file__).resolve().parent,
+    ]
+    for base in targets:
+        for rel in SAMPLE_RELATIVE_DIRS:
+            candidate = base / rel / SAMPLE_NAME
             if candidate.exists():
-                return candidate
-    default_dir = user_root / "input"
-    if default_dir.exists():
-        return default_dir
-    return Path.home()
+                destination = input_dir / SAMPLE_NAME
+                if not destination.exists():
+                    try:
+                        shutil.copy(candidate, destination)
+                        print(f"Copied sample file to {destination}")
+                    except Exception as exc:
+                        print(f"Warning: unable to copy sample file ({exc})")
+                return
 
 
-def _persist_last_dir(path: Path, user_root: Path) -> None:
-    try:
-        (user_root / LAST_DIR_FILE).write_text(str(path))
-    except Exception:
-        pass
-
-
-def _show_initializing_notice() -> None:
-    message = "Initializing AlmondTTS... (this may take up to 15 seconds on first launch)"
-    script = (
-        'display alert "AlmondTTS" message "'
-        + _escape_for_applescript(message)
-        + '" buttons {"Cancel"} default button "Cancel"'
-    )
-    try:
-        result = subprocess.Popen(["osascript", "-e", script], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        return result
-    except Exception:
-        print(message)
-        return None
-
-
-def _select_input_file(initial_dir: Path) -> Optional[Path]:
-    try:
-        import tkinter as tk
-        from tkinter import filedialog
-
-        root = tk.Tk()
-        root.withdraw()
-        try:
-            filename = filedialog.askopenfilename(
-                title="Select a text file",
-                initialdir=str(initial_dir),
-                filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")]
-            )
-        finally:
-            root.destroy()
-
-        if filename:
-            return Path(filename)
-    except Exception:
-        pass
-
-    script = f'''
-set defaultFolder to POSIX file "{_escape_for_applescript(str(initial_dir))}"
-try
-    set chosenFile to choose file with prompt "Select a text file to render:" default location defaultFolder
-    POSIX path of chosenFile
-on error number -128
-    return ""
-end try
-'''
-    try:
-        result = subprocess.run(
-            ["osascript", "-e", script],
-            capture_output=True,
-            text=True,
-            check=False
-        )
-        if result.returncode == 0:
-            path_str = result.stdout.strip()
-            if path_str:
-                return Path(path_str)
-    except Exception:
-        pass
-
-    print("Unable to open file chooser UI. Please rerun from Terminal with the input file path.")
-    return None
-
-
-def _handle_no_arguments() -> None:
-    _show_initializing_notice()
-    user_root = _prepare_user_directories()
+def _maybe_show_first_run_notice(user_root: Path) -> Path:
     input_dir = user_root / "input"
     sentinel = user_root / FIRST_RUN_SENTINEL
     if not sentinel.exists():
@@ -203,23 +181,51 @@ def _handle_no_arguments() -> None:
             sentinel.touch()
         except Exception:
             pass
+        _copy_sample_to_input(input_dir)
+    else:
+        print(f"Using existing AlmondTTS folders in {user_root}")
+        print(f"Add files under {input_dir} or pass a path directly when running the CLI.")
+    return input_dir
 
-    initial_dir = _get_initial_dialog_dir(user_root)
-    selected = _select_input_file(initial_dir)
-    if not selected:
-        return
-    _persist_last_dir(selected.parent, user_root)
 
-    sys.argv = [sys.argv[0], str(selected)]
-    from tts_multilingual import main as cli_main
-    cli_main()
+def _handle_no_arguments() -> None:
+    user_root = _prepare_user_directories()
+    _maybe_show_first_run_notice(user_root)
+
+    exe_name = Path(sys.argv[0]).name or "almond_tts"
+    sample_path = Path.home() / "Documents" / "AlmondTTS" / "input" / "0000-BasicGrammar.txt"
+    usage = (
+        "No input file provided.\n"
+        f"Usage: {exe_name} /path/to/input.txt [options]\n"
+        f"       {exe_name} /path/to/folder --device mps\n"
+        "Example (after copying the bundled sample):\n"
+        f"  {exe_name} {sample_path} --device mps\n"
+        "Sample location: /Applications/AlmondTTS/Samples/0000-BasicGrammar.txt\n"
+        "Run with --help to see all available options."
+    )
+    print(usage)
+    sys.exit(1)
+
+
+def _handle_help_request() -> None:
+    user_root = _prepare_user_directories()
+    _maybe_show_first_run_notice(user_root)
+    exe_name = Path(sys.argv[0]).name or "almond_tts"
+    print(HELP_TEXT.format(exe=exe_name))
+    print("\nNeed more guidance? Open START_HERE.txt inside the AlmondTTS folder.")
+    sys.exit(0)
 
 
 def main() -> None:
     _set_bundle_environment()
+    if any(arg in HELP_FLAGS for arg in sys.argv[1:]):
+        _handle_help_request()
+        return
     if len(sys.argv) <= 1:
         _handle_no_arguments()
         return
+    _print_launch_banner()
+    _disable_typeguard_instrumentation()
 
     from tts_multilingual import main as cli_main
 
