@@ -1,0 +1,118 @@
+AlmondTTS – Quick Start (macOS)
+================================
+
+This guide is for everyday Mac users. Everything you need ships inside the
+download—no Python, Homebrew, or developer tools required. Developers should
+read `README.md` for build/packaging details; everyone else can stay right here.
+
+----------------------------------------------------------------------
+1. Install AlmondTTS
+----------------------------------------------------------------------
+1) Download AlmondTTS.dmg (or the .zip).
+2) Open it and drag the “AlmondTTS” folder into Applications (or any folder you
+      prefer).
+3) The first time you open it, macOS may show a warning because it’s from the
+      internet. Control-click the almond_tts file, choose “Open”, then click
+      “Open” again to approve it.
+
+----------------------------------------------------------------------
+2. Prepare Your Input Text
+----------------------------------------------------------------------
+1) Open Terminal:
+   - Press Command (⌘) + Space, type “Terminal”, and press Return.
+2) In Terminal, move into the AlmondTTS folder:
+      cd /Applications/AlmondTTS
+   (Replace /Applications/AlmondTTS if you stored the folder somewhere else.)
+3) Create the working folders and see the available options:
+      ./almond_tts --help
+   This command creates a “AlmondTTS” folder inside Documents with the subfolders input, output, reference_audio, and working, and it copies the sample file (0000-BasicGrammar.txt) into the input folder automatically. On the very first run, Finder opens the input folder automatically.
+4) If Finder didn’t open, you can get there manually:
+   - In Finder choose Go → Go to Folder…
+   - Type:  ~/Documents/AlmondTTS/input
+5) Verify the sample file exists:
+   - Look for 0000-BasicGrammar.txt inside ~/Documents/AlmondTTS/input (it should already be there).
+   - If it’s missing, copy it manually from Applications → AlmondTTS → Samples (or from the repository’s input folder) into ~/Documents/AlmondTTS/input.
+   - Prefer Terminal?
+        cp /Applications/AlmondTTS/Samples/0000-BasicGrammar.txt ~/Documents/AlmondTTS/input/
+6) (Optional) Add your own .txt files to the input folder. Follow the same
+format as the sample:
+      <voice lang="en">
+      Hello! This sentence uses the default English voice.
+      </voice>
+      <break time="2s">
+      <voice lang="es">
+      ¡Hola! Esta parte usa la voz en español.
+      </voice>
+   - <voice lang="xx"> switches languages/voices.
+   - <break time="1.5s"> inserts pauses.
+
+----------------------------------------------------------------------
+3. Run AlmondTTS
+----------------------------------------------------------------------
+1) Back in Terminal (or reopen it and run cd /Applications/AlmondTTS).
+2) Process the sample file first to make sure everything works:
+      ./almond_tts ~/Documents/AlmondTTS/input/0000-BasicGrammar.txt --device mps
+   - If you see “permission denied,” run  chmod +x almond_tts  once, then rerun the command.
+   - To process every .txt file inside `input`, pass the folder instead of a single file:
+        ./almond_tts ~/Documents/AlmondTTS/input --device mps
+3) Leave the Terminal window open while it runs. You will see progress logs for
+      each segment and a completion message.
+
+----------------------------------------------------------------------
+4. Find Your Audio Output
+----------------------------------------------------------------------
+1) Open Finder and go to:  ~/Documents/AlmondTTS/output
+2) Each run creates:
+   - Individual segment WAV files (filename_000.wav, filename_001.wav, …)
+   - One final merged WAV (filename.wav)
+3) Reference audio for voice cloning lives in:
+      ~/Documents/AlmondTTS/reference_audio
+
+----------------------------------------------------------------------
+5. Useful Command Options
+----------------------------------------------------------------------
+Run  ./almond_tts --help  for the full list. Popular examples:
+• ./almond_tts input.txt --reference-audio my_voice.wav      (clone a single
+  voice)
+• ./almond_tts input.txt --device cpu                       (force CPU if
+  needed)
+• ./almond_tts input_folder --voice-map '{"en":"en.wav"}'   (choose voices per
+  language)
+
+----------------------------------------------------------------------
+6. Troubleshooting
+----------------------------------------------------------------------
+• “No input file provided” – Add the file path after ./almond_tts, e.g.
+  ./almond_tts path/to/file.txt
+• “permission denied” – Run  chmod +x /Applications/AlmondTTS/almond_tts  one
+  time.
+• No output files – Confirm your .txt file is inside ~/Documents/AlmondTTS/input
+  and contains text. Then rerun the command from /Applications/AlmondTTS.
+• App can’t open – Control-click almond_tts, choose Open, then click Open again.
+• Running on CPU – Apple Silicon defaults to “mps”. Force it explicitly with
+  --device mps if needed.
+
+----------------------------------------------------------------------
+7. Need Help?
+----------------------------------------------------------------------
+• Re-run ./almond_tts --help to double-check available flags.
+• Keep at least 8 GB of free RAM and disk space (models are roughly 2 GB).
+• If you still need assistance, send the Terminal output plus any sample input
+  files to the maintainer.
+
+Happy audiobook making!
+
+----------------------------------------------------------------------
+8. Supported Languages
+----------------------------------------------------------------------
+The bundled Coqui XTTS v2 model supports many languages. Here are the most
+commonly used ones (language codes to use with <voice lang="…"> or --voice-map):
+en (English), es (Spanish), fr (French), de (German), it (Italian), pt
+(Portuguese), nl (Dutch), pl (Polish), sv (Swedish), da (Danish), fi (Finnish),
+no (Norwegian), cs (Czech), ru (Russian), tr (Turkish), ar (Arabic), he
+(Hebrew), hi (Hindi), bn (Bengali), th (Thai), vi (Vietnamese), id (Indonesian),
+zh (Chinese), ja (Japanese), ko (Korean).
+
+The full list changes as Coqui updates XTTS; check https://github.com/coqui-
+ai/TTS for the latest supported languages if you need something not listed
+above.

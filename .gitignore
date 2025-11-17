@@ -40,3 +40,4 @@ htmlcov/
 # Downloaded model artifacts
 tts-models/
 bundle_resources/models/
+/dist

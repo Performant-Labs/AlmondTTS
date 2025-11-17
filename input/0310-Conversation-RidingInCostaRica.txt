@@ -1,0 +1,238 @@
+<voice lang="en">Conversation - Riding in Costa Rica<break time="1s"></voice>
+<voice lang="es">Conversación - Conduciendo en Costa Rica<break time="1s"></voice>
+
+¡Hola! Bonita moto, hermano. Es una Honda XR150L, ¿verdad? La elección perfecta para Costa Rica. No eres de por aquí.
+<voice lang="en"><break time="1s" /> </voice>
+¡Hola! Sí, acabo de recogerla de Chris en El Gringo Rentals esta mañana. Tengo una semana para explorar la parte occidental del país antes de tener que devolver la moto y unirme a mi equipo.
+<voice lang="en"><break time="1s" /> </voice>
+¡Inteligente elección ir con Chris! El Gringo conoce sus motos, y la XR150L es perfecta para estas carreteras. Mucho mejor que esas grandes motos de aventura que suelen alquilar los turistas. Soy Carlos, he recorrido estas carreteras durante quince años. Tamarindo es un punto de partida perfecto. ¿Desde dónde piensas ir?
+<voice lang="en"><break time="1s" /> </voice>
+Soy Andre, de Idaho. Voy a estar aquí dos semanas en total: una semana para explorar en moto y la segunda semana para una actividad de team building. Quiero ver el volcán, la reserva de monos, una granja de chocolate y la selva tropical. Además, tengo que estar en San José el domingo por la mañana para hacer turismo, y luego volver directamente a Tamarindo el lunes por la tarde, ya que tengo que devolver la moto y reunirme con mi equipo.
+<voice lang="en"><break time="1s" /> </voice>
+Justo a tiempo, André. Una semana es poco, pero totalmente factible para esos lugares. Para el volcán, lo mejor es Rincón de la Vieja, está más cerca. La reserva de monos... ¿te refieres a Manuel Antonio? Está un poco lejos, pero hay monos por todas partes. Para el chocolate, hay grandes granjas cerca de Monteverde. ¿Y selva tropical? El bosque nuboso de Monteverde es increíble, o puedes ir al bosque seco de Rincón.
+<voice lang="en"><break time="1s" /> </voice>
+Parece mucho para una semana. ¿Qué ruta sugiere?
+<voice lang="en"><break time="1s" /> </voice>
+Esto es lo que yo haría: Mañana, ir a Rincón de la Vieja, con vistas al volcán y aguas termales. Miércoles, dirígete a Monteverde para visitar la granja de chocolate y el bosque nuboso. El jueves, seguir hasta San José por la ruta de montaña. Así pasarás la noche del viernes al sábado en la capital, y el domingo harás turismo.
+<voice lang="en"><break time="1s" /> </voice>
+¿Es difícil encontrar piezas para la Honda si se rompe algo?
+<voice lang="en"><break time="1s" /> </voice>
+¿"Piezas Honda"? ¡Estás de suerte, hermano! Las piezas de la XR150L están por todas partes, en todas las ciudades hay al menos un mecánico que trabaja con Hondas. Chris también tiene en stock las piezas más comunes. Mucho mejor que esas motos europeas. Encontrarás cámaras, cadenas, pastillas de freno, filtros de aire... no hay problema".
+<voice lang="en"><break time="1s" /> </voice>
+¿Y la vuelta a Tamarindo del lunes? ¿Cuánto tiempo se tarda? ¿Llegaré a tiempo?
+<voice lang="en"><break time="1s" /> </voice>
+¿De San José a Tamarindo por la Honda? Unas 4-5 horas si toma la carretera principal a través de Liberia. Si tu equipo empieza el lunes por la tarde, deberías salir de San José a mediodía como muy tarde. Así tendrá tiempo para hacer turismo el domingo por la mañana y prepararse el lunes por la mañana.
+<voice lang="en"><break time="1s" /> </voice>
+Y en cuanto a los monos, ¿mencionaste que Manuel Antonio está lejos?
+<voice lang="en"><break time="1s" /> </voice>
+Sí, Manuel Antonio está al sureste - dirección equivocada para tu ruta. Pero, sinceramente, verás monos aulladores por Rincón de la Vieja, y toneladas de vida salvaje en Monteverde. Capuchinos cariblancos, coatíes, perezosos... no echarás de menos a los monos, créeme.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con la cobertura de telefonía móvil? En Estados Unidos tengo AT&T. ¿Funcionará aquí?
+<voice lang="en"><break time="1s" /> </voice>
+Tu AT&T debería hacer roaming en las redes Kolbi o Movistar, pero te costará una fortuna. Es mejor comprar una tarjeta SIM local en cualquier farmacia o tienda de comestibles. Eso sí, asegúrate primero de que tu teléfono está desbloqueado.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y la cobertura en zonas remotas?
+<voice lang="en"><break time="1s" /> </voice>
+La cobertura es bastante buena en las carreteras principales y las ciudades turísticas, pero en cuanto te adentras en la montaña o en playas remotas, olvídate. Por eso necesitas mapas offline y aplicaciones de traducción.
+<voice lang="en"><break time="1s" /> </voice>
+Hablando de traducción, ¿me recomiendas alguna aplicación?
+<voice lang="en"><break time="1s" /> </voice>
+Descarga Google Translate con el paquete de idioma español para usarlo sin conexión. Consigue también Microsoft Translator: ambos funcionan sin internet. Aprende también a utilizar la función de traducción de la cámara, muy útil para las señales de tráfico y los menús.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué otras aplicaciones offline debería tener?
+<voice lang="en"><break time="1s" /> </voice>
+Maps.me es esencial: descarga el paquete de mapas de Costa Rica antes de dejar el wifi. Consigue también iOverlander para encontrar sitios donde dormir y comer. Y SkyAlert para alertas de terremotos - este es país de terremotos, hermano.
+<voice lang="en"><break time="1s" /> </voice>
+Oh tío, ¿por dónde empiezo? Primera regla: nunca cojas las carreteras secundarias de Rincón de la Vieja en época de lluvias. Incluso ahora, algunas de esas pistas de montaña son precarias. Mucha grava suelta, super empinadas, y si te caes, nadie te encuentra durante horas.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y las principales autopistas de la costa? ¿Son aptas para motocicletas?
+<voice lang="en"><break time="1s" /> </voice>
+La carretera 21 de Liberia a las playas es decente, pero hay que tener cuidado con los camioneros que transportan ganado y caña de azúcar. No ven las motos, sobre todo al amanecer y al atardecer. Conduce siempre con los faros encendidos, quiero decir SIEMPRE. Y nunca te fíes de los intermitentes de los camiones en los tramos sinuosos cerca de Filadelfia.
+<voice lang="en"><break time="1s" /> </voice>
+Eso es universal, supongo. ¿Y los robos? ¿Debería preocuparme por dejar la moto en sitios?
+<voice lang="en"><break time="1s" /> </voice>
+¡Ay, sí! Nunca dejes nada visible en tu moto. Ni GPS, ni bolsas, nada. Aparca donde puedas verlo o paga a un chico para que lo vigile. En Tamarindo y Jacó, usa el estacionamiento vigilado - vale los 1000 colones.
+<voice lang="en"><break time="1s" /> </voice>
+¿Cuál es la gravedad real del problema de los robos?
+<voice lang="en"><break time="1s" /> </voice>
+Bastante malo. Mi amigo perdió su Honda CBR en Puntarenas el año pasado - desapareció en cinco minutos. Limítate a las ciudades de playa establecidas para pasar la noche. Lugares como Nosara, Santa Teresa, son más seguros debido a toda la seguridad de los expatriados. Evite dejar su moto en el centro de Puntarenas por la noche.
+<voice lang="en"><break time="1s" /> </voice>
+Hablando de noche, ¿qué pasa si me averío de noche?
+<voice lang="en"><break time="1s" /> </voice>
+Llama al 911 para emergencias, pero sinceramente... Intenta no conducir de noche. Las carreteras no están iluminadas, hay conductores borrachos por todas partes y la ayuda tarda una eternidad en llegar. Si tienes que circular de noche, hazlo por las carreteras principales.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con la policía? ¿Algún problema que deba conocer?
+<voice lang="en"><break time="1s" /> </voice>
+Los tránsitos suelen ser amables con los turistas, pero lleva siempre encima el carné de conducir, el pasaporte y la documentación del alquiler. Algunos policías no hablan inglés, así que aprenda español básico. Y nunca, JAMÁS, ofrezcas dinero: te acusarán de soborno.
+<voice lang="en"><break time="1s" /> </voice>
+Buena observación sobre el español. ¿Cuáles son las frases esenciales que debería saber?
+<voice lang="en"><break time="1s" /> </voice>
+¿Dónde está el mecánico más cercano? - where's the nearest mechanic? "Mi moto está dañada" - my bike is broken. "Necesito ayuda". I need help. Y sé siempre educado: "por favor" y "gracias" son muy útiles.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y el combustible? ¿Algún problema con las gasolineras?
+<voice lang="en"><break time="1s" /> </voice>
+La mayoría de las estaciones tienen 91 octanos regular, algunas tienen 95 super. Su Honda funciona muy bien con gasolina normal. Lleve combustible extra para las zonas remotas - algunos tramos en Guanacaste, especialmente entre Nicoya y Santa Teresa, tienen 60-80km entre estaciones.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay alguna carretera que sea especialmente complicada para las motos?
+<voice lang="en"><break time="1s" /> </voice>
+La carretera a Santa Teresa desde Cóbano es dura: unos 15 km de grava, piedras y cruces de ríos. Pero su XR150L lo manejará bien - mucho mejor que una moto de calle grande. Lo mismo ocurre con algunas de las carreteras secundarias a Montezuma. Tómate tu tiempo.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y los pinchazos? Eso parece una preocupación real en estas carreteras.
+<voice lang="en"><break time="1s" /> </voice>
+Los pinchazos ocurren, especialmente en carreteras de grava. Lo primero: Chris debería haberte dado un kit de reparación de neumáticos con parches y planchas. Lleva también siempre una bomba portátil. La Honda usa neumáticos con cámara, así que puedes parchearlos en la carretera.
+<voice lang="en"><break time="1s" /> </voice>
+¿Puede guiarme para arreglar un pinchazo?
+<voice lang="en"><break time="1s" /> </voice>
+Claro. Primero busca sombra, trabajar al sol aquí te matará. Quita la rueda - la trasera es más complicada, tendrás que desconectar la cadena. Utiliza unas pinzas para sacar el neumático de la llanta, con cuidado de no pinzar la cámara nueva. Comprueba siempre el interior del neumático en busca de la causa del pinchazo.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y si no puedo arreglarlo yo mismo?
+<voice lang="en"><break time="1s" /> </voice>
+Los costarricenses son increíblemente serviciales. Diga "llanta pinchada" y señale su neumático. En la mayoría de los pueblos hay una vulcanizadora. Te pondrán un parche por unos 2.000 colones y suelen hacerlo mientras esperas.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y los cruces de ríos? He oído que algunas carreteras los tienen.
+<voice lang="en"><break time="1s" /> </voice>
+Algunas carreteras secundarias sí lo hacen, sobre todo alrededor de la península de Nicoya durante la estación seca. La ruta a Mal País tiene un par de pequeños. Nunca cruce si no puede ver el fondo o si los lugareños le advierten que no lo haga. Aquí las crecidas repentinas ocurren con rapidez.
+<voice lang="en"><break time="1s" /> </voice>
+¿Algún lugar en concreto que recomiende por el paisaje?
+<voice lang="en"><break time="1s" /> </voice>
+No dudes en hacer el recorrido costero desde Tamarindo hasta Sámara: unas vistas impresionantes del océano y unas carreteras decentes. La ruta alrededor del volcán Rincón de la Vieja también es preciosa, sobre todo la zona de aguas termales. Y si te sientes aventurero, el viaje a Monteverde desde el lado oeste tiene unas vistas increíbles del bosque nuboso.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué hace que esa ruta sea aventurera?
+<voice lang="en"><break time="1s" /> </voice>
+Es una subida empinada por carreteras de montaña con muchas curvas. Hay mucha niebla y las temperaturas descienden de 35 °C en la costa a unos 15 °C en el bosque nuboso. He visto a gente llegar en pantalones cortos y chanclas y luego casi congelarse.
+<voice lang="en"><break time="1s" /> </voice>
+No había pensado en la altitud. ¿Qué más afecta a la moto aquí?
+<voice lang="en"><break time="1s" /> </voice>
+La humedad acaba con la electrónica si no se tiene cuidado. Mantén secas las herramientas y comprueba constantemente el filtro del aire, aquí el polvo es una locura. Y el calor: tu moto funcionará más caliente de lo que estás acostumbrado.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con la fauna en las carreteras?
+<voice lang="en"><break time="1s" /> </voice>
+A las iguanas les encanta tomar el sol sobre el asfalto caliente. Las vacas se pasean libremente por las zonas rurales, sobre todo al amanecer y al atardecer. Y los perezosos... cruzan las carreteras muy despacio. Ten paciencia con ellos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay algún punto en particular en el que deba tener más cuidado?
+<voice lang="en"><break time="1s" /> </voice>
+Las carreteras costeras al sur de Jacó pueden ser complicadas: muchas curvas en acantilados con pronunciadas caídas hacia el océano. Además, las carreteras de montaña alrededor de Monteverde son preciosas pero peligrosas: muchas curvas ciegas y sin guardarraíles. Tómese su tiempo.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué hay de los alojamientos? ¿Algún lugar apto para motociclistas?
+<voice lang="en"><break time="1s" /> </voice>
+La mayoría de los albergues y hoteles aceptan bicicletas. Sólo hay que preguntar dónde aparcarlas con seguridad. Evita las ciudades de playa los fines de semana: los costarricenses inundan la costa y los precios se duplican.
+<voice lang="en"><break time="1s" /> </voice>
+¿Me recomendarías algún lugar concreto para pasar la noche en mi ruta?
+<voice lang="en"><break time="1s" /> </voice>
+Para tu excursión al volcán, alójate cerca del Parque Nacional de Rincón de la Vieja; hay albergues ecológicos con aparcamiento vigilado. Para Monteverde, reserve con antelación, es muy popular. Y en San José, si puedes, alójate en Escazú o Santa Ana, donde es más fácil y seguro aparcar que en el centro.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y esas chocolaterías cerca de Monteverde?
+<voice lang="en"><break time="1s" /> </voice>
+Hay varias buenas. Don Olivo Chocolate Tour es muy popular, o Café Monteverde tiene visitas combinadas de chocolate y café. Reserve con antelación, ya que se llenan de autobuses turísticos. El Honda puede manejar las carreteras de montaña hasta allí sin problemas.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y si acampamos? ¿Es seguro en un viaje en moto?
+<voice lang="en"><break time="1s" /> </voice>
+Algunos lugares permiten acampar, pero yo no lo recomendaría solo en una moto. Demasiado riesgo de robo cerca de las playas. Pero hay alojamientos ecológicos que parecen campings con seguridad. Prueba Ylang Ylang en Montezuma: son muy respetuosos con las motos y tienen aparcamiento seguro.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay algún lugar en el que deba evitar dormir?
+<voice lang="en"><break time="1s" /> </voice>
+Nunca duerma en su tienda en las playas - la marea alta y los ladrones son ambos problemas. Evite también cualquier lugar del centro de Puntarenas por la noche: se pone feo. Para pasar la noche, limítate a los pueblos de playa establecidos, como Tamarindo, Manuel Antonio o Santa Teresa.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y las ciudades pequeñas? ¿Alguna joya escondida para alojarse?
+<voice lang="en"><break time="1s" /> </voice>
+Sámara tiene lugares familiares increíbles, mucho más baratos que Tamarindo e igual de hermosos. Pregunta por "hospedaje familiar". También, en las montañas cercanas a Monteverde, hay hospedajes en fincas cafetaleras a los que les encanta alojar a motociclistas - tienen grandes historias y estacionamiento seguro.
+<voice lang="en"><break time="1s" /> </voice>
+¿Cómo son en general los conductores locales?
+<voice lang="en"><break time="1s" /> </voice>
+Impacientes e imprevisibles. Te adelantarán en las curvas ciegas, te pisarán los talones como locos y supondrán que puedes frenar más rápido de lo que lo haces tú. Conduce a la defensiva, asume siempre que no te ven.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pautas meteorológicas debo tener en cuenta?
+<voice lang="en"><break time="1s" /> </voice>
+Las tormentas por la tarde son habituales, incluso en la estación seca. Si ve que se forman nubes negras, busque refugio rápidamente: la lluvia tropical no es ninguna broma para una moto. Aquí los relámpagos son intensos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay alguna buena comunidad motera o algún lugar que deba conocer?
+<voice lang="en"><break time="1s" /> </voice>
+Hay un grupo que se reúne los domingos por la mañana en el Multiplaza Escazú. La mayoría son locales, pero les encanta hablar de motos. También puedes buscar en Facebook "Motociclistas Costa Rica", organizan paseos y pueden ayudarte con consejos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con los seguros aquí?
+<voice lang="en"><break time="1s" /> </voice>
+Asegúrate de que tu alquiler incluya cobertura total. Las facturas de hospital aquí pueden ser caras para los extranjeros. Además, si provocas un accidente, podrían detenerte hasta que todo se solucione.
+<voice lang="en"><break time="1s" /> </voice>
+Eso parece grave. ¿Algún otro asunto legal del que deba preocuparme?
+<voice lang="en"><break time="1s" /> </voice>
+No circules a gran velocidad por las ciudades: ahora hay cámaras por todas partes. Y no conduzcas nunca bajo los efectos del alcohol: las sanciones por conducir bajo los efectos del alcohol son muy duras y te confiscan la moto inmediatamente.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con los pasos fronterizos si quiero visitar Nicaragua o Panamá?
+<voice lang="en"><break time="1s" /> </voice>
+Es posible, pero complicado con un alquiler. Se necesitan permisos y seguros especiales. Sinceramente, Costa Rica tiene suficiente para mantenerte ocupado tres semanas sin cruzar fronteras.
+<voice lang="en"><break time="1s" /> </voice>
+Buena observación. ¿Qué pasa con la comida y el agua en los viajes largos?
+<voice lang="en"><break time="1s" /> </voice>
+Lleve siempre agua: con este calor, la deshidratación es rápida. Si tiene el estómago delicado, prefiera el agua embotellada. Para comer, las "sodas" -pequeños restaurantes locales- suelen tener platos buenos y baratos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Sugiere alguna ruta en particular para mi nivel?
+<voice lang="en"><break time="1s" /> </voice>
+Empieza por San José hasta Manuel Antonio, es una ruta indulgente y hermosa. Luego, de Fortuna a Monteverde si quieres un reto. Deja la costa para cuando te sientas más cómodo con las condiciones locales.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué hay de los cambios de elevación? ¿Algo extremo?
+<voice lang="en"><break time="1s" /> </voice>
+El trayecto desde el nivel del mar hasta San Gerardo de Dota asciende unos 2.800 metros en 50 km. Te estallarán los oídos y necesitarás una chaqueta en la cima. Sin embargo, la observación de aves es increíble.
+<voice lang="en"><break time="1s" /> </voice>
+¿Cómo es el firme en general?
+<voice lang="en"><break time="1s" /> </voice>
+Las carreteras principales tienen un asfalto decente, pero hay que tener cuidado con los enormes baches: algunos podrían tragarse la rueda delantera. Las carreteras secundarias van de la grava a los desastres.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué debo llevar de forma diferente a como lo haría para viajar por los Estados Unidos?
+<voice lang="en"><break time="1s" /> </voice>
+El equipo de lluvia es esencial, incluso en la estación seca. Lleve poco equipaje: querrá comprar recuerdos. Y trae un buen candado: encadena el casco a la moto cuando aparques. Consigue también una funda impermeable para el móvil, ya que pueden caer chaparrones repentinos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué me dices de las aplicaciones de traducción offline? ¿Alguna función específica que deba aprender?
+<voice lang="en"><break time="1s" /> </voice>
+La función de cámara de Google Translate es asombrosa: basta con apuntar con el teléfono a un menú o señal y se traduce al instante. También funciona sin conexión si te has descargado el paquete de español. Microsoft Translator tiene un modo de conversación que es genial para hablar con mecánicos.
+<voice lang="en"><break time="1s" /> </voice>
+¿Alguna otra frase en español útil para los problemas de la moto?
+<voice lang="en"><break time="1s" /> </voice>
+"La moto no enciende" — the bike won't start. "Necesito gasolina" - I need gas. "¿Dónde está el taller más cercano?" — where's the nearest workshop. Y "llanta pinchada" — flat tire. Anótalas o guárdalas en tu teléfono.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y qué pasa con las identificaciones policiales?
+<voice lang="en"><break time="1s" /> </voice>
+Sé siempre educado y paciente. Los papeles del alquiler de Chris deben incluir todos los documentos legales. Si no hablan inglés, utiliza tu aplicación de traducción. Nunca ofrezcas dinero: sé respetuoso y te dejarán pasar.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué pasa con el agua potable en los viajes largos? He oído historias horribles sobre mareos.
+<voice lang="en"><break time="1s" /> </voice>
+Pregunta inteligente, hermano. Nunca bebas agua del grifo fuera de los grandes hoteles. Lleva siempre agua embotellada, se puede comprar en cualquier sitio. En zonas remotas, utilice botellas selladas de marcas conocidas como Cristal o Florida. Con este calor, la deshidratación es rápida.
+<voice lang="en"><break time="1s" /> </voice>
+¿Alguna opción de purificación de agua para emergencias?
+<voice lang="en"><break time="1s" /> </voice>
+Lleva pastillas potabilizadoras o un pequeño filtro como LifeStraw. Pero, sinceramente, el agua embotellada es tan barata y está tan disponible que probablemente no la necesites. Presupuesta unos 2000 colones al día para agua.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y un botiquín de primeros auxilios? ¿Qué debo llevar?
+<voice lang="en"><break time="1s" /> </voice>
+Imprescindible, sobre todo en moto. Mínimo: vendas, toallitas antisépticas, analgésicos, antidiarreicos y cualquier medicamento con receta que necesites. Añade protector solar: el sol tropical de aquí te quemará rápido, incluso a través de las nubes.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay algún medicamento específico que deba traer de casa?
+<voice lang="en"><break time="1s" /> </voice>
+Lleve más de lo que toma normalmente. Las farmacias son buenas, pero puede que no tengan la marca exacta. Trae también inmodium: el estómago del viajero es real, incluso con agua embotellada. El cambio de comida afecta a todo el mundo al principio.
+<voice lang="en"><break time="1s" /> </voice>
+¿Y las lesiones graves? ¿Y si me rompo una pierna o un tobillo en una zona remota?
+<voice lang="en"><break time="1s" /> </voice>
+Eso es lo que da miedo, hermano. Primero - no te muevas si crees que está roto. Llama al 911 si tienes cobertura. Si no, intenta pedir ayuda y di "hueso roto". Los costarricenses te ayudarán, pero llegar a un hospital puede llevar horas desde zonas remotas.
+<voice lang="en"><break time="1s" /> </voice>
+¿Qué calidad tienen los hospitales de aquí?
+<voice lang="en"><break time="1s" /> </voice>
+En San José y las principales ciudades, son excelentes. El sistema público (CCSS) es realmente bueno, y los hospitales privados como el Hospital CIMA son de clase mundial. Pero llegar desde el medio de la nada con una pierna rota... ese es el problema.
+<voice lang="en"><break time="1s" /> </voice>
+¿Hay algún procedimiento de emergencia específico que deba conocer?
+<voice lang="en"><break time="1s" /> </voice>
+Nunca te quites el casco si te golpeas la cabeza: deja que lo hagan los paramédicos. En caso de fractura ósea, no intentes "salir andando", ya que podrías empeorar la situación. Si estás solo y consciente, intenta ponerte a la sombra y conservar energía mientras esperas ayuda.
+<voice lang="en"><break time="1s" /> </voice>
+¿Debo contratar un seguro de viaje?
+<voice lang="en"><break time="1s" /> </voice>
+Por supuesto. Asegúrate de que cubre los accidentes de moto y la evacuación médica. Algunas pólizas excluyen las motos, así que lee la letra pequeña. La evacuación médica desde zonas remotas puede costar más de 50.000 dólares sin seguro.
+<voice lang="en"><break time="1s" /> </voice>
+¿Algún consejo final para un primerizo?
+<voice lang="en"><break time="1s" /> </voice>
+Tómate tu tiempo, no intentes verlo todo. La costa occidental tiene una variedad asombrosa -playas, montañas, vida salvaje-, pero las carreteras son lentas, sobre todo en la Honda. Y lo más importante, respeta la cultura local: los costarricenses son increíblemente amables si les muestras respeto.
+<voice lang="en"><break time="1s" /> </voice>
+Esto ha sido increíblemente útil, Carlos. ¿Cómo puedo pagártelo?
+<voice lang="en"><break time="1s" /> </voice>
+Conduce con cuidado, hermano. Y tal vez me invites a una cerveza si me ves en Multiplaza el domingo por la mañana - ¡espera, entonces estarás haciendo turismo por San José! Bueno, pásate por la tienda de Miguel en Tamarindo cuando vuelvas el lunes. Saluda a Chris de mi parte - nos conocemos desde hace mucho. Busca al tipo de la DR650 destartalada.
+<voice lang="en"><break time="1s" /> </voice>
+Lo haré. Gracias por todos los consejos. Me siento mucho más preparado para esta semana de aventura en moto antes de tener que devolver la moto y unirme a mi equipo.
+<voice lang="en"><break time="1s" /> </voice>
+¡Pura vida! Disfruta de nuestro hermoso país y recuerda: la XR150L puede que no sea rápida, pero te llevará a donde quieras en una semana. Tu equipo estará celoso de tus historias del lunes por la noche. ¡Buen viaje, Andre!
