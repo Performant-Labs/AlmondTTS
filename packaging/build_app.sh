@@ -7,11 +7,14 @@ DMG_PATH="$DIST_DIR/AlmondTTS.dmg"
 CLI_TARGET="$DIST_DIR/almond_tts"
 SPEC_FILE="$PROJECT_ROOT/almond_tts.spec"
 PREP_SCRIPT="$PROJECT_ROOT/packaging/prepare_bundle_resources.sh"
+FORMAT_SCRIPT="$PROJECT_ROOT/scripts/format_docs.py"
 SIGN_IDENTITY="${ALMOND_TTS_CODESIGN_IDENTITY:--}"
 PYINSTALLER_BIN="${PYINSTALLER_BIN:-}"
-DMG_STAGING_DIR="$DIST_DIR/AlmondTTS"
+DMG_STAGING_DIR="$DIST_DIR/AlmondTTS_dmg"
+DMG_ROOT_DIR="$DMG_STAGING_DIR/AlmondTTS"
 SAMPLE_INPUT="$PROJECT_ROOT/input/0000-BasicGrammar.txt"
 START_HERE_DOC="$PROJECT_ROOT/START_HERE.txt"
+README_DOC="$PROJECT_ROOT/README.md"
 
 usage() {
   cat <<EOF
@@ -60,6 +63,11 @@ fi
 echo "==> Staging resources"
 "$PREP_SCRIPT"
 
+if [[ -f "$FORMAT_SCRIPT" ]]; then
+  echo "==> Formatting documentation"
+  python3 "$FORMAT_SCRIPT"
+fi
+
 echo "==> Building via PyInstaller"
 pushd "$PROJECT_ROOT" >/dev/null
 "$PYINSTALLER_BIN" "$SPEC_FILE"
@@ -87,20 +95,25 @@ fi
 if [[ $NO_DMG -eq 0 ]]; then
   echo "==> Preparing DMG staging directory"
   rm -rf "$DMG_STAGING_DIR"
+  mkdir -p "$DMG_ROOT_DIR"
   if [[ -n "$CLI_PAYLOAD_DIR" ]]; then
-    cp -R "$CLI_PAYLOAD_DIR" "$DMG_STAGING_DIR"
+    cp -R "$CLI_PAYLOAD_DIR"/. "$DMG_ROOT_DIR"
   else
-    mkdir -p "$DMG_STAGING_DIR"
-    cp "$CLI_BIN" "$DMG_STAGING_DIR/almond_tts"
+    mkdir -p "$DMG_ROOT_DIR"
+    cp "$CLI_BIN" "$DMG_ROOT_DIR/almond_tts"
   fi
   if [[ -f "$START_HERE_DOC" ]]; then
     echo "==> Copying START_HERE guide"
-    cp "$START_HERE_DOC" "$DMG_STAGING_DIR/START_HERE.txt"
+    cp "$START_HERE_DOC" "$DMG_ROOT_DIR/START_HERE.txt"
+  fi
+  if [[ -f "$README_DOC" ]]; then
+    echo "==> Copying README"
+    cp "$README_DOC" "$DMG_ROOT_DIR/README.md"
   fi
   if [[ -f "$SAMPLE_INPUT" ]]; then
     echo "==> Copying sample input file"
-    mkdir -p "$DMG_STAGING_DIR/Samples"
-    cp "$SAMPLE_INPUT" "$DMG_STAGING_DIR/Samples/0000-BasicGrammar.txt"
+    mkdir -p "$DMG_ROOT_DIR/Samples"
+    cp "$SAMPLE_INPUT" "$DMG_ROOT_DIR/Samples/0000-BasicGrammar.txt"
   fi
   echo "==> Creating DMG"
   rm -f "$DMG_PATH"

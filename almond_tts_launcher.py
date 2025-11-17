@@ -62,7 +62,7 @@ Example usage:
 
 
 def _print_launch_banner() -> None:
-    print("Launching AlmondTTS... loading models can take up to 30 seconds. Please wait.")
+    print("Launching AlmondTTS... loading models can take a minute or more on first run. Please wait.")
 
 
 def _disable_typeguard_instrumentation() -> None:
@@ -140,8 +140,11 @@ def _show_first_run_message(input_dir: Path) -> None:
         "AlmondTTS has created the working folders in:\n"
         f"{input_dir.parent}\n\n"
         "A sample file will be placed in the 'input' folder automatically.\n"
-        "Add your .txt files to the 'input' folder and run the CLI with a file path, for example:\n"
-        f"  {Path(sys.argv[0]).name} ~/Documents/AlmondTTS/input/{SAMPLE_NAME}\n"
+        "Add your .txt files to the 'input' folder and run the CLI from /Applications/AlmondTTS.\n"
+        "  cd /Applications/AlmondTTS\n"
+        f"  ./{Path(sys.argv[0]).name} ~/Documents/AlmondTTS/input/{SAMPLE_NAME}\n"
+        "Tip: pass the input folder itself to process every .txt file inside it:\n"
+        f"  ./{Path(sys.argv[0]).name} ~/Documents/AlmondTTS/input --device mps\n"
         "\n"
         "You only see this message once."
     )

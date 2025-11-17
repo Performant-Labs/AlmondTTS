@@ -1,10 +1,15 @@
 # AlmondTTS (Developer Guide)
 
-This README is for developers/contributors working on AlmondTTS. End users should follow `START_HERE.txt` for app/CLI usage instructions.
+This README is for developers/contributors working on AlmondTTS. If you’re an
+end user, please open `START_HERE.txt` in the download folder for simple usage
+instructions.
 
 ## Overview
 
-AlmondTTS generates multilingual audio from long text files using the Coqui XTTS v2 model with voice cloning and multi-voice support. The repository includes the source script (`tts_multilingual.py`), packaging tools, and documentation for building a standalone macOS CLI binary and DMG.
+AlmondTTS generates multilingual audio from long text files using the Coqui XTTS
+v2 model with voice cloning and multi-voice support. The repository includes the
+source script (`tts_multilingual.py`), packaging tools, and documentation for
+building a standalone macOS CLI binary and DMG.
 
 ## Developer Setup
 
@@ -32,7 +37,8 @@ With the virtualenv active:
 python tts_multilingual.py /path/to/input.txt --device auto
 ```
 
-User-facing directories (`~/Documents/AlmondTTS/input`, `output`, etc.) are created automatically. CLI flags include:
+User-facing directories (`~/Documents/AlmondTTS/input`, `output`, etc.) are
+created automatically. CLI flags include:
 - `--reference-audio`, `--voice-map`, `--auto-detect-language`
 - `--min-duration`, `--max-duration`, `--pause-after`
 - `--device cpu|mps|cuda|auto`
@@ -41,7 +47,8 @@ See `START_HERE.txt` for end-user examples.
 
 ## Packaging Workflow
 
-Developer packaging instructions (resource prep, PyInstaller build, codesign, DMG creation, testing) are documented in `PACKAGING.md`. Use:
+Developer packaging instructions (resource prep, PyInstaller build, codesign,
+DMG creation, testing) are documented in `PACKAGING.md`. Use:
 
 ```bash
 ./packaging/build_app.sh
@@ -58,13 +65,17 @@ to generate the standalone CLI bundle plus `AlmondTTS.dmg`.
 
 ## Testing & Troubleshooting
 
-Activate the venv, run the script with sample inputs, and monitor `~/Documents/AlmondTTS/output`. If PyTorch falls back to CPU on Apple Silicon, upgrade Torch packages inside the venv:
+Activate the venv, run the script with sample inputs, and monitor
+`~/Documents/AlmondTTS/output`. If PyTorch falls back to CPU on Apple Silicon,
+upgrade Torch packages inside the venv:
 
 ```bash
 pip install --upgrade torch torchvision torchaudio
 ```
 
-For packaging issues, consult `PACKAGING.md` and the PyInstaller log (`build/almond_tts/warn-*.txt`). Bugs or regressions should be accompanied by repro steps or tests where possible.
+For packaging issues, consult `PACKAGING.md` and the PyInstaller log
+(`build/almond_tts/warn-*.txt`). Bugs or regressions should be accompanied by
+repro steps or tests where possible.
 
 ## Support
 
