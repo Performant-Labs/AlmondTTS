@@ -1,84 +1,65 @@
-# AlmondTTS (Developer Guide)
+# AlmondTTS
 
-This README is for developers/contributors working on AlmondTTS. If you’re an
-end user, please open `START_HERE.txt` in the download folder for simple usage
-instructions.
+AlmondTTS turns long-form text into natural-sounding multilingual audio, with
+voice cloning and multi-voice support. It is built on the open-source Coqui TTS
+engine (`TTS`), and this project depends on the ongoing work of the
+community-maintained [Idiap fork](https://github.com/idiap/coqui-ai-TTS) from
+[Idiap Research Institute](https://www.idiap.ch/).
 
-## Overview
+- **End users**: start with `START_HERE.txt` in the download folder for a
+  step-by-step quick start guide.
+- **Developers / contributors**: see `CONTRIBUTING.md` for setup, running from
+  source, and packaging details.
 
-AlmondTTS generates multilingual audio from long text files using the Coqui XTTS
-v2 model with voice cloning and multi-voice support. The repository includes the
-source script (`almond_tts.py`), packaging tools, and documentation for
-building a standalone macOS CLI binary and DMG.
+---
 
-## Developer Setup
+## What AlmondTTS Can Do
 
-### Prerequisites (macOS)
+- **Long-form TTS**
+  - Convert long text files (articles, chapters, scripts) into continuous audio.
+  - Intelligent segmentation targets ~3060 seconds per segment so playback
+    sounds natural.
 
-```bash
-brew install python@3.12 portaudio ffmpeg
-```
+- **Multilingual XTTS v2 engine**
+  - Uses the Coqui XTTS v2 model.
+  - Supports multiple languages (including English and Spanish) in a single
+    project.
 
-### Create & Activate Virtualenv
+- **Voice cloning and multi-voice**
+  - Clone a voice from a short reference audio clip.
+  - Use different voices or languages for different parts of the same script
+    via tags and configuration.
 
-```bash
-python3.12 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+- **Flexible timing**
+  - Control minimum/maximum segment duration.
+  - Insert pauses between segments or at explicit `<break>` tags.
 
-The XTTS v2 model (~2GB) downloads on first run.
+For concrete usage examples and terminal commands, open `START_HERE.txt`.
 
-## Running from Source
+---
 
-With the virtualenv active:
+## Where to Go Next
 
-```bash
-python almond_tts.py /path/to/input.txt --device auto
-```
+- **I just want to use AlmondTTS**
+  - Download the latest **macOS** release from the
+    [GitHub Releases page](https://github.com/Performant-Labs/AlmondTTS/releases).
+  - Open the downloaded `.dmg` (or `.zip`) file and drag the `AlmondTTS` folder
+    into your `Applications` folder (or another folder you prefer).
+  - Read and follow `START_HERE.txt` inside the `AlmondTTS` folder to install
+    the app bundle, find the input folder, and generate your first audio.
+  - AlmondTTS is currently available for macOS only.
 
-User-facing directories (`~/Documents/AlmondTTS/input`, `output`, etc.) are
-created automatically. CLI flags include:
-- `--reference-audio`, `--voice-map`, `--auto-detect-language`
-- `--min-duration`, `--max-duration`, `--pause-after`
-- `--device cpu|mps|cuda|auto`
+- **I want to tweak or extend AlmondTTS**
+  - Read `CONTRIBUTING.md` for:
+    - Local development setup (Python/venv/requirements).
+    - Running `almond_tts.py` from source.
+    - Packaging with PyInstaller and DMG creation.
 
-See `START_HERE.txt` for end-user examples.
-
-## Packaging Workflow
-
-Developer packaging instructions (resource prep, PyInstaller build, codesign,
-DMG creation, testing) are documented in `PACKAGING.md`. Use:
-
-```bash
-./packaging/build_app.sh
-```
-
-to generate the standalone CLI bundle plus `AlmondTTS.dmg`.
-
-## Key Files
-- `almond_tts.py`: Main script
-- `almond_tts_launcher.py`: Entry point for bundled builds
-- `almond_tts.spec`: PyInstaller spec
-- `packaging/*.sh`: resource staging + build automation
-- `bundle_resources/`: staged assets included in the bundle
-
-## Testing & Troubleshooting
-
-Activate the venv, run the script with sample inputs, and monitor
-`~/Documents/AlmondTTS/output`. If PyTorch falls back to CPU on Apple Silicon,
-upgrade Torch packages inside the venv:
-
-```bash
-pip install --upgrade torch torchvision torchaudio
-```
-
-For packaging issues, consult `PACKAGING.md` and the PyInstaller log
-(`build/almond_tts/warn-*.txt`). Bugs or regressions should be accompanied by
-repro steps or tests where possible.
+---
 
 ## Support
 
-- End user instructions: `START_HERE.txt`
-- Packaging and release process: `PACKAGING.md`
-- Issues/PRs: use the repository’s standard contribution flow.
+- End user quick start and examples: `START_HERE.txt`.
+- Developer setup, contributing, and packaging: `CONTRIBUTING.md` and
+  `PACKAGING.md`.
+- Issues/PRs: use the repository's standard contribution flow.
