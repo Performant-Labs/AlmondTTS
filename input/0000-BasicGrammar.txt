@@ -1,6 +1,9 @@
 <voice lang="en">Basic Grammar<break time="1s"></voice>
 <voice lang="es">Gramática básica<break time="1s"></voice>
 
+<voice lang="en">Present Tense - To Be<break time="5s"></voice>
+<voice lang="es">Tiempo presente - Ser y Estar<break time="3s"></voice>
+
 <voice lang="en">The apple is red.<break time="5s"></voice>
 <voice lang="es">La manzana es roja.<break time="3s"></voice>
 
@@ -18,6 +21,36 @@
 
 <voice lang="en">The red apples are red.<break time="5s"></voice>
 <voice lang="es">Las manzanas rojas son rojas.<break time="3s"></voice>
+
+<voice lang="en">Where is the apple?<break time="5s"></voice>
+<voice lang="es">¿Dónde está la manzana?<break time="3s"></voice>
+
+<voice lang="en">I am hungry.<break time="5s"></voice>
+<voice lang="es">Tengo hambre.<break time="3s"></voice>
+
+<voice lang="en">We are tired.<break time="5s"></voice>
+<voice lang="es">Estamos cansados.<break time="3s"></voice>
+
+<voice lang="en">They are happy.<break time="5s"></voice>
+<voice lang="es">Están contentos.<break time="3s"></voice>
+
+<voice lang="en">There is and There are<break time="5s"></voice>
+<voice lang="es">Hay<break time="3s"></voice>
+
+<voice lang="en">There is an apple on the table.<break time="5s"></voice>
+<voice lang="es">Hay una manzana en la mesa.<break time="3s"></voice>
+
+<voice lang="en">There are apples on the table.<break time="5s"></voice>
+<voice lang="es">Hay manzanas en la mesa.<break time="3s"></voice>
+
+<voice lang="en">Is there an apple?<break time="5s"></voice>
+<voice lang="es">¿Hay una manzana?<break time="3s"></voice>
+
+<voice lang="en">There aren't any apples.<break time="5s"></voice>
+<voice lang="es">No hay manzanas.<break time="3s"></voice>
+
+<voice lang="en">Possession<break time="5s"></voice>
+<voice lang="es">Posesión<break time="3s"></voice>
 
 <voice lang="en">It is John's apple.<break time="5s"></voice>
 <voice lang="es">Es la manzana de John.<break time="3s"></voice>
@@ -37,11 +70,20 @@
 <voice lang="en">It is our apple.<break time="5s"></voice>
 <voice lang="es">Es nuestra manzana.<break time="3s"></voice>
 
+<voice lang="en">How many apples do you have?<break time="5s"></voice>
+<voice lang="es">¿Cuántas manzanas tienes?<break time="3s"></voice>
+
+<voice lang="en">Present Tense - To Like<break time="5s"></voice>
+<voice lang="es">Tiempo presente - Gustar<break time="3s"></voice>
+
 <voice lang="en">I like the apple.<break time="5s"></voice>
 <voice lang="es">Me gusta la manzana.<break time="3s"></voice>
 
 <voice lang="en">Do you like the apple?<break time="5s"></voice>
 <voice lang="es">¿Te gusta la manzana?<break time="3s"></voice>
+
+<voice lang="en">Why do you like the apple?<break time="5s"></voice>
+<voice lang="es">¿Por qué te gusta la manzana?<break time="3s"></voice>
 
 <voice lang="en">I don't like the apple.<break time="5s"></voice>
 <voice lang="es">No me gusta la manzana.<break time="3s"></voice>
@@ -51,6 +93,12 @@
 
 <voice lang="en">He likes the apple.<break time="5s"></voice>
 <voice lang="es">Le gusta la manzana.<break time="3s"></voice>
+
+<voice lang="en">I like apples more than oranges.<break time="5s"></voice>
+<voice lang="es">Me gustan más las manzanas que las naranjas.<break time="3s"></voice>
+
+<voice lang="en">Present Tense - To Give<break time="5s"></voice>
+<voice lang="es">Tiempo presente - Dar<break time="3s"></voice>
 
 <voice lang="en">I give John the apple.<break time="5s"></voice>
 <voice lang="es">Le doy la manzana a John.<break time="3s"></voice>
@@ -66,6 +114,9 @@
 
 <voice lang="en">She gives it to him.<break time="5s"></voice>
 <voice lang="es">Ella se lo da.<break time="3s"></voice>
+
+<voice lang="en">Present Tense - Modal Verbs<break time="5s"></voice>
+<voice lang="es">Tiempo presente - Verbos modales<break time="3s"></voice>
 
 <voice lang="en">I must give it to him.<break time="5s"></voice>
 <voice lang="es">Debo dárselo.<break time="3s"></voice>
@@ -91,6 +142,48 @@
 <voice lang="en">She wants to give it to you.<break time="5s"></voice>
 <voice lang="es">Quiere dártelo.<break time="3s"></voice>
 
+<voice lang="en">I can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No puedo comerme la manzana.<break time="3s"></voice>
+
+<voice lang="en">You can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No puedes comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">We can't eat the apple.<break time="5s"></voice>
+<voice lang="es">No podemos comernos la manzana.<break time="3s"></voice>
+
+<voice lang="en">I can't give you the apple.<break time="5s"></voice>
+<voice lang="es">No puedo darte la manzana.<break time="3s"></voice>
+
+<voice lang="en">You can't buy the apple.<break time="5s"></voice>
+<voice lang="es">No puedes comprar la manzana.<break time="3s"></voice>
+
+<voice lang="en">You should eat the apple.<break time="5s"></voice>
+<voice lang="es">Deberías comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">You shouldn't eat the apple.<break time="5s"></voice>
+<voice lang="es">No deberías comerte la manzana.<break time="3s"></voice>
+
+<voice lang="en">You should read the book.<break time="5s"></voice>
+<voice lang="es">Deberías leer el libro.<break time="3s"></voice>
+
+<voice lang="en">You shouldn't read the book.<break time="5s"></voice>
+<voice lang="es">No deberías leer el libro.<break time="3s"></voice>
+
+<voice lang="en">Present Progressive<break time="5s"></voice>
+<voice lang="es">Presente progresivo<break time="3s"></voice>
+
+<voice lang="en">I am eating the apple.<break time="5s"></voice>
+<voice lang="es">Me estoy comiendo la manzana.<break time="3s"></voice>
+
+<voice lang="en">What are you eating?<break time="5s"></voice>
+<voice lang="es">¿Qué estás comiendo?<break time="3s"></voice>
+
+<voice lang="en">He is buying the apple.<break time="5s"></voice>
+<voice lang="es">Está comprando la manzana.<break time="3s"></voice>
+
+<voice lang="en">Commands - Imperatives<break time="5s"></voice>
+<voice lang="es">Comandos - Imperativos<break time="3s"></voice>
+
 <voice lang="en">Give me the apple!<break time="5s"></voice>
 <voice lang="es">¡Dame la manzana!<break time="3s"></voice>
 
@@ -109,6 +202,9 @@
 <voice lang="en">Don't eat the apple!<break time="5s"></voice>
 <voice lang="es">¡No te comas la manzana!<break time="3s"></voice>
 
+<voice lang="en">Near Future - Going To<break time="5s"></voice>
+<voice lang="es">Futuro próximo - Ir a<break time="3s"></voice>
+
 <voice lang="en">I'm going to buy it tomorrow.<break time="5s"></voice>
 <voice lang="es">Voy a comprarlo mañana.<break time="3s"></voice>
 
@@ -121,23 +217,11 @@
 <voice lang="en">They are going to buy it tomorrow.<break time="5s"></voice>
 <voice lang="es">Van a comprarlo mañana.<break time="3s"></voice>
 
-<voice lang="en">I can't eat the apple.<break time="5s"></voice>
-<voice lang="es">No puedo comerme la manzana.<break time="3s"></voice>
-
-<voice lang="en">You can't eat the apple.<break time="5s"></voice>
-<voice lang="es">No puedes comerte la manzana.<break time="3s"></voice>
-
-<voice lang="en">We can't eat the apple.<break time="5s"></voice>
-<voice lang="es">No podemos comernos la manzana.<break time="3s"></voice>
-
-<voice lang="en">I can't give you the apple.<break time="5s"></voice>
-<voice lang="es">No puedo darte la manzana.<break time="3s"></voice>
-
-<voice lang="en">You can't buy the apple.<break time="5s"></voice>
-<voice lang="es">No puedes comprar la manzana.<break time="3s"></voice>
+<voice lang="en">Present Perfect<break time="5s"></voice>
+<voice lang="es">Pretérito perfecto<break time="3s"></voice>
 
 <voice lang="en">I have bought the apple.<break time="5s"></voice>
-<voice lang="en">He comprado la manzana.<break time="3s"></voice>
+<voice lang="es">He comprado la manzana.<break time="3s"></voice>
 
 <voice lang="en">I have eaten the apple.<break time="5s"></voice>
 <voice lang="es">Me he comido la manzana.<break time="3s"></voice>
@@ -149,52 +233,55 @@
 <voice lang="es">No le he dado la manzana.<break time="3s"></voice>
 
 <voice lang="en">You have bought the apple.<break time="5s"></voice>
-<voice lang="en">Has comprado la manzana.<break time="3s"></voice>
+<voice lang="es">Has comprado la manzana.<break time="3s"></voice>
 
 <voice lang="en">You haven't bought the apple.<break time="5s"></voice>
 <voice lang="es">No has comprado la manzana.<break time="3s"></voice>
 
-<voice lang="en">If I have a book, I read the book.<break time="5s"></voice>
-<voice lang="es">Si tengo un libro, leo el libro.<break time="3s"></voice>
+<voice lang="en">Simple Past - Preterite<break time="5s"></voice>
+<voice lang="es">Pretérito indefinido<break time="3s"></voice>
 
-<voice lang="en">If I have a book, I'll read it.<break time="5s"></voice>
-<voice lang="es">Si tengo un libro, lo leeré.<break time="3s"></voice>
+<voice lang="en">I ate the apple.<break time="5s"></voice>
+<voice lang="es">Me comí la manzana.<break time="3s"></voice>
 
-<voice lang="en">You should read the book.<break time="5s"></voice>
-<voice lang="es">Deberías leer el libro.<break time="3s"></voice>
+<voice lang="en">I bought the apple yesterday.<break time="5s"></voice>
+<voice lang="es">Compré la manzana ayer.<break time="3s"></voice>
 
-<voice lang="en">You shouldn't read the book.<break time="5s"></voice>
-<voice lang="es">No deberías leer el libro.<break time="3s"></voice>
+<voice lang="en">When did you buy the apple?<break time="5s"></voice>
+<voice lang="es">¿Cuándo compraste la manzana?<break time="3s"></voice>
 
-<voice lang="en">I shouldn't have read the book.<break time="5s"></voice>
-<voice lang="es">No debería haber leído el libro.<break time="3s"></voice>
+<voice lang="en">He gave me the apple.<break time="5s"></voice>
+<voice lang="es">Me dio la manzana.<break time="3s"></voice>
 
-<voice lang="en">We should have read the book.<break time="5s"></voice>
-<voice lang="es">Deberíamos haber leído el libro.<break time="3s"></voice>
+<voice lang="en">Who gave you the apple?<break time="5s"></voice>
+<voice lang="es">¿Quién te dio la manzana?<break time="3s"></voice>
 
-<voice lang="en">If I had a book, I would read the book.<break time="5s"></voice>
-<voice lang="es">Si tuviera un libro, leería el libro.<break time="3s"></voice>
+<voice lang="en">We read the book.<break time="5s"></voice>
+<voice lang="es">Leímos el libro.<break time="3s"></voice>
 
-<voice lang="en">If we had a book, we would read the book.<break time="5s"></voice>
-<voice lang="es">Si tuviéramos un libro, leeríamos el libro.<break time="3s"></voice>
+<voice lang="en">Imperfect Past<break time="5s"></voice>
+<voice lang="es">Pretérito imperfecto<break time="3s"></voice>
 
-<voice lang="en">You could have read the book.<break time="5s"></voice>
-<voice lang="es">Podrías haber leído el libro.<break time="3s"></voice>
+<voice lang="en">I used to eat apples.<break time="5s"></voice>
+<voice lang="es">Comía manzanas.<break time="3s"></voice>
 
-<voice lang="en">You couldn't have read the book.<break time="5s"></voice>
-<voice lang="es">No podrías haber leído el libro.<break time="3s"></voice>
+<voice lang="en">We used to read books.<break time="5s"></voice>
+<voice lang="es">Leíamos libros.<break time="3s"></voice>
 
-<voice lang="en">If I have an apple, I eat the apple.<break time="5s"></voice>
-<voice lang="es">Si tengo una manzana, me como la manzana.<break time="3s"></voice>
+<voice lang="en">He always gave me apples.<break time="5s"></voice>
+<voice lang="es">Siempre me daba manzanas.<break time="3s"></voice>
 
-<voice lang="en">If I have an apple, I will eat the apple.<break time="5s"></voice>
-<voice lang="es">Si tengo una manzana, me la comeré.<break time="3s"></voice>
+<voice lang="en">Past Progressive<break time="5s"></voice>
+<voice lang="es">Pasado progresivo<break time="3s"></voice>
 
-<voice lang="en">You should eat the apple.<break time="5s"></voice>
-<voice lang="es">Deberías comerte la manzana.<break time="3s"></voice>
+<voice lang="en">I was eating the apple.<break time="5s"></voice>
+<voice lang="es">Me estaba comiendo la manzana.<break time="3s"></voice>
 
-<voice lang="en">You shouldn't eat the apple.<break time="5s"></voice>
-<voice lang="es">No deberías comerte la manzana.<break time="3s"></voice>
+<voice lang="en">We were reading the book.<break time="5s"></voice>
+<voice lang="es">Estábamos leyendo el libro.<break time="3s"></voice>
+
+<voice lang="en">Conditional - Should Have<break time="5s"></voice>
+<voice lang="es">Condicional - Debería haber<break time="3s"></voice>
 
 <voice lang="en">I shouldn't have eaten the apple.<break time="5s"></voice>
 <voice lang="es">No debería haberme comido la manzana.<break time="3s"></voice>
@@ -202,11 +289,14 @@
 <voice lang="en">We should have eaten the apple.<break time="5s"></voice>
 <voice lang="es">Deberíamos habernos comido la manzana.<break time="3s"></voice>
 
-<voice lang="en">If I had an apple, I would eat the apple.<break time="5s"></voice>
-<voice lang="es">Si tuviera una manzana, me comería la manzana.<break time="3s"></voice>
+<voice lang="en">I shouldn't have read the book.<break time="5s"></voice>
+<voice lang="es">No debería haber leído el libro.<break time="3s"></voice>
 
-<voice lang="en">If we had an apple, we would eat the apple.<break time="6s"></voice>
-<voice lang="es">Si tuviéramos una manzana, nos comeríamos la manzana.<break time="3s"></voice>
+<voice lang="en">We should have read the book.<break time="5s"></voice>
+<voice lang="es">Deberíamos haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">Conditional - Could Have<break time="5s"></voice>
+<voice lang="es">Condicional - Podría haber<break time="3s"></voice>
 
 <voice lang="en">You could have bought the apple.<break time="5s"></voice>
 <voice lang="es">Podrías haber comprado la manzana.<break time="3s"></voice>
@@ -214,14 +304,92 @@
 <voice lang="en">You couldn't have bought the apple.<break time="5s"></voice>
 <voice lang="es">No podrías haber comprado la manzana.<break time="3s"></voice>
 
+<voice lang="en">You could have read the book.<break time="5s"></voice>
+<voice lang="es">Podrías haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">You couldn't have read the book.<break time="5s"></voice>
+<voice lang="es">No podrías haber leído el libro.<break time="3s"></voice>
+
+<voice lang="en">Simple Conditional - Present<break time="5s"></voice>
+<voice lang="es">Condicional simple - Presente<break time="3s"></voice>
+
+<voice lang="en">If I have a book, I read the book.<break time="5s"></voice>
+<voice lang="es">Si tengo un libro, leo el libro.<break time="3s"></voice>
+
+<voice lang="en">If I have an apple, I eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tengo una manzana, me como la manzana.<break time="3s"></voice>
+
+<voice lang="en">Simple Conditional - Future<break time="5s"></voice>
+<voice lang="es">Condicional simple - Futuro<break time="3s"></voice>
+
+<voice lang="en">If I have a book, I'll read it.<break time="5s"></voice>
+<voice lang="es">Si tengo un libro, lo leeré.<break time="3s"></voice>
+
+<voice lang="en">If I have an apple, I will eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tengo una manzana, me la comeré.<break time="3s"></voice>
+
+<voice lang="en">Conditional - Imperfect Subjunctive<break time="5s"></voice>
+<voice lang="es">Condicional - Imperfecto del subjuntivo<break time="3s"></voice>
+
+<voice lang="en">If I had a book, I would read the book.<break time="5s"></voice>
+<voice lang="es">Si tuviera un libro, leería el libro.<break time="3s"></voice>
+
+<voice lang="en">If we had a book, we would read the book.<break time="5s"></voice>
+<voice lang="es">Si tuviéramos un libro, leeríamos el libro.<break time="3s"></voice>
+
+<voice lang="en">If I had an apple, I would eat the apple.<break time="5s"></voice>
+<voice lang="es">Si tuviera una manzana, me comería la manzana.<break time="3s"></voice>
+
+<voice lang="en">If we had an apple, we would eat the apple.<break time="6s"></voice>
+<voice lang="es">Si tuviéramos una manzana, nos comeríamos la manzana.<break time="3s"></voice>
+
+<voice lang="en">Conditional - Past Perfect<break time="5s"></voice>
+<voice lang="es">Condicional - Pluscuamperfecto<break time="3s"></voice>
+
+<voice lang="en">If I had known, I would have bought the apple.<break time="5s"></voice>
+<voice lang="es">Si hubiera sabido, habría comprado la manzana.<break time="3s"></voice>
+
+<voice lang="en">If we had known, we would have helped you.<break time="5s"></voice>
+<voice lang="es">Si hubiéramos sabido, te habríamos ayudado.<break time="3s"></voice>
+
+<voice lang="en">If you had told me, I would have given it to you.<break time="5s"></voice>
+<voice lang="es">Si me hubieras dicho, te lo habría dado.<break time="3s"></voice>
+
+<voice lang="en">Subjunctive - Present<break time="5s"></voice>
+<voice lang="es">Subjuntivo - Presente<break time="3s"></voice>
+
 <voice lang="en">I want you to eat the apple.<break time="5s"></voice>
-<voice lang="en">Quiero que te comas la manzana.<break time="3s"></voice>
+<voice lang="es">Quiero que te comas la manzana.<break time="3s"></voice>
 
 <voice lang="en">I've told you to eat the apple.<break time="5s"></voice>
 <voice lang="es">Te he dicho que te comas la manzana.<break time="3s"></voice>
 
 <voice lang="en">You want me to eat the apple.<break time="5s"></voice>
-<voice lang="en">Quieres que me coma la manzana.<break time="3s"></voice>
+<voice lang="es">Quieres que me coma la manzana.<break time="3s"></voice>
+
+<voice lang="en">Passive Voice<break time="5s"></voice>
+<voice lang="es">Voz pasiva<break time="3s"></voice>
+
+<voice lang="en">The apple was eaten.<break time="5s"></voice>
+<voice lang="es">La manzana fue comida.<break time="3s"></voice>
+
+<voice lang="en">The book was read by John.<break time="5s"></voice>
+<voice lang="es">El libro fue leído por John.<break time="3s"></voice>
+
+<voice lang="en">The apples were bought yesterday.<break time="5s"></voice>
+<voice lang="es">Las manzanas fueron compradas ayer.<break time="3s"></voice>
+
+<voice lang="en">Comparatives and Superlatives<break time="5s"></voice>
+<voice lang="es">Comparativos y superlativos<break time="3s"></voice>
+
+<voice lang="en">This apple is bigger than that one.<break time="5s"></voice>
+<voice lang="es">Esta manzana es más grande que esa.<break time="3s"></voice>
+
+<voice lang="en">This is the biggest apple.<break time="5s"></voice>
+<voice lang="es">Esta es la manzana más grande.<break time="3s"></voice>
+
+<voice lang="en">End<break time="4s"></voice>
+<voice lang="es">Final<break time="4s"></voice>
 
 En final
 <voice lang="en"><break time="4s"></voice>

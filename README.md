@@ -8,7 +8,7 @@ instructions.
 
 AlmondTTS generates multilingual audio from long text files using the Coqui XTTS
 v2 model with voice cloning and multi-voice support. The repository includes the
-source script (`tts_multilingual.py`), packaging tools, and documentation for
+source script (`almond_tts.py`), packaging tools, and documentation for
 building a standalone macOS CLI binary and DMG.
 
 ## Developer Setup
@@ -34,7 +34,7 @@ The XTTS v2 model (~2GB) downloads on first run.
 With the virtualenv active:
 
 ```bash
-python tts_multilingual.py /path/to/input.txt --device auto
+python almond_tts.py /path/to/input.txt --device auto
 ```
 
 User-facing directories (`~/Documents/AlmondTTS/input`, `output`, etc.) are
@@ -57,7 +57,7 @@ DMG creation, testing) are documented in `PACKAGING.md`. Use:
 to generate the standalone CLI bundle plus `AlmondTTS.dmg`.
 
 ## Key Files
-- `tts_multilingual.py`: Main script
+- `almond_tts.py`: Main script
 - `almond_tts_launcher.py`: Entry point for bundled builds
 - `almond_tts.spec`: PyInstaller spec
 - `packaging/*.sh`: resource staging + build automation
