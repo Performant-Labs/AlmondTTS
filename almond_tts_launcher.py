@@ -230,7 +230,7 @@ def main() -> None:
     _print_launch_banner()
     _disable_typeguard_instrumentation()
 
-    from tts_multilingual import main as cli_main
+    from almond_tts import main as cli_main
 
     cli_main()
 

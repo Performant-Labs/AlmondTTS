@@ -20,6 +20,7 @@ ENV/
 # Packaging and build outputs
 build/
 output/
+dist/
 *.egg-info/
 .eggs/
 pip-wheel-metadata/
@@ -40,4 +41,4 @@ htmlcov/
 # Downloaded model artifacts
 tts-models/
 bundle_resources/models/
-/dist
+
