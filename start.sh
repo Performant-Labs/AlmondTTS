@@ -61,8 +61,8 @@ main() {
   printf '  %q' "${cmd[@]}"
   echo
 
-  read -r -p "Proceed with these settings? (y/N): " confirm || exit 1
-  if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
+  read -r -p "Proceed with these settings? (Y/n): " confirm || exit 1
+  if [[ "$confirm" =~ ^[Nn]$ ]]; then
     echo "Aborted."
     exit 1
   fi
