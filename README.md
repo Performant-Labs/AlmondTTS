@@ -47,6 +47,7 @@ For concrete usage examples and terminal commands, open `START_HERE.txt`.
     into your `Applications` folder (or another folder you prefer).
   - Read and follow `START_HERE.txt` inside the `AlmondTTS` folder to install
     the app bundle, find the input folder, and generate your first audio.
+  - Prefer a guided setup? Run `./start.sh` for an interactive wizard.
   - AlmondTTS is currently available for macOS only.
 
 - **I want to tweak or extend AlmondTTS**

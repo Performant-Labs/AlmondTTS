@@ -55,6 +55,8 @@ format as the sample:
    - If you see “permission denied,” run  chmod +x almond_tts  once, then rerun the command.
    - To process every .txt file inside `input`, pass the folder instead of a single file:
         ./almond_tts ~/Documents/AlmondTTS/input --device mps
+   - Prefer a guided setup? Run the wizard:
+        ./start.sh
 3) Leave the Terminal window open while it runs. You will see progress logs for
       each segment and a completion message.
 
