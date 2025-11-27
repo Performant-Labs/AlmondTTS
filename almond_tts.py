@@ -861,8 +861,7 @@ class LongFormTTS:
                             print(
                                 f"[{completed}/{len(segments)}] "
                                 f"ID {segment.segment_id:03d} "
-                                f"| gen {gen_time:.2f}s / audio {audio_dur:.1f}s (RTF {rtf:.2f}x) "
-                                f"| est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) "
+                                f"| gen {gen_time:.2f}s "
                                 f"| {text_preview}{pause_info}"
                             )
                         else:
