@@ -847,8 +847,15 @@ class LongFormTTS:
             f"with {self.num_workers} parallel worker(s)...\n"
         )
 
+        # Track unsupported languages and skip gracefully
+        unsupported_languages = set()
+
         completed = 0
         for lang in language_order:
+            if lang not in self.tts_models[0].speaker_manager.language_ids:
+                print(f"\nLanguage '{lang}' is not supported by the model. Skipping {sum(1 for t in tasks if t['lang'] == lang)} segment(s).")
+                unsupported_languages.add(lang)
+                continue
             lang_tasks = [t for t in tasks if t["lang"] == lang]
             print(f"  Language '{lang}': {len(lang_tasks)} segment(s)")
 
