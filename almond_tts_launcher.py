@@ -46,7 +46,7 @@ options:
   --max-duration MAX_DURATION
                         Maximum target segment duration in seconds (default: 60)
   --keep-temp           Keep temporary audio files
-  --workers WORKERS     Number of parallel workers for TTS generation (default: 2)
+  --workers WORKERS     Number of parallel workers for TTS generation (default: 1)
   --pause-after PAUSE_AFTER
                         Add a pause of this many seconds after each audio segment (overrides break tags)
   --voice-map VOICE_MAP

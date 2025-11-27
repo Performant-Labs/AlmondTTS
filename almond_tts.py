@@ -129,7 +129,7 @@ class TextSegment:
 
 class LongFormTTS:
     def __init__(self, model_name="tts_models/multilingual/multi-dataset/xtts_v2",
-                 speaker_wav=None, language="es", output_dir=None, device=None, num_workers=2, pause_after=None,
+                 speaker_wav=None, language="es", output_dir=None, device=None, num_workers=1, pause_after=None,
                  voice_map=None, auto_detect_language=False):
         """
         Initialize the Long-Form TTS processor.
@@ -140,7 +140,7 @@ class LongFormTTS:
             language: Default language code
             output_dir: Directory to save output files
             device: Device to use ('cpu', 'mps', 'cuda', or None for auto-detect)
-            num_workers: Number of parallel workers for TTS generation (default: 2)
+            num_workers: Number of parallel workers for TTS generation (default: 1)
             pause_after: If set, add this many seconds of pause after each audio segment (default: None)
             voice_map: Dict mapping language codes to voice files, e.g., {"en": "english.wav", "es": None}
             auto_detect_language: If True, automatically detect language per segment
@@ -691,8 +691,6 @@ class LongFormTTS:
         # Get a model instance from the queue (blocks if all models are in use)
         model_idx = self.model_queue.get()
 
-        print(f"[START] Segment {segment.segment_id} starting on model {model_idx}...")
-
         try:
             start_time = time.time()
 
@@ -836,15 +834,15 @@ class LongFormTTS:
                         rtf = gen_time / audio_dur if audio_dur > 0 else 0
                         accuracy = (audio_dur / segment.estimated_duration * 100) if segment.estimated_duration > 0 else 0
 
-                        # Progress update
-                        text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
-                        print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: {gen_time:.2f}s (actual: {audio_dur:.1f}s, RTF: {rtf:.2f}x)")
-                        print(f"  Est: {segment.estimated_duration:.1f}s, Accuracy: {accuracy:.0f}%")
-                        print(f"  {text_preview}")
-                        # Show pause information
                         pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
-                        if pause_duration > 0:
-                            print(f"  + {pause_duration}s pause")
+                        pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
+                        text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
+                        print(
+                            f"[{completed}/{len(segments)}] ID {segment.segment_id:03d} | "
+                            f"gen {gen_time:.2f}s (audio {audio_dur:.1f}s, RTF {rtf:.2f}x) | "
+                            f"est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) | "
+                            f"{text_preview}{pause_info}"
+                        )
                     else:
                         print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: ERROR - {error}")
                         results[idx] = None
@@ -1118,8 +1116,8 @@ Example usage:
     parser.add_argument(
         "--workers",
         type=int,
-        default=2,
-        help="Number of parallel workers for TTS generation (default: 2)"
+        default=1,
+        help="Number of parallel workers for TTS generation (default: 1)"
     )
     parser.add_argument(
         "--pause-after",
