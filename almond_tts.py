@@ -218,7 +218,10 @@ class LongFormTTS:
         print(f"System RAM: {total_mem:.2f} GB total")
         print(f"Available RAM: {available_mem:.2f} GB")
         print(f"Process memory (before models): {initial_process_mem:.2f} GB")
-        print(f"\nLoading {num_workers} TTS model instance(s) for parallel processing...")
+        if num_workers == 1:
+            print("\nLoading 1 TTS model instance...")
+        else:
+            print(f"\nLoading {num_workers} TTS model instance(s) for parallel processing...")
 
         self.tts_models = []
         self.device = device
