@@ -852,6 +852,35 @@ class LongFormTTS:
             lang_tasks = [t for t in tasks if t["lang"] == lang]
             print(f"  Language '{lang}': {len(lang_tasks)} segment(s)")
 
+            # Warm up this language/voice once per batch
+            try:
+                sample_segment = lang_tasks[0]["segment"]
+                warmup_voice = sample_segment.voice_file or self.voice_map.get(lang) or self.speaker_wav
+                if warmup_voice:
+                    temp_warmup = self.output_dir / f"_warmup_{lang}.wav"
+                    self.tts_models[0].tts_to_file(
+                        text="Warmup",
+                        file_path=str(temp_warmup),
+                        speaker_wav=warmup_voice,
+                        language=lang
+                    )
+                    if temp_warmup.exists():
+                        temp_warmup.unlink()
+                else:
+                    # Use default speaker if no voice clone available
+                    temp_warmup = self.output_dir / f"_warmup_{lang}.wav"
+                    self.tts_models[0].tts_to_file(
+                        text="Warmup",
+                        file_path=str(temp_warmup),
+                        speaker="Dionisio Schuyler",
+                        language=lang
+                    )
+                    if temp_warmup.exists():
+                        temp_warmup.unlink()
+            except Exception:
+                # Non-fatal: continue even if warmup fails
+                pass
+
             with ThreadPoolExecutor(max_workers=self.num_workers) as executor:
                 future_to_task = {}
                 for task in lang_tasks:
