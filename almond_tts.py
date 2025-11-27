@@ -636,17 +636,25 @@ class LongFormTTS:
             TextSegment object
         """
         # Determine language
+        supported_langs = set()
+        try:
+            supported_langs = set(self.tts_models[0].speaker_manager.language_ids)  # type: ignore[attr-defined]
+        except Exception:
+            pass
+
         if lang:
-            # Explicit language from voice tag
             segment_lang = lang
         elif self.auto_detect_language and self._detect_language:
-            # Auto-detect language
+            # Auto-detect language, but fall back for short/unsupported text
             try:
-                segment_lang = self._detect_language(text)
-            except:
-                segment_lang = self.language  # Fallback to default
+                detected = self._detect_language(text)
+                if len(text) < 20 or (supported_langs and detected not in supported_langs):
+                    segment_lang = self.language
+                else:
+                    segment_lang = detected
+            except Exception:
+                segment_lang = self.language
         else:
-            # Use default language
             segment_lang = self.language
 
         # Determine voice file
@@ -819,6 +827,11 @@ class LongFormTTS:
         # Precompute task metadata to preserve output ordering and filenames
         tasks = []
         file_counter = 0
+        try:
+            supported_langs = set(self.tts_models[0].speaker_manager.language_ids)  # type: ignore[attr-defined]
+        except Exception:
+            supported_langs = set()
+
         for idx, segment in enumerate(segments):
             if segment.break_after > 0:
                 pause_duration = segment.break_after
@@ -827,11 +840,14 @@ class LongFormTTS:
             else:
                 pause_duration = 0
             will_add_pause = pause_duration > 0
+            seg_lang = segment.language if segment.language else self.language
+            if supported_langs and seg_lang not in supported_langs:
+                seg_lang = self.language
             tasks.append({
                 "idx": idx,
                 "segment": segment,
                 "file_counter": file_counter,
-                "lang": segment.language if segment.language else self.language
+                "lang": seg_lang
             })
             file_counter += 2 if will_add_pause else 1
 
@@ -847,15 +863,8 @@ class LongFormTTS:
             f"with {self.num_workers} parallel worker(s)...\n"
         )
 
-        # Track unsupported languages and skip gracefully
-        unsupported_languages = set()
-
         completed = 0
         for lang in language_order:
-            if lang not in self.tts_models[0].speaker_manager.language_ids:
-                print(f"\nLanguage '{lang}' is not supported by the model. Skipping {sum(1 for t in tasks if t['lang'] == lang)} segment(s).")
-                unsupported_languages.add(lang)
-                continue
             lang_tasks = [t for t in tasks if t["lang"] == lang]
             print(f"  Language '{lang}': {len(lang_tasks)} segment(s)")
 
