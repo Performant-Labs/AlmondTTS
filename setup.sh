@@ -38,6 +38,7 @@ python -c "import numpy; print('✓ numpy:', numpy.__version__)"
 python -c "import scipy; print('✓ scipy:', scipy.__version__)"
 python -c "import TTS; print('✓ TTS installed')"
 python -c "import torch; print('✓ torch:', torch.__version__)"
+python -c "import langdetect; print('✓ langdetect:', langdetect.__version__)"
 echo ""
 
 echo "=========================================="
