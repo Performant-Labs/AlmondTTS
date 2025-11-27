@@ -792,6 +792,14 @@ class LongFormTTS:
             # Delete warmup file
             if warmup_file.exists():
                 warmup_file.unlink()
+        except KeyboardInterrupt:
+            print("\nWarmup interrupted by user.")
+            if warmup_file.exists():
+                try:
+                    warmup_file.unlink()
+                except Exception:
+                    pass
+            raise
         except Exception as e:
             print(f"Warning: Warmup failed: {e}")
 
@@ -875,6 +883,7 @@ class LongFormTTS:
                     print("\nKeyboard interrupt received. Cancelling pending tasks...")
                     for f in future_to_task:
                         f.cancel()
+                    executor.shutdown(cancel_futures=True)
                     raise
                 except Exception as e:
                     task = future_to_task.get(future)
@@ -1066,7 +1075,12 @@ class LongFormTTS:
             return None
 
         # Phase 2: Generate audio
-        audio_files = self.generate_audio(segments, output_name)
+        try:
+            audio_files = self.generate_audio(segments, output_name)
+        except KeyboardInterrupt:
+            print("\nAborted during audio generation. Cleaning up temporary files...")
+            self.cleanup_temp_files()
+            raise
 
         if not audio_files:
             print("Error: No audio files generated")
@@ -1074,7 +1088,12 @@ class LongFormTTS:
 
         # Phase 3: Concatenate
         final_output = self.output_dir / f"{output_name}.wav"
-        self.concatenate_wav_files(audio_files, final_output)
+        try:
+            self.concatenate_wav_files(audio_files, final_output)
+        except KeyboardInterrupt:
+            print("\nAborted during concatenation.")
+            self.cleanup_temp_files()
+            raise
 
         # Calculate total time
         total_time = time.time() - overall_start_time
