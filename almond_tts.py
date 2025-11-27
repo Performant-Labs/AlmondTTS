@@ -766,18 +766,26 @@ class LongFormTTS:
         warmup_start = time.time()
         warmup_file = self.output_dir / "_warmup_temp.wav"
         try:
-            if self.speaker_wav:
+            warmup_lang = self.language
+            warmup_voice = None
+            if warmup_lang in self.voice_map:
+                warmup_voice = self.voice_map[warmup_lang]
+            elif self.speaker_wav:
+                warmup_voice = self.speaker_wav
+
+            if warmup_voice:
                 self.tts_models[0].tts_to_file(
                     text="Warmup test.",
                     file_path=str(warmup_file),
-                    speaker_wav=self.speaker_wav,
-                    language=self.language
+                    speaker_wav=warmup_voice,
+                    language=warmup_lang
                 )
             else:
                 self.tts_models[0].tts_to_file(
                     text="Warmup test.",
                     file_path=str(warmup_file),
-                    language=self.language
+                    speaker="Dionisio Schuyler",
+                    language=warmup_lang
                 )
             warmup_time = time.time() - warmup_start
             print(f"Model warmup complete ({warmup_time:.2f}s)")
