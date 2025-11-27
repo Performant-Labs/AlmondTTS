@@ -145,11 +145,10 @@ class LongFormTTS:
             voice_map: Dict mapping language codes to voice files, e.g., {"en": "english.wav", "es": None}
             auto_detect_language: If True, automatically detect language per segment
         """
-        print(f"Initializing Long-Form TTS")
-        print(f"Model: {model_name}")
+        init_parts = [f"AlmondTTS start", f"model: {model_name}", f"lang: {language}"]
         if speaker_wav:
-            print(f"Default voice cloning from: {speaker_wav}")
-        print(f"Default language: {language}")
+            init_parts.append(f"voice: {speaker_wav}")
+        print(" | ".join(init_parts))
 
         self.speaker_wav = speaker_wav
         self.language = language
