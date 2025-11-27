@@ -846,11 +846,11 @@ class LongFormTTS:
                     )
                     future_to_task[future] = task
 
-                for future in as_completed(future_to_task):
-                    task = future_to_task[future]
-                    idx = task["idx"]
-                    segment = task["segment"]
-                    try:
+                try:
+                    for future in as_completed(future_to_task):
+                        task = future_to_task[future]
+                        idx = task["idx"]
+                        segment = task["segment"]
                         completed += 1
                         success, tts_file, silence_file, gen_time, audio_dur, error = future.result()
 
@@ -858,10 +858,6 @@ class LongFormTTS:
                             results[idx] = (tts_file, silence_file)
                             generation_times.append(gen_time)
                             audio_durations.append(audio_dur)
-
-                            # Calculate RTF and accuracy
-                            rtf = gen_time / audio_dur if audio_dur > 0 else 0
-                            accuracy = (audio_dur / segment.estimated_duration * 100) if segment.estimated_duration > 0 else 0
 
                             pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
                             pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
@@ -875,10 +871,19 @@ class LongFormTTS:
                         else:
                             print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: ERROR - {error}")
                             results[idx] = None
-
-                    except Exception as e:
-                        print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: FAILED - {e}")
-                        results[idx] = None
+                except KeyboardInterrupt:
+                    print("\nKeyboard interrupt received. Cancelling pending tasks...")
+                    for f in future_to_task:
+                        f.cancel()
+                    raise
+                except Exception as e:
+                    task = future_to_task.get(future)
+                    idx = task["idx"] if task else -1
+                    segment = task["segment"] if task else None
+                    seg_info = f"Segment {idx + 1}" if idx >= 0 else "Segment"
+                    seg_id = f" [ID: {segment.segment_id:03d}]" if segment else ""
+                    print(f"[{completed}/{len(segments)}] {seg_info}{seg_id}: FAILED - {e}")
+                    results[idx] = None
 
         # Build file lists for concatenation and cleanup
         print("\nAssembling audio files in correct order...")
@@ -1304,4 +1309,7 @@ Example usage:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\nAborted by user (Ctrl+C).")
