@@ -724,9 +724,14 @@ class LongFormTTS:
                 rate = wav_file.getframerate()
                 audio_duration = frames / float(rate)
 
-            # Handle silence if needed
-            # If pause_after is set, use it instead of segment.break_after
-            pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
+        # Handle silence if needed
+            # Respect explicit break tags; otherwise apply pause_after if set
+            if segment.break_after > 0:
+                pause_duration = segment.break_after
+            elif self.pause_after is not None:
+                pause_duration = self.pause_after
+            else:
+                pause_duration = 0
 
             if pause_duration > 0:
                 silence_filename = self.output_dir / f"{output_name}_{file_counter + 1:03d}.wav"
@@ -816,7 +821,12 @@ class LongFormTTS:
         tasks = []
         file_counter = 0
         for idx, segment in enumerate(segments):
-            pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
+            if segment.break_after > 0:
+                pause_duration = segment.break_after
+            elif self.pause_after is not None:
+                pause_duration = self.pause_after
+            else:
+                pause_duration = 0
             will_add_pause = pause_duration > 0
             tasks.append({
                 "idx": idx,
@@ -867,7 +877,12 @@ class LongFormTTS:
                             generation_times.append(gen_time)
                             audio_durations.append(audio_dur)
 
-                            pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
+                            if segment.break_after > 0:
+                                pause_duration = segment.break_after
+                            elif self.pause_after is not None:
+                                pause_duration = self.pause_after
+                            else:
+                                pause_duration = 0
                             pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
                             text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
                             print(
@@ -908,13 +923,18 @@ class LongFormTTS:
                     self.temp_files.append(tts_file)
 
                 # Handle silence files
-                if silence_file:
-                    # Always add to temp_files for cleanup
-                    self.temp_files.append(silence_file)
+                    if silence_file:
+                        # Always add to temp_files for cleanup
+                        self.temp_files.append(silence_file)
 
-                    # For concatenation, use cached version to avoid duplicates
-                    # Use pause_after if set, otherwise use segment's break_after
-                    pause_duration = self.pause_after if self.pause_after is not None else segments[idx].break_after
+                        # For concatenation, use cached version to avoid duplicates
+                    # Use segment's break_after if present; otherwise pause_after if set
+                    if segments[idx].break_after > 0:
+                        pause_duration = segments[idx].break_after
+                    elif self.pause_after is not None:
+                        pause_duration = self.pause_after
+                    else:
+                        pause_duration = 0
 
                     # Check if we have a valid cached silence file that still exists
                     if pause_duration in self.silence_cache and self.silence_cache[pause_duration].exists():

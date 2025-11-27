@@ -29,7 +29,7 @@ main() {
   language=$(prompt "Default language code" "es")
   device=$(prompt "Device (cpu|mps|cuda|auto)" "auto")
   workers=$(prompt "Workers" "1")
-  pause_after=$(prompt "Pause after each segment (seconds, blank = honor tags)" "")
+  pause_after=$(prompt "Default pause (seconds, blank = only tags)" "")
   auto_detect=$(prompt "Auto-detect language per segment? (y/N)" "n")
 
   ref_audio=""
