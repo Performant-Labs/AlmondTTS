@@ -1060,15 +1060,18 @@ class LongFormTTS:
         total_words = len(text_without_tags.split())
 
         # Phase 1: Segment text
-        # If pause_after is set, use it for segmentation duration
-        if self.pause_after is not None:
-            target_duration = self.pause_after
-            # Use a very tight range to keep segments short for language learning
-            # Target 80-100% of pause_after to account for TTS variability
-            # This ensures actual audio stays closer to target even with estimation errors
-            segments = self.segment_text(text, target_duration * 0.8, target_duration * 1.0)
+        contains_tags = ("<voice" in text) or ("<break" in text)
+        if contains_tags:
+            segments = self.parse_text_with_breaks(input_path)
         else:
-            segments = self.segment_text(text, min_duration, max_duration)
+            # If pause_after is set, use it for segmentation duration
+            if self.pause_after is not None:
+                target_duration = self.pause_after
+                # Use a very tight range to keep segments short for language learning
+                # Target 80-100% of pause_after to account for TTS variability
+                segments = self.segment_text(text, target_duration * 0.8, target_duration * 1.0)
+            else:
+                segments = self.segment_text(text, min_duration, max_duration)
 
         if not segments:
             print("Error: No segments generated")
