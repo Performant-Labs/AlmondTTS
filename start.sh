@@ -22,6 +22,7 @@ main() {
   [[ -f "$default_input" ]] || default_input="${HOME}/Documents/AlmondTTS/input"
 
   local input_path output_dir language device workers pause_after auto_detect voice_map ref_audio mx_voice_map
+  local confirm
 
   input_path=$(prompt "Input file or folder" "$default_input")
   output_dir=$(prompt "Output directory" "${HOME}/Documents/AlmondTTS/output")
@@ -47,7 +48,7 @@ main() {
   echo "  device      : $device"
   echo "  workers     : $workers"
   [[ -n "$pause_after" ]] && echo "  pause after : $pause_after s" || echo "  pause after : (use tags/defaults)"
-  [[ -n "$voice_map" ]] && echo "  voice map   : $voice_map"
+  [[ -n "$voice_map" ]] && echo "  voice map   : $voice_map" || echo "  voice map   : (none)"
   [[ "$auto_detect" =~ ^[Yy]$ ]] && echo "  auto-detect : enabled" || echo "  auto-detect : disabled"
   echo
 
@@ -59,7 +60,12 @@ main() {
   echo "Command:"
   printf '  %q' "${cmd[@]}"
   echo
-  echo
+
+  read -r -p "Proceed with these settings? (y/N): " confirm || exit 1
+  if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
+    echo "Aborted."
+    exit 1
+  fi
 
   "${cmd[@]}"
 }
