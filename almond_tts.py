@@ -615,12 +615,8 @@ class LongFormTTS:
         for seg in segments:
             preview = seg.text[:60] + "..." if len(seg.text) > 60 else seg.text
             break_info = f" + {seg.break_after}s break" if seg.break_after > 0 else ""
-            voice_info = ""
-            if seg.voice_file:
-                voice_info = f" [voice: {Path(seg.voice_file).name}]"
-            elif seg.language and seg.language != self.language:
-                voice_info = f" [lang: {seg.language}]"
-            print(f"  [{seg.segment_id:03d}] ~{seg.estimated_duration:.1f}s{break_info}{voice_info}: {preview}")
+            lang_info = f" [lang: {seg.language}]" if seg.language and seg.language != self.language else ""
+            print(f"  [{seg.segment_id:03d}] ~{seg.estimated_duration:.1f}s{break_info}{lang_info}: {preview}")
 
         return segments
 
