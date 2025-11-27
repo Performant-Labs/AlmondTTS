@@ -796,59 +796,81 @@ class LongFormTTS:
         # Create list to store results in order
         results = [None] * len(segments)
 
-        print(f"\nProcessing {len(segments)} segments with {self.num_workers} parallel workers...\n")
+        # Precompute task metadata to preserve output ordering and filenames
+        tasks = []
+        file_counter = 0
+        for idx, segment in enumerate(segments):
+            pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
+            will_add_pause = pause_duration > 0
+            tasks.append({
+                "idx": idx,
+                "segment": segment,
+                "file_counter": file_counter,
+                "lang": segment.language if segment.language else self.language
+            })
+            file_counter += 2 if will_add_pause else 1
 
-        # Process segments in parallel
-        with ThreadPoolExecutor(max_workers=self.num_workers) as executor:
-            # Submit all tasks
-            future_to_idx = {}
-            file_counter = 0
-            for idx, segment in enumerate(segments):
-                future = executor.submit(
-                    self._process_single_segment,
-                    segment, output_name, file_counter
-                )
-                future_to_idx[future] = (idx, segment, file_counter)
-                # Each segment uses 2 file slots (TTS + optional silence)
-                # Check if we'll add a pause (either from pause_after or segment.break_after)
-                will_add_pause = (self.pause_after is not None and self.pause_after > 0) or segment.break_after > 0
-                file_counter += 2 if will_add_pause else 1
+        # Process segments language-by-language to reduce cross-language hallucination
+        language_order = []
+        for task in tasks:
+            lang = task["lang"]
+            if lang not in language_order:
+                language_order.append(lang)
 
-            # Collect results as they complete
-            completed = 0
-            for future in as_completed(future_to_idx):
-                idx, segment, fc = future_to_idx[future]
-                completed += 1
+        print(
+            f"\nProcessing {len(segments)} segments across {len(language_order)} language group(s) "
+            f"with {self.num_workers} parallel worker(s)...\n"
+        )
 
-                try:
-                    success, tts_file, silence_file, gen_time, audio_dur, error = future.result()
+        completed = 0
+        for lang in language_order:
+            lang_tasks = [t for t in tasks if t["lang"] == lang]
+            print(f"  Language '{lang}': {len(lang_tasks)} segment(s)")
 
-                    if success:
-                        # Store result
-                        results[idx] = (tts_file, silence_file)
-                        generation_times.append(gen_time)
-                        audio_durations.append(audio_dur)
+            with ThreadPoolExecutor(max_workers=self.num_workers) as executor:
+                future_to_task = {}
+                for task in lang_tasks:
+                    future = executor.submit(
+                        self._process_single_segment,
+                        task["segment"],
+                        output_name,
+                        task["file_counter"]
+                    )
+                    future_to_task[future] = task
 
-                        # Calculate RTF and accuracy
-                        rtf = gen_time / audio_dur if audio_dur > 0 else 0
-                        accuracy = (audio_dur / segment.estimated_duration * 100) if segment.estimated_duration > 0 else 0
+                for future in as_completed(future_to_task):
+                    task = future_to_task[future]
+                    idx = task["idx"]
+                    segment = task["segment"]
+                    try:
+                        completed += 1
+                        success, tts_file, silence_file, gen_time, audio_dur, error = future.result()
 
-                        pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
-                        pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
-                        text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
-                        print(
-                            f"[{completed}/{len(segments)}] ID {segment.segment_id:03d} | "
-                            f"gen {gen_time:.2f}s (audio {audio_dur:.1f}s, RTF {rtf:.2f}x) | "
-                            f"est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) | "
-                            f"{text_preview}{pause_info}"
-                        )
-                    else:
-                        print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: ERROR - {error}")
+                        if success:
+                            results[idx] = (tts_file, silence_file)
+                            generation_times.append(gen_time)
+                            audio_durations.append(audio_dur)
+
+                            # Calculate RTF and accuracy
+                            rtf = gen_time / audio_dur if audio_dur > 0 else 0
+                            accuracy = (audio_dur / segment.estimated_duration * 100) if segment.estimated_duration > 0 else 0
+
+                            pause_duration = self.pause_after if self.pause_after is not None else segment.break_after
+                            pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
+                            text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
+                            print(
+                                f"[{completed}/{len(segments)}] ID {segment.segment_id:03d} | "
+                                f"gen {gen_time:.2f}s (audio {audio_dur:.1f}s, RTF {rtf:.2f}x) | "
+                                f"est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) | "
+                                f"{text_preview}{pause_info}"
+                            )
+                        else:
+                            print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: ERROR - {error}")
+                            results[idx] = None
+
+                    except Exception as e:
+                        print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: FAILED - {e}")
                         results[idx] = None
-
-                except Exception as e:
-                    print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: FAILED - {e}")
-                    results[idx] = None
 
         # Build file lists for concatenation and cleanup
         print("\nAssembling audio files in correct order...")
