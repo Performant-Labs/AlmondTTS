@@ -129,7 +129,7 @@ class TextSegment:
 
 class LongFormTTS:
     def __init__(self, model_name="tts_models/multilingual/multi-dataset/xtts_v2",
-                 speaker_wav=None, language="es", output_dir=None, device=None, num_workers=1, pause_after=None,
+                 speaker_wav=None, language="es", output_dir=None, device=None, num_workers=1, pause_after=2.0,
                  voice_map=None, auto_detect_language=False):
         """
         Initialize the Long-Form TTS processor.
@@ -141,7 +141,7 @@ class LongFormTTS:
             output_dir: Directory to save output files
             device: Device to use ('cpu', 'mps', 'cuda', or None for auto-detect)
             num_workers: Number of parallel workers for TTS generation (default: 1)
-            pause_after: If set, add this many seconds of pause after each audio segment (default: None)
+            pause_after: If set, add this many seconds of pause after each audio segment (default: 2.0). Break tags always take precedence.
             voice_map: Dict mapping language codes to voice files, e.g., {"en": "english.wav", "es": None}
             auto_detect_language: If True, automatically detect language per segment
         """
@@ -263,7 +263,7 @@ class LongFormTTS:
         self.pause_after = pause_after
         print(f"Parallel workers: {num_workers}")
         if pause_after is not None:
-            print(f"Pause after each segment: {pause_after}s")
+            print(f"Pause after each segment (unless break tag present): {pause_after}s")
 
         # Estimation: average speaking rate for Spanish TTS
         # Conservative estimate to avoid segments being too long
