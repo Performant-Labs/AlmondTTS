@@ -859,10 +859,11 @@ class LongFormTTS:
                             pause_info = f" | +{pause_duration:.1f}s pause" if pause_duration > 0 else ""
                             text_preview = segment.text[:60] + "..." if len(segment.text) > 60 else segment.text
                             print(
-                                f"[{completed}/{len(segments)}] ID {segment.segment_id:03d} | "
-                                f"gen {gen_time:.2f}s (audio {audio_dur:.1f}s, RTF {rtf:.2f}x) | "
-                                f"est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) | "
-                                f"{text_preview}{pause_info}"
+                                f"[{completed}/{len(segments)}] "
+                                f"ID {segment.segment_id:03d} "
+                                f"| gen {gen_time:.2f}s / audio {audio_dur:.1f}s (RTF {rtf:.2f}x) "
+                                f"| est {segment.estimated_duration:.1f}s ({accuracy:.0f}%) "
+                                f"| {text_preview}{pause_info}"
                             )
                         else:
                             print(f"[{completed}/{len(segments)}] Segment {idx + 1} [ID: {segment.segment_id:03d}]: ERROR - {error}")
