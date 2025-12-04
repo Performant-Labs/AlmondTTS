@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Thirteen</voice><break time="2s"/>
+<voice lang="es">Fraces — Número trece</voice><break time="2s"/>
+
+<voice lang="en">The central survey began, gathered significant data and will determine the social magnitude.</voice><break time="5s"/>
+<voice lang="es">La encuesta central comenzó, reunió datos significativos y determinará la magnitud social.</voice><break time="2s"/>
+
+<voice lang="en">Central series play final rounds and generate probable financial estimates.</voice><break time="5s"/>
+<voice lang="es">Las series centrales juegan rondas finales y generan estimaciones financieras probables.</voice><break time="2s"/>
+
+<voice lang="en">Proposing modifications to the board implies a dilemma, but clear speeches could satisfy doubts.</voice><break time="5s"/>
+<voice lang="es">Proponer modificaciones al tablero implica un dilema, pero discursos claros podrían satisfacer las dudas.</voice><break time="2s"/>
+
+<voice lang="en">Nearby frequency increased during the quarter and alerts kept arriving.</voice><break time="5s"/>
+<voice lang="es">La frecuencia cercana aumentó durante el trimestre y las alertas siguieron llegando.</voice><break time="2s"/>
+
+<voice lang="en">Nearby units cover work requirements and interns face strategic tasks.</voice><break time="5s"/>
+<voice lang="es">Las unidades cercanas cubren los requerimientos laborales y los pasantes afrontan tareas estratégicas.</voice><break time="2s"/>
+
+<voice lang="en">Those nearby mention the strange episode and we try to clarify it.</voice><break time="5s"/>
+<voice lang="es">Los cercanos mencionan el episodio extraño y nosotros tratamos de aclararlo.</voice><break time="2s"/>
+
+<voice lang="en">The closed court operates without public, but events continue taking place normally.</voice><break time="5s"/>
+<voice lang="es">La cancha cerrada opera sin público, pero los eventos se siguen efectuando normalmente.</voice><break time="2s"/>
+
+<voice lang="en">It feels very certified indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy certificado en verdad.</voice><break time="2s"/>
+
+<voice lang="en">The Chinese facade suffered unexpected modification and representing novel paradigm conquered unanimity.</voice><break time="5s"/>
+<voice lang="es">La fachada china sufrió modificación inesperado y representando paradigma novedoso conquistó unanimidad.</voice><break time="2s"/>
+
+<voice lang="en">The nightmare will keep happening if a clear signal about emotions is not provided.</voice><break time="5s"/>
+<voice lang="es">La pesadilla seguirá pasando si no se proporciona una señal clara sobre las emociones.</voice><break time="2s"/>
+
+<voice lang="en">Scientific research found fossil molecules and verified oil extraction in wells.</voice><break time="5s"/>
+<voice lang="es">Las investigaciones científicas encontraron moléculas fósiles y comprobaron la extracción de petróleo en pozos.</voice><break time="2s"/>
+
+<voice lang="en">Publishing recommendations about healthy food stimulates good habits and allows taking advantage.</voice><break time="5s"/>
+<voice lang="es">Publicar recomendaciones sobre comida saludable estimula buenos hábitos y permite sacar provecho.</voice><break time="2s"/>
+
+<voice lang="en">Let's remember that, although they face obstacles, teaching tables form a solid educational conception.</voice><break time="5s"/>
+<voice lang="es">Recordemos que, aunque enfrentan obstáculos, las mesas de impartición forman una concepción educativa sólida.</voice><break time="2s"/>
+
+<voice lang="en">A certain Mayan militant left the island and looked at distant horizons.</voice><break time="5s"/>
+<voice lang="es">Cierto militante maya salió de la isla y miró horizontes lejanos.</voice><break time="2s"/>
+
+<voice lang="en">The cinematographic theme would please the public greatly and perhaps would quote better.</voice><break time="5s"/>
+<voice lang="es">El tema cinematográfico gustaría mucho al público y quizás cotizaría mejor.</voice><break time="2s"/>
+
+<voice lang="en">The cited comment had a severe impact on susceptible ears and shoulders.</voice><break time="5s"/>
+<voice lang="es">El comentario citado tuvo un impacto severo en oídos susceptibles y hombros.</voice><break time="2s"/>
+
+<voice lang="en">The mentioned teeth receive hard dust in the typical stainless steel bar.</voice><break time="5s"/>
+<voice lang="es">Los dientes mencionados reciben polvo duro en la barra típica de acero inoxidable.</voice><break time="2s"/>
+
+<voice lang="en">He remembered dengue, requested immediate medical attention and ensured subsequent periodic controls.</voice><break time="5s"/>
+<voice lang="es">Recordó el dengue, solicitó atención médica inmediata y aseguró posteriores controles periódicos.</voice><break time="2s"/>
+
+<voice lang="en">Remember that the family requires constant prayer and candle always lit.</voice><break time="5s"/>
+<voice lang="es">Recuerde que la familia requiere oración constante y vela encendida siempre.</voice><break time="2s"/>
+
+<voice lang="en">That little leisure allows you to forget your obligations during weekends.</voice><break time="5s"/>
+<voice lang="es">Ese pequeño ocio te permite olvidar tus obligaciones durante los fines de semana.</voice><break time="2s"/>
+
+<voice lang="en">Although haciendas keep a family touch, a brief summary never captures every home.</voice><break time="5s"/>
+<voice lang="es">Aunque las haciendas guardan un toque familiar, un resumen breve nunca plasma todo hogar.</voice><break time="2s"/>
+
+<voice lang="en">I would like the indicated classic orthography to serve at least as moral protector.</voice><break time="5s"/>
+<voice lang="es">Quisiera que la clásica ortografía señalada sirviera siquiera de protector moral.</voice><break time="2s"/>
+
+<voice lang="en">Classic religious statements belonging to liberal priests were read today.</voice><break time="5s"/>
+<voice lang="es">Los clásicos enunciados religiosos pertenecientes a sacerdotes liberales fueron leídos hoy.</voice><break time="2s"/>
+
+<voice lang="en">Select the chair even though you need to import billions of foreign currencies to buy it.</voice><break time="5s"/>
+<voice lang="es">Selecciona la silla aunque necesites importar billones de divisas para comprarla.</voice><break time="2s"/>
+
+<voice lang="en">The capo declared dangerous had placed mortars and bullets in boats.</voice><break time="5s"/>
+<voice lang="es">El capo declarado peligroso había colocado morteros y balas en embarcaciones.</voice><break time="2s"/>
+
+<voice lang="en">He had certainty and pointed out the reason for the boom, although specimens died.</voice><break time="5s"/>
+<voice lang="es">Tenía certeza y señaló el porqué del auge, aunque murieron ejemplares.</voice><break time="2s"/>
+
+<voice lang="en">A nose and healthy eyes reduce colonial physical punishment and the related syndrome.</voice><break time="5s"/>
+<voice lang="es">Una nariz y unos ojos saludables reducen el castigo físico colonial y el síndrome relacionado.</voice><break time="2s"/>
+
+<voice lang="en">The republican commissioner declared the marijuana exhibition at the altar illegal.</voice><break time="5s"/>
+<voice lang="es">El comisionado republicano declaró ilegal la exhibición de mariguana en el altar.</voice><break time="2s"/>
+
+<voice lang="en">Following the invitation, they attended although the duration of the walk seemed short.</voice><break time="5s"/>
+<voice lang="es">Siguiendo la invitación, acudieron aunque la duración del paseo parecía corta.</voice><break time="2s"/>
+
+<voice lang="en">Request linkage when we deliver ballots and registry, then verify sources and profiles.</voice><break time="5s"/>
+<voice lang="es">Solicitar vinculación cuando entregamos boletas y padrón, luego verificar fuentes y perfiles.</voice><break time="2s"/>
+
+<voice lang="en">Religious commissioners requested strikes and offering lower fees was necessary.</voice><break time="5s"/>
+<voice lang="es">Los comisionados religiosos pidieron huelgas y ofrecer honorarios menores fue necesario.</voice><break time="2s"/>
+
+<voice lang="en">He underlined the cancellation of trips because road incidents continued affecting our occasions.</voice><break time="5s"/>
+<voice lang="es">Subrayó la cancelación de viajes porque los incidentes viales continuaron afectando nuestras ocasiones.</voice><break time="2s"/>
+
+<voice lang="en">We have shared dark sagas and precious myths for a long time.</voice><break time="5s"/>
+<voice lang="es">Hemos compartido sagas oscuras y mitos preciosos durante mucho tiempo.</voice><break time="2s"/>
+
+<voice lang="en">The Undersecretary will stimulate work effort if they attend to our recommendations.</voice><break time="5s"/>
+<voice lang="es">La Subsecretaría estimulará el empeño laboral si atienden nuestras recomendaciones.</voice><break time="2s"/>
+
+<voice lang="en">The best catalogs offer competitive clothing and will open links exclusively for discounts.</voice><break time="5s"/>
+<voice lang="es">Los mejores catálogos ofrecen ropa competitiva y abrirán enlaces exclusivamente para descuentos.</voice><break time="2s"/>
+
+<voice lang="en">The complacent candidate decided to resign from the elected office during the six-year term.</voice><break time="5s"/>
+<voice lang="es">El candidato complaciente decidió renunciar al cargo electivo durante el sexenio.</voice><break time="2s"/>
+
+<voice lang="en">I want the complex topic to allow clearly distinguishing the points and reasons.</voice><break time="5s"/>
+<voice lang="es">Quiero que la temática compleja permita distinguir claramente los puntos y las razones.</voice><break time="2s"/>
+
+<voice lang="en">The complex arrangement allowed adopting different styles and gathered outstanding verses.</voice><break time="5s"/>
+<voice lang="es">El arreglo complejo permitió la adopción de estilos distintos y reunió versos destacados.</voice><break time="2s"/>
+
+<voice lang="en">Sensitive stones sow life and complementary physical transformations will occur around.</voice><break time="5s"/>
+<voice lang="es">Las piedras sensibles siembran vida y ocurrirán transformaciones físicas complementarias alrededor.</voice><break time="2s"/>
+
+<voice lang="en">Complete implementation started late, but will soon work perfectly for everyone.</voice><break time="5s"/>
+<voice lang="es">La implementación completa empezó tarde, pero pronto funcionará perfectamente para todos.</voice><break time="2s"/>
+
+<voice lang="en">Subscribe to audio, but losing the recording cost a period of time.</voice><break time="5s"/>
+<voice lang="es">Suscríbete al audio, pero perder la grabación costó un lapso de tiempo.</voice><break time="2s"/>
+
+<voice lang="en">The complicated specification directly affects legal interpretation and provokes censures.</voice><break time="5s"/>
+<voice lang="es">La especificación complicada afecta directamente la interpretación jurídica y provoca censuras.</voice><break time="2s"/>
+
+<voice lang="en">Sentimental separation is complicated and deep pain is felt even afterwards.</voice><break time="5s"/>
+<voice lang="es">La separación sentimental es complicada y se siente un dolor profundo incluso después.</voice><break time="2s"/>
+
+<voice lang="en">The energy component dedicated to work will allow increasing efficient performance and realization.</voice><break time="5s"/>
+<voice lang="es">El componente energético dedicado al trabajo permitirá incrementar la rendición y la realización eficientes.</voice><break time="2s"/>
+
+<voice lang="en">The patient spider built its trap in the purchased rust.</voice><break time="5s"/>
+<voice lang="es">La araña paciente construyó su trampa en el óxido comprado.</voice><break time="2s"/>
+
+<voice lang="en">Regarding health, abstaining from sex when shots occur prevents shock.</voice><break time="5s"/>
+<voice lang="es">Tratándose de salud, abstenerse del sexo cuando ocurren disparos previene el choque.</voice><break time="2s"/>
+
+<voice lang="en">I wish you had understood exactly the announcement of the documentary received yesterday.</voice><break time="5s"/>
+<voice lang="es">Deseo que hayas comprendido exactamente el anuncio del documental recibido ayer.</voice><break time="2s"/>
+
+<voice lang="en">When you go shopping, you can use the search engine and complete the printed acquisition.</voice><break time="5s"/>
+<voice lang="es">Cuando acudas a comprar, podrás utilizar el buscador y completar la obtención impresa.</voice><break time="2s"/>
+
+<voice lang="en">The tribune, composed of religious referents, remembers the saint as eternal.</voice><break time="5s"/>
+<voice lang="es">La tribuna, compuesta por referentes religiosos, recuerda al santo como eterno.</voice><break time="2s"/>
+
+<voice lang="en">Emotional impression allows abandoning masks because sincere appearance sustains bonds.</voice><break time="5s"/>
+<voice lang="es">La impresión emocional permite abandonar las máscaras porque la apariencia sincera sostiene los vínculos.</voice><break time="2s"/>
+
+<voice lang="en">The mouth full of compound smoke indicates serious faults in driving.</voice><break time="5s"/>
+<voice lang="es">La boca llena de humo compuesto indica faltas graves en la conducción.</voice><break time="2s"/>
+
+<voice lang="en">In family, addressing a complex case requires patience and communication, avoiding emotional repression.</voice><break time="5s"/>
+<voice lang="es">En familia, abordar un caso complejo requiere paciencia y comunicación, evitando la represión emocional.</voice><break time="2s"/>
+
+<voice lang="en">At work we do common tasks and technical combinations intended to obtain results.</voice><break time="5s"/>
+<voice lang="es">En el trabajo hacemos tareas comunes y combinaciones técnicas destinadas a obtener resultados.</voice><break time="2s"/>
+
+<voice lang="en">The trials addressed the slaughter because indicating previous attacks was necessary.</voice><break time="5s"/>
+<voice lang="es">Los juicios abordaron la matanza porque indicar ataques previos resultaba necesario.</voice><break time="2s"/>
+
+<voice lang="en">It's clearly common for everyone today.</voice><break time="5s"/>
+<voice lang="es">Es claramente común para todos hoy.</voice><break time="2s"/>
+
+<voice lang="en">The building opens when lighting appears and the family meets.</voice><break time="5s"/>
+<voice lang="es">La edificación abre cuando la iluminación aparece y la familia se encuentra.</voice><break time="2s"/>
+
+<voice lang="en">I stay home resting and enjoy the availability granted for leisure.</voice><break time="5s"/>
+<voice lang="es">Me quedo en casa descansando y disfruto de la disponibilidad concedida para el ocio.</voice><break time="2s"/>
+
+<voice lang="en">The pattern that opens the runway secures loads and telecommunications operate correctly.</voice><break time="5s"/>
+<voice lang="es">El patrón que abre la pista asegura las cargas y las telecomunicaciones operan correctamente.</voice><break time="2s"/>
+
+<voice lang="en">They coordinate online purchases, creating a conceptual format for offers.</voice><break time="5s"/>
+<voice lang="es">Ellos coordinan compras en línea, creando un formato conceptual para ofertas.</voice><break time="2s"/>
+
+<voice lang="en">The tourist stages of the trip find support in prose and conceptual notion.</voice><break time="5s"/>
+<voice lang="es">Las etapas turísticas del viaje encuentran respaldo en la prosa y la noción conceptual.</voice><break time="2s"/>
+
+<voice lang="en">The driver will try to open the barrier and then drive the tanks.</voice><break time="5s"/>
+<voice lang="es">El conductor intentará abrir la barrera y luego conducir los tanques.</voice><break time="2s"/>
+
+<voice lang="en">The concluded mandate generated profound legal precedents and will continue guiding reforms.</voice><break time="5s"/>
+<voice lang="es">El mandato concluido generó precedentes jurídicos profundos y seguirá orientando reformas.</voice><break time="2s"/>
+
+<voice lang="en">The spokesperson elaborated on the letter and reiterated his clear indication.</voice><break time="5s"/>
+<voice lang="es">El portavoz abundó en la carta y reiteró su clara indicación.</voice><break time="2s"/>
+
+<voice lang="en">Concrete arguments convince, but sinister noise argumentation leaves gaps.</voice><break time="5s"/>
+<voice lang="es">Los argumentos concretos convencen, pero la argumentación siniestro ruido deja huecos.</voice><break time="2s"/>
+
+<voice lang="en">Commissions end the session because they must decide regarding new multinational participations.</voice><break time="5s"/>
+<voice lang="es">Las comisiones acaban la sesión porque deberán decidir respecto a nuevas participaciones multinacionales.</voice><break time="2s"/>
+
+<voice lang="en">The name inscribed on leading urban entrances will allow registering and traveling.</voice><break time="5s"/>
+<voice lang="es">El nombre inscrito en las entradas urbanas conducentes permitirá registrarse y viajar.</voice><break time="2s"/>
+
+<voice lang="en">Zombies started the looting and will end up having prison for impunity.</voice><break time="5s"/>
+<voice lang="es">Los zombis empezaron el saqueo y acabarán teniendo prisión por impunidad.</voice><break time="2s"/>
+
+<voice lang="en">The owner wants the confidential description of the packaging to remain covered.</voice><break time="5s"/>
+<voice lang="es">El poseedor quiere que la descripción confidencial del empaque se mantenga cubierta.</voice><break time="2s"/>
+
+<voice lang="en">Collection ended today and the fleet returns tomorrow without problems.</voice><break time="5s"/>
+<voice lang="es">La cobranza acabó hoy y la flota regresa mañana sin problemas.</voice><break time="2s"/>
+
+<voice lang="en">Our team, formed by specialists, performed dangerous jobs and obtained recognition.</voice><break time="5s"/>
+<voice lang="es">Nuestro equipo, conformado por especialistas, desempeñó trabajos peligrosos y obtuvo reconocimiento.</voice><break time="2s"/>
+
+<voice lang="en">Joint reviews of culinary genre discover a deep meaning in typical presentations.</voice><break time="5s"/>
+<voice lang="es">Las revisiones conjuntas de género culinario descubren un significado profundo en las presentaciones típicas.</voice><break time="2s"/>
+
+<voice lang="en">The quorum agreed to reelection and the rooster argued doubts.</voice><break time="5s"/>
+<voice lang="es">El quórum accedió a la reelección y el gallo argumentó dudas.</voice><break time="2s"/>
+
+<voice lang="en">Reception of gestures indicates emotions, but accelerating discussions usually blocks their expression.</voice><break time="5s"/>
+<voice lang="es">La recepción de gestos indica emociones, pero acelerar las discusiones suele bloquear su expresión.</voice><break time="2s"/>
+
+<voice lang="en">It feels very known indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy conocido en verdad.</voice><break time="2s"/>
+
+<voice lang="en">Religion can bring external segments closer and collaborate, but also cause incidence.</voice><break time="5s"/>
+<voice lang="es">La religión puede acercar segmentos externos y coadyuvar, pero también ocasionar incidencia.</voice><break time="2s"/>
+
+<voice lang="en">Personally I consult known people daily and they provide approaches oriented to goals.</voice><break time="5s"/>
+<voice lang="es">Personalmente consulto diariamente a conocidos y ellos aportan enfoques orientados a metas.</voice><break time="2s"/>
+
+<voice lang="en">The purchase considered unique began today and will have strategic relevance tomorrow.</voice><break time="5s"/>
+<voice lang="es">La compra considerada única comenzó hoy y tendrá una relevancia estratégica mañana.</voice><break time="2s"/>
+
+<voice lang="en">He approached us when he wanted and explained the terms of the agreement to us.</voice><break time="5s"/>
+<voice lang="es">Se nos acercó cuando quiso y nos explicó los términos del acuerdo.</voice><break time="2s"/>
+
+<voice lang="en">The consistent robbery plot that emerged in the new century provoked wounds.</voice><break time="5s"/>
+<voice lang="es">La trama consistente de robo surgida en el nuevo siglo provocó heridas.</voice><break time="2s"/>
+
+<voice lang="en">Travelers can approach the crossing and will find signs with information.</voice><break time="5s"/>
+<voice lang="es">Los viajeros pueden acercarse al cruce y encontrarán carteles con información.</voice><break time="2s"/>
+
+<voice lang="en">She clarified her emotions and pointed out the congruence between her feelings and her actions.</voice><break time="5s"/>
+<voice lang="es">Ella aclaró sus emociones y señaló la congruencia entre sus sentimientos y sus acciones.</voice><break time="2s"/>
+
+<voice lang="en">The phases of natural becoming form scenes and signals that accompany silences.</voice><break time="5s"/>
+<voice lang="es">Las fases del devenir natural forman escenas y señales que acompañan a los silencios.</voice><break time="2s"/>
+
+<voice lang="en">The leisure afternoon was constituted by photographic exhibitions and a parade.</voice><break time="5s"/>
+<voice lang="es">La tarde de ocio estaba constituida por exposiciones fotográficas y un desfile.</voice><break time="2s"/>
+
+<voice lang="en">Although discussion promises to agree on a clear definition, some lenses miss surprising.</voice><break time="5s"/>
+<voice lang="es">Aunque la discusión promete acordar una definición clara, algunos lentes extrañan sorprender.</voice><break time="2s"/>
+
+<voice lang="en">The constructed road remained empty and the officers in charge await procedures.</voice><break time="5s"/>
+<voice lang="es">La vialidad construida quedó vacía y los operativos encargados esperan los trámites.</voice><break time="2s"/>
+
+<voice lang="en">The delegation agreed to attend interventions because public health requires advising patients.</voice><break time="5s"/>
+<voice lang="es">La delegación acordó atender intervenciones porque la salud pública requiere asesorar a los pacientes.</voice><break time="2s"/>
+
+<voice lang="en">The tattoo symbolized sovereignty when she limited her clear intention.</voice><break time="5s"/>
+<voice lang="es">El tatuaje simbolizaba la soberanía cuando ella acotó su intención clara.</voice><break time="2s"/>
+
+<voice lang="en">Every day I look at the constructed arch and consider my own rituals worthy.</voice><break time="5s"/>
+<voice lang="es">Cada día miro el arco construido y considero dignos mis propios rituales.</voice><break time="2s"/>
+
+<voice lang="en">Although you work a lot, I accredited that leisure favors your wellbeing.</voice><break time="5s"/>
+<voice lang="es">Aunque trabajas mucho, acredité que el ocio favorece tu bienestar.</voice><break time="2s"/>
+
+<voice lang="en">Although the quota was full, we would love to activate new tires.</voice><break time="5s"/>
+<voice lang="es">Aunque el cupo estaba lleno, nos encantaría activar llantas nuevas.</voice><break time="2s"/>
+
+<voice lang="en">The advisory committee conducted the energy measurement and approved the tables with general results.</voice><break time="5s"/>
+<voice lang="es">El comité consultivo realizó la medición energética y aprobó las tablas con los resultados generales.</voice><break time="2s"/>
+
+<voice lang="en">Laypeople acted with courage and voted in the corresponding seat.</voice><break time="5s"/>
+<voice lang="es">Los laicos actuaron con valentía y votaron en la curul correspondiente.</voice><break time="2s"/>
+
+<voice lang="en">Although some students question fractions, many attend and will try to explain the picture.</voice><break time="5s"/>
+<voice lang="es">Aunque algunos estudiantes cuestionan las fracciones, muchos acuden e intentarán explicar el cuadro.</voice><break time="2s"/>
+
+<voice lang="en">Our accounting way fully considers family motives and shared personal contents.</voice><break time="5s"/>
+<voice lang="es">Nuestra manera contable considera plenamente los motivos familiares y los contenidos personales compartidos.</voice><break time="2s"/>
+
+<voice lang="en">Although you have work, you want to attend and then they'll head towards the courts.</voice><break time="5s"/>
+<voice lang="es">Aunque tienes trabajo, deseas acudir y luego irán rumbo a las canchas.</voice><break time="2s"/>
+
+<voice lang="en">Accounting chefs found generous food lots and paid previously.</voice><break time="5s"/>
+<voice lang="es">Los chefs contables encontraron lotes de comida generosos y pagados previamente.</voice><break time="2s"/>
+
+<voice lang="en">She attended mass and then left the subscription pending.</voice><break time="5s"/>
+<voice lang="es">Ella acudió a misa y luego dejó la suscripción pendiente.</voice><break time="2s"/>
+
+<voice lang="en">Accumulating capital requires a clear function, and we present a precise estimation of the items.</voice><break time="5s"/>
+<voice lang="es">Acumular capital requiere una función clara, y presentamos una estimación precisa de los rubros.</voice><break time="2s"/>
+
+<voice lang="en">I thought I had counted everything, but I discovered errors and decided to correct them.</voice><break time="5s"/>
+<voice lang="es">Pensé que lo había contado todo, pero descubrí errores y decidí corregirlos.</voice><break time="2s"/>
+
+<voice lang="en">Emotional powers are scarce, and we trust firmly in those few.</voice><break time="5s"/>
+<voice lang="es">Los poderes emocionales son escasos, y confiamos firmemente en esos pocos.</voice><break time="2s"/>
+
+<voice lang="en">The information contained in the brochure seemed credible and doubts disappeared.</voice><break time="5s"/>
+<voice lang="es">La información contenida en el folleto parecía creíble y las dudas desaparecieron.</voice><break time="2s"/>
+
+<voice lang="en">The rival accuses without justification and provokes a fight on this occasion.</voice><break time="5s"/>
+<voice lang="es">El rival acusa sin justificación y provoca una pelea en esta ocasión.</voice><break time="2s"/>
+
+<voice lang="en">When I return to the family property, I stop accusing and find custody.</voice><break time="5s"/>
+<voice lang="es">Cuando regreso al predio familiar, dejo de acusar y encuentro custodia.</voice><break time="2s"/>
+
+<voice lang="en">Next you'll carry the cart with products to the express checkout.</voice><break time="5s"/>
+<voice lang="es">A continuación llevarás el carrito con productos a la caja de paso rápido.</voice><break time="2s"/>
+
+<voice lang="en">Adapting schedules is essential for healthy leisure and to avoid dying bored.</voice><break time="5s"/>
+<voice lang="es">Adaptar los horarios es esencial para un ocio saludable y para evitar morir aburridos.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

@@ -190,5 +190,5 @@ Integración Continua/Entrega Continua (CI/CD)
 <voice lang="en">Implement caching to improve response time.<break time="6s"></voice>
 <voice lang="es">Implementar caché para mejorar la respuesta.<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

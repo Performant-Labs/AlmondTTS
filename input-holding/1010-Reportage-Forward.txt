@@ -1,0 +1,94 @@
+<voice lang="en">Reportage - Forward<break time="1s"></voice> <voice lang="es">Reportaje - Adelante<break time="1s"></voice>
+
+Prefacio del autor
+
+<break time="3s">
+
+EL LIBRO que tienes en tus manos me ha llevado quince años escribirlo. Dudo en poner esa frase por escrito porque me doy cuenta de que casi con toda seguridad da una impresión equivocada.
+
+<break time="3s">
+
+Para que quede claro: no, no he estado atrapado en mi escritorio durante los últimos quince años, agonizando cada día por cada palabra de este libro. Más bien, empecé a escribir el primer ensayo de esta colección hace quince años, trabajé en los demás ensayos de forma intermitente —escribiendo, reescribiendo y reescribiendo de nuevo cuando el tiempo me lo permitía— y di los últimos retoques al último apunte (¿o era la última tilde?) hace solo unos días.
+
+<break time="3s">
+
+Como pueden imaginar, han pasado muchas cosas desde que empecé a escribir esta colección en 2009, tanto en mi vida personal como, por supuesto, en el mundo más amplio de la política y la sociedad, que es el tema principal de este volumen.
+
+<break time="3s">
+
+Por mi parte, me casé, tuve dos hijos, compré una casa unifamiliar y, en algún momento, convertí mi humilde trabajo secundario de podcasting en una carrera a tiempo completo.
+
+<break time="3s">
+
+Mientras tanto, el mundo exterior también ha experimentado una transformación total. Desde las consecuencias económicas de una crisis financiera mundial hasta las consecuencias geopolíticas de los conflictos en todo el mundo, desde la revelación de los globalistas hasta el auge de los populistas, desde el paradigma de la seguridad nacional posterior al 11-S hasta el paradigma de la bioseguridad posterior a la pandemia, el mundo de 2024 es notablemente diferente al de 2009.
+
+<break time="3s">
+
+Y, sin embargo, al mismo tiempo, nuestra situación actual es notablemente similar a la que nos encontramos cuando empecé a escribir el libro. La humanidad libre sigue luchando contra la misma banda de globalistas codiciosos, eugenistas egocéntricos y plutócratas ávidos de poder a los que nos enfrentábamos entonces. Puede que hayan avanzado en su agenda de control tecnocrático, pero nuestra lucha contra ellos sigue siendo prácticamente la misma.
+
+<break time="3s">
+
+En cierta medida, entonces, este libro es una reflexión sobre la paradoja del paso del tiempo: plus ça change, plus c'est la même chose.
+
+<break time="3s">
+
+Naturalmente, he aprendido muchas cosas durante la última década y media, he llegado a muchas conclusiones, he ampliado mi comprensión y he cambiado mi opinión sobre todo tipo de temas. En 2009, por ejemplo, era un estatista que solía sugerir escribir a tu diputado o votar a un candidato de un tercer partido como soluciones a nuestra difícil situación. Hoy en día, soy un voluntarista que cree que la forma de mejorar nuestro mundo no es votando a otro aspirante a gobernante político, sino invirtiendo nuestro tiempo, energía, atención y recursos en construir nuestras propias comunidades independientes desde abajo.
+
+<break time="3s">
+
+Este libro, por lo tanto, no solo documenta la historia oculta del Estado profundo y revela la agenda secreta de aquellos que buscan dirigir los acontecimientos mundiales. No solo sugiere cursos de acción para aquellos de nosotros que buscamos recuperar el control de nuestras propias vidas. También proporciona una visión del desarrollo de mi propio pensamiento sobre estos temas a lo largo de quince años de investigación.
+
+<break time="3s">
+
+Sin embargo, los ensayos de esta colección no se han ordenado según el orden en que se escribieron. En cambio, se han ordenado de manera que los temas fluyan lógicamente de uno a otro y que las ideas extraídas de una pieza ayuden al lector a contextualizar la información impartida en la siguiente. De esta manera, espero que el libro, si se lee de principio a fin, fomente una comprensión iterativa de su tema principal: el Nuevo Orden Mundial.
+
+<break time="3s">
+
+Entonces, ¿qué es el Nuevo Orden Mundial? No encontrarás una definición simple de ese término en estas páginas. Más bien, los ensayos muestran muchos (pero ciertamente no todos) los aspectos de esta idea multifacética.
+
+<break time="3s">
+
+Dicho esto, ciertamente no es necesario leer este libro de principio a fin ni en un orden concreto. Cada ensayo se ha escrito por separado, por lo que se puede leer de forma aislada y apreciar por sí mismo. Si un título en concreto le llama la atención, vaya a esa página y empiece a leer. El resto de los ensayos seguirán aquí, aunque tarde quince años en leerlos todos.
+
+<break time="3s">
+
+Por supuesto, ver nacer un libro como este, tras un prolongado proceso de gestación, no habría sido posible sin el apoyo de muchas, muchas comadronas. Nombrarlas a todas sería imposible, pero, a riesgo de ofender a quienes no cite, sería una negligencia por mi parte no destacar a algunos de mis amigos, colegas y familiares para darles un reconocimiento especial.
+
+<break time="3s">
+
+En primer lugar, me gustaría expresar mi más sincero agradecimiento a Aritha van Herk y a todos los alumnos de su taller de escritura creativa en la Universidad de Calgary a finales de la década de 1990. Antes de entrar en esa clase, creía que sabía escribir. Afortunadamente, van Herk y el increíble grupo de escritores y lectores con talento del taller me demostraron que estaba equivocado. Sus cuidadosas críticas me enseñaron (eso espero) a hacer que mis escritos fueran interesantes, incluso inspiradores. Pero si mi prosa les parece pesada, pueden dar las gracias a esa clase por no ser mucho, mucho peor.
+
+<break time="3s">
+
+También me gustaría dar las gracias a todos mis colegas de los medios de comunicación independientes, pero especialmente a James Evan Pilato, de MediaMonarchy.com la única persona con la que puedo imaginarme haciendo New World Next Week durante los últimos quince años y contando— y a Broc West, la única persona que puedo imaginarme como mi editor de vídeo durante los últimos diez años y contando. Gracias a ambos por sus ideas, su arduo trabajo, su humor y por mantenerme cuerdo en tiempos de locura.
+
+<break time="3s">
+
+Dicen que detrás de todo buen escritor hay un buen editor. No me atrevo a opinar sobre la calidad de mi escritura, pero sí puedo opinar sin duda alguna sobre la calidad de la edición de este libro. Susan, procedente de los soleados climas del sur de Estados Unidos, es una editora diligente y meticulosa cuyos ojos han revisado minuciosamente mis palabras durante los últimos años. No solo me ha sugerido le mot juste en le bon moment para que las frases brillaran, sino que en muchas ocasiones me ha ayudado a ver cómo mis pensamientos, perfectamente claros y comprensibles para mí, podían no serlo tanto para un tercero. Gracias, Susan, por tus incansables esfuerzos y por ayudar a que estos ensayos sean tan excelentes (¡esa es su palabra, no la mía!) como pueden serlo.
+
+<break time="3s">
+
+Me gustaría expresar mi más sincera y profunda gratitud a los miembros de The Corbett Report que han hecho posible este trabajo. Sepan que su apoyo moral, sus contribuciones económicas, sus comentarios en la sección de comentarios del sitio web y su ayuda para difundir esta información son muy apreciados.
+
+<break time="3s">
+
+A continuación, quiero dar las gracias a mis padres. Ahora me doy cuenta de que mi madre y mi padre no solo me proporcionaron un hogar lleno de amor y apoyo, aunque sin duda lo hicieron. Más importante aún, me dieron un buen ejemplo de cómo proporcionar el mismo tipo de hogar a mi propia familia. Es mi sincero deseo poder transmitir ese regalo a mis hijos.
+
+<break time="3s">
+
+Por último, no puedo imaginar dónde estaría sin la paciencia y el aliento de mi querida esposa. Y no quiero imaginar cómo sería mi vida sin la maravilla y la alegría que me aportan mi hermoso hijo y mi adorable hija.
+
+<break time="3s">
+
+Este libro es para mis hijos y para todos nuestros hijos. Aunque los detalles puedan ser diferentes, nuestra tarea es la misma a la que se han enfrentado todas las generaciones desde los albores de la humanidad: criar a nuestros hijos en la verdad, la sabiduría y el amor. Mientras sigamos haciéndolo, tengo fe en que el futuro será brillante.
+
+<break time="3s">
+
+James Corbett
+
+Julio de 2024
+
+Los climas soleados del oeste de Japón
+
+El final
+<break time="4s">

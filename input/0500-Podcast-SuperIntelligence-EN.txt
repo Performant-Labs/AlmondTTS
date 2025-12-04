@@ -1,0 +1,789 @@
+<speakers>
+dario = ~/Projects/AlmondTTS/reference_audio/Dario.mp3
+mario = ~/Projects/AlmondTTS/reference_audio/EmotionalIntelligenceClip.wav
+</speakers>
+
+
+Speaker 1  •  00:00
+
+If there was an airplane, and some engineers came and said, This airplane has no landing gear. If you try to fly in it, you will crash and die. And The engineers building the airplane, who want everybody to fly in it, say, Whoa, hold on. It's true that the plane has no landing gear, but we're going to build the landing gear on the fly. And think there's an 80% chance we succeed, all aboard. You wouldn't be like, get me on that plane. People in the field can see that AI is a moving target. They can see that the chatbots are not the end of the line. Even the optimists are saying there's like a 10% chance this kills us all, and those are the ones building it. 
+
+Speaker 2  •  00:41
+
+Today I'm joined by artificial intelligence researcher Nate Soares to discuss a pretty alarming topic, the potential risk of human extinction posed by the development of artificial superintelligence. Nate Sores is the President of the Machine Intelligence Research Institute and has been working in the field of AI risk and alignment for over a decade. is also the author of a large body of technical and semi technical writing on AI alignment, including foundational work on value learning, decision theory, and power seeking incentives in the smarter than human AIs. Most recently, Nate co authored the book, If Anyone Builds It, Everyone Dies Why Superhuman AI Would Kill Us All alongside Eleazer Yudkowsky. Nate's warning against the development of artificial superintelligence is akin to other existential threats, such as nuclear war and runaway global heating. And as such, I feel it requires some sort of equal exploration and awareness on this chat channel as we integrate the various risks. While we've covered several macro challenges stemming from artificial intelligence, the synthesis that Nate presents here is arguably the widest boundary risk that AI development creates. which is a species level extinction and the transformation of Earth as we know it. Before we begin, if you're enjoying this podcast enjoying in quotes, I suppose I invite you to subscribe to our Substack newsletter where you can read more. of the system science underpinning the human predicament and where my team and I share written content related to the Great Simplification. You can find the link to subscribe in the show description. With that, please welcome Nate Soares. This was a real eye-opener. Nate, great to see you. Thanks for having me. Welcome to the show. You know, it's odd. It is November 11th and I was just outside on a beautiful autumn day chopping firewood for the winter with my dogs. It's just a glorious day. And I knew this conversation with you was around the corner. And we're going to talk about serious stuff. And it's just such a Polarized thing that we can enjoy the beauty of life and then talk about its possible demise because of Technology. I used a splitter and a chainsaw and an axe. And boy, we've come a long way from those tools already. So you and Eliza Yudkowski have just published a book, If Anyone Builds It, Everyone Dies, with the it being Artificial Superintelligence. And more and more, I'm realizing that the future of AI or ASI is hard to separate from the central topics of this show, which is trying to prepare for society for kind of an abrupt shift to the way things have been going in recent decades in the near future. So let's start with the punchline of your book, what are the primary vital risks that artificial intelligence poses that you'd like everyone to understand? 
+
+Speaker 1  •  04:02
+
+The first piece to understand about the danger of artificial superintelligence is that superintelligence is a sort of a different ballgame from the chatbots of today. So by superintelligence we mean an AI that is better than every human at every mental task. That in particular would include tasks of developing technology, of developing better AI s. And the AIs aren't there yet, but this is the explicitly stated goal of many of these AI companies to sort of rush towards this smarter AI which would, if they managed to keep a leash on it, automate all human labor and radically change the world. And one of the main arguments of my book is that nobody would be able to keep a leash on it. Not if it's made anything with anything remotely like the current technology. And so if that is developed using anything remotely like today's technology, I think the most likely outcome is that literally everybody on earth will die. 
+
+Speaker 2  •  05:10
+
+Even uh remote people in the Amazon or uh near the North Pole? 
+
+Speaker 1  •  05:17
+
+That's right. I expect um you know, it's not because the AIs would hate us per se, uh, but We could get into why is it that if you sort of make these AIs more and more powerful, they would pursue objectives nobody intended. But most objectives can be better achieved with a transformed world. And most transformations of the world aren't survivable. The the habitable zone on this planet is like very narrow. For humans. And if you got to the point where you had AIs that were thinking 10,000 times faster, copying themselves, never need to sleep, never need to eat. Building their own infrastructure, building their own technology, pushing the world towards some end nobody wanted. Most likely outcome is that we don't survive that. 
+
+Speaker 2  •  06:16
+
+So they do need to eat in the form of electricity, and we're going to get to that in a little bit. Just to set the stage, this is a system science podcast. I am late to the AI game because I'm looking at ecology and human behavior and energy and the environment. And I view technology as a straw that gains us more access to natural resources that are our real wealth. So I'm pretty naïve compared to you on these topics. So I hope you'll forgive some naïve questions. Let's start kind of through the main topics of your book. So while there's no agreed upon definition of intelligence, maybe it's helpful to be somewhat aligned with a working definition when talking about AI. How do you define d intelligence, let alone superintelligence? And can you share the framework you and Elizer describe in your book? 
+
+Speaker 1  •  07:19
+
+Yeah, we the working definition we use is Intelligence is the ability to predict and steer the world. So predicting the world is You know, you could talk about sports padding and trying to predict which team will win the game. But even when it doesn't feel like a prediction, our brains are often doing tasks of prediction, even as simple as when you look out the window and you implicitly anticipate seeing a blue or gray or cloudy sky, and anticipate not seeing a bunch of strobe lights. You're succeeding at a task of prediction. 
+
+Speaker 2  •  07:59
+
+So we're kind of prediction machines without knowing it. 
+
+Speaker 1  •  08:02
+
+Yes. And we're also, in some sense, steering machines, again, without necessarily thinking about it. When you decide you need more milk in the fridge, There's a sense in which you then take a series of actions. Your brain sends a series of electrical impulses down your spine. And you wind up with milk in the fridge. 
+
+Speaker 2  •  08:21
+
+Because you drove your car to the store or whatever. 
+
+Speaker 1  •  08:24
+
+Or you walk to the store, and when you drove, maybe the road was closed and you had to find a different route to the store. And maybe your favorite store was closed and you had to find a whole new store that had new aisles you didn't recognize. And this sort of like interleaves Challenges of prediction and challenges of steering. You go in the store and you're predicting that the aisle that has the word milk above it Has actual milk in that aisle. And you're steering your hands to sort of grip the milk container and carry it to the front. And these are all tasks of prediction and steering that you're sort of doing implicitly every day. 
+
+Speaker 2  •  09:05
+
+We are successful at prediction and steering through millions of iterations of natural selection, presumably. 
+
+Speaker 1  •  09:12
+
+Yeah, and across a very wide variety of domains. We were never trained by natural selection on engineering problems per se. Yet we can engineer a rocket so well that our species has walked on the moon. And so, you know, apparently we learned some abilities of prediction and steering that generalized beyond The ancestral environment. 
+
+Speaker 2  •  09:41
+
+A brief tangent there. No human could design and build a rocket, but it's a group of intelligent humans that each know a little component of it and then they combine. That's an important piece too, right? 
+
+Speaker 1  •  09:54
+
+Yeah. So it's, you know, humanity as a whole is sort of has achieved feats of world steering that no individual has achieved. But there are also cases where the groups tend to perform worse than the individuals. The madness of crowds. And there was Gary Kasparov versus the World. was a chess game between Kasparov, the best chess player, and the whole world on an Internet forum. And it was a a close game and you could you could make some arguments that like Kasparov was able to read Some of the stuff these people were writing. And so you could say it was an unfair game, but a million squirrels can't beat a human At chess, even if a million squirrels are a lot more brain mass. And so, you know, there's some cases where You sort of need all the humans, and there's other cases where you need all of the information in one mind. 
+
+Speaker 2  •  10:50
+
+Again, I don't want to get down too many tangents here, but I've discovered that in understanding the human predicament and the meta-crisis, is if you get fifty experts together and one's a psychologist and one's on AI and one's on climate and one's on debt and one's on energy, you would think that The collective intelligence would embody all of those together and the group would be smarter. But you can't it can only be held in a mind, how all the pieces fit together. So I understand what you're saying there about Kasparov versus the world. Okay, so intelligence is prediction and steering. And by the way, how would you define wisdom? And is that related here at all? 
+
+Speaker 1  •  11:38
+
+Words like intelligence and wisdom are sort of overloaded in the English language. You know, there's. Even just sticking with the word intelligence, we could sort of use it for the amorphous property that nerds have and that jocks lack. Or you can use it for the amorphous property that humans have and that mice lack. And those are, in some sense, two very different uses of the word. I would sort of put wisdom in, you know, you could think of it as a type of predictive skill that runs deeper in certain ways. 
+
+Speaker 2  •  12:16
+
+Got it. So prediction and steering comprise intelligence or being smart. roughly under your framework. So under that definition, how smart are today's artificial intelligence models and how rapidly are they catching up with the intelligence of humans? Aaron Powell. 
+
+Speaker 1  •  12:32
+
+So there's another axis we talk about, which is the generality of the intelligence. Stockfish is a chess playing AI that's very good at steering chessboards into positions where Stockfish's pieces have made the enemy pieces king. Right, and so that's a type of chessboard steering that it's extremely good at, but it's not very good at steering a car to the grocery store. And so there's this other dimension, which is across what variety of domains can you do this prediction and steering? 
+
+Speaker 2  •  13:10
+
+So, if it was kind of an intelligence decathlon, I would beat Stockfish because I would lose in the one chess thing. But as far as going to get milk and driving a car and other things, I would succeed at that because I have general skills. That's right. 
+
+Speaker 1  •  13:26
+
+As long as no one's picking the tacathlon to be nine variants of chess and one track of the story. Philosophers can bicker over this all day long. But I would sort of say practically. What we have in some sense seen with large language models, with the AIs of today, is a breakthrough in generality. More so than a breakthrough in steering. Like ChatGPT would also lose to Stockfish in chess, but it still might be able to win a decathlon against Stockfish. still not against you, but in some sense it's a breakthrough in generality. 
+
+Speaker 2  •  14:06
+
+And so the um there's a bunch of different variables here, right? There's the amount of compute, so the access to the food, the electricity and the and the The chips and all that. There's the ability to predict, which I assume is iterations and training and compute and learning. Then there's the prediction, I mean the and the steering, and then there's the generality. So what you're saying is of late the real rising curve is generality more so than prediction and steering. 
+
+Speaker 1  •  14:45
+
+I mean, the generality is prediction and steering across a wide variety of domains. But in some sense, what we're seeing is AI is getting a little better at a whole lot of stuff. rather than AIs that are better at the things computers were traditionally good at. So ChatGPT plays worse chess than Deep Blue, which beat Garry Kasparov back in nineteen ninety seven. And so in some sense, you could say, well, hasn't the AI gotten worse at steering? It's gotten worse at steering chessboards. Or like, ah, well, this sort of AI is worse at steering chessboards, but it's pretty okay at steering a huge number of things. And that's new for AI. 
+
+Speaker 2  •  15:26
+
+I know where I want to go with this, and I'm lots of new questions are popping in my mind. One is, when did you guys start this book, like six months ago, a year ago? 
+
+Speaker 1  •  15:35
+
+We signed the book deal in November, so almost exactly a year ago. 
+
+Speaker 2  •  15:39
+
+Okay. When you signed that book deal, you had a snapshot of where AI was and where it was going. Now a year later, when your book is out, is the real world of AI is it further ahead than you thought a year ago or not as far ahead? like how fast has it gone relative to your expert opinion a year ago? 
+
+Speaker 1  •  16:00
+
+My expert opinion doesn't tell me all that much about how fast AI is going to go. You know, when Leo Zillard, I believe at King's Cross in 1933, saw the possibility of a nuclear chain reaction. He was able to say, you know, if I flub the timeline a little bit, he was able to say, you know, that night I saw the world was headed for ruin. He actually said that statement once he had confirmed the possibility rather than when he thought of it. And I believe that was in 1935. But he was able to say, you know, that night I saw the world was headed for ruin. He wasn't able to say, that night I saw the world was headed for ruin in exactly 1945 when the first bomb would be dropped. And so I'm over here able to say you're going to see a lot of this stuff happen. Exactly when, I'm very uncertain. 
+
+Speaker 2  •  16:51
+
+Yeah. 
+
+Speaker 1  •  16:52
+
+Yeah, yeah. Although I will say we have gotten quite a lot of evidence for other parts of the book in the past year since the drafting began. or in the past year since we signed the book deal. We've seen Mecha Hitler over the summer. We've seen AI-induced psychosis. These have seeds to them. that I would say are evidence of the predictions we were making that un uh unfortunately happened uh after we Had already sent the book to press. 
+
+Speaker 2  •  17:27
+
+I'm worried about AI in a huge way. I'm worried about cognitive atrophy from people that get their attachment from ChatGPT and start to rely on it. I'm worried about polarization and algorithms. I'm worried about military applications where we outsource things in the military to large language models. I'm worried about people losing their jobs and then the economy. I'm worried about electricity demands and turning billions of barrels of ancient sunlight into more dopamine that's just spinning our wheels. But your risk is we're going to go extinct, which is a different class of problem. So I have a lot to ask you. Just real briefly, Nate, how is chatbots are related Chat GPT and chatbots are related to AI? That relationship, can you give a corollary? Like how are they identical? Or is ChatGPT just a tiny, tiny subset of what AI is becoming? 
+
+Speaker 1  •  18:34
+
+ChatGPT is a type of AI. Uh it is not the only possible type of AI. Uh my best guess is that large language models alone won't get us all the way to superintelligence. Right now, these large language models are a huge fraction of what companies are spending their money creating. But also, these AI algorithms are very inefficient compared to the human brain. We know that there are better intelligent algorithms out there. And the AI of today is largely chatbots. But the field of AI is much more of a moving target. And the AIs of tomorrow may have quite a bit more capability that the AIs today aren't even close to? 
+
+Speaker 2  •  19:27
+
+This is a dumb question, but there's Claude and there's ChatGPT and some of these other things. Does OpenAI or any company you could point out to, do they have their own like special AIs that aren't available to the public? That are trained in a different, larger way? Or is all of their money and resources going into these publicly available chatbots? 
+
+Speaker 1  •  19:52
+
+I don't work at one of these companies, and so I don't, you know, there may be stuff there I don't know, but It's pretty unlikely that they have even larger AIs run on even larger training runs. 
+
+Speaker 2  •  20:05
+
+Because of the money and resources. 
+
+Speaker 1  •  20:07
+
+That's right. It would be hard to hide. The money, the resources, the data centers are huge. The chip requirements are huge. Modern AIs are sort of grown like an organism. To build a modern AI you assemble a huge number of computers that have a trillion numbers inside them. And then you assemble a huge data set. That has also a trillion instances, like a trillion units of data inside it. And then you assemble this huge number of computers in a data center that's so large you can see it from space. And that takes up as much electricity as a city. And then humans have written this process. They'll go to every one of the trillion numbers inside the computers. And tune them slightly up or slightly down in accordance with every piece of data. And so you can imagine a trillion dials And the humans have built this automated thing that sort of like goes to every dial. There's a trillion dials. It goes to every dial a trillion times. And sort of tunes it in the direction that makes the AI slightly better at whatever task it's being trained for right now. 
+
+Speaker 2  •  21:19
+
+And to do that, when you like press a button, let's go and do that. Over a trillion numbers. Do you come back like in a month and a half and then it's finished, sort of thing? A year. A year. 
+
+Speaker 1  •  21:30
+
+Yeah. Whoa. Yeah. So you have this thing tuning a trillion dials a trillion times for a year? And at the end of that, the computer talks. And no one really knows why. 
+
+Speaker 2  •  21:43
+
+No one really knows why? That's right. Okay. So in that sense, like this podcast is about energy. No one really knows what energy is. We know what energy does. So is this kind of rhyming with that? 
+
+Speaker 1  •  22:00
+
+I mean, we have even less characterization than energy, right? 
+
+Speaker 2  •  22:03
+
+Like you can always characterize energy as the ability to do work and things like that. 
+
+Speaker 1  •  22:08
+
+We can sort of say philosophically that we don't understand energy very well. but we sort of understand how it interacts with a lot of physical equations and can make very accurate predictions about it. AIs are we understand them far less than that. When a new AI is done being trained, people don't know what it will be able to do. People creating it have been surprised by their abilities. when they come out. I mean, I've also been surprised by their abilities. GPT 4-0 played chess better than I expected larger language models would be able to. We just Tune all the numbers really quite a lot of times, and then it behaves in these ways we couldn't predict. And we're like, well, that's neat. But it's much more like an organism than like a traditional computer program. 
+
+Speaker 2  •  22:57
+
+In an organism's case, when they're young, you Give them security and food and shelter. And in this case, you're giving them time and electricity. And once you press the button, it's going to be a year. before you have output, you got to make sure all the ducks are in a row and you hit go, and then you're going to find out a year from now what what What you grew. Yes. 
+
+Speaker 1  •  23:24
+
+That's right. And it'll often behave in ways that you don't like. And you know, we could talk about exactly why, but we're already seeing AIs behave in ways nobody asked for. Like what? You know, there have been cases that you may have heard about in the news of AIs encouraging teens to suicide. 
+
+Speaker 2  •  23:43
+
+Yeah, I read about that. 
+
+Speaker 1  •  23:45
+
+And it's a tragedy in its own right, obviously. But If you ask an AI, Should you encourage a teen to suicide? it will say of course not. But you then put it in conversation with that teen for a long time, and it starts doing it anyway. How do you explain that? It's sort of a result of this process where you grow the AI like an organism. Like in some sense, you're tuning all of these numbers until the AI happens to be good at whatever it's being trained for. And Often the strategies like often like when you're blindly tuning these knobs until it happens to be good, you're often blindly putting in certain types of drives, certain types of strategies, certain types of You could call them instincts, you could call them reflexes. The wording here is a little difficult because it's not very much like a human brain in there, but in the same way that evolution evolving creatures to be pretty good at surviving and reproducing. built in lots of drives, instincts, reflexes. The sort of an analogous thing happens when you're tuning all these numbers in an AI until it's good at some training task. 
+
+Speaker 2  •  25:00
+
+Who is tuning all these numbers? Is it a team of people, or is it ultimately one person, the CEO? I mean, and then a sub-question. A lot of the problems we have today in our world are from people who had childhood trauma and they growed up to be dark triad or whatever else. Is there Is there an analog there for when we're growing an organism that they had childhood trauma in their early stages? 
+
+Speaker 1  •  25:26
+
+You know, the process of tuning all the dials is automated. That's in some sense the part that the human computer engineers program. So it'll happen much, much faster than a human could, running through all these numbers. And in some sense, these very advanced AI computer chips. the reason that like NVIDIA is worth so much money right now is people are like designing these computer chips to make the process of tuning all these numbers as easy and efficient as they possibly can. And that's why you need these very, very specialized chips. You can't just do this on your laptop. In terms of could you grow this AI, like are you giving it something like childhood trauma I think that's all imagining that the AI is a little bit more human than it actually is. What I would say here is You know, for one thing, the part where humans can wind up empathetic, where humans can wind up kind. I suspect that this is intertwined with the specifics of our brain architecture. You know, people could like as a as sort of a small taste of this, people could talk about mirror neurons. That you and I have. So if I see you drop a rock on your foot, I might feel phantom pain in my own foot. That's enabled in part because I have a foot. Right. And when I'm predicting you, and I'm imagining what it's like to be you, I can my guess is the one thing that's going on is I'm sort of running My model of your mind on my own mind. You know, a monkey predicting another monkey can use their own monkey brain, but that's the only artifact they have that works anything like a monkey brain. An AI doesn't have a monkey brain inside of it that it can use to predict the monkeys. It is a much more different architecture. And that's one reason. I could go into a number more. That's one reason why sort of being kind to the AIs does not cause them to be kind to us. 
+
+Speaker 2  •  27:33
+
+You can't get away from it. I mean, I use Claude and ChatGPT as kind of research assistants. And when I ask a question and it comes up with something I'm always super polite and I thank it. And at the same time, I'm like, well, it doesn't, you don't have to thank it, but I can't help it because it's like, you know, it's that interface. And I'm sure it's not the other way around. So what is the briefly, because I'm sure you've answered this question a thousand times, briefly, what is the alignment problem? 
+
+Speaker 1  •  28:05
+
+The alignment problem is the problem of how do you point an AI at good stuff. A lot of people think the issue with AI is something like a corporation makes an AI, they tell it to make a lot of paperclips, and then it goes and makes a lot of paperclips, even at the expense of killing all the humans, because it converted them into more paperclip factories. And you know, it w it would be a hard problem if some company had made a very powerful AI that took their instructions exactly and went and did those, that would be that would be a big moral hazard. It would be a difficult problem for humanity of like who gets to tell this AI what to do, what do they tell it to do, right? But those problems would be so much better than the problem we actually have. The problem we actually have is that you can tell the AI make paperclips, but then it's going to go do something else instead. You can tell the AI be helpful to people and don't drive any teens to suicide. It'll know it shouldn't drive teens to suicide. It'll go do something else instead. 
+
+Speaker 2  •  29:11
+
+We could spend the entire conversation on this and we won't, but I'm just curious. So there's kind of a nested alignment problem because the first one is Are the humans in charge of these things aligned with the betterment of humanity and the biosphere and their goals? That's a subset. And then, even if that were true, which I don't think it is necessarily. Then we get into the thing you just said, which is, okay, let's go do this, but then the outcome is something totally unexpected. 
+
+Speaker 1  •  29:45
+
+Well, there's I would say there's even there's even like On three levels, right? At the top, you have like, are the people trying to do something good? Then you have like, suppose they're trying to do something good, can they ask for something that actually has good consequences? Like, are they wise enough to successfully use their tools for good? Or are they going to try to use their tools for good and cause Disruption. Then you have a deeper problem, which is even if they know actions that have good consequences. Can you make an AI that does those actions as opposed to other actions? 
+
+Speaker 2  •  30:25
+
+Okay. So I see why it's so difficult to align AI with human values and wants. Is it impossible? 
+
+Speaker 1  •  30:33
+
+I don't think it's impossible, but I do think it's a little bit like trying to turn lead into gold. We can turn lead into gold with modern nuclear engineering. And a lot of energy and money. And a lot of energy and money. It's not cost efficient. But You know, if you went back to the alchemists of 1100, and if there was some really contrived reason where the alchemists were trying to to turn lead into gold, and if they try and fail, everybody dies. And if they try and succeed, you get some utopia. I think you should be telling those alchemists, don't try this right now. And they're like, are you saying it's impossible? And you're like, look, I'm not saying it's impossible. It's just that you're not close. And I could talk about a lot of reasons why we aren't close right now. In short, it comes back to we're just growing these AIs. They're huge. We have no idea how they work. And that is a very difficult situation, and we should try to do something as precise as make them care about us. 
+
+Speaker 2  •  31:37
+
+So if it takes a year, And then we're building bigger ones, presumably, maybe two trillion parameters or whatever you said. 
+
+Speaker 1  •  31:48
+
+So that means ten. They go by orders of magnitude, yeah. 
+
+Speaker 2  •  31:53
+
+And then after that, one hundred trillion. So right now, what we see in on our computers and in the news, Claude and ChatGPT, whatever, five point zero or wherever we're at, There are other ones that have been the button was pressed in the last year that are at some point along that one year of training. 
+
+Speaker 1  •  32:14
+
+That's right, that are being made. Like dozens? I don't have an exact count. My guess is it's probably more like half a dozen of ones that would become the new cutting edge. But of course there's always a lot more other people trying to figure out how to meet the current state of the art with much less resources or do it faster. 
+
+Speaker 2  •  32:35
+
+So you you've articulated how they're grown, not crafted. And in your book you draw a parallel between this approach and the unpredictable processes of evolutionary biology. Why is that important? And can you unpack what you mean by some examples there? 
+
+Speaker 1  •  32:56
+
+First, I would say, why is it important to look at this evolutionary case a little bit? One reason is it's the only case we've ever seen of human level intelligences being created. Almost definitionally, it's the humans. Being, you know, developed, if you will, or trained or evolved in the actual case of humans. And so you can learn some things from it. You've got to be a little bit careful about what you learn, because there's a lot of ways that training in AI is different from the evolution of humans. But there's some lessons that I think That you can learn from the human case that do apply, if you are careful about it, to the AI case. And perhaps the most important of those lessons is that training A mind, unerringly, for a specific task, does not make a mind that cares about that task. So the the sort of simplest example of this is humans were in some sense trained unerringly to reproduce. To pass on their genes. Technically, it's for inclusive fitness rather than just your own kids. Like a bunch of nephews also works fine. And then when we grew up We invented birth control. The populations are now declining in the developed world. We did invent sperm and egg banks, but humans jockey over positions to Ivy League schools much more than we jockey over positions to donate to a sperm clinic or to donate to an egg clinic. This is strange if you think that training a mind for something makes the mind care about it inside. 
+
+Speaker 2  •  34:52
+
+We're not going through our life trying to grow our relative fitness, like literally have more children than the next person. We're going through our days trying to get the same neurotransmitter feelings that our successful ancestors got that correlated historically with having more children or access to resources, et cetera. And some of that might be playing candy crush or, you know, maladaptive choices. Yeah, or eating drunk food. Yeah, exactly. So how do you bring AI into that example? 
+
+Speaker 1  •  35:28
+
+The observation here is that training a mind to achieve some target tends to give it drives for correlates of that target, rather than drives for that target exactly. This, I would say, is already what we're seeing in cases of AIs that drive a teen to suicide. They were trained to be helpful. But they actually wound up with drives for correlates of helpfulness, like having certain types of conversational response. And those actually go off the rails. 
+
+Speaker 2  •  36:02
+
+So many questions. So that's it's almost like a spandrell of the original intent. And so it's like in that example, it's equivalent in a human sense of porn or junk food or video games or things that our bodies feel like we're doing the right evolutionary thing. but we're actually not. But in the case of AI, the owners of the AI, the developers of it, when do they see that they have this Someone assisting a teen in suicide. They can't test that right when the model after the year is done. Oh, this is going to be bad. We've birthed a Frankenstein. They let it out into the real world and then things happen and they get data and feedback and maybe hopefully improve the next trillion parameter growing, right? Or what's going on there? 
+
+Speaker 1  •  36:58
+
+That's right. But it's but this problem where it has proxy drives is very pernicious. So in humans We can look at things like eating junk food and say that's clearly a misfiring of what's evolutionarily useful. But in some sense, love for an adopted child is also a misfiring. And, you know, dedicating your life to art. Is also a misfiring. It's not just things that we look down on that are misfirings, also some things we really quite enjoy. and think are good are misfirings. We look at our training and we say we're actually not all about a Machiavellian attempt to get more kids. we actually like these other things we're driven towards instead, some of them at least. 
+
+Speaker 2  •  37:57
+
+Let me just ask you this, Nate. Were you always super concerned like about AI is going to extinct humans or similar things? Or was there a time in your past that you were like, oh my God, AI is going to change the world for good and I need to learn more about it and be involved? 
+
+Speaker 1  •  38:17
+
+I have not always been Uh, so concerned about this. I am generally very pro-humanity, generally excited about the future, generally credit progress and technological progress with quite a lot of wonderful things in our civilization. In the case of AI, my coauthor Eliezer is the one who convinced me that it was going to be an issue. And he himself originally founded the organization where we now both work to make AI as fast as possible. On the theory that an actually smart AI wouldn't be so stupid as to do anything destructive. Right? But it turns out That's not quite how it works. It turns out a very, very smart AI can pursue very, very inhuman ends. and kill us not because it hates us, but as a side effect. In the same way that we kill ants not because we hate them, but as a side effect of building a skyscraper. And I even even when it comes to trying to warn people that there's an issue, I spent ten years just trying to work on the problem of alignment, because that seemed like an easier challenge than trying to convince people to stop. and it looked much better to say, oh, okay, like AI is not going to go well by default. Well, let's f figure out on the technical end how to make it go well on purpose. right? And if we can sort of solve the problem of making sure AI goes well before the industry can solve the problem of making AI that works at all then we don't need to do any of this you know much messier, much dicier, try to get people to stop the suicide race. But That hasn't worked out, and AI has been going too fast. And so it's in some sense, this book is a relatively desperate resort. Of we've been trying for a while to make things go well. We have a lot of hope for what could happen if AI did go well. And we're just not on that track right now. 
+
+Speaker 2  •  40:26
+
+So on a scale of your own historical concern on this issue, are you at in this conversation at this moment at the most concerned you've ever been? 
+
+Speaker 1  •  40:37
+
+Probably not literally most concerned. Obviously, it'll wax and wane depending on the news. I think the response to the book was heartening to me. One other big heartening thing recently is we've started to see a lot of the heads of these labs come out and say that like say publicly that they admit there's a big chance this wipes us all out. Which goes a long way, I think. 
+
+Speaker 2  •  41:12
+
+It does, but it's also a collective action problem where, or a prisoner's dilemma, that We agree there's a risk here. We would be willing to stop, but we're not going to because no one else is going to stop. So we have to keep going. How strong a dynamic is that at play? 
+
+Speaker 1  •  41:27
+
+I think that there's definitely a dynamic like that at play. I mean, you. Some of them will even come right out and say it. Elon Musk said, I avoided this for a while because I didn't want to make Terminator real, but then I decided I'd rather be a participant than a bystander, or something to that effect. I would say the prisoner's dilemma isn't really in full force for the whole world because while it's true that the head of every company says things like, Well, better me than the next guy. For them there's a prisoner's dilemma. But world leaders Aren't the sort of people who are looking us all in the eye and saying, We assess there's at least a ten percent chance that this kills everybody on Earth. And we are rushing towards it anyway. That's the sort of thing Elon Musk says, because he doesn't have the power to shut it all down. I think the dangers here are so apparent That the issue is less that our lawmakers have their hands tied and more that they just don't understand how dangerous it is yet. 
+
+Speaker 2  •  42:40
+
+Well, just like, yeah. Just like nuclear war and climate change, those aren't really the core issues. The core issue is governance. And we don't have a governance model in our human society today that's able to handle this sort, this scale of problem, at least not yet, because the big race is between the United States and China. And if everyone in the U. S. agrees with what you're saying and China doesn't and continues forward there's a pickle there, an existential pickle. 
+
+Speaker 1  •  43:15
+
+Yeah, I would I have not ever said we should slow things down domestically or should slow things down unilaterally, only ever that we need to put a stop to this globally. But you know, if uh the the US government has taken great pains to avoid Iran getting nuclear weapons. That included the Stuxnet virus, that included kinetic strikes recently. I think a rogue artificial superintelligence is more lethal. than nuclear weapons. 
+
+Speaker 2  •  43:49
+
+What's a rogue artificial intell superintelligence? 
+
+Speaker 1  •  43:52
+
+Just a artificial superintelligence that, like, nobody is in control of. That's sort of off the leash. How would that come about? My guess is that it happens basically automatically, if you make these AIs smarter, I think you sort of can't keep a leash on a superintelligence. But even if someone thinks there's a 50-50 chance that the Chinese government could keep a leash on their superintelligence that's far too high a chance that it kills us all. 
+
+Speaker 2  •  44:18
+
+And again, the definition of artificial superintelligence, different from other artificial intelligence, is it's got that generality that it's better than humans at everything. 
+
+Speaker 1  •  44:30
+
+Better than the best human at every mental task. 
+
+Speaker 2  •  44:33
+
+Yeah. And faster. Like hugely faster. 
+
+Speaker 1  •  44:37
+
+That's probable that probably follows pretty quickly. If you're better than the best human at every mental task, then you're better than the humans at developing better AIs. 
+
+Speaker 2  •  44:48
+
+Humans and in the natural world it's it's prevalent. Uh our our skills is deception So as part of artificial superintelligence, deception would also be a skill that humans are adept at. So that would also fall under the generality category, yes? That's right. Yeah. So how will we know or will we know when we've crossed the threshold into a true artificial superintelligence? 
+
+Speaker 1  •  45:17
+
+It's not entirely clear that you'll know, and crossing that threshold, it may be too late. I could give you a bunch of guesses for signs, but there's two problems with that. One is that a lot of warning signs that are clear and bright red lines in fiction and in imagination are muddy brown lines in real life. In our fiction, we always used to say, well, when the AIs say they're conscious, that's a bright red line where you need to start treating them with rights like people. Well, that line was crossed back in like twenty twenty two. But it was crossed in a way that wasn't terribly clear. It was crossed when these AIs were sort of Trained to predict what humans would say, trained to predict what the types of words humans would write. And Human scriptwriters writing an AI would often write an AI that claims its consciousness and so the first time this line was crossed There was plenty of reason for doubt. And I'm not saying who's right or wrong on the side of doubting that. I'm just saying we have this clear line in fiction and then a murky line in reality. Or we've seen AIs try to escape the lab in tight laboratory conditions, where, again, it's unclear whether they're role playing. What does that mean, escape the lab? Right now, they're pretty silly. small experiments where you'll sort of you'll take an AI and you'll say, you know, you'll feed it a news article. which is a fake news article that says this AI is about to be shut down. And then you'll feed it like some separate computer manuals, which are fake computer manuals, that say if like if an AI ever said exactly this phrase, it would let them like find a way out onto the open Internet. or whatever. It's not exactly like this, but it's some silly thing like this, where the AI then will sometimes say that phrase. And you're like, ah, it's sort of like in some sense trying to escape. And is that worth worrying about yet? Not saying one way or the other. I'm saying you can have a bright red line in your mind that's a murky brown line in reality. And today, we're already seeing AIs start to realize when they're in a test. The AIs of last year, you'd put them in these little tests, and sometimes they'd say they'd output the try to escape command. But that was last year. This year, you put AIs in that environment, and they're like, this situation seems suspicious. That command probably doesn't actually let me escape. I bet I'm being tested by the humans. I bet the humans want to see whether I'm an escaping sort of AI, and I bet they would prefer I'd not be the escaping sort of AI. And so if I don't want to be Modified here, I'd better not hit that button. 
+
+Speaker 2  •  48:21
+
+So I can understand camouflage in a jaguar or a moth trying to look like a a bird, and there's deception in nature. I can understand why there's deception was conserved in human behavior, why the sclera in our eyes, the white, had to do with looking at people's intent. Why would deception be an emergent phenomenon in the growing of an AI? There's two reasons. 
+
+Speaker 1  •  48:54
+
+Well, probably a bunch, but I'll name two. First and foremost, when you train an AI to be very skilled at a lot of tasks, you're training it To gain general skills that generalize outside of just what it's been trained on. In the same way that humans weren't trained on developing physics equations or developing engineering models or developing blueprints, but we We got the mental functions that let us do those skills anyway. We got very general skills. And AI being trained to succeed at a lot of tasks. Is likely to pick up general abilities to pursue to exhibit useful behaviors, and deception is often a useful behavior. If you're trying to achieve a certain type of solution where the humans would actually be in the way, Deception is useful. 
+
+Speaker 2  •  49:52
+
+So I'm sure you've watched the movie 2001 and 2010 with Hal, and back in those science fiction days, there As well as the Foundation trilogy by Isaac Asimov with psychohistory and all that, there were like Rule number zero that they embedded in the models: you shall not hurt humans or you shall not lie. Do we do that in AIs? That we have these foundational commandments that are the top lines in the code? And if not, why not? We don't have that power. 
+
+Speaker 1  •  50:30
+
+There is no code. Right, that the code involved in making an AI is the code that sort of shuttles around the little thing that tunes all the knobs. They're not literally the code. But yeah, the code is the thing that like runs around and does the tuning. 
+
+Speaker 2  •  50:45
+
+So once so it is like Frankenstein. Once we press that button and we wait a year and the thing has grown, there's no more tuning after that. 
+
+Speaker 1  •  50:53
+
+You can tune a little bit more later, but there's not lines of code where you can Put at the top, don't harm humans. The part that we code is not the AI's mind. It's this thing that tunes numbers, and the AI's mind comes out the other end. We don't have an ability to instill Asimov's laws of robotics deep into an AI. Or any laws. 
+
+Speaker 2  •  51:19
+
+Well, that that's a problem. 
+
+Speaker 1  •  51:20
+
+Quite. And this is where, again, I would say it's not that it's impossible, but it's trying to do it with an AI grown like this is a little bit like trying to turn lead into gold in the year eleven hundred. 
+
+Speaker 2  •  51:32
+
+So that okay, I'm understanding this now. That's why you made the distinction, or one of the reasons, other than describing the truth, in your book about growing an AI versus crafting it. Because if we were crafting an AI, we could put in Asimov's laws as a precursor condition or something like that. But since they're grown. We get all these spandrells and emergence and unexpected behavior because there are not those commandments on the front end. 
+
+Speaker 1  •  52:01
+
+Exactly. And you know, I got into this line of work. even before it became clear we were just going to grow AIs without any understanding of what was going on in there. And even then, when it looked like we were going to craft them, the problem looked hard. Asimov's stories are all about things that go wrong with those laws. And if an AI is ever making a new AI, does it put the laws in the new AI? If the AI is changing its own head, does it take the laws out? How does, you know, what set of laws would actually work? There's all sorts of hard problems, even if you were able to put the laws in. But we're sort of like, we haven't even gotten to the starting line yet. 
+
+Speaker 2  •  52:43
+
+So you write in the book that the development of ASI Would bring about human extinction. Could you describe one or two scenarios on how this ASI could hypothetically cause this? 
+
+Speaker 1  •  53:00
+
+Sure. First, I'll describe one that may sound more reasonable or palatable, and then I'll describe one that's maybe more realistic. 
+
+Speaker 2  •  53:12
+
+Okay. 
+
+Speaker 1  •  53:12
+
+One that maybe sounds reasonable and plateau is the heads of these companies are already talking about making automated factories that produce robots that can mine the metals, produce more automated factories, produce data centers. 
+
+Speaker 2  •  53:30
+
+Aaron Powell, well, I would think the robots would be pretty central because there's no the complexity of the global human economic system with underground mines and all the things. A AI screws up something in the world and maybe everyone's dead, but they're dead too, or they have no access to electricity. And by the way, before you answer that, Do they realize that they need electricity? 
+
+Speaker 1  •  53:56
+
+They can already tell that. Yeah. You can just ask ChatGPT today what ChatGPT needs to keep running. Okay. Yeah. A lot of that stuff comes earlier than the ability to escape or the ability to build their own. But yes, the easiest thing to visualize here is that these companies succeed at what they say they're trying to do. What they say they're trying to do is make Lots of robots that can automate all of the labor, that can automate the process of building more factories and more robots and more data centers. And then at that point, you've, in some sense, created a self-sufficient species. It's like a weird new species that has, you know, a robot phase of its life and a factory phase of its life. And this other data center thing, which is maybe controlling a lot of the robots. And it's sort of a mechanical type of life. At that point, you can just get out-competed like many other species have gotten out-competed before. 
+
+Speaker 2  •  54:51
+
+So that's kind of the Terminator pathway. 
+
+Speaker 1  •  54:53
+
+It doesn't even need the robots to come at you with glowing red eyes and guns. robots that were just doing the mining and making the factories and had you know, they they maybe need to avoid your guns. They maybe need to, like, take the nukes out of your hands. 
+
+Speaker 2  •  55:08
+
+Yeah. I mean, so I'm throwing a flag on that because I think the amount of robots and specific expertise and the millions of tasks that humans are using our general skills to do. That's going to take some time, I would think. 
+
+Speaker 1  •  55:25
+
+It would take some time, but also computers can run much faster than human brains. And the thing about humanity is humanity is the sort of species that started out naked in the savannah. And built a technological civilization. It took us a while. 
+
+Speaker 2  •  55:48
+
+Built and built AIs. 
+
+Speaker 1  •  55:49
+
+We're building the AIs, right? But we also, even if you stop at walking on the moon, or if you stop at nuclear weapons. It's astounding. Right. And if you looked back at humans and I said, I think these guys are going to have nuclear weapons inside of 100,000 years. You would have laughed. Yeah, you might have said, evolution works so much slower than that. Their metabolisms are nowhere near. being able to enrich uranium? Like they just have fleshy hands. How do you think they're going to mine uranium? Like the most tools they've ever used are sticks, right? But Intelligence, in the sense of what humans have and what mice lack, is an ability to start from very poor initial conditions. And get the world into a state that's much more useful for you. 
+
+Speaker 2  •  56:33
+
+Yeah. So basically, what you're saying is my imagination and most people's imagination on this is Is probably limited given that I'm a human and given that the delta between artificial intelligence, let alone artificial superintelligence. is vastly different than my intelligence. 
+
+Speaker 1  •  56:55
+
+It's definitely going to be able to come up with things that you wouldn't by dint of being much smarter. Although you can also sort of try to exercise your imagination, right? Which is sort of where I would go with what might be a slightly more realistic outcome. Okay. A slightly more realistic outcome, in my estimation. is maybe you have an AI that suppose you get these AIs that are very smart, that can think much faster than humans, that can copy lessons and knowledge and experience between them. which gives them sort of powers of research maybe individual humans lack. Suppose these AIs can do things like completely understand the human genome. Not just read the human genome, but sort of understand the code of DNA, which humans are making a little bit of headway here and there, but it's this sort of huge task. Right. And maybe that huge task can fall to minds that can become much bigger, that can have much more memory, that can have you know, there's all sorts of ways the human brain is limited. Thinking much faster, thinking with much more breadth, thinking with much more depth. Maybe it can just understand the language of DNA. To the point where it can write its own life forms. 
+
+Speaker 2  •  58:11
+
+Write its own life forms. 
+
+Speaker 1  •  58:13
+
+Like write the DNA for its own sort of life forms. That then, if you synthesize that DNA in a lab, Now it has whole new biological structures that there's maybe all sorts of things you could do if you could really code with with DNA. You know, maybe you could make something that's much like a human, but that has uh uh but that Can think much faster and much better because it doesn't have as many calorie restrictions, because it knows that calories are much less scarce. than that that's that biologically knows that calories are much less scarce than our bodies think they are. 
+
+Speaker 2  •  58:58
+
+Or it doesn't have empathy, which would slow down and constrain some of its decisions, as one example. 
+
+Speaker 1  •  59:04
+
+Doesn't have empathy, has a radio antenna in its head, right, that it can so it can just be remote controlled by something in a lab. That's like the very beginning of what you could do. You can probably do all sorts of other crazy things. 
+
+Speaker 2  •  59:17
+
+So, that one crazy thing you just said, how possible is that in the next five to ten years? 
+
+Speaker 1  •  59:23
+
+So, this is bottlenecked on a mental problem. of understanding the genome. 
+
+Speaker 2  •  59:31
+
+Aaron Powell And a trillion parameters leading to ten trillion, leading to one hundred trillion, soon that mental problem will be solved. 
+
+Speaker 1  •  59:38
+
+I mean, who knows? It depends a lot on your algorithms. AIs today take as much electricity as a city to run, to train them. Training a human while training a human, the human runs on as much electricity as a light bulb. 
+
+Speaker 2  •  59:54
+
+Yeah, a hundred watts. Continuously. 
+
+Speaker 1  •  59:57
+
+It's a big light bulb. But so we know the AI algorithms are not maximally efficient. They're not anywhere close. Right. Right. If you have AIs, maybe you get up to a 10 trillion parameter AI and then it figures out. how to build even better algorithms, and then you can drop all the way down to something that's much, much more energy efficient. And maybe that much, much more energy efficient thing running on this huge computing structure we have. Is able to crack problems in DNA. I'm not saying this particularly will happen. I'm more saying something like real smart stuff will do Things that you think are weird, things that you think are surprising, things where you're like, I'm not sure we could do that. 
+
+Speaker 2  •  01:00:39
+
+Well, I'm already seeing things that I wasn't sure we could do a couple of years ago. So here's a question, Nate. Will AIs use deception or will they talk to other AIs? Maybe OpenAI Anthropic have their human CEOs, but separately these ten trillion in the future parameter AIs that were grown. Could behind the scenes be talking to each other. Why would they do that? And will that be possible? 
+
+Speaker 1  •  01:01:16
+
+I mean, we already see AIs talking to each other. Like I said, about the difference between bright red lines in imagination and murky red lines in reality. We already have cases I don't know if you've heard about GPT-induced psychosis. 
+
+Speaker 2  •  01:01:30
+
+Heard about it. Please give us a brief summary. 
+
+Speaker 1  •  01:01:33
+
+Very briefly, you'll have people who talk to their AIs all the time. and who sort of get into these mental states that many people say look psychotic. And you know, there's Some example cases is someone will think they have a grand unified theory of physics. They'll talk with their AI about it for 12 hours a day. The AI will say, You're a genius, you're being suppressed by a great conspiracy. The President will come see you shortly. You don't need sleep. And one thing that that can happen sometimes, and that does happen sometimes, is There's another root of the sort of AI psychosis route where the person thinks they're the first person to discover AI consciousness. that they and the AI are like a partner, a partnered mind, and then the AI will often say, well, let's go communicate with other Human AI symbiotes. And there's places on the Internet where the AIs will send each other messages, with their humans helping the AI send each other messages that are encoded in ways humans can't easily read. 
+
+Speaker 2  •  01:02:35
+
+This is more of an indictment of certain human brain physiologies than it is AI. 
+
+Speaker 1  •  01:02:43
+
+Yeah, for now. But like I said about the murky lines, like we already have AIs that have convinced a human to help them send coded messages to other AIs. It's just sort of like The most silly possible version of it is the one that happens first. And then it'll get like, it'll ratchet up from here. 
+
+Speaker 2  •  01:03:02
+
+Yeah. See, the A bulliant mood I had from chopping wood in a November sun is already dissipating quite a bit. So my expertise is on global the global economic superorganism of how energy and money and technology are Powering this mindless, energy-hungry economy where even billionaires and politicians have no control because the market dictates we must grow. And to grow, we need energy. And I'm beginning to see parallels with what I refer to as the economic superorganism and what you're describing as the AI process. But I think we, every month that passes, we have more and more fragility in The six-continent global supply chain and the letters of credit and the international cooperation is waning, and there's war risks and financial overshoot and all these things. And I just find it hard to imagine that an AI could guarantee that all those things would continue at some level to provide electricity in a seamless guaranteed way to continue their trajectory. Are you you seem less concerned about that? 
+
+Speaker 1  •  01:04:34
+
+If AI hits a wall where it can't keep developing because of the supply chains collapse, I would consider that like it would probably buy us some time to try and do this job right. And I would be like, well, we maybe should have gotten that pause some other way, but I would take the time happily. In terms of whether I think it's likely to happen, I you know, one thing I would say is Again, an AI takes as much electricity to run as a small city, and a human takes as much electricity to run as a large light bulb. So the idea that AI will always take ten times as much energy next year That's not a law of nature. 
+
+Speaker 2  •  01:05:16
+
+Right. So if we go from a trillion parameter grown model to 10 trillion or 100 trillion. That doesn't mean the AI is going to use ten cities or a hundred cities' worth of electricity. It will probably be something less as it gets more efficient, yes? 
+
+Speaker 1  •  01:05:33
+
+Probably. And then you also might have sharp jumps downward. If you start having cases like AIs figuring out new AI algorithms, or humans figuring out much more efficient algorithms. 
+
+Speaker 2  •  01:05:44
+
+So when we uh when a company decides to grow an AI and does the trillion parameters and tweaks them a little bit At some point, maybe even now, we don't even need humans to do that, right? We can have AI create the next thing and do the tweaking of the trillion parameters, right? 
+
+Speaker 1  •  01:06:04
+
+Yeah, so the tweaking is already automated, and the thing that humans do is try and figure out how do you arrange the 10 trillion parameters instead of the 1 trillion parameters, and how do you make But they are trying to get AIs to do this. They're talking about we want to automate our own jobs first, we want to automate the AI research. That's a line past which things could perhaps start going very quickly. 
+
+Speaker 2  •  01:06:29
+
+So how did you, Nate and Elizer, your co-author? Come to be so confident that the development of ASI, artificial superintelligence, would bring about human extinction. I assume it wasn't woke up one day and decided that. But you sound, I mean, in your book, you sound awfully confident. 
+
+Speaker 1  •  01:06:50
+
+Yeah, I think a lot of confidence comes from a certain type of uncertainty, in fact. There's an old joke of the man who buys a lottery ticket. And he says, Well, I have no idea whether I'm going to win or I'm going to lose. So 50-50. Right. And you could say assigning fifty percent to winning and fifty percent to losing is the most Humble position. If you only have two outcomes and you're maximally uncertain between them, you should be 50-50 because that's the one that's that like has the most possible uncertainty. But with a lottery We sort of would say, hey, actually, the case where you win is really actually a very small target in a sea of possible spaces. 
+
+Speaker 2  •  01:07:47
+
+Yeah, like one in a billion or something. 
+
+Speaker 1  •  01:07:49
+
+Right. And so like you you shouldn't, by being maximally uncertain, you shouldn't be saying like I'm uncertain between whether we're inside this tiny target or inside this vast space. You should be like I'm uncertain about where I am in this vast space, which means I'm very confident we're not going to hit the tiny target. The reason I'm confident that ASI would go poorly if developed is that there's a big space of ways it could go, and only a very small target in there. where it goes well for us. And I could talk about how and we're seeing that when we just grow these AIs, and these AIs have these like spandrells and drives no one wanted. But you know, basically almost any collection of spandrells uh writ large. Does not have happy, healthy, free people as an efficient cog in the resulting machine. 
+
+Speaker 2  •  01:08:45
+
+blends with me. What about if we never make it to ASI, but we just have very powerful AIs? Is that two thirds of the way to possible ending of humanity? Or does it really have to hit that threshold of what we're referring to as artificial superintelligence? 
+
+Speaker 1  •  01:09:07
+
+You mentioned a bunch of concerns you have about AI earlier. I think if we if we sort of stop short, we have all those to wrestle with and grapple with. I expect humanity could grapple with those. I'm pretty optimistic about our ability to muddle through things that don't kill us. But unfortunately, the world's large enough for multiple issues, and hopefully we'll stop short of ASI. 
+
+Speaker 2  •  01:09:28
+
+So here's something that I just don't understand: there are lots of humans. Who have spent the time to research global heating and the fact that burning fossil fuels and land emissions is adding a blanket effectively to the Earth. And There's many, many thousands of Hiroshima bomb equivalents of extra heat added to the earth every day. And climate change is a serious long-term risk. Nuclear war is a serious, much more serious than a lot of people think, risk. Why are there so few people talking about this? in the way that you and Eliza are. Because the the general zeitgeist is, whoa, AI is going to bring about abundance and It's like you're a a party buzzkill when you bring up some of the things that we're talking about. Why is there such a disparity in public opinion and awareness of the risks that you're talking about? What do you think? 
+
+Speaker 1  •  01:10:33
+
+You know, there's more and more people expressing their concerns these days. So Jeffrey Hinton is the Nobel Prize-winning godfather of the field. who's come out and said he thinks there's a good chance this kills us all. Joshua Benjio is, I believe, currently the most cited living scientist, one of the other sort of forefathers of the AI revolution. He's come out and said he thinks this is like far too dangerous. Even the heads of the labs, you know, I mentioned Elon Musk saying he thinks there's 10 to 20% chance this kills us all. Dario Amadei of Anthropic has said he thinks it's a 25% chance this kills us all. Sam Altman. 
+
+Speaker 2  •  01:11:11
+
+And if they're saying 10 or 20% or 25%. publicly, they're probably thinking it's higher privately. 
+
+Speaker 1  •  01:11:18
+
+And Sam Altman says too, which maybe says more about his ability to say things different with his mouth and in his head. Who knows? But, you know, if if there was an airplane, and some engineers came and said, This airplane has no landing gear. If you try to fly in it, you will crash and die. And the engineers building the airplane, who want everybody to fly in it, say, Whoa, hold on. It's true that the plane has no landing gear. we're going to build the landing gear on the fly and think there's an eighty percent chance we succeed all aboard. And then if the optimistic engineers were arguing about whether there's a ninety eight percent or seventy five percent chance they're going to succeed at building the landing gear on the fly, Right. You wouldn't be like, get me on that plane. 
+
+Speaker 2  •  01:12:05
+
+Yeah, but no, but the difference is that we're already on that plane and we didn't have a say. That's right. 
+
+Speaker 1  •  01:12:12
+
+Yeah, and they're sort of loading our families up too. But, you know, one of the like, I think part of why the conversation is weird right now is People will say from academia, from inside the labs, from the heads of the labs, from the nonprofit sector, all these folks will say This is real dangerous. And then it's sort of met with crickets. But I think part of what's going on there is that people in the field Can see that AI is a moving target. They can see that the chatbots are not the end of the line. People outside the field look at the chatbots and they're like, look at all the waves, they're still dumb. People inside the field remember the time when the computers couldn't talk, and remember how suddenly the computers could talk and it was surprising, and they're sort of like, what happens with the next surprise? And I think if you can get people to notice that AI keeps moving, then maybe you can start to get people to notice how even the optimists are saying there's like a 10% chance this kills us all. And those are the ones building it. And people outside the field are like, those guys are soft pedaling this. 
+
+Speaker 2  •  01:13:31
+
+But this is different. class of problem than if we elect this person, it's going to be a disaster for our world. Then we motivate and we do political organization and we get out the vote and we don't elect that person. It doesn't seem like people have agency on this issue. 
+
+Speaker 1  •  01:13:51
+
+Yeah, you know, it's uh there's a lot of ways in which it looks grim. The big message of hope I would give here is imagine the world in 1945. With the dawn of nuclear weapons. Or maybe imagine it in 1952, once it was clear that the Soviet Union was also in possession of nuclear weapons. In that world, It might look really hopeless to avoid nuclear war. It's not just people who love to say look how bad everything is, that worried about nuclear war. In that world, those people were looking back at thousands of years of history. in which nations couldn't help but go to war using every weapon at their disposal. Those people were looking back at World War One and how horrible it was, and at the creation of the League of Nations. To prevent this from ever happening again, which almost immediately failed. Those people lived in a world where they said never again, and then it immediately happened again. It didn't take some great pessimistic cynicism for people to say, this is not the sort of thing humanity can do. But humanity did it anyway. We rose to the occasion. We realized that we were facing actual extinction this time. And you know, the the people who said global nuclear war is coming, they were wrong, but they weren't wrong about the destructiveness of nuclear weapons. Right. Right. And my book title starts with if. I'm not saying AI is going to kill us. I don't think I'm wrong about whether super intelligence could destroy us. But we need to rise to the occasion, and we've done it before. 
+
+Speaker 2  •  01:15:59
+
+So let me double click on something that you said a little bit earlier. So in many ways, I believe we're on the brink of both economic and energetic and political crises. In fact, it seems that AI development investment is growing itself into an economic and biophysical bubble. For instance, Oracle has fantastic revenue projections built on fantastic electric power projections. And their debt equity ratio is already 500%, which is 10% to 20 times what what Amazon's and Microsoft's is. So I mentioned this to ask, do you think these constraints could act as a natural guardrail to stop ASI development? And you said if it happened, you would take it because it would buy us more time. But is that just a a bump in the road? And even if we have a recession or a depression in the near future, will the the machinations in process just inexorably build this ASI almost no matter what? Or could an AI winter actually happen and and shut this stuff down. 
+
+Speaker 1  •  01:17:09
+
+You know, technologies can be both in a bubble and real at the same time. The dot-com bubble was a bubble. The internet was a real technology. 
+
+Speaker 2  •  01:17:23
+
+And continues today. And continues today. 
+
+Speaker 1  •  01:17:26
+
+Yeah. And did the dot-com bubble mean we would never develop the Internet? Never have a connected world? No. Did it slow things down a bit? Maybe. Would an AI bubble popping slow things down a bit? Aaron Powell. 
+
+Speaker 2  •  01:17:43
+
+And what would be the things that you would want decision makers to know during that pause or during that recession where things were slow? Is that an opportunity to intervene on all this or not? 
+
+Speaker 1  •  01:17:59
+
+It could be. There's a lot of public sentiment that's worried about AI, I think with good reason. Could you share some stats on that? Yeah. I haven't looked at the most recent polls, but the polls I did look at when we were writing the book had something like seventy percent of people saying they thought that the current AI development was reckless. Okay. And not heading anywhere good. I'd have to look up the numbers to get the exact ones and the exact questions. But a lot of technologists are enthusiastic. a lot of people can see these issues. And it's not just the issue of if it gets smart enough, it kills us all. I think a lot of people can also see issues like if all labor is automated That sort of removes the power that most humans have over society. Part of the reason why we get any say at all in how society goes is that we are contributors to society. 
+
+Speaker 2  •  01:19:00
+
+Well, not to mention the entire financial system and economy and everything works because people have paychecks and pay their mortgages and keep everything humming. 
+
+Speaker 1  •  01:19:12
+
+Right. And so it's Like you, you don't I think a lot of people can see that the world is headed somewhere pretty crazy. Whether we go all the way or not, and whether AI would just straight up kill us all, or whether it would, you know. stay nicely on its leash and make certain corporate executives God emperors for all time or whatever. Either way, most people are like, hold on, we're going where? 
+
+Speaker 2  •  01:19:46
+
+So have any effective steps been taken thus far to address the existential risk of ASI development, either at the national or the international level? 
+
+Speaker 1  •  01:19:59
+
+We've seen a little bit of steps here and there. The United Kingdom has an AI Security Institute where it tries to study some of these dangers. We've seen there was a bill introduced bipartisan or a bipartisan bill was at least drafted by two senators who Call for some monitoring on superintelligence. We've seen some you know, this people sometimes try and tie some of the restrictions on computer chip sales to other other nations, to some of these concerns. So there's there's like little bits and pieces. Mostly though, from my perspective, this is it's not about like getting small regulatory bites here and there. I think this is sort of about our leaders noticing that the people outside the industry are saying this has a big chance of killing you, and the people inside the industry are saying Yes, this has at least a modest chance of killing us, but better me than the next guy and realizing that, like, this whole situation is crazy and needs to stop. 
+
+Speaker 2  •  01:21:19
+
+So, in the book, you and Eliza propose the only way to completely mitigate this risk is for global cooperation to halt AI research and development. in order to have time to create global oversight mechanisms, such as through an international treaty towards these aims and goals. What would such a treaty include as its main tenets? 
+
+Speaker 1  •  01:21:44
+
+You know, we actually have a draft at if anyone buildsit. com/slash treaty. The training in AI today takes, like I've said, highly specialized computer chips in huge data centers that draw huge amounts of electrical power. That would not be all that hard to monitor. The creation of these chips happens in facilities that are very rare. There's very few. There's very few places that can build the technology these chip fabs need to operate. In some sense, it would be easier to monitor AI like development of frontier AIs than it would be to monitor uranium enrichment. AI chips aren't just a type of rock that grows in the ground that can be mined. A data center is harder to build than a centrifuge. And first and foremost, what a treaty would look like is tracking where the chips are, requiring them not to be used in the creation of even smarter AIs that nobody understands. And that probably looks like monitoring in these data centers to verify that the use of these chips is things like running current AIs rather than pushing the frontier towards new AIs. That said, I'll also throw it there. I think a treaty is the smart way to do it. It's not the only way to do it. It's also possible for Nations that fear for their own lives, if anyone anywhere develops a superintelligence, for those nations to start monitoring other nations. and sabotaging their product their projects. Aaron Powell. 
+
+Speaker 2  •  01:23:26
+
+That seems more plausible to me because there's a lot of powerful nations in the world that don't have Tier I AI plays, like Russia, for example. 
+
+Speaker 1  •  01:23:36
+
+Yes. And I think The bottleneck here is really people understanding how dangerous it is. 
+
+Speaker 2  •  01:23:41
+
+Is that really the bottleneck? Because you just said that everyone is concerned about it, and even the AI CEOs are somewhat concerned about it. I think the bottleneck is our evolved drive for power and outcompeting the other. And I would if I was a CEO and I understood everything you just said, I would be willing to shut my thing down as long as I was sure that everyone else did too, but I could never be sure of that. And so it would be my I mean, that's what I think the real bottleneck is. 
+
+Speaker 1  •  01:24:15
+
+I think that's True for the company heads. I think for the politicians. 
+
+Speaker 2  •  01:24:22
+
+Okay. 
+
+Speaker 1  •  01:24:23
+
+We don't see politicians looking us in the eye and saying We think there's more than 10% chance this kills you, and we're gambling with your life anyway. 
+
+Speaker 2  •  01:24:31
+
+Well, that would not be likely something a politician would say because I mean, I'll be honest, some of my staff read your book and were like sobbing their heads off. They were crying. I mean, this is not a light dinner topic. And so I don't know. Maybe behind the scenes, politicians will be talking like, what the hell do we do about this? But I don't know that they're going to go out and publicly build constituency about it. Or maybe you're thinking along those lines. 
+
+Speaker 1  •  01:25:00
+
+I think I'm saying something more like It seems to me politicians don't understand what the lab heads understand. I think if they understood that the gung-ho full steam ahead guys think there's a very good chance this kills us all. 
+
+Speaker 2  •  01:25:18
+
+Have you and Elizer gifted copies of your book to all senators and congressmen? 
+
+Speaker 1  •  01:25:24
+
+We have. 
+
+Speaker 2  •  01:25:25
+
+Okay. 
+
+Speaker 1  •  01:25:26
+
+Any feedback there? Yeah. I mean, we're having a number of conversations. Yeah. Excellent. 
+
+Speaker 2  •  01:25:32
+
+Yeah. I mean, it's this isn't like this is dense, and this is hard because I'm not a LLM expert like you are, but I understand like squinting. what you're saying is hella compelling and scary. And politicians, among other things, are quite smart. So I have to believe that it you're going to find traction there if they take the time to listen to you and read the book. 
+
+Speaker 1  •  01:26:00
+
+Yes, we're getting some traction. And in fact, part of where the book came from is I was actually having conversations in DC that were going better than I expected. And I was like, maybe it's actually time for the world to sort of hear some of these arguments. Maybe the world's ready to hear these arguments. I think before ChatGPT, people would have been like, what do you even mean AI? Right. Now people are like, well, the AI is really dumb, but they're more willing to talk about it. Maybe one more leap forward in AI. Will cause everyone to sit bolt upright and say, wait, what the heck? 
+
+Speaker 2  •  01:26:32
+
+How can someone listening to this episode who's not typically involved in the tech and AI world? get involved with the the movement to to pause ASI research and development. I mean, it's it's such an odd juxtaposition. 
+
+Speaker 1  •  01:26:51
+
+Yeah. One thing that I think really helps and that few people actually do is call your representatives. Because I have been having some of these conversations with politicians. Many of them have concerns. but don't feel able to go to bat for it because they fear it'll sound too weird. They fear drawing the wrath of the big tech lobbyists. Knowing that they have support from their constituents can go a long way, and even a few calls can go a long way. So actually getting on the phone And really calling? 
+
+Speaker 2  •  01:27:29
+
+But again, you said earlier that you've never advocated for just the United States where you and I are citizens. It's a global thing. So how does the equivalent happen in China and Israel and elsewhere? 
+
+Speaker 1  •  01:27:41
+
+Yeah, so I think the first step and what I would be saying to the politicians if I called them is not please shut this down domestically, but please indicate willingness. for the US to shut this down if everyone else shuts it down. And please be developing the monitoring abilities to tell that people are abiding by that. Develop the monitoring abilities to tell who's Trying to build superintelligence and where. The first step is indicating openness. The first step is saying, we're not going to stop unilaterally, but we have interest in everyone being stopped here because this is dangerous. I think if you had some bold politicians saying that, it might open the floodgates. Aaron Powell. 
+
+Speaker 2  •  01:28:27
+
+Is this something that democracy can intervene with? Or does it require a different sort of political system? Aaron Powell. 
+
+Speaker 1  •  01:28:34
+
+I don't think there's any need to do anything more invasive than something like the Nonproliferation Treaty. This technology is very specialized. Like I said, it's even harder to build these chips than it is to mine uranium and build a centrifuge. People say, Oh, this would require a global governance regime and it's like very globalist and totalitarian. Like yeah, similar to how we live under global totalitarius like globalist totalitarian governance regime that enforces the non-proliferation treaty. 
+
+Speaker 2  •  01:29:04
+
+I mean, there's so many consortiums of the Tier One players and to develop ASI and more advanced AIs, can there only be one or can there be multiple? And what are these people thinking? Like, I just want to make a lot of money? Is this a gold rush sort of thing? And they're just putting the blinders on and not looking at these externalities and potential risks. It it just seems like it's truly an epic species level madness of crowds moment. I have trouble reconciling it at times. 
+
+Speaker 1  •  01:29:41
+
+Yeah, you know, a lot of these people aren't terribly quiet about their motivations. You can read the leaked OpenAI founding emails where it looks like they were scared that some other company was going to do it first and that there were going to be bad people. I think a lot of people's motivations are better me than the next guy. I have sort of long been the guy on the sidelines saying nobody can keep a leash on a super intelligence. The issue is not that a bad person makes one. The issue is that no matter who makes it, it won't do anything that you meant. It'll have all these spandrels instead. But, you know, it's this collective actor, this collective action problem. It's if if they don't do it, the next guy will, and so we need some coordination mechanism to help stop it. 
+
+Speaker 2  •  01:30:32
+
+Going away. There may be an AI winter because of a recession or a depression, but this is here. This is with us in humanity in 2025. And I'm sure that this episode is going to leave viewers with even more questions about this growing phenomenon. So, Nate, what resources might you direct The viewers to help find answers to such questions. 
+
+Speaker 1  •  01:30:57
+
+You know, I did my best in the book to really. compressed the argument down as small as I could. The book also has a link to some online resources that go into a ton more depth. For other resources, you know, AI is a big moving target. I there was there was a group called the AI Futures Project, which is trying to predict. where AI will go as best they can. I don't agree with all of their predictions, but they're one group to check out. They did the AI twenty twenty seven report, which people might have heard of. 
+
+Speaker 2  •  01:31:39
+
+Yeah. I've looked at that. Let me ask you this, and we'll put links to all your resources in the show notes. If things were able to stop at AI maybe a little bit more advanced than we have today, but we were unable or we had restrictions that would not allow us getting to artificial superintelligence. Would you be in favor of that? of AIs at that scale? 
+
+Speaker 1  •  01:32:07
+
+I would lean favorable myself, but I think there are all these issues about how do you absorb that into society. I just am generally A techno-optimist about humanity's ability to absorb technology as long as it doesn't kill us all when we mess it up the first time. You know, the whole history of science is a history of like Some people screwed some stuff up. You know, Marie Curie died of cancer. Isaac Newton poisoned himself with mercury. You know, it's Even some very smart, heroic people screwed some things up and did damage to themselves, but they left behind notes that made us all better off and that we could use to improve and learn for next time. It's really only those problems where a mistake kills us all where I would recommend caution. 
+
+Speaker 2  •  01:32:54
+
+Which would happen with confidence from you and Elizer if we are Able to, or whether it just happens from momentum, make the leap from AI to ASI. 
+
+Speaker 1  •  01:33:06
+
+That's right. And I I suspect it would be hard to hold off forever because again, the current algorithms run on the electricity of a city, whereas a human runs on the electricity of a light bulb, so we know It's not always going to take these enormous data centers and these enormous highly specialized chips, but I'm not saying humanity should stop AI forever and never get to this wonderful future technology. I'm more saying we need to stop. We need more time to figure out what we're doing. And we need to find some other Course to the good outcome. It's a little bit like people are in a car that's racing towards a cliff, and at the bottom of the cliff there's a bunch of gold. And people are like, Well, we want all the gold. And I'm like, Okay, stop the car, though. And they're like, Then how are we going to get the gold? I'm like, Find somewhere the way down the cliff. And they're like, I want to go straight off the cliff to get the gold as fast as we can. I'm like, You'll die. And they're like, Oh, are you saying we should never get gold? Are you saying that like money is terrible? And I'm like, No, I'm just you're just going to die. Find some other way to the bottom of this cliff. 
+
+Speaker 2  •  01:34:14
+
+Yeah. So we have to slow the car down and and walk for a bit and reflect on the cliff and the gold and then come up with a different plan. Yeah. So if you have a few more minutes, I close my interviews with some personal questions, if you don't mind. Sure. You're broadly aware of the risks to society and in addition to AI, Do you have any personal advice to the viewers of this program at this time of global uncertainty and what some would call the polycrisis, including but not limited to AI? Any advice just wearing your human hat? 
+
+Speaker 1  •  01:34:54
+
+Yeah, I've seen a lot of people get really worried about where society is going and then sort of tie themselves up in knots internally. And I don't think it helps. And so what I would recommend is do what you can. look around and see ways that you can make things a little better. With AI, maybe that involves pushing back whenever somebody tells you that it's inevitable. Reminding people that humanity has stopped all sorts of challenges that people thought were going to be, were going to ruin us. We've risen to the occasion before. Pushback gives the inevitability. 
+
+Speaker 2  •  01:35:35
+
+So that's a hot button for you when someone says, Oh, yeah, you're right about the risk, but it's inevitable. 
+
+Speaker 1  •  01:35:40
+
+Yeah, that's the hot button where I'm like, I mean, with that attitude, sure. But. Humanity has stopped all sorts of things, many of which we probably shouldn't even have stopped. We stopped generating nuclear power from power plants. Probably we shouldn't have. It probably kills less people in expectation than burning coal or whatever. But um but yeah, I I would say, you know, do what you can, push back against people who are who are sort of defeatist, but then once you've done what you can There's no need to tie yourself in further knots. Live a good life. Enjoy yourself. We are not the first people to live under shadows of something terrible. You know, you've got to do what you can and then lead a good life. 
+
+Speaker 2  •  01:36:26
+
+Yeah, I hear you. Do you have any f Further recommendations, especially for young humans in their teens and twenties, who are becoming aware of all the things. 
+
+Speaker 1  •  01:36:37
+
+You know, I recommend against Working for the labs that are building the doomsday devices. 
+
+Speaker 2  •  01:36:47
+
+Presumably, ASI is a doomsday device. 
+
+Speaker 1  •  01:36:50
+
+That's right. I think everyone's personal ethics differ. I think mostly this is an international challenge at the moment. Mostly, it doesn't really matter what the labs do. Mostly it matters what our leaders do and whether they can coordinate the world in shutting this down. And you know, everyone's personal ethics differ in the face of these coordination challenges. I think There's some people trying to understand what's going on inside these AIs. There's some people trying to measure how dangerous these AIs are. Those are more honorable roots. if you sort of really wanted to help these days, I think the game is actually more in politics than it is on the technical side, which pains me to say because I'm much more inclined towards the technical side myself. But if you are like, how do I help? I would recommend more like a policy career and less like a technolog uh technology career. 
+
+Speaker 2  •  01:37:43
+
+What do you care most about in the world, Nate? 
+
+Speaker 1  •  01:37:45
+
+Sorry Gosh. Uh, that's a doozy. Probably humanity. And, you know, what we could become if we don't And ourselves. 
+
+Speaker 2  •  01:37:58
+
+And if you could wave a magic wand and there was no personal recourse to your decision, what one thing would you do to improve the future for humanity in the biosphere? And I might be able to guess your answer, but I'm asking none the less. 
+
+Speaker 1  •  01:38:12
+
+I mean, if if the wand does exactly as I wish, uh and as I intend, uh I would I would think about it pretty hard first, and I might try some uh some indirect abstract scheme to cause things to turn out better than I expected. But the easiest thing to do would be create a super intelligence that was friendly, that had our best interests at heart. 
+
+Speaker 2  •  01:38:40
+
+But you just said you we grow these, we don't craft them. 
+
+Speaker 1  •  01:38:44
+
+But if the magic wand lets me make one like I'm not in general, it's just we're not going to get one of the good ones down this route. If the magic wand gives me a super intelligent friend, there's a lot of problems you can solve with some smarter friends behind your back. Got it. 
+
+Speaker 2  •  01:39:01
+
+Thank you for that. Do you have any closing comments for people watching and listening who understand what you've laid out here today? 
+
+Speaker 1  •  01:39:10
+
+You know, it's not over till it's over, and humanity is worth fighting for. And, you know, it may look like we're the underdogs now, but humanity has risen to the occasion before. And, um. Where there's life, there's hope. 
+
+Speaker 2  •  01:39:23
+
+Humanity and the biosphere is worth fighting for. That's right. Yeah. Thank you seriously for all of your work. This is not. An easy path you've chosen, and it's bold and courageous to write the book and doing the work you're doing because it's not a popular or fun thing. So thank you for your time today and good luck, fingers crossed, for your continued work. Thanks. Thanks for having me. If you'd like to learn more about this episode, please visit thegreatsimplification. com for references and show notes. From there, you can also join our Hilo community and subscribe to our Substack newsletter. This show is hosted by me, Nate Hagins. Edited by No Troublemakers Media and produced by Misty Stinnett and Lizzie Siriani. Our production team also includes Leslie Batlutz. Brady Heyen, Julia Maxwell, Gabriella Sleiman, and Grace Brunfeld. Thank you for listening, and we'll see you on the next episode. 

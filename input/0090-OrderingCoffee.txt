@@ -32,5 +32,5 @@
 <voice lang="en">What's the wait time for a fresh pot?<break time="10s"></voice>
 <voice lang="es">¿Cuánto tiempo hay que esperar para que sirvan café recién hecho?<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

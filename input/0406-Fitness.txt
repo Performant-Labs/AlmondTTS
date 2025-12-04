@@ -1,0 +1,209 @@
+<voice lang="en">Fitness and Health</voice><break time="0.5s">
+<voice lang="es">Fitness y salud</voice><break time="2s">
+
+<voice lang="en">Do you follow a diet?</voice><break time="5s">
+<voice lang="es">¿Sigues una dieta?</voice><break time="2s">
+
+<voice lang="en">I try to eat healthy, but I don't follow a strict diet.</voice><break time="5s">
+<voice lang="es">Intento comer saludable, pero no sigo una dieta estricta.</voice><break time="2s">
+
+<voice lang="en">Do you take supplements?</voice><break time="5s">
+<voice lang="es">¿Tomas suplementos?</voice><break time="2s">
+
+<voice lang="en">I take vitamins in the morning.</voice><break time="5s">
+<voice lang="es">Tomo vitaminas por la mañana.</voice><break time="2s">
+
+<voice lang="en">Do you sleep well?</voice><break time="5s">
+<voice lang="es">¿Duermes bien?</voice><break time="2s">
+
+<voice lang="en">I don't always sleep well.</voice><break time="5s">
+<voice lang="es">No siempre duermo bien.</voice><break time="2s">
+
+<voice lang="en">I need to switch off my phone earlier in the evening.</voice><break time="5s">
+<voice lang="es">Necesito apagar mi teléfono más temprano en la noche.</voice><break time="2s">
+
+<voice lang="en">Reading is much better than using your phone.</voice><break time="5s">
+<voice lang="es">Leer es mucho mejor que usar tu teléfono.</voice><break time="2s">
+
+<voice lang="en">Do you wake up early?</voice><break time="5s">
+<voice lang="es">¿Te despiertas temprano?</voice><break time="2s">
+
+<voice lang="en">I usually wake up early.</voice><break time="5s">
+<voice lang="es">Suelo despertarme temprano.</voice><break time="2s">
+
+<voice lang="en">I don't set an alarm, I just wake up early naturally.</voice><break time="5s">
+<voice lang="es">No pongo alarma, simplemente me despierto temprano de forma natural.</voice><break time="2s">
+
+<voice lang="en">I don't like having an alarm.</voice><break time="5s">
+<voice lang="es">No me gustan las alarmas.</voice><break time="2s">
+
+<voice lang="en">Do you meditate or do breathwork?</voice><break time="5s">
+<voice lang="es">¿Meditas o haces ejercicios de respiración?</voice><break time="2s">
+
+<voice lang="en">Do you do yoga?</voice><break time="5s">
+<voice lang="es">¿Haces yoga?</voice><break time="2s">
+
+<voice lang="en">I don't, but I should.</voice><break time="5s">
+<voice lang="es">No, pero debería.</voice><break time="2s">
+
+<voice lang="en">I started doing yoga and meditating, but I have not been consistent with it.</voice><break time="5s">
+<voice lang="es">Empecé a hacer yoga y meditar, pero no he sido consistente con ello.</voice><break time="2s">
+
+<voice lang="en">Do you like cold showers or saunas?</voice><break time="5s">
+<voice lang="es">¿Te gustan las duchas frías o las saunas?</voice><break time="2s">
+
+<voice lang="en">I like cold showers and saunas.</voice><break time="5s">
+<voice lang="es">Me gustan las duchas frías y las saunas.</voice><break time="2s">
+
+<voice lang="en">It feels really healthy.</voice><break time="5s">
+<voice lang="es">Se siente realmente saludable.</voice><break time="2s">
+
+<voice lang="en">I need to do it more often.</voice><break time="5s">
+<voice lang="es">Necesito hacerlo más a menudo.</voice><break time="2s">
+
+<voice lang="en">Do you eat healthy food?</voice><break time="5s">
+<voice lang="es">¿Comes comida saludable?</voice><break time="2s">
+
+<voice lang="en">I try to eat healthy food.</voice><break time="5s">
+<voice lang="es">Intento comer comida saludable.</voice><break time="2s">
+
+<voice lang="en">But I don't follow a strict diet.</voice><break time="5s">
+<voice lang="es">Pero no sigo una dieta estricta.</voice><break time="2s">
+
+<voice lang="en">I do intermittent fasting, so I don't eat anything until lunchtime.</voice><break time="5s">
+<voice lang="es">Hago ayuno intermitente, así que no como nada hasta la hora del almuerzo.</voice><break time="2s">
+
+<voice lang="en">But I often eat unhealthy food.</voice><break time="5s">
+<voice lang="es">Pero a menudo como comida poco saludable.</voice><break time="2s">
+
+<voice lang="en">Do you drink coffee or tea?</voice><break time="5s">
+<voice lang="es">¿Tomas café o té?</voice><break time="2s">
+
+<voice lang="en">I drink a lot of coffee when I am working.</voice><break time="5s">
+<voice lang="es">Tomo mucho café cuando estoy trabajando.</voice><break time="2s">
+
+<voice lang="en">Do you cook at home?</voice><break time="5s">
+<voice lang="es">¿Cocinas en casa?</voice><break time="2s">
+
+<voice lang="en">I cook food sometimes, but I also eat out a lot.</voice><break time="5s">
+<voice lang="es">Cocino comida a veces, pero también como fuera mucho.</voice><break time="2s">
+
+<voice lang="en">I like cooking at home.</voice><break time="5s">
+<voice lang="es">Me gusta cocinar en casa.</voice><break time="2s">
+
+<voice lang="en">I experiment with different recipes.</voice><break time="5s">
+<voice lang="es">Experimenta con diferentes recetas.</voice><break time="2s">
+
+<voice lang="en">I've tried smoking ribs and other barbecue techniques.</voice><break time="5s">
+<voice lang="es">He probado ahumar costillas y otras técnicas de barbacoa.</voice><break time="2s">
+
+<voice lang="en">What time do you usually go to bed?</voice><break time="5s">
+<voice lang="es">¿A qué hora te vas a la cama usualmente?</voice><break time="2s">
+
+<voice lang="en">I usually go to bed at around 11.</voice><break time="5s">
+<voice lang="es">Usualmente me voy a la cama alrededor de las 11.</voice><break time="2s">
+
+<voice lang="en">Have you tried meditation?</voice><break time="5s">
+<voice lang="es">¿Has probado la meditación?</voice><break time="2s">
+
+<voice lang="en">Do you meditate?</voice><break time="5s">
+<voice lang="es">¿Meditas?</voice><break time="2s">
+
+<voice lang="en">Yes, I meditate a lot.</voice><break time="5s">
+<voice lang="es">Sí, medito mucho.</voice><break time="2s">
+
+<voice lang="en">It helps me be more focused and less stressed.</voice><break time="5s">
+<voice lang="es">Me ayuda a estar más enfocado y menos estresado.</voice><break time="2s">
+
+<voice lang="en">I need it because otherwise I get distracted easily.</voice><break time="5s">
+<voice lang="es">Lo necesito porque de lo contrario me distraigo fácilmente.</voice><break time="2s">
+
+<voice lang="en">I also do yoga, to relax and gain flexibility.</voice><break time="5s">
+<voice lang="es">También hago yoga, para relajarme y ganar flexibilidad.</voice><break time="2s">
+
+<voice lang="en">Have you tried hypnosis?</voice><break time="5s">
+<voice lang="es">¿Has probado la hipnosis?</voice><break time="2s">
+
+<voice lang="en">I have tried hypnosis.</voice><break time="5s">
+<voice lang="es">He probado la hipnosis.</voice><break time="2s">
+
+<voice lang="en">It is an interesting experience.</voice><break time="5s">
+<voice lang="es">Es una experiencia interesante.</voice><break time="2s">
+
+<voice lang="en">Something I have also learned is visualization.</voice><break time="5s">
+<voice lang="es">Algo que también he aprendido es la visualización.</voice><break time="2s">
+
+<voice lang="en">I visualize a lot of things. It is easy.</voice><break time="5s">
+<voice lang="es">Visualizo muchas cosas. Es fácil.</voice><break time="2s">
+
+<voice lang="en">Just close your eyes and start thinking.</voice><break time="5s">
+<voice lang="es">Solo cierra los ojos y empieza a pensar.</voice><break time="2s">
+
+<voice lang="en">In general, I find that using your imagination is good for you.</voice><break time="5s">
+<voice lang="es">En general, encuentro que usar tu imaginación es bueno para ti.</voice><break time="2s">
+
+<voice lang="en">It is definitely much better than sitting in front of a screen</voice><break time="5s">
+<voice lang="es">Definitivamente es mucho mejor que sentarte frente a una pantalla</voice><break time="2s">
+
+<voice lang="en">and watching some dumb TV show or Youtube video.</voice><break time="5s">
+<voice lang="es">y ver algún programa de TV tonto o video de Youtube.</voice><break time="2s">
+
+<voice lang="en">Do you exercise? How often?</voice><break time="5s">
+<voice lang="es">¿Haces ejercicio? ¿Con qué frecuencia?</voice><break time="2s">
+
+<voice lang="en">What kind of workouts do you do?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de entrenamientos haces?</voice><break time="2s">
+
+<voice lang="en">I go to the gym every morning.</voice><break time="5s">
+<voice lang="es">Voy al gimnasio todas las mañanas.</voice><break time="2s">
+
+<voice lang="en">I do an hour of weights and then an hour or two of cardio.</voice><break time="5s">
+<voice lang="es">Hago una hora de pesas y luego una o dos horas de cardio.</voice><break time="2s">
+
+<voice lang="en">If you listen to learning materials while you are in the gym, you can get fit and learn a language at the same time.</voice><break time="5s">
+<voice lang="es">Si escuchas materiales de aprendizaje mientras estás en el gimnasio, puedes ponerte en forma y aprender un idioma al mismo tiempo.</voice><break time="2s">
+
+<voice lang="en">When I get home, I shower, I make coffee and I start working.</voice><break time="5s">
+<voice lang="es">Cuando llego a casa, me ducho, hago café y empiezo a trabajar.</voice><break time="2s">
+
+<voice lang="en">I usually don't eat until around 12 or 1, after doing most of the important work.</voice><break time="5s">
+<voice lang="es">Usualmente no como hasta alrededor de las 12 o 1, después de hacer la mayoría del trabajo importante.</voice><break time="2s">
+
+<voice lang="en">I feel much more alert and productive when I am fasted.</voice><break time="5s">
+<voice lang="es">Me siento mucho más alerta y productivo cuando estoy en ayuno.</voice><break time="2s">
+
+<voice lang="en">I think that the most important thing when fasting is to not overeat in your first meal after the fast.</voice><break time="5s">
+<voice lang="es">Creo que lo más importante cuando ayunas es no comer en exceso en tu primera comida después del ayuno.</voice><break time="2s">
+
+<voice lang="en">I used to make this mistake.</voice><break time="5s">
+<voice lang="es">Solía cometer este error.</voice><break time="2s">
+
+<voice lang="en">If you eat too much you become sleepy and your productivity falls.</voice><break time="5s">
+<voice lang="es">Si comes demasiado te pones somnoliento y tu productividad cae.</voice><break time="2s">
+
+<voice lang="en">I try to only eat heavy meals in the evening, before bed.</voice><break time="5s">
+<voice lang="es">Intento solo comer comidas pesadas en la noche, antes de acostarme.</voice><break time="2s">
+
+<voice lang="en">Being full makes me relaxed and sleepy.</voice><break time="5s">
+<voice lang="es">Estar lleno me hace relajado y somnoliento.</voice><break time="2s">
+
+<voice lang="en">I can't sleep feeling hungry.</voice><break time="5s">
+<voice lang="es">No puedo dormir sintiéndome con hambre.</voice><break time="2s">
+
+<voice lang="en">Have you tried a sauna?</voice><break time="5s">
+<voice lang="es">¿Has probado una sauna?</voice><break time="2s">
+
+<voice lang="en">I go to the sauna sometimes in a spa.</voice><break time="5s">
+<voice lang="es">Voy a la sauna a veces en un spa.</voice><break time="2s">
+
+<voice lang="en">First the sauna and then the cold water.</voice><break time="5s">
+<voice lang="es">Primero la sauna y luego el agua fría.</voice><break time="2s">
+
+<voice lang="en">I want to do a lot of things but I don't have the time for everything.</voice><break time="5s">
+<voice lang="es">Quiero hacer muchas cosas pero no tengo tiempo para todo.</voice><break time="2s">
+
+<voice lang="en">I feel like time is passing faster and faster.</voice><break time="5s">
+<voice lang="es">Siento que el tiempo pasa cada vez más rápido.</voice><break time="2s">
+
+El Fin
+<break time="4s">

@@ -1,301 +1,339 @@
 <voice lang="en">Diet<break time="1s"></voice>
 <voice lang="es">Dieta<break time="1s"></voice>
 
+<voice lang="en">I try to eat as much meat as possible—</voice><break time="4s">
+<voice lang="es">Intento comer tanta carne como sea posible,</voice><break time="4s"> 
 
-<voice lang="en">I try to eat as much meat as possible—perhaps as much as 90% of my diet.<break time="8s"></voice>
-<voice lang="es">Intento comer tanta carne como sea posible, quizá hasta el 90% de mi dieta.<break time="3s"></voice>
+<voice lang="en">perhaps as much as 90% of my diet.</voice><break time="4s">
+<voice lang="es">quizá hasta el 90% de mi dieta.</voice><break time="3s">
 
-<voice lang="en">I am a carnivore. I believe that meat is the most nutrient-dense food.<break time="8s"></voice>
-<voice lang="es">Soy carnívoro. Creo que la carne es el alimento más rico en nutrientes.<break time="3s"></voice>
+<voice lang="en">I am a carnivore. I believe that meat is the most nutrient-dense food.</voice><break time="5s">
+<voice lang="es">Soy carnívoro. Creo que la carne es el alimento más rico en nutrientes.</voice><break time="3s">
 
-<voice lang="en">I believe there is a specific diet for each species.<break time="8s"></voice>
-<voice lang="es">Creo que hay una dieta específica para cada especie.<break time="3s"></voice>
+<voice lang="en">I believe there is a specific diet for each species.</voice><break time="5s">
+<voice lang="es">Creo que hay una dieta específica para cada especie.</voice><break time="3s">
 
-<voice lang="en">For humans, meat is the best food.<break time="6s"></voice>
-<voice lang="es">Para los humanos, la carne es el mejor alimento.<break time="3s"></voice>
+<voice lang="en">For humans, meat is the best food.</voice><break time="5s">
+<voice lang="es">Para los humanos, la carne es el mejor alimento.</voice><break time="3s">
 
-<voice lang="en">We should only eat plants as a backup.<break time="6s"></voice>
-<voice lang="es">Sólo debemos comer plantas como reserva.<break time="3s"></voice>
+<voice lang="en">We should only eat plants as a backup.</voice><break time="5s">
+<voice lang="es">Sólo debemos comer plantas como reserva.</voice><break time="3s">
 
-<voice lang="en">I believe that humans are facultative carnivores.<break time="5s"></voice>
-<voice lang="es">Creo que los humanos son carnívoros facultativos.<break time="3s"></voice>
+<voice lang="en">I believe that humans are facultative carnivores.</voice><break time="5s">
+<voice lang="es">Creo que los humanos son carnívoros facultativos.</voice><break time="3s">
 
-<voice lang="en">I think that humans live best and the body functions best <break time="5s"></voice>
-<voice lang="es">Creo que los seres humanos vivimos mejor y el cuerpo funciona mejor<break time="5s"></voice>
+<voice lang="en">I think that humans live best and the body functions best </voice><break time="5s">
+<voice lang="es">Creo que los seres humanos vivimos mejor y el cuerpo funciona mejor</voice><break time="5s">
 
-<voice lang="en">when we eat foods with the most nutrients.<break time="5s"></voice>
-<voice lang="es">cuando comemos alimentos con la mayor cantidad de nutrientes.<break time="3s"></voice>
+<voice lang="en">when we eat foods with the most nutrients.</voice><break time="5s">
+<voice lang="es">cuando comemos alimentos con la mayor cantidad de nutrientes.</voice><break time="3s">
 
-<voice lang="en">EFECTOS SOBRE LA NUTRICIÓN Y LA SALUD<break time="2s"></voice>
+
+
+<voice lang="en">EFFECTS ON NUTRITION AND HEALTH<break time="2s"></voice>
 <voice lang="es">EFECTOS SOBRE LA NUTRICIÓN Y LA SALUD<break time="2s"></voice>
 
+<voice lang="en">Carbohydrates make me fat!</voice><break time="5s">
+<voice lang="es">¡Los carbohidratos me hacen engordar!</voice><break time="3s">
 
-<voice lang="en">Carbohydrates make me fat!<break time="5s"></voice>
-<voice lang="es">¡Los carbohidratos me hacen engordar!<break time="3s"></voice>
+<voice lang="en">I was saying that plants don't have enough nutrients.</voice><break time="5s">
+<voice lang="es">Decía que las plantas no tienen suficientes nutrientes.</voice><break time="3s">
 
-<voice lang="en">I was saying that plants don't have enough nutrients.<break time="5s"></voice>
-<voice lang="es">Decía que las plantas no tienen suficientes nutrientes.<break time="3s"></voice>
+<voice lang="en">They got cavities, didn't sleep well, lost energy, and more.</voice><break time="5s">
+<voice lang="es">Tenían caries, no dormían bien, perdían energía y mucho más.</voice><break time="3s">
 
-<voice lang="en">They got cavities, didn't sleep well, lost energy, and more.<break time="6s"></voice>
-<voice lang="es">Tenían caries, no dormían bien, perdían energía y mucho más.<break time="3s"></voice>
+<voice lang="en">In fact, I have many friends whose bodies broke down when they ate only plants.</voice><break time="5s">
+<voice lang="es">De hecho, tengo muchos amigos cuyos cuerpos se descompusieron cuando sólo comían plantas.</voice><break time="3s">
 
-<voice lang="en">In fact, I have many friends whose bodies broke down when they ate only plants.<break time="8s"></voice>
-<voice lang="es">De hecho, tengo muchos amigos cuyos cuerpos se descompusieron cuando sólo comían plantas.<break time="3s"></voice>
+<voice lang="en">Eating only plants was a disaster for them.</voice><break time="5s">
+<voice lang="es">Comer sólo plantas era un desastre para ellos.</voice><break time="3s">
 
-<voice lang="en">Eating only plants was a disaster for them.<break time="6s"></voice>
-<voice lang="es">Comer sólo plantas era un desastre para ellos.<break time="3s"></voice>
+<voice lang="en">And they were careful about selecting their food.</voice><break time="5s">
+<voice lang="es">Y eran cuidadosos a la hora de seleccionar sus alimentos.</voice><break time="3s">
 
-<voice lang="en">And they were careful about selecting their food.<break time="6s"></voice>
-<voice lang="es">Y eran cuidadosos a la hora de seleccionar sus alimentos.<break time="3s"></voice>
+<voice lang="en">Actually, there is a small amount of vitamin C in meat.</voice><break time="5s">
+<voice lang="es">En realidad, la carne contiene una pequeña cantidad de vitamina C.</voice><break time="3s">
 
-<voice lang="en">Actually, there is a small amount of vitamin C in meat.<break time="6s"></voice>
-<voice lang="es">En realidad, la carne contiene una pequeña cantidad de vitamina C.<break time="3s"></voice>
+<voice lang="en">We don't need as much vitamin C if we eat fewer carbohydrates.</voice><break time="5s">
+<voice lang="es">No necesitamos tanta vitamina C si comemos menos carbohidratos.</voice><break time="3s">
 
-<voice lang="en">We don't need as much vitamin C if we eat fewer carbohydrates.<break time="6s"></voice>
-<voice lang="es">No necesitamos tanta vitamina C si comemos menos carbohidratos.<break time="3s"></voice>
+<voice lang="en">Name one nutrient that is available from plants and not available from meat.</voice><break time="5s">
+<voice lang="es">Nombra un nutriente que se obtiene de las plantas y no de la carne.</voice><break time="3s">
 
-<voice lang="en">Name one nutrient that is available from plants and not available from meat.<break time="6s"></voice>
-<voice lang="es">Nombra un nutriente que se obtiene de las plantas y no de la carne.<break time="3s"></voice>
 
-<voice lang="en">ÉTICA Y BIENESTAR ANIMAL<break time="2s"></voice>
+
+<voice lang="en">ETHICS AND ANIMAL WELFARE<break time="2s"></voice>
 <voice lang="es">ÉTICA Y BIENESTAR ANIMAL<break time="2s"></voice>
 
+<voice lang="en">I believe that animal suffering matters and is important.</voice><break time="5s">
+<voice lang="es">Creo que el sufrimiento animal importa y es importante.</voice><break time="3s">
 
-<voice lang="en">I believe that animal suffering matters and is important.<break time="5s"></voice>
-<voice lang="es">Creo que el sufrimiento animal importa y es importante.<break time="3s"></voice>
 
-<voice lang="en">EVOLUTIONARY & HISTORICAL PERSPECTIVE<break time="3s"></voice>
 
-<voice lang="en">In other words, in the wild,<break time="5s"></voice>
-<voice lang="es">En otras palabras, en la naturaleza,<break time="3s"></voice>
+<voice lang="en">EVOLUTIONARY & HISTORICAL PERSPECTIVE</voice><break time="3s">
+<voice lang="es">PERSPECTIVA EVOLUTIVA E HISTÓRICA</voice><break time="3s">
 
-<voice lang="en">humans always choose meat when it is available.<break time="5s"></voice>
-<voice lang="es">los humanos siempre eligen la carne cuando está disponible.<break time="3s"></voice>
+<voice lang="en">In other words, in the wild,</voice><break time="5s">
+<voice lang="es">En otras palabras, en la naturaleza,</voice><break time="3s">
 
-<voice lang="en">There are no traditional cultures that eat only plants.<break time="6s"></voice>
-<voice lang="es">No existen culturas tradicionales que sólo se alimenten de plantas.<break time="3s"></voice>
+<voice lang="en">humans always choose meat when it is available.</voice><break time="5s">
+<voice lang="es">los humanos siempre eligen la carne cuando está disponible.</voice><break time="3s">
 
-<voice lang="en">Eating only plants is very new.<break time="5s"></voice>
-<voice lang="es">Comer sólo plantas es muy nuevo.<break time="3s"></voice>
+<voice lang="en">There are no traditional cultures that eat only plants.</voice><break time="5s">
+<voice lang="es">No existen culturas tradicionales que sólo se alimenten de plantas.</voice><break time="3s">
 
-<voice lang="en">It's because eating plants is a starvation diet<break time="5s"></voice>
-<voice lang="es">Se debe a que comer plantas es una dieta de hambre<break time="3s"></voice>
+<voice lang="en">Eating only plants is very new.</voice><break time="5s">
+<voice lang="es">Comer sólo plantas es muy nuevo.</voice><break time="3s">
 
-<voice lang="en">when there are no herds nearby or when a tribe hasn't adopted agriculture yet.<break time="5s"></voice>
-<voice lang="es">cuando no hay rebaños cerca o cuando una tribu aún no ha adoptado la agricultura.<break time="3s"></voice>
+<voice lang="en">It's because eating plants is a starvation diet</voice><break time="5s">
+<voice lang="es">Se debe a que comer plantas es una dieta de hambre</voice><break time="3s">
 
-<voice lang="en">EXPERIENCIA PERSONAL CON LA DIETA<break time="2s"></voice>
+<voice lang="en">when there are no herds nearby or when a tribe hasn't adopted agriculture yet.</voice><break time="5s">
+<voice lang="es">cuando no hay rebaños cerca o cuando una tribu aún no ha adoptado la agricultura.</voice><break time="3s">
+
+
+
+<voice lang="en">Personal Experience with the Diet<break time="2s"></voice>
 <voice lang="es">EXPERIENCIA PERSONAL CON LA DIETA<break time="2s"></voice>
 
+<voice lang="en">I feel better when I eat this way</voice><break time="5s">
+<voice lang="es">Me siento mejor cuando como así</voice><break time="3s">
 
-<voice lang="en">I feel better when I eat this way<break time="5s"></voice>
-<voice lang="es">Me siento mejor cuando como así<break time="3s"></voice>
+<voice lang="en">My energy levels improved</voice><break time="5s">
+<voice lang="es">Mis niveles de energía mejoraron</voice><break time="3s">
 
-<voice lang="en">My energy levels improved<break time="5s"></voice>
-<voice lang="es">Mis niveles de energía mejoraron<break time="3s"></voice>
+<voice lang="en">I lost weight</voice><break time="5s">
+<voice lang="es">Bajé de peso</voice><break time="3s">
 
-<voice lang="en">I lost weight<break time="5s"></voice>
-<voice lang="es">Bajé de peso<break time="3s"></voice>
+<voice lang="en">I gained weight</voice><break time="5s">
+<voice lang="es">Subí de peso</voice><break time="3s">
 
-<voice lang="en">I gained weight<break time="5s"></voice>
-<voice lang="es">Subí de peso<break time="3s"></voice>
+<voice lang="en">My digestion improved</voice><break time="5s">
+<voice lang="es">Mi digestión mejoró</voice><break time="3s">
 
-<voice lang="en">My digestion improved<break time="5s"></voice>
-<voice lang="es">Mi digestión mejoró<break time="3s"></voice>
+<voice lang="en">I had health problems before changing my diet</voice><break time="5s">
+<voice lang="es">Tenía problemas de salud antes de cambiar mi dieta</voice><break time="3s">
 
-<voice lang="en">I had health problems before changing my diet<break time="6s"></voice>
-<voice lang="es">Tenía problemas de salud antes de cambiar mi dieta<break time="3s"></voice>
+<voice lang="en">I sleep better now</voice><break time="5s">
+<voice lang="en">Ahora duermo mejor</voice><break time="3s">
 
-<voice lang="en">I sleep better now<break time="5s"></voice>
-<voice lang="en">Ahora duermo mejor<break time="3s"></voice>
+<voice lang="en">My skin cleared up</voice><break time="5s">
+<voice lang="es">Mi piel se aclaró</voice><break time="3s">
 
-<voice lang="en">My skin cleared up<break time="5s"></voice>
-<voice lang="es">Mi piel se aclaró<break time="3s"></voice>
+<voice lang="en">I have more mental clarity</voice><break time="5s">
+<voice lang="es">Tengo más claridad mental</voice><break time="3s">
 
-<voice lang="en">I have more mental clarity<break time="5s"></voice>
-<voice lang="es">Tengo más claridad mental<break time="3s"></voice>
+<voice lang="en">My mood improved</voice><break time="5s">
+<voice lang="es">Mi estado de ánimo mejoró</voice><break time="3s">
 
-<voice lang="en">My mood improved<break time="5s"></voice>
-<voice lang="es">Mi estado de ánimo mejoró<break time="3s"></voice>
+<voice lang="en">I don't get hungry as often</voice><break time="5s">
+<voice lang="es">No me da hambre tan seguido</voice><break time="3s">
 
-<voice lang="en">I don't get hungry as often<break time="5s"></voice>
-<voice lang="es">No me da hambre tan seguido<break time="3s"></voice>
+<voice lang="en">My inflammation decreased</voice><break time="5s">
+<voice lang="es">Mi inflamación disminuyó</voice><break time="3s">
 
-<voice lang="en">My inflammation decreased<break time="5s"></voice>
-<voice lang="es">Mi inflamación disminuyó<break time="3s"></voice>
 
-<voice lang="en">PREGUNTAS FRECUENTES SOBRE DIETAS/RESPUESTAS<break time="2s"></voice>
+
+<voice lang="en">FREQUENTLY ASKED QUESTIONS ABOUT DIETS/ANSWERS<break time="2s"></voice>
 <voice lang="es">PREGUNTAS FRECUENTES SOBRE DIETAS/RESPUESTAS<break time="2s"></voice>
 
+<voice lang="en">What do you typically eat in a day?</voice><break time="5s">
+<voice lang="es">¿Qué comes normalmente en un día?</voice><break time="3s">
 
-<voice lang="en">What do you typically eat in a day?<break time="5s"></voice>
-<voice lang="es">¿Qué comes normalmente en un día?<break time="3s"></voice>
+<voice lang="en">Where do you get your fiber?</voice><break time="5s">
+<voice lang="es">¿De dónde obtienes tu fibra?</voice><break time="3s">
 
-<voice lang="en">Where do you get your fiber?<break time="5s"></voice>
-<voice lang="es">¿De dónde obtienes tu fibra?<break time="3s"></voice>
+<voice lang="en">Isn't that expensive?</voice><break time="5s">
+<voice lang="es">¿No es eso caro?</voice><break time="3s">
 
-<voice lang="en">Isn't that expensive?<break time="5s"></voice>
-<voice lang="es">¿No es eso caro?<break time="3s"></voice>
+<voice lang="en">Don't you miss fruits?</voice><break time="5s">
+<voice lang="es">¿No extrañas las frutas?</voice><break time="3s">
 
-<voice lang="en">Don't you miss fruits?<break time="5s"></voice>
-<voice lang="es">¿No extrañas las frutas?<break time="3s"></voice>
+<voice lang="en">Don't you miss vegetables?</voice><break time="5s">
+<voice lang="es">¿No extrañas las verduras?</voice><break time="3s">
 
-<voice lang="en">Don't you miss vegetables?<break time="5s"></voice>
-<voice lang="es">¿No extrañas las verduras?<break time="3s"></voice>
+<voice lang="en">Don't you miss bread?</voice><break time="5s">
+<voice lang="es">¿No extrañas el pan?</voice><break time="3s">
 
-<voice lang="en">Don't you miss bread?<break time="5s"></voice>
-<voice lang="es">¿No extrañas el pan?<break time="3s"></voice>
+<voice lang="en">How long have you been eating this way?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo llevas comiendo así?</voice><break time="3s">
 
-<voice lang="en">How long have you been eating this way?<break time="5s"></voice>
-<voice lang="es">¿Cuánto tiempo llevas comiendo así?<break time="3s"></voice>
+<voice lang="en">Isn't that unhealthy?</voice><break time="5s">
+<voice lang="es">¿No es eso poco saludable?</voice><break time="3s">
 
-<voice lang="en">Isn't that unhealthy?<break time="5s"></voice>
-<voice lang="es">¿No es eso poco saludable?<break time="3s"></voice>
+<voice lang="en">What about your cholesterol?</voice><break time="5s">
+<voice lang="es">¿Qué pasa con tu colesterol?</voice><break time="3s">
 
-<voice lang="en">What about your cholesterol?<break time="5s"></voice>
-<voice lang="es">¿Qué pasa con tu colesterol?<break time="3s"></voice>
+<voice lang="en">Do you ever cheat?</voice><break time="5s">
+<voice lang="es">¿Alguna vez haces trampa?</voice><break time="3s">
 
-<voice lang="en">Do you ever cheat?<break time="5s"></voice>
-<voice lang="es">¿Alguna vez haces trampa?<break time="3s"></voice>
+<voice lang="en">What made you start eating this way?</voice><break time="5s">
+<voice lang="es">¿Qué te hizo empezar a comer así?</voice><break time="3s">
 
-<voice lang="en">What made you start eating this way?<break time="5s"></voice>
-<voice lang="es">¿Qué te hizo empezar a comer así?<break time="3s"></voice>
+<voice lang="en">Have you seen a doctor about this?</voice><break time="5s">
+<voice lang="es">¿Has visto a un médico sobre esto?</voice><break time="3s">
 
-<voice lang="en">Have you seen a doctor about this?<break time="5s"></voice>
-<voice lang="es">¿Has visto a un médico sobre esto?<break time="3s"></voice>
 
-<voice lang="en">PREPARACIÓN DE ALIMENTOS<break time="2s"></voice>
+
+<voice lang="en">FOOD PREPARATION<break time="2s"></voice>
 <voice lang="es">PREPARACIÓN DE ALIMENTOS<break time="2s"></voice>
 
+<voice lang="en">I prefer my meat medium rare</voice><break time="5s">
+<voice lang="en">Prefiero mi carne término medio</voice><break time="3s">
 
-<voice lang="en">I prefer my meat rare<break time="5s"></voice>
-<voice lang="en">Prefiero mi carne poco cocida<break time="3s"></voice>
+<voice lang="en">I prefer my meat medium</voice><break time="5s">
+<voice lang="es">Prefiero mi carne término medio</voice><break time="3s">
 
-<voice lang="en">I prefer my meat medium<break time="5s"></voice>
-<voice lang="es">Prefiero mi carne término medio<break time="3s"></voice>
+<voice lang="en">I prefer my meat well-done</voice><break time="5s">
+<voice lang="en">Prefiero mi carne bien cocida</voice><break time="3s">
 
-<voice lang="en">I prefer my meat well-done<break time="5s"></voice>
-<voice lang="en">Prefiero mi carne bien cocida<break time="3s"></voice>
+<voice lang="en">I cook with butter</voice><break time="5s">
+<voice lang="en">Cocino con mantequilla</voice><break time="3s">
 
-<voice lang="en">I cook with butter<break time="5s"></voice>
-<voice lang="en">Cocino con mantequilla<break time="3s"></voice>
+<voice lang="en">I cook with tallow</voice><break time="5s">
+<voice lang="en">Cocino con sebo</voice><break time="3s">
 
-<voice lang="en">I cook with tallow<break time="5s"></voice>
-<voice lang="en">Cocino con sebo<break time="3s"></voice>
+<voice lang="en">I cook with olive oil</voice><break time="5s">
+<voice lang="es">Cocino con aceite de oliva</voice><break time="3s">
 
-<voice lang="en">I cook with olive oil<break time="5s"></voice>
-<voice lang="es">Cocino con aceite de oliva<break time="3s"></voice>
+<voice lang="en">I eat organ meats</voice><break time="5s">
+<voice lang="es">Como vísceras</voice><break time="3s">
 
-<voice lang="en">I eat organ meats<break time="5s"></voice>
-<voice lang="es">Como vísceras<break time="3s"></voice>
+<voice lang="en">I don't eat processed foods</voice><break time="5s">
+<voice lang="es">No como alimentos procesados</voice><break time="3s">
 
-<voice lang="en">I don't eat processed foods<break time="5s"></voice>
-<voice lang="es">No como alimentos procesados<break time="3s"></voice>
+<voice lang="en">I buy grass-fed meat</voice><break time="5s">
+<voice lang="es">Compro carne de res alimentada con pasto</voice><break time="3s">
 
-<voice lang="en">I buy grass-fed meat<break time="5s"></voice>
-<voice lang="es">Compro carne de res alimentada con pasto<break time="3s"></voice>
+<voice lang="en">I buy organic meat</voice><break time="5s">
+<voice lang="es">Compro carne orgánica</voice><break time="3s">
 
-<voice lang="en">I buy organic meat<break time="5s"></voice>
-<voice lang="es">Compro carne orgánica<break time="3s"></voice>
+<voice lang="en">I eat beef liver</voice><break time="5s">
+<voice lang="es">Como hígado de res</voice><break time="3s">
 
-<voice lang="en">I eat beef liver<break time="5s"></voice>
-<voice lang="es">Como hígado de res<break time="3s"></voice>
+<voice lang="en">I make bone broth</voice><break time="5s">
+<voice lang="es">Hago caldo de huesos</voice><break time="3s">
 
-<voice lang="en">I make bone broth<break time="5s"></voice>
-<voice lang="es">Hago caldo de huesos<break time="3s"></voice>
+<voice lang="en">I grill my meat</voice><break time="5s">
+<voice lang="es">Aso mi carne a la parrilla</voice><break time="3s">
 
-<voice lang="en">I grill my meat<break time="5s"></voice>
-<voice lang="es">Aso mi carne a la parrilla<break time="3s"></voice>
+<voice lang="en">I pan-fry my meat</voice><break time="5s">
+<voice lang="es">Frito mi carne en la sartén</voice><break time="3s">
 
-<voice lang="en">I pan-fry my meat<break time="5s"></voice>
-<voice lang="es">Frito mi carne en la sartén<break time="3s"></voice>
+<voice lang="en">I eat eggs every day</voice><break time="5s">
+<voice lang="es">Como huevos todos los días</voice><break time="3s">
 
-<voice lang="en">I eat eggs every day<break time="5s"></voice>
-<voice lang="es">Como huevos todos los días<break time="3s"></voice>
+<voice lang="en">How would you like your steak?</voice><break time="5s"/>
+<voice lang="es">¿Cómo quiere su carne?</voice><break time="3s"/>
 
-<voice lang="en">SITUACIONES SOCIALES<break time="2s"></voice>
+<voice lang="en">I'd like it rare</voice><break time="5s"/>
+<voice lang="es">Lo quiero poco cocido</voice><break time="3s"/>
+
+<voice lang="en">I'd like it medium rare</voice><break time="5s"/>
+<voice lang="es">Lo quiero término medio</voice><break time="3s"/>
+
+<voice lang="en">I'd like it medium</voice><break time="5s"/>
+<voice lang="es">Lo quiero tres cuartos</voice><break time="3s"/>
+
+<voice lang="en">I'd like it medium well</voice><break time="5s"/>
+<voice lang="es">Lo quiero casi bien cocido</voice><break time="3s"/>
+
+<voice lang="en">I'd like it well done</voice><break time="5s"/>
+<voice lang="es">Lo quiero bien cocido</voice><break time="3s"/>
+
+<voice lang="en">The meat is too raw</voice><break time="5s"/>
+<voice lang="es">La carne está muy cruda</voice><break time="3s"/>
+
+<voice lang="en">The meat is overcooked</voice><break time="5s"/>
+<voice lang="es">La carne está muy cocida</voice><break time="3s"/>
+
+<voice lang="en">It's cooked perfectly</voice><break time="5s"/>
+<voice lang="es">Está en su punto</voice><break time="3s"/>
+
+
+
+<voice lang="en">Social Situations<break time="2s"></voice>
 <voice lang="es">SITUACIONES SOCIALES<break time="2s"></voice>
 
+<voice lang="en">It's hard to eat out at restaurants</voice><break time="5s">
+<voice lang="es">Es difícil comer en restaurantes</voice><break time="3s">
 
-<voice lang="en">It's hard to eat out at restaurants<break time="5s"></voice>
-<voice lang="es">Es difícil comer en restaurantes<break time="3s"></voice>
+<voice lang="en">My family doesn't understand my diet</voice><break time="5s">
+<voice lang="es">Mi familia no entiende mi dieta</voice><break time="3s">
 
-<voice lang="en">My family doesn't understand my diet<break time="5s"></voice>
-<voice lang="en">Mi familia no entiende mi dieta<break time="3s"></voice>
+<voice lang="en">People always ask me questions about it</voice><break time="5s">
+<voice lang="es">La gente siempre me hace preguntas sobre eso</voice><break time="3s">
 
-<voice lang="en">People always ask me questions about it<break time="5s"></voice>
-<voice lang="es">La gente siempre me hace preguntas sobre eso<break time="3s"></voice>
+<voice lang="en">I bring my own food to gatherings</voice><break time="5s">
+<voice lang="es">Llevo mi propia comida a las reuniones</voice><break time="3s">
 
-<voice lang="en">I bring my own food to gatherings<break time="5s"></voice>
-<voice lang="es">Llevo mi propia comida a las reuniones<break time="3s"></voice>
+<voice lang="en">People think I'm crazy</voice><break time="5s">
+<voice lang="es">La gente piensa que estoy loco</voice><break time="3s">
 
-<voice lang="en">People think I'm crazy<break time="5s"></voice>
-<voice lang="es">La gente piensa que estoy loco<break time="3s"></voice>
+<voice lang="en">I have to explain my diet constantly</voice><break time="5s">
+<voice lang="es">Tengo que explicar mi dieta constantemente</voice><break time="3s">
 
-<voice lang="en">I have to explain my diet constantly<break time="5s"></voice>
-<voice lang="es">Tengo que explicar mi dieta constantemente<break time="3s"></voice>
+<voice lang="en">It's awkward at dinner parties</voice><break time="5s">
+<voice lang="es">Es incómodo en las cenas</voice><break time="3s">
 
-<voice lang="en">It's awkward at dinner parties<break time="5s"></voice>
-<voice lang="es">Es incómodo en las cenas<break time="3s"></voice>
+<voice lang="en">Most people don't understand</voice><break time="5s">
+<voice lang="es">La mayoría de la gente no entiende</voice><break time="3s">
 
-<voice lang="en">Most people don't understand<break time="5s"></voice>
-<voice lang="es">La mayoría de la gente no entiende<break time="3s"></voice>
+<voice lang="en">I just order a steak everywhere</voice><break time="5s">
+<voice lang="es">Solo pido un bistec en todas partes</voice><break time="3s">
 
-<voice lang="en">I just order a steak everywhere<break time="5s"></voice>
-<voice lang="en">Solo pido un bistec en todas partes<break time="3s"></voice>
+<voice lang="en">I skip the side dishes</voice><break time="5s">
+<voice lang="es">Me salto las guarniciones</voice><break time="3s">
 
-<voice lang="en">I skip the side dishes<break time="5s"></voice>
-<voice lang="es">Me salto las guarniciones<break time="3s"></voice>
 
-<voice lang="en">CONTRAARGUMENTOS/PUNTOS DE DEBATE<break time="2s"></voice>
+
+<voice lang="en">COUNTERARGUMENTS/POINTS OF DEBATE<break time="2s"></voice>
 <voice lang="es">CONTRAARGUMENTOS/PUNTOS DE DEBATE<break time="2s"></voice>
 
+<voice lang="en">Studies show that</voice><break time="5s">
+<voice lang="es">Los estudios muestran que</voice><break time="3s">
 
-<voice lang="en">Studies show that<break time="5s"></voice>
-<voice lang="es">Los estudios muestran que<break time="3s"></voice>
+<voice lang="en">But what about</voice><break time="5s">
+<voice lang="es">Pero qué pasa con</voice><break time="3s">
 
-<voice lang="en">But what about<break time="5s"></voice>
-<voice lang="es">Pero qué pasa con<break time="3s"></voice>
+<voice lang="en">The research is conflicting</voice><break time="5s">
+<voice lang="es">La investigación es contradictoria</voice><break time="3s">
 
-<voice lang="en">The research is conflicting<break time="5s"></voice>
-<voice lang="es">La investigación es contradictoria<break time="3s"></voice>
+<voice lang="en">That's a common misconception</voice><break time="5s">
+<voice lang="es">Ese es un concepto erróneo común</voice><break time="3s">
 
-<voice lang="en">That's a common misconception<break time="5s"></voice>
-<voice lang="es">Ese es un concepto erróneo común<break time="3s"></voice>
+<voice lang="es">Let me explain my reasoning</voice><break time="5s">
+<voice lang="es">Déjame explicarte mi razonamiento</voice><break time="3s">
 
-<voice lang="es">Let me explain my reasoning<break time="5s"></voice>
-<voice lang="es">Déjame explicarte mi razonamiento<break time="3s"></voice>
+<voice lang="en">The evidence suggests</voice><break time="5s">
+<voice lang="es">La evidencia sugiere</voice><break time="3s">
 
-<voice lang="en">The evidence suggests<break time="5s"></voice>
-<voice lang="es">La evidencia sugiere<break time="3s"></voice>
+<voice lang="en">I've read multiple studies about this</voice><break time="5s">
+<voice lang="es">He leído múltiples estudios sobre esto</voice><break time="3s">
 
-<voice lang="en">I've read multiple studies about this<break time="5s"></voice>
-<voice lang="es">He leído múltiples estudios sobre esto<break time="3s"></voice>
+<voice lang="en">That's not what the science says</voice><break time="5s">
+<voice lang="es">Eso no es lo que dice la ciencia</voice><break time="3s">
 
-<voice lang="en">That's not what the science says<break time="5s"></voice>
-<voice lang="es">Eso no es lo que dice la ciencia<break time="3s"></voice>
+<voice lang="en">I disagree with that study</voice><break time="5s">
+<voice lang="es">No estoy de acuerdo con ese estudio</voice><break time="3s">
 
-<voice lang="en">I disagree with that study<break time="5s"></voice>
-<voice lang="es">No estoy de acuerdo con ese estudio<break time="3s"></voice>
+<voice lang="en">There's no evidence for that claim</voice><break time="5s">
+<voice lang="es">No hay evidencia para esa afirmación</voice><break time="3s">
 
-<voice lang="en">There's no evidence for that claim<break time="5s"></voice>
-<voice lang="es">No hay evidencia para esa afirmación<break time="3s"></voice>
+<voice lang="en">That's correlation, not causation</voice><break time="5s">
+<voice lang="es">Eso es correlación, no causalidad</voice><break time="3s">
 
-<voice lang="en">That's correlation, not causation<break time="5s"></voice>
-<voice lang="es">Eso es correlación, no causalidad<break time="3s"></voice>
+<voice lang="en">The data doesn't support that</voice><break time="5s">
+<voice lang="es">Los datos no apoyan eso</voice><break time="3s">
 
-<voice lang="en">The data doesn't support that<break time="5s"></voice>
-<voice lang="es">Los datos no apoyan eso<break time="3s"></voice>
+<voice lang="en">You're misinterpreting the research</voice><break time="5s">
+<voice lang="es">Estás malinterpretando la investigación</voice><break time="3s">
 
-<voice lang="en">You're misinterpreting the research<break time="5s"></voice>
-<voice lang="es">Estás malinterpretando la investigación<break time="3s"></voice>
+<voice lang="es">Let's look at the actual data</voice><break time="5s">
+<voice lang="es">Veamos los datos reales</voice><break time="3s">
 
-<voice lang="es">Let's look at the actual data<break time="5s"></voice>
-<voice lang="es">Veamos los datos reales<break time="3s"></voice>
+<voice lang="en">I can send you some research papers</voice><break time="5s">
+<voice lang="es">Te puedo enviar algunos artículos de investigación</voice><break time="3s">
 
-<voice lang="en">I can send you some research papers<break time="5s"></voice>
-<voice lang="es">Te puedo enviar algunos artículos de investigación<break time="3s"></voice>
-
-En final
-<voice lang="en"><break time="4s"></voice>
-
+El final
+<break time="4s">

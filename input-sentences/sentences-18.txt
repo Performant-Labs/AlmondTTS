@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Nineteen</voice><break time="2s"/>
+<voice lang="es">Fraces — Número diecinieve</voice><break time="2s"/>
+
+<voice lang="en">Whoever thinks deeply about sadness should become aware of their emotion.</voice><break time="5s"/>
+<voice lang="es">Quien piense profundamente en la tristeza tome conciencia de su emoción.</voice><break time="2s"/>
+
+<voice lang="en">Boys seek rest and recreational activities in the referred zone.</voice><break time="5s"/>
+<voice lang="es">Muchachos buscan descanso y actividades recreativas en la zona referida.</voice><break time="2s"/>
+
+<voice lang="en">News related to recent homicides bring emotional blockage and altered sleep.</voice><break time="5s"/>
+<voice lang="es">Las noticias relativas a homicidios recientes traen bloqueo emocional y sueño alterado.</voice><break time="2s"/>
+
+<voice lang="en">What experience I had on those super premium vacations with student girls.</voice><break time="5s"/>
+<voice lang="es">Qué experiencia tuve en aquellas vacaciones súper premium con chicas estudiantes.</voice><break time="2s"/>
+
+<voice lang="en">Those who could carry a little bit of work with them refer to those few.</voice><break time="5s"/>
+<voice lang="es">Quienes pudieron trasladar consigo un poquito de trabajo se refieren a aquellos pocos.</voice><break time="2s"/>
+
+<voice lang="en">Alcalá returned reserved to the satellite paradise represented by the pink statue.</voice><break time="5s"/>
+<voice lang="es">Alcalá volvió reservado al paraíso satelital representado por la estatua rosa.</voice><break time="2s"/>
+
+<voice lang="en">Religious professors want female students to have readings and knowledge represented in laboratories.</voice><break time="5s"/>
+<voice lang="es">Profesores religiosos quieren que las alumnas tengan lecturas y conocimientos representados en laboratorios.</voice><break time="2s"/>
+
+<voice lang="en">The author felt irritation and sadness, although she knew they would pass soon.</voice><break time="5s"/>
+<voice lang="es">La autora sentía irritación y tristeza, aunque sabía que pasarían pronto.</voice><break time="2s"/>
+
+<voice lang="en">Mom thought playing soccer was a sin, although the boys wanted to play.</voice><break time="5s"/>
+<voice lang="es">Mamá pensaba que jugar al fútbol era pecado, aunque los chicos querían jugar.</voice><break time="2s"/>
+
+<voice lang="en">Militants requested reserved interview formats and were able to use them expressly.</voice><break time="5s"/>
+<voice lang="es">Los militantes solicitaron formatos de entrevistas reservados y pudieron utilizarlos expresamente.</voice><break time="2s"/>
+
+<voice lang="en">The whole family was able to plan their Anniversary Fair together.</voice><break time="5s"/>
+<voice lang="es">Toda la familia pudo planear su Feria de Aniversario junta.</voice><break time="2s"/>
+
+<voice lang="en">The governor of Atotonilco requested new alliances from the Prevention Committee.</voice><break time="5s"/>
+<voice lang="es">El gobernador de Atotonilco solicitó al Comité de Prevención nuevas alianzas.</voice><break time="2s"/>
+
+<voice lang="en">Regarding the restaurant, entrepreneurs were able to slightly vary the amenities.</voice><break time="5s"/>
+<voice lang="es">En lo que respecta al restaurante, los empresarios pudieron variar las amenidades ligeramente.</voice><break time="2s"/>
+
+<voice lang="en">Blue Aviation was again restricted in Iraq; the supposed hurricane ended up being a vacancy.</voice><break time="5s"/>
+<voice lang="es">Aviación Blue volvió a estar restringida en Irak; el supuesto huracán terminó siendo una vacante.</voice><break time="2s"/>
+
+<voice lang="en">Someone could think of acceptance and forgiveness as a movement.</voice><break time="5s"/>
+<voice lang="es">Alguien pudo pensar en la aceptación y el perdón como un movimiento.</voice><break time="2s"/>
+
+<voice lang="en">Some school areas require responsibility, others promote inclusion and sustainability accompaniment.</voice><break time="5s"/>
+<voice lang="es">Unos ámbitos de escuela requieren responsabilidad, otros impulsan inclusión y acompañamiento sustentabilidad.</voice><break time="2s"/>
+
+<voice lang="en">That one could jump with you, while these started watching her too.</voice><break time="5s"/>
+<voice lang="es">Aquel pudo saltar contigo, mientras estos se pusieron a verla también.</voice><break time="2s"/>
+
+<voice lang="en">Some adults were able to develop some aptitudes through various language classes.</voice><break time="5s"/>
+<voice lang="es">Algunos adultos pudieron desarrollar algunas aptitudes mediante diversas clases de idiomas.</voice><break time="2s"/>
+
+<voice lang="en">Robert Bis was able to rescue human lives during the April disaster.</voice><break time="5s"/>
+<voice lang="es">Robert Bis pudo rescatar vidas humanas durante el desastre de abril.</voice><break time="2s"/>
+
+<voice lang="en">Directors requested respective authorizations and subscriptions, taken in respective periods.</voice><break time="5s"/>
+<voice lang="es">Los directivos solicitaron las respectivas autorizaciones y suscripciones, tomadas en periodos respectivos.</voice><break time="2s"/>
+
+<voice lang="en">Certain actors were able to capture their democratic conscience in art.</voice><break time="5s"/>
+<voice lang="es">Ciertos actores pudieron plasmar su conciencia democrática en el arte.</voice><break time="2s"/>
+
+<voice lang="en">It's clearly ritual for everyone today.</voice><break time="5s"/>
+<voice lang="es">Es claramente ritual para todos hoy.</voice><break time="2s"/>
+
+<voice lang="en">Some specialists were able to deal with some official and requested timely follow-up.</voice><break time="5s"/>
+<voice lang="es">Algunos especialistas pudieron tratar con algún funcionario y solicitaron seguimiento puntual.</voice><break time="2s"/>
+
+<voice lang="en">Several families were able to integrate lunch and dinner routines, which strengthened integration.</voice><break time="5s"/>
+<voice lang="es">Varias familias pudieron integrar rutinas de almuerzo y cena, lo cual fortaleció la integración.</voice><break time="2s"/>
+
+<voice lang="en">The company was able to locate the masculine truck in the garage.</voice><break time="5s"/>
+<voice lang="es">La compañía pudo ubicar el camión varonil en la cochera.</voice><break time="2s"/>
+
+<voice lang="en">Teenagers were able to find a safe exit thanks to achieved clarity.</voice><break time="5s"/>
+<voice lang="es">Los adolescentes pudieron encontrar una salida segura gracias a la claridad lograda.</voice><break time="2s"/>
+
+<voice lang="en">A certain researcher was able to coordinate work and certain suppliers were able to improve their distribution.</voice><break time="5s"/>
+<voice lang="es">Cierta investigadora pudo coordinar el trabajo y ciertas proveedoras pudieron mejorar su distribución.</voice><break time="2s"/>
+
+<voice lang="en">These refer to leisure, in which activities could be enjoyed.</voice><break time="5s"/>
+<voice lang="es">Éstas se refieren al ocio, en el cual las actividades pudieron disfrutarse.</voice><break time="2s"/>
+
+<voice lang="en">I want the secondary venue to have maintenance and permanence as home.</voice><break time="5s"/>
+<voice lang="es">Quiero que el recinto secundario tenga mantenimiento y permanencia como hogar.</voice><break time="2s"/>
+
+<voice lang="en">I wish the second doctor can present herself in the room.</voice><break time="5s"/>
+<voice lang="es">Deseo que la segunda doctora pueda presentarse en la sala.</voice><break time="2s"/>
+
+<voice lang="en">How many years I could share conversations with Domingo, same ground, same view.</voice><break time="5s"/>
+<voice lang="es">Cuántos años pude compartir conversaciones con Domingo, mismo suelo, misma vista.</voice><break time="2s"/>
+
+<voice lang="en">The second trainer from the institute was able to provide medical services in Granjas.</voice><break time="5s"/>
+<voice lang="es">El segundo entrenador venido del instituto pudo prestar servicios médicos en Granjas.</voice><break time="2s"/>
+
+<voice lang="en">Méndez returned from the Republic Cup trip satisfied and renewed.</voice><break time="5s"/>
+<voice lang="es">Méndez volvió de viaje a la Copa República satisfecho y renovado.</voice><break time="2s"/>
+
+<voice lang="en">This one gets up early, works, rests and helps anyone daily.</voice><break time="5s"/>
+<voice lang="es">Este se levanta temprano, trabaja, descansa y ayuda a cualquiera diariamente.</voice><break time="2s"/>
+
+<voice lang="en">My grandparents want the family to have semantic coherence and commitment.</voice><break time="5s"/>
+<voice lang="es">Mis abuelos quieren que la familia tenga coherencia y compromiso semánticos.</voice><break time="2s"/>
+
+<voice lang="en">Female mayors request scholarships from society and resort to different organizations.</voice><break time="5s"/>
+<voice lang="es">Las alcaldesas solicitan becas de la sociedad y recurren a distintas organizaciones.</voice><break time="2s"/>
+
+<voice lang="en">The serial will subscribed by Portillo ended in the vertical cabinet.</voice><break time="5s"/>
+<voice lang="es">El testamento seriado suscrito por Portillo terminó en el gabinete vertical.</voice><break time="2s"/>
+
+<voice lang="en">Various institutes and schools have taken technological adaptations for teachers and professors.</voice><break time="5s"/>
+<voice lang="es">Diversos institutos y escuelas han tomado adecuaciones tecnológicas para maestros y profesores.</voice><break time="2s"/>
+
+<voice lang="en">I'm hungry, whose solution would be food products and fresh water.</voice><break time="5s"/>
+<voice lang="es">Tengo hambre, cuya solución serían productos alimenticios y agua fresca.</voice><break time="2s"/>
+
+<voice lang="en">Those sick people were able to receive adequate diagnoses and now show less fat.</voice><break time="5s"/>
+<voice lang="es">Esas personas enfermas pudieron recibir diagnósticos adecuados y ahora muestran menos grasa.</voice><break time="2s"/>
+
+<voice lang="en">Those children, whose mothers went crazy, none could ever know it.</voice><break time="5s"/>
+<voice lang="es">Esos hijos, cuyas madres se volvían locas, ninguno pudo saberlo nunca.</voice><break time="2s"/>
+
+<voice lang="en">Phone purchases made in the sixth week ended up happening.</voice><break time="5s"/>
+<voice lang="es">Las compras telefónicas realizadas en la sexta semana terminaron sucediendo.</voice><break time="2s"/>
+
+<voice lang="en">This coordinator requested jobs and the company required his marketing programs.</voice><break time="5s"/>
+<voice lang="es">Este coordinador solicitó trabajos y la empresa requirió sus programas de mercadotecnia.</voice><break time="2s"/>
+
+<voice lang="en">Guadalupe put the department link.</voice><break time="5s"/>
+<voice lang="es">Guadalupe puso el link del departamento.</voice><break time="2s"/>
+
+<voice lang="en">They refer to whose daily work I put all my effort.</voice><break time="5s"/>
+<voice lang="es">Ellas se refieren a cuyo trabajo diario pongo todo mi esfuerzo.</voice><break time="2s"/>
+
+<voice lang="en">Our children, subjected to established rules, have finished dinner together.</voice><break time="5s"/>
+<voice lang="es">Nuestros hijos, sometidos a reglas establecidas, han terminado la cena juntos.</voice><break time="2s"/>
+
+<voice lang="en">Accountants requested so many scholarships and obtained them.</voice><break time="5s"/>
+<voice lang="es">Los contadores solicitaron tantas becas y las obtuvieron.</voice><break time="2s"/>
+
+<voice lang="en">Citizens were able to enjoy marriage and fat purchases thanks to the group.</voice><break time="5s"/>
+<voice lang="es">Los ciudadanos pudieron disfrutar del matrimonio y de la compra de grasas gracias al grupo.</voice><break time="2s"/>
+
+<voice lang="en">The family was able to stick photos in the home and keep memories.</voice><break time="5s"/>
+<voice lang="es">La familia pudo pegar fotos en el hogar y guardar recuerdos.</voice><break time="2s"/>
+
+<voice lang="en">The IMSS virgin observed the third globe in the rear molecular romance.</voice><break time="5s"/>
+<voice lang="es">La virgen del IMSS observó el tercer globo en el romance molecular trasero.</voice><break time="2s"/>
+
+<voice lang="en">The consumer has been able to pay for beer, but the company demands vaccination.</voice><break time="5s"/>
+<voice lang="es">El consumidor ha podido pagar la cerveza, pero la empresa exige la vacuna.</voice><break time="2s"/>
+
+<voice lang="en">It refers to various products whose prices go up in purchases.</voice><break time="5s"/>
+<voice lang="es">Se refiere a varios productos cuyos precios se suben en las compras.</voice><break time="2s"/>
+
+<voice lang="en">Request independently more information about work and ask specifically how much they require!</voice><break time="5s"/>
+<voice lang="es">¡Solicite independientemente más información acerca del trabajo y pregunte específicamente cuánto requieren!</voice><break time="2s"/>
+
+<voice lang="en">Several campaigns themselves represented problems and would have a direct impact on participants.</voice><break time="5s"/>
+<voice lang="es">Varias campañas mismas representaban problemas y tendrían un impacto directo en los participantes.</voice><break time="2s"/>
+
+<voice lang="en">Who refers to which is yours and how much of the rest they want to transfer.</voice><break time="5s"/>
+<voice lang="es">Quién se refiere a cuál es tuyo y cuánto de lo demás quieren transferir.</voice><break time="2s"/>
+
+<voice lang="en">The teacher requested scholarship for Puebla colleagues and I put exactly the required half.</voice><break time="5s"/>
+<voice lang="es">El maestro solicitó beca para compañeros poblanos y puse exactamente la mitad requerida.</voice><break time="2s"/>
+
+<voice lang="en">Leo requested the required documents in Carranza's last construction.</voice><break time="5s"/>
+<voice lang="es">Leo solicitó los documentos requeridos en la última construcción de Carranza.</voice><break time="2s"/>
+
+<voice lang="en">In your room you'll require many accessories, own storage and a protective garden.</voice><break time="5s"/>
+<voice lang="es">En tu sala requerirás muchísimos accesorios, almacenamiento propio y un jardín protector.</voice><break time="2s"/>
+
+<voice lang="en">Unfortunately, the player touched down there; consequently, we have come out more.</voice><break time="5s"/>
+<voice lang="es">Desafortunadamente, el jugador tocó allá abajo; consecuentemente, hemos salido más.</voice><break time="2s"/>
+
+<voice lang="en">In the traffic subheading let's see precisely methods, costs and transportation options.</voice><break time="5s"/>
+<voice lang="es">En la subpartida de tráfico veamos precisamente métodos, costos y opciones de transporte.</voice><break time="2s"/>
+
+<voice lang="en">Something titled "Last chapter of the seventh and third seasons" has happened.</voice><break time="5s"/>
+<voice lang="es">Ha sucedido algo titulado "Último capítulo de la séptima y tercera temporadas".</voice><break time="2s"/>
+
+<voice lang="en">The new campus maintains a positive image and research students will be able to learn about productivity.</voice><break time="5s"/>
+<voice lang="es">El nuevo campus conserva una imagen positiva y los estudiantes investigadores podrán aprender sobre productividad.</voice><break time="2s"/>
+
+<voice lang="en">No supermarket sells expensive junk; I look for good food at fair prices.</voice><break time="5s"/>
+<voice lang="es">Ningún supermercado vende chatarra cara; busco alimentos buenos a precio justo.</voice><break time="2s"/>
+
+<voice lang="en">During vacations we know which video games we love and practice sports without seriousness.</voice><break time="5s"/>
+<voice lang="es">Durante las vacaciones sabemos qué videojuegos nos encantan y practicamos deporte sin seriedad.</voice><break time="2s"/>
+
+<voice lang="en">The server here has touched the last congress and taken supposed vouchers.</voice><break time="5s"/>
+<voice lang="es">El servidor aquí ha tocado el último congreso y tomado supuestos vales.</voice><break time="2s"/>
+
+<voice lang="en">Few people enjoy movies at home and count your cards as company.</voice><break time="5s"/>
+<voice lang="es">Poca gente disfruta de las películas en casa y cuenta tus cartas como compañía.</voice><break time="2s"/>
+
+<voice lang="en">Every morning I consider when to clean the house while listening to music and dancing.</voice><break time="5s"/>
+<voice lang="es">Cada mañana considero cuándo limpiar la casa mientras escucho música y bailo.</voice><break time="2s"/>
+
+<voice lang="en">How many teenagers studying basic subjects does public education achieve with scholarships.</voice><break time="5s"/>
+<voice lang="es">Cuántos adolescentes que estudian materias básicas logra la enseñanza pública con becas.</voice><break time="2s"/>
+
+<voice lang="en">Few magazines mention ecology and preserve ideals of human freedom.</voice><break time="5s"/>
+<voice lang="es">Pocas revistas mencionan la ecología y preservan los ideales de la libertad humana.</voice><break time="2s"/>
+
+<voice lang="en">Fans enjoy music and swimming when they know where we spend weeks living.</voice><break time="5s"/>
+<voice lang="es">Los aficionados disfrutan de la música y la natación cuando saben dónde pasamos semanas viviendo.</voice><break time="2s"/>
+
+<voice lang="en">The school itself fosters independence and workers increased their happiness.</voice><break time="5s"/>
+<voice lang="es">La propia escuela fomenta la independencia y los trabajadores aumentaron su felicidad.</voice><break time="2s"/>
+
+<voice lang="en">It offers support to the community.</voice><break time="5s"/>
+<voice lang="es">Lo. ofrece apoyo a la comunidad.</voice><break time="2s"/>
+
+<voice lang="en">The seventh healthy construction of the body is adequate rest, hahaha.</voice><break time="5s"/>
+<voice lang="es">La séptima construcción saludable del cuerpo es el descanso adecuado, jajaja.</voice><break time="2s"/>
+
+<voice lang="en">Mother and teenage son live in the East and feel hope in their souls.</voice><break time="5s"/>
+<voice lang="es">Madre e hijo adolescente viven en Oriente y sienten esperanza en sus almas.</voice><break time="2s"/>
+
+<voice lang="en">Such minerals surround fertile soil and increase awareness about natural heritage.</voice><break time="5s"/>
+<voice lang="es">Tales minerales rodean el suelo fértil y aumentan la conciencia sobre el patrimonio natural.</voice><break time="2s"/>
+
+<voice lang="en">My mind understands the complexity of the document I review.</voice><break time="5s"/>
+<voice lang="es">Mi mente comprende la complejidad del documento que reviso.</voice><break time="2s"/>
+
+<voice lang="en">So many students enjoy tourism and travel happily; we live in peace and grace.</voice><break time="5s"/>
+<voice lang="es">Tantos escolares disfrutan del turismo y viajan felices; vivimos en paz y gracia.</voice><break time="2s"/>
+
+<voice lang="en">It offers support to the community.</voice><break time="5s"/>
+<voice lang="es">Se. ofrece apoyo a la comunidad.</voice><break time="2s"/>
+
+<voice lang="en">Count and write down a lot of expenses to calculate, reduce and pay them!</voice><break time="5s"/>
+<voice lang="es">¡Cuenta y anota un montón de gastos para calcularlos, reducirlos y pagarlos!</voice><break time="2s"/>
+
+<voice lang="en">I would like the seventh manager to promote better schedules for those who work.</voice><break time="5s"/>
+<voice lang="es">Quisiera que el séptimo gerente promoviera mejores horarios para quienes laboran.</voice><break time="2s"/>
+
+<voice lang="en">In some quiet houses, the community lives in a home that enriches.</voice><break time="5s"/>
+<voice lang="es">En unas casas tranquilas, la comunidad vive en un hogar que enriquece.</voice><break time="2s"/>
+
+<voice lang="en">That doctorate will allow growing, improving and reinforcing knowledge considered fundamental.</voice><break time="5s"/>
+<voice lang="es">Ese doctorado permitirá crecer, mejorar y reforzar conocimientos que se consideran fundamentales.</voice><break time="2s"/>
+
+<voice lang="en">Let's go together because we can be better when we help others.</voice><break time="5s"/>
+<voice lang="es">Vamos juntos porque podemos ser mejores cuando ayudamos a otros.</voice><break time="2s"/>
+
+<voice lang="en">I want the restaurant to serve hot cocoa throughout winter.</voice><break time="5s"/>
+<voice lang="es">Quiero que el restaurante sirva cacao caliente durante todo el invierno.</voice><break time="2s"/>
+
+<voice lang="en">The professor explains public education and other topics during night classes.</voice><break time="5s"/>
+<voice lang="es">La profesora explica la educación pública y otros temas durante las clases nocturnas.</voice><break time="2s"/>
+
+<voice lang="en">We are those who can decide today, because we are free and responsible together.</voice><break time="5s"/>
+<voice lang="es">Somos quienes podemos decidir hoy, porque somos libres y responsables juntos.</voice><break time="2s"/>
+
+<voice lang="en">And the professor organizes workshops so students share their experiences.</voice><break time="5s"/>
+<voice lang="es">Y la profesora organiza talleres para que los estudiantes compartan sus experiencias.</voice><break time="2s"/>
+
+<voice lang="en">They were happy because they could travel tomorrow and there would be unforgettable surprises for everyone.</voice><break time="5s"/>
+<voice lang="es">Estaban felices porque podrían viajar mañana y habría sorpresas inolvidables para todos.</voice><break time="2s"/>
+
+<voice lang="en">They must review reports before they are complete and ready to be sent.</voice><break time="5s"/>
+<voice lang="es">Deben revisar los informes antes de que estén completos y listos para ser enviados.</voice><break time="2s"/>
+
+<voice lang="en">Enter now, subscribe and you'll be able to know courses that usually improve!</voice><break time="5s"/>
+<voice lang="es">¡Ingresa ahora, suscríbete y podrás conocer cursos que suelen mejorar!</voice><break time="2s"/>
+
+<voice lang="en">Take care of your health, clean your environment and avoid dying prematurely!</voice><break time="5s"/>
+<voice lang="es">¡Cuida tu salud, limpia tu entorno y evita morir prematuramente!</voice><break time="2s"/>
+
+<voice lang="en">At home we cook together on Sundays and share long family stories.</voice><break time="5s"/>
+<voice lang="es">En casa cocinamos juntos los domingos y compartimos largas historias familiares.</voice><break time="2s"/>
+
+<voice lang="en">We must organize ourselves better to be able to finish the project this week.</voice><break time="5s"/>
+<voice lang="es">Debemos organizarnos mejor para poder terminar el proyecto esta semana.</voice><break time="2s"/>
+
+<voice lang="en">It would be better if today we could talk calmly about our repressed emotions.</voice><break time="5s"/>
+<voice lang="es">Sería mejor que hoy pudiéramos hablar tranquilamente de nuestras emociones reprimidas.</voice><break time="2s"/>
+
+<voice lang="en">Nobody could believe we are working so hard to improve our lives.</voice><break time="5s"/>
+<voice lang="es">Nadie podría creer que estamos trabajando tanto para mejorar nuestras vidas.</voice><break time="2s"/>
+
+<voice lang="en">Both read half text about four thousand while waiting for the train.</voice><break time="5s"/>
+<voice lang="es">Ambos leen medio texto acerca de cuatro mil mientras esperan el tren.</voice><break time="2s"/>
+
+<voice lang="en">You could study more today so tomorrow you can rest peacefully.</voice><break time="5s"/>
+<voice lang="es">Tú podrías estudiar más hoy para que mañana puedas descansar tranquilo.</voice><break time="2s"/>
+
+<voice lang="en">Results will be published tomorrow if we have reviewed all the data.</voice><break time="5s"/>
+<voice lang="es">Los resultados serán publicados mañana si hemos revisado todos los datos.</voice><break time="2s"/>
+
+<voice lang="en">What percentage discount does the online store offer today.</voice><break time="5s"/>
+<voice lang="es">Qué porcentaje de descuento ofrece hoy la tienda online.</voice><break time="2s"/>
+
+<voice lang="en">I read the news while having breakfast because that way I organize my day better.</voice><break time="5s"/>
+<voice lang="es">Leo las noticias mientras desayuno porque así organizo mejor mi día.</voice><break time="2s"/>
+
+<voice lang="en">I'm aware there would be problems if they had been less responsible.</voice><break time="5s"/>
+<voice lang="es">Soy consciente de que habría problemas si hubieran sido menos responsables.</voice><break time="2s"/>
+
+<voice lang="en">It was raining all night and they closed the main roads.</voice><break time="5s"/>
+<voice lang="es">Estuvo lloviendo toda la noche y cerraron las carreteras principales.</voice><break time="2s"/>
+
+<voice lang="en">One hundred fifty tourists rest five days and twenty nights in forty hammocks.</voice><break time="5s"/>
+<voice lang="es">Ciento cincuenta turistas descansan cinco días y veinte noches en cuarenta hamacas.</voice><break time="2s"/>
+
+<voice lang="en">We bought ninety gifts and two stockings for our two nieces in December.</voice><break time="5s"/>
+<voice lang="es">Compramos noventa regalos y dos medias para nuestras dos sobrinas en diciembre.</voice><break time="2s"/>
+
+<voice lang="en">What chef prepares the family dinner and shares recipes with everyone today.</voice><break time="5s"/>
+<voice lang="es">Qué chef prepara la cena familiar y comparte recetas con todos hoy.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

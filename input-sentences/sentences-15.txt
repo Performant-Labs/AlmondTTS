@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Sixteen</voice><break time="2s"/>
+<voice lang="es">Fraces — Número dieciséis</voice><break time="2s"/>
+
+<voice lang="en">The acronyms identified and the thread allowed it to become a clear designation.</voice><break time="5s">
+<voice lang="es">Las siglas identificaron y el hilo permitió que se convirtiera en una designación clara.</voice><break time="2s">
+
+<voice lang="en">Specialized journalism and football were mentioned today in the Official Gazette.</voice><break time="5s">
+<voice lang="es">Periodismo y fútbol especializados fueron mencionados hoy en la Gaceta Oficial.</voice><break time="2s">
+
+<voice lang="en">The band took the starting flag and left, becoming a neighborhood legend.</voice><break time="5s">
+<voice lang="es">La banda tomó el banderazo y salió, convirtiéndose en leyenda del barrio.</voice><break time="2s">
+
+<voice lang="en">Specialized workers provide informal services and receive patents granted by notary.</voice><break time="5s">
+<voice lang="es">Trabajadores especializados prestan servicios informales y reciben patentes otorgadas por notario.</voice><break time="2s">
+
+<voice lang="en">Copying the page made me nervous because I found rings that marked each fraction.</voice><break time="5s">
+<voice lang="es">Copiar la página me puso nervioso porque encontraba anillos que señalaban cada fracción.</voice><break time="2s">
+
+<voice lang="en">I want him to know what the specific diameter of the road is.</voice><break time="5s">
+<voice lang="es">Yo quiero que él sepa cuál es el diámetro específico de la vía.</voice><break time="2s">
+
+<voice lang="en">Aside I carry a list of specific orders basically paid, recently finished.</voice><break time="5s">
+<voice lang="es">Aparte llevo una lista de pedidos específicos y básicamente pagados, recién terminada.</voice><break time="2s">
+
+<voice lang="en">I will correct the page and then print the final version.</voice><break time="5s">
+<voice lang="es">Yo corregiré la página y luego imprimiré la versión final.</voice><break time="2s">
+
+<voice lang="en">Every morning I put a ribbon on the corresponding page and write.</voice><break time="5s">
+<voice lang="es">Cada mañana pongo un listón en la página que corresponde y escribo.</voice><break time="2s">
+
+<voice lang="en">It's clearly established for everyone today.</voice><break time="5s">
+<voice lang="es">Es claramente establecidos para todos hoy.</voice><break time="2s">
+
+<voice lang="en">I want to cut the page tab, but I'll finish the insertion.</voice><break time="5s">
+<voice lang="es">Quiero cortar la pestaña de la página, pero terminaré la inserción.</voice><break time="2s">
+
+<voice lang="en">The stellar play finished being performed and fingers remained prepared, informed.</voice><break time="5s">
+<voice lang="es">La jugada estelar terminó de realizarse y los dedos quedaron preparados, informados.</voice><break time="2s">
+
+<voice lang="en">They signed the script and, starting today, would try to create another page.</voice><break time="5s">
+<voice lang="es">Ellos firmaron el guion y, empezando hoy, intentarían crear otra página.</voice><break time="2s">
+
+<voice lang="en">Every morning, my dear brown neighbor practices yoga and listens to music for free.</voice><break time="5s">
+<voice lang="es">Cada mañana, mi estimado vecino moreno practica yoga y escucha música gratis.</voice><break time="2s">
+
+<voice lang="en">University education follows today a recommended and seriously applied strategic approach.</voice><break time="5s">
+<voice lang="es">La educación universitaria sigue hoy un enfoque estratégico recomendado y aplicado seriamente.</voice><break time="2s">
+
+<voice lang="en">Although they insist, count on the food being liked and allowing renewal of spirits.</voice><break time="5s">
+<voice lang="es">Aunque insistan, cuenten con que la comida gusta y permitirá renovar los ánimos.</voice><break time="2s">
+
+<voice lang="en">She made excuses because she wanted to leave early and nobody stopped her.</voice><break time="5s">
+<voice lang="es">Ella ponía pretextos porque deseaba salir temprano y nadie la detenía.</voice><break time="2s">
+
+<voice lang="en">The strict government denied prior information about insufficient and powerful transnational taxes.</voice><break time="5s">
+<voice lang="es">El gobierno estricto negó información previa sobre impuestos trasnacionales insuficientes y poderosos.</voice><break time="2s">
+
+<voice lang="en">They took down the page when we sent cells by mail and left.</voice><break time="5s">
+<voice lang="es">Ellos daban de baja la página cuando enviamos celdas por correo y salieron.</voice><break time="2s">
+
+<voice lang="en">Although they lose blocks, they keep fighting and will have a better approximation.</voice><break time="5s">
+<voice lang="es">Aunque pierdan cuadras, ellos siguen dando pelea y tendrán una mejor aproximación.</voice><break time="2s">
+
+<voice lang="en">They will do the work computation and I'll be able to give it adequate follow-up.</voice><break time="5s">
+<voice lang="es">Ellos harán el cómputo del trabajo y podré darle un seguimiento adecuado.</voice><break time="2s">
+
+<voice lang="en">I bring documents and will give explanations to provide them the details they request.</voice><break time="5s">
+<voice lang="es">Yo traigo documentos y daré explicaciones para proporcionarles los detalles que soliciten.</voice><break time="2s">
+
+<voice lang="en">They visited the European summit and declared a nuclear loss, showing public concern.</voice><break time="5s">
+<voice lang="es">Ellos visitaron la cumbre europea y declararon una pérdida nuclear, mostrando preocupación pública.</voice><break time="2s">
+
+<voice lang="en">At home, equal Europeans made a reserved magical page, staying to carry out beginnings.</voice><break time="5s">
+<voice lang="es">En casa, europeos iguales hicieron una página mágica reservada, quedándose para llevar a cabo inicios.</voice><break time="2s">
+
+<voice lang="en">They select evaluated proposals and subsequently incorporate generated and modified pages.</voice><break time="5s">
+<voice lang="es">Ellos seleccionan propuestas evaluadas y posteriormente incorporan páginas generadas y modificadas.</voice><break time="2s">
+
+<voice lang="en">In our family conflicts can occur and I try to justify them always.</voice><break time="5s">
+<voice lang="es">En nuestra familia pueden darse conflictos y trato de justificarlos siempre.</voice><break time="2s">
+
+<voice lang="en">The evaluated results were published on the included and signed page.</voice><break time="5s">
+<voice lang="es">Los resultados evaluados fueron publicados en la página incluida y firmada.</voice><break time="2s">
+
+<voice lang="en">I'll call you when you leave the page to give you the information included previously.</voice><break time="5s">
+<voice lang="es">Te llamaré cuando dejes la página para darte la información incluida anteriormente.</voice><break time="2s">
+
+<voice lang="en">There have been incredible Oaxacan trips and we'll have maximum memories when you return.</voice><break time="5s">
+<voice lang="es">Han existido viajes oaxaqueños increíbles y tendremos recuerdos máximos cuando regreses.</voice><break time="2s">
+
+<voice lang="en">They will give health advice when periodic medical checkups are done.</voice><break time="5s">
+<voice lang="es">Ellos darán consejos de salud cuando se hagan chequeos médicos periódicos.</voice><break time="2s">
+
+<voice lang="en">Although he had seniority and should retire, he chose to stay and continued working.</voice><break time="5s">
+<voice lang="es">Aunque tenía antigüedad y debía retirarse, eligió quedarse y siguió trabajando.</voice><break time="2s">
+
+<voice lang="en">The house was issued legally and remained linked to the received page.</voice><break time="5s">
+<voice lang="es">La casa fue expedida legalmente y quedó ligada a la página recibida.</voice><break time="2s">
+
+<voice lang="en">It always turns out explicit for many.</voice><break time="5s">
+<voice lang="es">Resulta siempre explícita para muchos.</voice><break time="2s">
+
+<voice lang="en">She will choose the appropriate page, but you will decide how to use it.</voice><break time="5s">
+<voice lang="es">Ella escogerá la página adecuada, pero usted decidirá cómo usarla.</voice><break time="2s">
+
+<voice lang="en">The rice served here has a very marked flavor and is really liked.</voice><break time="5s">
+<voice lang="es">El arroz servido aquí tiene un sabor muy marcado y realmente gusta.</voice><break time="2s">
+
+<voice lang="en">I want to tell you that I have studied because education transforms lives.</voice><break time="5s">
+<voice lang="es">Quiero decirle que he estudiado porque la educación transforma vidas.</voice><break time="2s">
+
+<voice lang="en">I have sincerely expressed my daily routine and mentioned activities exactly.</voice><break time="5s">
+<voice lang="es">Sinceramente he expresado mi rutina diaria y he mencionado exactamente las actividades.</voice><break time="2s">
+
+<voice lang="en">They received the page and thought to tell them it was destroyed.</voice><break time="5s">
+<voice lang="es">Ellos recibieron la página y pensaron decirles que estaba destruida.</voice><break time="2s">
+
+<voice lang="en">I wish that exposed people forget chemicals and stay ready.</voice><break time="5s">
+<voice lang="es">Deseo que las personas expuestas olviden los químicos y se mantengan listas.</voice><break time="2s">
+
+<voice lang="en">They take the page home and wish to say it with joy.</voice><break time="5s">
+<voice lang="es">Ellos llevan la página a casa y desean decirla con alegría.</voice><break time="2s">
+
+<voice lang="en">The page exposed minor errors, but will continue being sufficiently useful formally.</voice><break time="5s">
+<voice lang="es">La página expuso errores menores, pero seguirá siendo suficientemente útil formalmente.</voice><break time="2s">
+
+<voice lang="en">They read the page and then could tell themselves what they remember exactly.</voice><break time="5s">
+<voice lang="es">Ellos leen la página y luego podrían decirse qué recuerdan exactamente.</voice><break time="2s">
+
+<voice lang="en">He said that leisure would allow interacting and that everyone could join later.</voice><break time="5s">
+<voice lang="es">Decía que el ocio permitiría interactuar y que todos podrían sumarse luego.</voice><break time="2s">
+
+<voice lang="en">Hopefully the exposed find adequate help and don't require being kidnapped.</voice><break time="5s">
+<voice lang="es">Ojalá que los expuestos encuentren ayuda adecuada y no requieran ser secuestrados.</voice><break time="2s">
+
+<voice lang="en">The extensive PDF was made jointly by Infonavit and Conacyt.</voice><break time="5s">
+<voice lang="es">El extenso PDF fue realizado conjuntamente por Infonavit y Conacyt.</voice><break time="2s">
+
+<voice lang="en">We traveled abroad from Guadalajara and enjoyed magical valley views.</voice><break time="5s">
+<voice lang="es">Viajamos al extranjero desde Guadalajara y disfrutamos de vistas mágicas del valle.</voice><break time="2s">
+
+<voice lang="en">Unfortunately, she expresses emotions with a cold external face and he suspects sadness.</voice><break time="5s">
+<voice lang="es">Lamentablemente, ella expresa emociones con un frío rostro externo y él sospecha tristeza.</voice><break time="2s">
+
+<voice lang="en">Workers obtained extracted materials that could be used correctly in production.</voice><break time="5s">
+<voice lang="es">Los trabajadores obtuvieron materiales extraídos que pudieron usarse correctamente en producción.</voice><break time="2s">
+
+<voice lang="en">Strange tourists arrived at the metropolitan city and then left satisfied.</voice><break time="5s">
+<voice lang="es">Turistas extraños llegaron a la ciudad metropolitana y luego se marcharon satisfechos.</voice><break time="2s">
+
+<voice lang="en">The family has manufactured passive and practically integrated memories, faithfully trying to stay united.</voice><break time="5s">
+<voice lang="es">La familia ha fabricado recuerdos pasivos y prácticamente integrados, tratando fielmente de mantenerse unida.</voice><break time="2s">
+
+<voice lang="en">They said they would arrive, although they knew they would get lost and return.</voice><break time="5s">
+<voice lang="es">Ellos decían que llegarían, aunque sabían que se perderían y volverían.</voice><break time="2s">
+
+<voice lang="en">I left bags at home, but wished to buy clothes and shoes.</voice><break time="5s">
+<voice lang="es">He dejado bolsas en casa, pero deseé comprar ropa y zapatos.</voice><break time="2s">
+
+<voice lang="en">Deceased Esteban left deep emotions and recurring sadness at Christmas.</voice><break time="5s">
+<voice lang="es">Esteban fallecido dejó emociones profundas y tristeza recurrente en Navidad.</voice><break time="2s">
+
+<voice lang="en">People seek leave me alone calmly.</voice><break time="5s">
+<voice lang="es">La gente busca dejame con calma.</voice><break time="2s">
+
+<voice lang="en">We stopped smoking because we thought health would position itself better.</voice><break time="5s">
+<voice lang="es">Dejamos de fumar porque pensamos que la salud se posicionaría mejor.</voice><break time="2s">
+
+<voice lang="en">She feels very famous indeed.</voice><break time="5s">
+<voice lang="es">Se siente muy famosas en verdad.</voice><break time="2s">
+
+<voice lang="en">I would like the famous miner to be reading his favorite novel quietly.</voice><break time="5s">
+<voice lang="es">Quisiera que el famoso minero estuviera leyendo tranquilo su novela favorita.</voice><break time="2s">
+
+<voice lang="en">They didn't want to let me vote and I launched questions insisting on breaking prejudices.</voice><break time="5s">
+<voice lang="es">No quisieron dejarme votar y lancé preguntas insistiendo en romper los prejuicios.</voice><break time="2s">
+
+<voice lang="en">The pharmacist rested quietly at home and wished only for a recreational walk.</voice><break time="5s">
+<voice lang="es">El farmacéutico descansaba tranquilo en casa y deseaba solo un paseo recreativo.</voice><break time="2s">
+
+<voice lang="en">I carried a simple list and made large federal purchases, but ended up spending more.</voice><break time="5s">
+<voice lang="es">Llevaba una lista simple e hice compras federativas grandes, pero terminé gastando más.</voice><break time="2s">
+
+<voice lang="en">She perceives female identity as an infinite fabric, produced and inspired.</voice><break time="5s">
+<voice lang="es">Ella percibe la identidad femenina como un tejido infinito, producido e inspirado.</voice><break time="2s">
+
+<voice lang="en">Although they leave questions unanswered, they indicated that intervening would be necessary stop.</voice><break time="5s">
+<voice lang="es">Aunque dejen preguntas sin responder, indicaron que intervenir sería parada necesaria.</voice><break time="2s">
+
+<voice lang="en">Female nature, surrounded by incipient life, will have a foreseen and sustained future.</voice><break time="5s">
+<voice lang="es">La naturaleza femenina, rodeada de vida incipiente, tendrá un futuro previsto y sostenido.</voice><break time="2s">
+
+<voice lang="en">I leave the report because I forgot to put the pages you requested.</voice><break time="5s">
+<voice lang="es">Yo dejo el informe porque olvidé poner las fojas que usted pidió.</voice><break time="2s">
+
+<voice lang="en">The community demanded environmental protection and hoped that nature would continue emerging.</voice><break time="5s">
+<voice lang="es">La comunidad demandó protección ambiental y esperaba que la naturaleza siguiera surgiendo.</voice><break time="2s">
+
+<voice lang="en">The deadline set by the American judge seemed obvious and urgent.</voice><break time="5s">
+<voice lang="es">El plazo fijado por el juez estadounidense parecía obvio y urgente.</voice><break time="2s">
+
+<voice lang="en">Depending on the project, let's do the work together and use resources well.</voice><break time="5s">
+<voice lang="es">Dependiendo del proyecto, hagamos el trabajo juntos y utilicemos bien los recursos.</voice><break time="2s">
+
+<voice lang="en">Fixed prices bother interested clientele, but allow easy decisions.</voice><break time="5s">
+<voice lang="es">Los precios fijos incomodan a la clientela interesada, pero permiten decisiones fáciles.</voice><break time="2s">
+
+<voice lang="en">They wish to deposit money when they can obtain interest and eliminate their debts.</voice><break time="5s">
+<voice lang="es">Ellos desean depositar dinero cuando puedan obtener intereses y eliminar sus deudas.</voice><break time="2s">
+
+<voice lang="en">The signed constitution guarantees free primary and secondary education for all.</voice><break time="5s">
+<voice lang="es">La constitución firmada garantiza educación primaria y secundaria gratuitas para todos.</voice><break time="2s">
+
+<voice lang="en">Although they repeal norms, I insist on exposing guardianship and remembering obligations involved.</voice><break time="5s">
+<voice lang="es">Aunque deroguen normas, insisto en exponer la tutela y recordar las obligaciones que involucran.</voice><break time="2s">
+
+<voice lang="en">The signing doctor insists on detecting transitory problems and facing sexually transmitted diseases.</voice><break time="5s">
+<voice lang="es">El médico firmante insiste en detectar problemas transitorios y enfrentar enfermedades de transmisión sexual.</voice><break time="2s">
+
+<voice lang="en">Japanese food prepared here in the West is heavy but recommendable.</voice><break time="5s">
+<voice lang="es">La comida japonesa elaborada aquí en Occidente resulta pesada pero recomendable.</voice><break time="2s">
+
+<voice lang="en">Tourists formed in groups arrive here and subsequently leave toward the west.</voice><break time="5s">
+<voice lang="es">Turistas formados en grupos llegan aquí y, posteriormente, salen hacia el poniente.</voice><break time="2s">
+
+<voice lang="en">At home, the formulated rule prohibits leaving the door open during cold nights.</voice><break time="5s">
+<voice lang="es">En casa, la regla formulada prohíbe dejar la puerta abierta durante las noches frías.</voice><break time="2s">
+
+<voice lang="en">Every day I formulate simple goals and have constant progress.</voice><break time="5s">
+<voice lang="es">Cada día formulo metas simples y tengo avances constantes.</voice><break time="2s">
+
+<voice lang="en">If stress disappears, you'll perceive leisure better and can enjoy it.</voice><break time="5s">
+<voice lang="es">Si desaparece el estrés, percibirás mejor el ocio y podrás disfrutar de él.</voice><break time="2s">
+
+<voice lang="en">He had been forced to forget black fish, but returned dressed.</voice><break time="5s">
+<voice lang="es">Él se había visto forzado a olvidar los pescados negros, pero volvió vestido.</voice><break time="2s">
+
+<voice lang="en">They performed leisure activities and exhibited a specially designed photographic collection.</voice><break time="5s">
+<voice lang="es">Ellos realizaron actividades de ocio y exhibieron una colección fotográfica especialmente pensada.</voice><break time="2s">
+
+<voice lang="en">I want the French teacher to explain previous doubts before the exam.</voice><break time="5s">
+<voice lang="es">Quiero que el profesor francés explique las dudas previas antes del examen.</voice><break time="2s">
+
+<voice lang="en">Students wish to learn and teachers to impart inclusive and critical education.</voice><break time="5s">
+<voice lang="es">Los estudiantes desean aprender y los profesores impartir educación inclusiva y crítica.</voice><break time="2s">
+
+<voice lang="en">The front mountain range formed millions of years ago and has suffered washing.</voice><break time="5s">
+<voice lang="es">La cordillera frontal se formó hace millones de años y ha sufrido lavado.</voice><break time="2s">
+
+<voice lang="en">Although you want to kill me, I'll do everything you wish and more.</voice><break time="5s">
+<voice lang="es">Aunque quieras matarme, yo haré todo lo que desees y más.</voice><break time="2s">
+
+<voice lang="en">It always turns out founded for many.</voice><break time="5s">
+<voice lang="es">Resulta siempre fundado para muchos.</voice><break time="2s">
+
+<voice lang="en">The Japanese professor explained physics and then well-read students asked their doubts.</voice><break time="5s">
+<voice lang="es">La profesora japonesa explicó física y luego los estudiantes leídos preguntaron sus dudas.</voice><break time="2s">
+
+<voice lang="en">The Millennium Prize has generated scientific discoveries published in an England magazine.</voice><break time="5s">
+<voice lang="es">El Premio Milenio ha generado descubrimientos científicos publicados en una revista de Inglaterra.</voice><break time="2s">
+
+<voice lang="en">Generated liabilities remained registered and subject to internal regulatory review.</voice><break time="5s">
+<voice lang="es">Los pasivos generados quedaron registrados y sujetos a la revisión normativa interna.</voice><break time="2s">
+
+<voice lang="en">I insisted that he had spoken before everyone came.</voice><break time="5s">
+<voice lang="es">Insistí en que él hubiera hablado antes de que todos vinieran.</voice><break time="2s">
+
+<voice lang="en">She wishes that the conducted systematic investigation be presented and published.</voice><break time="5s">
+<voice lang="es">Ella desea que la investigación sistemática realizada sea presentada y publicada.</voice><break time="2s">
+
+<voice lang="en">They want to designate responsible parties and I offer to direct projects, including extras.</voice><break time="5s">
+<voice lang="es">Ellos quieren designar responsables y yo ofrezco dirigir proyectos, incluidos los extras.</voice><break time="2s">
+
+<voice lang="en">Previously made calls managed to gather individuals coming from the northwest.</voice><break time="5s">
+<voice lang="es">Las llamadas hechas previamente pudieron reunir a particulares provenientes del noroeste.</voice><break time="2s">
+
+<voice lang="en">When we start the workday, I always do the mental delimitation of work.</voice><break time="5s">
+<voice lang="es">Cuando empezamos la jornada, siempre hago el deslinde mental del trabajo.</voice><break time="2s">
+
+<voice lang="en">The letter he wrote emerges from the report and allows understanding it.</voice><break time="5s">
+<voice lang="es">La carta que escribió se desprende del informe y permite entenderlo.</voice><break time="2s">
+
+<voice lang="en">The event occurred yesterday and those involved continued being mentioned in news.</voice><break time="5s">
+<voice lang="es">El hecho ocurrió ayer y los involucrados siguieron siendo mencionados en las noticias.</voice><break time="2s">
+
+<voice lang="en">Although it doesn't interest me, allocating resources will make me find solutions.</voice><break time="5s">
+<voice lang="es">Aunque no me interese, destinar recursos hará que encuentre soluciones.</voice><break time="2s">
+
+<voice lang="en">Horizontal education incorporates recognized first experiences and potential secondary learnings.</voice><break time="5s">
+<voice lang="es">La educación horizontal incorpora primeras experiencias reconocidas y potenciales aprendizajes secundarios.</voice><break time="2s">
+
+<voice lang="en">Although penetration was stopped, the report detailed failures beforehand.</voice><break time="5s">
+<voice lang="es">Aunque se detuvo la penetración, el informe detalló fallos de antemano.</voice><break time="2s">
+
+<voice lang="en">Although he tried to stop the discussion, they insisted and asked to finalize the topic.</voice><break time="5s">
+<voice lang="es">Aunque intentaba detener la discusión, ellos insistieron y pidieron finalizar el tema.</voice><break time="2s">
+
+<voice lang="en">The humanist approach recognizes leisure as an inherent and variable need.</voice><break time="5s">
+<voice lang="es">El enfoque humanista reconoce el ocio como una necesidad inherente y variable.</voice><break time="2s">
+
+<voice lang="en">I like leisure and that nobody stops our quiet afternoons.</voice><break time="5s">
+<voice lang="es">Me gusta el ocio y que nadie detenga nuestras tardes tranquilas.</voice><break time="2s">
+
+<voice lang="en">My hybrid home is dark but cozy and always welcomes me.</voice><break time="5s">
+<voice lang="es">Mi hogar híbrido es oscuro pero acogedor y siempre me recibe.</voice><break time="2s">
+
+<voice lang="en">Let's say I determine clear requirements and then write, underline and incorporate improvements.</voice><break time="5s">
+<voice lang="es">Digamos que determino requisitos claros y luego escribo, subrayo e incorporo mejoras.</voice><break time="2s">
+
+<voice lang="en">They feel very illegal indeed.</voice><break time="5s">
+<voice lang="es">Se siente muy ilegales en verdad.</voice><break time="2s">
+
+<voice lang="en">The religious imperative obliges and internal mechanics arrange subject solutions.</voice><break time="5s">
+<voice lang="es">El imperativo religioso obliga y la mecánica interna dispone soluciones sujetas.</voice><break time="2s">
+
+<voice lang="en">I called to ask them and then started drawing what was requested.</voice><break time="5s">
+<voice lang="es">Llamé para preguntarles y luego empecé a dibujar lo solicitado.</voice><break time="2s">
+
+El fin
+<break time="4s"/>

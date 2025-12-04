@@ -33,6 +33,8 @@ community-maintained [Idiap fork](https://github.com/idiap/coqui-ai-TTS) from
 - **Flexible timing**
   - Control minimum/maximum segment duration.
   - Insert pauses between segments or at explicit `<break>` tags.
+  - Optionally slow down or speed up the final audio via `--slowdown-factor` without re-running TTS.
+  - Choose between `rubberband` (default, higher quality for voice) or `sox` engines via `--slowdown-engine`.
 
 For concrete usage examples and terminal commands, open `START_HERE.txt`.
 
@@ -48,6 +50,7 @@ For concrete usage examples and terminal commands, open `START_HERE.txt`.
   - Read and follow `START_HERE.txt` inside the `AlmondTTS` folder to install
     the app bundle, find the input folder, and generate your first audio.
   - Prefer a guided setup? Run `./start.sh` for an interactive wizard.
+  - The wizard includes prompts for slowdown factor and engine (rubberband or sox).
   - AlmondTTS is currently available for macOS only.
 
 - **I want to tweak or extend AlmondTTS**

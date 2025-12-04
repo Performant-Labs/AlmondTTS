@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Two</voice><break time="2s"/>
+<voice lang="es">Frases — Número dos</voice><break time="2s"/>
+
+<voice lang="en">The queen controls Pets by Chance and the police supervise Reception.</voice><break time="5s">
+<voice lang="es">La reina controla Mascotas por Azar y la policía supervisa Recepción.</voice><break time="2s">
+
+<voice lang="en">The diet contains fruits and vegetables and improves hygiene on the tiles.</voice><break time="5s">
+<voice lang="es">La dieta contiene frutas y verduras y mejora la higiene sobre los azulejos.</voice><break time="2s">
+
+<voice lang="en">Luz will have a creative year and will achieve significant personal integration.</voice><break time="5s">
+<voice lang="es">Luz tendrá un año creativo y logrará una integración personal significativa.</voice><break time="2s">
+
+<voice lang="en">The young Canadian enjoyed many trips for years, but now he will rest at home.</voice><break time="5s">
+<voice lang="es">El joven canadiense gozó de muchos viajes durante años, pero ahora descansará en casa.</voice><break time="2s">
+
+<voice lang="en">The high school institute stimulates creativity and the students participate motivated.</voice><break time="5s">
+<voice lang="es">El instituto de Bachillerato estimula la creatividad y los estudiantes participan motivados.</voice><break time="2s">
+
+<voice lang="en">Conscious high school graduates consume fruit when they are hungry and local stores sell quality.</voice><break time="5s">
+<voice lang="es">Bachilleres conscientes consumen fruta cuando tienen hambre y las tiendas locales venden calidad.</voice><break time="2s">
+
+<voice lang="en">The professional engineer performs technical functions in the Bajío and contributes to businesses.</voice><break time="5s">
+<voice lang="es">El ingeniero profesional desempeña funciones técnicas en el Bajío y contribuye a los negocios.</voice><break time="2s">
+
+<voice lang="en">Balance improves daily life.</voice><break time="5s">
+<voice lang="es">El Balance mejora la vida diaria.</voice><break time="2s">
+
+<voice lang="en">Every morning my grandfather arrives at the bank and then injects himself with insulin.</voice><break time="5s">
+<voice lang="es">Cada mañana mi abuelo llega al banco y luego se inyecta insulina.</voice><break time="2s">
+
+<voice lang="en">Trained accountant works in a bank and protects the economy with ethical professionalism.</voice><break time="5s">
+<voice lang="es">Contador capacitado trabaja en un banco y protege la economía con profesionalismo ético.</voice><break time="2s">
+
+<voice lang="en">Banks offer subsidies and representatives attend to small business orders daily.</voice><break time="5s">
+<voice lang="es">Los bancos ofrecen subsidios y representantes atienden pedidos de pymes diariamente.</voice><break time="2s">
+
+<voice lang="en">Children's flags wave toward the metropolis and represent absolute trust.</voice><break time="5s">
+<voice lang="es">Las banderas infantiles ondean hacia la metrópoli y representan una confianza absoluta.</voice><break time="2s">
+
+<voice lang="en">The news worries the young people and Barrera stated that we need protection.</voice><break time="5s">
+<voice lang="es">La noticia preocupa a los jóvenes y Barrera afirmó que necesitamos resguardo.</voice><break time="2s">
+
+<voice lang="en">Peaceful neighborhood guarantees sweet home and happy adults, avoiding marginalization and fostering customs.</voice><break time="5s">
+<voice lang="es">Barrio tranquilo garantiza domicilio dulce y adultos felices, evitando marginación y fomentando costumbres.</voice><break time="2s">
+
+<voice lang="en">The structural base functions well and keeps national groups safe.</voice><break time="5s">
+<voice lang="es">La base estructural funciona bien y mantiene seguros a los colectivos nacionales.</voice><break time="2s">
+
+<voice lang="en">Scientists analyzing ecology preserve habitat and highlight Bases of sustainability.</voice><break time="5s">
+<voice lang="es">Los científicos analizando ecología preservan hábitat y resaltar Bases de sustentabilidad.</voice><break time="2s">
+
+<voice lang="en">Dolores feels fatigue in the bathroom and keeps silent out of dignity.</voice><break time="5s">
+<voice lang="es">Dolores siente fatiga en el baño y guarda silencio por dignidad.</voice><break time="2s">
+
+<voice lang="en">Babies die from infections, but we hope to reduce discomfort with proper organization.</voice><break time="5s">
+<voice lang="es">Los bebés mueren por infecciones, pero esperamos disminuir las molestias con una adecuada organización.</voice><break time="2s">
+
+<voice lang="en">Every day I enjoy my scholarship and we spend happy moments in the park.</voice><break time="5s">
+<voice lang="es">Cada día disfruto mi beca y pasamos momentos felices en el parque.</voice><break time="2s">
+
+<voice lang="en">The Union promotes better job positions and baseball guarantees healthy coexistence.</voice><break time="5s">
+<voice lang="es">El Sindicato promueve mejores puestos laborales y el béisbol garantiza una convivencia sana.</voice><break time="2s">
+
+<voice lang="en">Beauty stands out in hospitality and companies sell services that seem like miracles.</voice><break time="5s">
+<voice lang="es">La belleza destaca en la hotelería y las compañías venden servicios que parecen milagros.</voice><break time="2s">
+
+<voice lang="en">The interested beneficiary participates in computing and learns advanced university software.</voice><break time="5s">
+<voice lang="es">El beneficiario interesado participa en computación y aprende software universitario avanzado.</voice><break time="2s">
+
+<voice lang="en">The Meritorious Professor teaches philosophy and the aspirants live noble ideals.</voice><break time="5s">
+<voice lang="es">El Profesor Benemérito enseña filosofía y los aspirantes viven ideales nobles.</voice><break time="2s">
+
+<voice lang="en">Best Organization promoted entertainment and television, and Best Fund facilitated shows and cinema.</voice><break time="5s">
+<voice lang="es">Best Organización promovió entretenimiento y televisión, y Best Fondo facilitó espectáculos y cine.</voice><break time="2s">
+
+<voice lang="en">Young person studies bachelor's degree in Library and Educational Training guarantees superior aptitudes.</voice><break time="5s">
+<voice lang="es">Jóvenes estudia licenciatura en Biblioteca y Formación Educativo garantiza aptitudes superiores.</voice><break time="2s">
+
+<voice lang="en">Libraries make up a Country when Readings teach Biology and creators generate documentaries.</voice><break time="5s">
+<voice lang="es">Bibliotecas conforman País cuando Lecturas enseñan Biología y creadores generan documentales.</voice><break time="2s">
+
+<voice lang="en">The dignified worker takes care of municipal property and receives thanks for his exemplary conduct.</voice><break time="5s">
+<voice lang="es">El trabajador digno cuida los bienes municipales y recibe gracias por sus conductas ejemplares.</voice><break time="2s">
+
+<voice lang="en">Intense emotion facilitates well-being and reinforces deep universal individual gazes.</voice><break time="5s">
+<voice lang="es">La emoción intensa facilita el bienestar y refuerza profundas miradas individuales universales.</voice><break time="2s">
+
+<voice lang="en">The worker will work in Biotechnology and will take advantage of its programs for independence.</voice><break time="5s">
+<voice lang="es">El obrero trabajará en Biotecnología y aprovechará sus programas para la independencia.</voice><break time="2s">
+
+<voice lang="en">My friend, writing a blog about housing, manifested pride and family tradition.</voice><break time="5s">
+<voice lang="es">Mi amiga, escribiendo un blog sobre vivienda, manifestó orgullo y tradición familiar.</voice><break time="2s">
+
+<voice lang="en">Entrepreneurs create blogs about bars and dancing, stimulating encounters and social survival.</voice><break time="5s">
+<voice lang="es">Emprendedores crean blogs sobre bares y baile, estimulando encuentros y la supervivencia social.</voice><break time="2s">
+
+<voice lang="en">We have a comfortable ranch with a spacious kitchen and Boca smiles when sharing.</voice><break time="5s">
+<voice lang="es">Tenemos un rancho cómodo con una cocina amplia y Boca sonríe cuando comparte.</voice><break time="2s">
+
+<voice lang="en">The fun player practices with the ball and then sells sports cars in the warehouse.</voice><break time="5s">
+<voice lang="es">El jugador divertido practica con el balón y después vende coches deportivos en la bodega.</voice><break time="2s">
+
+<voice lang="en">The Bulletin communicates appropriate recommendations and prevents diseases in sick groups.</voice><break time="5s">
+<voice lang="es">El Boletín comunica recomendaciones adecuadas y evita enfermedades en grupos enfermos.</voice><break time="2s">
+
+<voice lang="en">The clever salesman pays for the bag and takes recent economic data.</voice><break time="5s">
+<voice lang="es">El vendedor listo paga la bolsa y toma datos económicos recientes.</voice><break time="2s">
+
+<voice lang="en">The Rams travel to neighboring houses and celebrate the successes they obtained.</voice><break time="5s">
+<voice lang="es">Los Borregos viajan a casas vecinas y celebran los éxitos que obtuvieron.</voice><break time="2s">
+
+<voice lang="en">Forests constitute a peaceful refuge and changed my consciousness, if we feel reality.</voice><break time="5s">
+<voice lang="es">Los bosques constituyen un refugio tranquilo y cambiaron mi consciencia, si sentimos la realidad.</voice><break time="2s">
+
+<voice lang="en">People enjoy dishes on the boulevard and remember times of happiness.</voice><break time="5s">
+<voice lang="es">Las personas disfrutan de platillos en el boulevard y recuerdan épocas de felicidad.</voice><break time="2s">
+
+<voice lang="en">The Bureau confirms infractions, but the mayor ensures viability and solidarity.</voice><break time="5s">
+<voice lang="es">El Buró confirma infracciones, pero el alcalde asegura la viabilidad y la solidaridad.</voice><break time="2s">
+
+<voice lang="en">The search was concluded and the students showed appreciation and acceptance.</voice><break time="5s">
+<voice lang="es">La búsqueda quedó concluida y los educandos mostraron aprecio y aceptación.</voice><break time="2s">
+
+<voice lang="en">Periodic and complementary searches show positive and numerous financial figures.</voice><break time="5s">
+<voice lang="es">Las búsquedas periódicas y complementarias muestran cifras financieras positivas y numerosas.</voice><break time="2s">
+
+<voice lang="en">Intelligent buyers use the electronic portal and acquire items in cabins without delay.</voice><break time="5s">
+<voice lang="es">Los compradores inteligentes utilizan el portal electrónico y adquieren artículos en cabañas sin retraso.</voice><break time="2s">
+
+<voice lang="en">Democratic Educational Council continues providing reliable pedagogy and training educational officials.</voice><break time="5s">
+<voice lang="es">Cabildo Educativo Democrático sigue brindando pedagogía confiable y capacitando funcionarios educativos.</voice><break time="2s">
+
+<voice lang="en">The teacher announced a new calendar and the developers offered a contribution for Finance.</voice><break time="5s">
+<voice lang="es">El maestro anunció un calendario nuevo y los desarrolladores ofrecieron una contribución para Finanzas.</voice><break time="2s">
+
+<voice lang="en">The street works well, but the city hall better supervises nighttime commerce.</voice><break time="5s">
+<voice lang="es">La calle funciona bien, pero la alcaldía supervisa mejor el comercio nocturno.</voice><break time="2s">
+
+<voice lang="en">Athletic children Change practices nighttime aquatic pools and loves free time.</voice><break time="5s">
+<voice lang="es">Niños deportista Cambio practica albercas acuático nocturnos y encanta tiempos libres.</voice><break time="2s">
+
+<voice lang="en">I walk sadly through beautiful landscapes and speak happily about grief and emotions.</voice><break time="5s">
+<voice lang="es">Camino triste por paisajes hermosos y hablo feliz sobre el duelo y las emociones.</voice><break time="2s">
+
+<voice lang="en">Rural fields register a strong storm and officials worry free parents.</voice><break time="5s">
+<voice lang="es">Campos rurales registran una fuerte tormenta y funcionarios preocupan a padres libres.</voice><break time="2s">
+
+<voice lang="en">The campus maintains spacious gyms and students enjoy natural snacks.</voice><break time="5s">
+<voice lang="es">El campus mantiene gimnasios amplios y los estudiantes disfrutan de bocadillos naturales.</voice><break time="2s">
+
+<voice lang="en">The channel broadcasts science and technology and offers educational communication to schoolchildren.</voice><break time="5s">
+<voice lang="es">El canal transmite ciencia y tecnología y ofrece comunicación educativa a los escolares.</voice><break time="2s">
+
+<voice lang="en">News channels present beautiful language and video games; the fun game benefits students.</voice><break time="5s">
+<voice lang="es">Canales informativos presentan lenguaje hermoso y videojuegos; el juego divertido beneficia al alumnado.</voice><break time="2s">
+
+<voice lang="en">Oncology offers clinical diagnosis and patients manifested a strong but acceptable fear.</voice><break time="5s">
+<voice lang="es">Cancerología ofrece diagnóstico clínico y los pacientes manifestaron un miedo fuerte pero aceptable.</voice><break time="2s">
+
+<voice lang="en">Human children enjoy a warm autumn and receive an impressive amount of teachings.</voice><break time="5s">
+<voice lang="es">Niños humanos disfrutan de un otoño cálido y reciben una cantidad impresionante de enseñanzas.</voice><break time="2s">
+
+<voice lang="en">Voters have democratic capacity, but inflation exceeds wages and salary.</voice><break time="5s">
+<voice lang="es">Los votantes tienen capacidad democrática, pero la inflación supera los salarios y el salario.</voice><break time="2s">
+
+<voice lang="en">Primary training allows studying public bachelor's degrees and contributing to complete human training.</voice><break time="5s">
+<voice lang="es">La capacitación principal permite estudiar licenciaturas públicas y contribuir a una capacitación humana completa.</voice><break time="2s">
+
+<voice lang="en">Tourism achieves connections when the cruise ship goes to the capital and the ship returns.</voice><break time="5s">
+<voice lang="es">El turismo logra conexiones cuando el crucero va a la capital y el barco regresa.</voice><break time="2s">
+
+<voice lang="en">Users perform printed work when the chapter ends and recommendations arise.</voice><break time="5s">
+<voice lang="es">Los usuarios realizan trabajos impresos cuando el capítulo termina y surgen recomendaciones.</voice><break time="2s">
+
+<voice lang="en">Conscious citizens respect norms and characteristics, protect resources and increase awareness.</voice><break time="5s">
+<voice lang="es">Ciudadanos conscientes respetan normas y características, protegen los recursos y aumentan la conciencia.</voice><break time="2s">
+
+<voice lang="en">Brilliant people know historical details and an enormous burden contributes by changing guidelines.</voice><break time="5s">
+<voice lang="es">Personas brillantes conocen detalles históricos y una carga enorme contribuye cambiando directrices.</voice><break time="2s">
+
+<voice lang="en">The Person enjoys vacation Career and having fun weekly, truly wonderful favorite activity.</voice><break time="5s">
+<voice lang="es">La Persona disfruta Carrera vacacional y divertirse semanal, actividad favorita verdaderamente maravillosa.</voice><break time="2s">
+
+<voice lang="en">Creative boys in careers to prepare themselves include studying high school and attending public schools.</voice><break time="5s">
+<voice lang="es">Muchachos creativos en carreras para prepararse incluyen estudiar el bachillerato y asistir a escuelas públicas.</voice><break time="2s">
+
+<voice lang="en">Son and friend live in houses willing to support on the road.</voice><break time="5s">
+<voice lang="es">Hijo y amigo viven en casas dispuestos a apoyar en la carretera.</voice><break time="2s">
+
+<voice lang="en">Daughters and friends love the clean, complete, fundamental and valid family letter.</voice><break time="5s">
+<voice lang="es">Hijas y amigos aman la carta familiar limpia, íntegra, fundamental y válida.</voice><break time="2s">
+
+<voice lang="en">Responsible ladies consider health a priority and write letters about prevention.</voice><break time="5s">
+<voice lang="es">Señoras responsables consideran la salud una prioridad y escriben cartas sobre prevención.</voice><break time="2s">
+
+<voice lang="en">Regarding vaccination, the citizen card specifies sanitary restrictions and indicated documentation.</voice><break time="5s">
+<voice lang="es">Sobre vacunación, la cartilla ciudadana especifica las restricciones sanitarias y la documentación indicada.</voice><break time="2s">
+
+<voice lang="en">In this case we need to eat fresh foods and avoid alcoholic beverages.</voice><break time="5s">
+<voice lang="es">En este caso necesitamos comer alimentos frescos y evitar las bebidas alcohólicas.</voice><break time="2s">
+
+<voice lang="en">Human doctors protect the pulmonary soul and spiritual category, guaranteeing comprehensive compliance.</voice><break time="5s">
+<voice lang="es">Los médicos humanos protegen el alma pulmonar y la categoría espiritual, garantizando el cumplimiento integral.</voice><break time="2s">
+
+<voice lang="en">The student takes Primary Mathematics and public schools offer a catalog of courses.</voice><break time="5s">
+<voice lang="es">El estudiante cursa Matemáticas de Primaria y las escuelas públicas ofrecen un catálogo de cursos.</voice><break time="2s">
+
+<voice lang="en">That employees work with cell phones is everyday and improves their productivity.</voice><break time="5s">
+<voice lang="es">Que los empleados trabajen con celulares es cotidiano y mejora su productividad.</voice><break time="2s">
+
+<voice lang="en">The nation celebrates the Centennial when exploration and persistence reach natural virtues.</voice><break time="5s">
+<voice lang="es">La nación celebra el Centenario cuando la exploración y la persistencia alcanzan virtudes naturales.</voice><break time="2s">
+
+<voice lang="en">Meditation centers relieve spirits and workers find positive emotional surprises.</voice><break time="5s">
+<voice lang="es">Los centros de meditación alivian los espíritus y los trabajadores encuentran sorpresas emocionales positivas.</voice><break time="2s">
+
+<voice lang="en">The Legislature establishes that national certification and renewable technology will continue protected.</voice><break time="5s">
+<voice lang="es">La Legislatura establece que la certificación nacional y la tecnología renovable continuarán protegidas.</voice><break time="2s">
+
+<voice lang="en">The chef promises desserts and will help by sharing recipes in the kitchen.</voice><break time="5s">
+<voice lang="es">El chef promete postres y ayudará compartiendo recetas en la cocina.</voice><break time="2s">
+
+<voice lang="en">Chivas thanks the merchant towns and provides premium attention if they need it.</voice><break time="5s">
+<voice lang="es">Chivas agradece a los pueblos comerciantes y brinda atención premium si la necesitan.</voice><break time="2s">
+
+<voice lang="en">The recent cycle began with virtual seminars and provides excellent certified presentations.</voice><break time="5s">
+<voice lang="es">El ciclo reciente empezó con seminarios virtuales y brinda excelentes ponencias certificadas.</voice><break time="2s">
+
+<voice lang="en">Scientists who discover compounds characterize new substances and generate solutions for the economy.</voice><break time="5s">
+<voice lang="es">Científicos que descubren compuestos caracterizan sustancias nuevas y generan soluciones para la economía.</voice><break time="2s">
+
+<voice lang="en">Promoters highlight the basketball circuit and television reports their achievements.</voice><break time="5s">
+<voice lang="es">Los promotores destacan el circuito de baloncesto y la televisión reporta sus logros.</voice><break time="2s">
+
+<voice lang="en">Surgery offers solutions, but also implies risks and possible economic losses.</voice><break time="5s">
+<voice lang="es">La cirugía ofrece soluciones, pero también implica riesgos y posibles pérdidas económicas.</voice><break time="2s">
+
+<voice lang="en">The citizen trusts brave teachers, but his policy presents weaknesses.</voice><break time="5s">
+<voice lang="es">El ciudadano confía en profesores valientes, pero su política presenta debilidades.</voice><break time="2s">
+
+<voice lang="en">The center offers classes and comfortable bedrooms that fulfill the function of home.</voice><break time="5s">
+<voice lang="es">El centro ofrece clases y recámaras cómodas que cumplen la función de hogar.</voice><break time="2s">
+
+<voice lang="en">The closing ended yesterday, but the protagonists keep resistance alive.</voice><break time="5s">
+<voice lang="es">La clausura terminó ayer, pero los protagonistas mantienen viva la resistencia.</voice><break time="2s">
+
+<voice lang="en">The client needs absolute guarantees and the corresponding contract will allow overcoming uncertainties.</voice><break time="5s">
+<voice lang="es">El cliente necesita garantías absolutas y el contrato correspondiente permitirá vencer las incertidumbres.</voice><break time="2s">
+
+<voice lang="en">Clients enjoy beautiful natural landscapes and keep the corresponding drinking water clean.</voice><break time="5s">
+<voice lang="es">Los clientes disfrutan de los bonitos paisajes naturales y mantienen limpia el agua potable correspondiente.</voice><break time="2s">
+
+<voice lang="en">The Club organizes seminars and experts motivate advances that contribute to improvements.</voice><break time="5s">
+<voice lang="es">El Club organiza seminarios y expertos motivan avances que contribuyen a mejoras.</voice><break time="2s">
+
+<voice lang="en">A healthy breakfast ensures adequate food coverage and causes fewer daily deficiencies.</voice><break time="5s">
+<voice lang="es">Un desayuno saludable asegura una cobertura alimenticia adecuada y provoca menos deficiencias diarias.</voice><break time="2s">
+
+<voice lang="en">Collaboration strengthens solidarity and fostering social functions implies constant improvement.</voice><break time="5s">
+<voice lang="es">La colaboración fortalece la solidaridad y fomentar funciones sociales implica una superación constante.</voice><break time="2s">
+
+<voice lang="en">Our collection of portraits and fiction provides deep visions and benefits survivors.</voice><break time="5s">
+<voice lang="es">Nuestra colección de retratos y ficción proporciona visiones profundas y beneficia a los sobrevivientes.</voice><break time="2s">
+
+<voice lang="en">College members pay for appliances with card and then consume drinks on sale.</voice><break time="5s">
+<voice lang="es">Los colegiados pagan electrodomésticos con tarjeta y luego consumen bebidas en oferta.</voice><break time="2s">
+
+<voice lang="en">The surveyed consider traveling when the Colloquium ends and then returning to the islands.</voice><break time="5s">
+<voice lang="es">Los encuestados consideran viajar cuando el Coloquio termine y luego regresar a las islas.</voice><break time="2s">
+
+<voice lang="en">The Commander prevents attacks, and the preventive vaccine guarantees a balanced and healthy body.</voice><break time="5s">
+<voice lang="es">El Comandante previene ataques, y la vacuna preventiva garantiza un cuerpo equilibrado y saludable.</voice><break time="2s">
+
+<voice lang="en">The dining room constitutes our true headquarters and we manage to stay alone, free and attentive.</voice><break time="5s">
+<voice lang="es">El comedor constituye nuestra sede verdadera y logramos mantenernos solos, libres y atentos.</voice><break time="2s">
+
+<voice lang="en">Users look for truck expeditions and comment that they watch videos enjoying trips.</voice><break time="5s">
+<voice lang="es">Usuarios buscan expediciones en camión y comentan que vean vídeos disfrutando de viajes.</voice><break time="2s">
+
+<voice lang="en">Companions leave comments when they read reviews and share valuable experiences.</voice><break time="5s">
+<voice lang="es">Las compañeras dejan comentarios cuando leen reseñas y comparten experiencias valiosas.</voice><break time="2s">
+
+<voice lang="en">Healthy commerce fosters the elimination of hunger and allows surviving with dignity.</voice><break time="5s">
+<voice lang="es">El comercio saludable fomenta la eliminación del hambre y permite sobrevivir dignamente.</voice><break time="2s">
+
+<voice lang="en">Transportation coordinators negotiate commissions and drivers drive in different countries working together.</voice><break time="5s">
+<voice lang="es">Los coordinadores de transporte negocian comisiones y los conductores conducen en países distintos trabajando juntos.</voice><break time="2s">
+
+<voice lang="en">The scheduled university committee works running and we have an ethical responsibility according to values.</voice><break time="5s">
+<voice lang="es">El comité universitario programado trabaja corriendo y tenemos una responsabilidad ética según los valores.</voice><break time="2s">
+
+<voice lang="en">Companions buy a delicious dish at the fair and keep objects in the condominium.</voice><break time="5s">
+<voice lang="es">Los compañeros compran un platillo delicioso en la feria y guardan objetos en el condominio.</voice><break time="2s">
+
+<voice lang="en">The company manages smart cell phones and offers digital devices to students.</voice><break time="5s">
+<voice lang="es">La compañía administra celulares inteligentes y ofrece dispositivos digitales a los estudiantes.</voice><break time="2s">
+
+<voice lang="en">Argentine tourists look for land sports competitions and the Metrobus covers rapid tourist navigation.</voice><break time="5s">
+<voice lang="es">Turistas argentinos buscan competencias deportivas terrestres y el Metrobús cubre rápida navegación turística.</voice><break time="2s">
+
+<voice lang="en">My daily behavior improves my skills and maintains my tranquility with cleanliness.</voice><break time="5s">
+<voice lang="es">Mi comportamiento diario mejora mis habilidades y mantiene mi tranquilidad con limpieza.</voice><break time="2s">
+
+<voice lang="en">The purchase increases income and reduces financial pressures, while maintaining emotional relief.</voice><break time="5s">
+<voice lang="es">La compra aumenta los ingresos y reduce las presiones financieras, mientras conserva el alivio emocional.</voice><break time="2s">
+
+<voice lang="en">Administrators need a competitive salary and Purchasing establishes clear procedures for everyone.</voice><break time="5s">
+<voice lang="es">Los administrativos necesitan un salario competitivo y Compras establece procedimientos claros para todos.</voice><break time="2s">
+
+<voice lang="en">The minister manifested his commitment when students made an appearance and requested scholarships.</voice><break time="5s">
+<voice lang="es">El ministro manifestó su compromiso cuando los estudiantes realizaron una comparecencia y solicitaron becas.</voice><break time="2s">
+
+<voice lang="en">Computers offer important innovations and allow saving time in daily tasks.</voice><break time="5s">
+<voice lang="es">Las computadoras ofrecen innovaciones importantes y permiten ahorrar tiempo en las tareas diarias.</voice><break time="2s">
+
+<voice lang="en">The wind cleans ecosystems and renewable communications favor health and salvation.</voice><break time="5s">
+<voice lang="es">El viento limpia los ecosistemas y las comunicaciones renovables favorecen la salud y la salvación.</voice><break time="2s">
+
+El fin
+<break time="4s"/>

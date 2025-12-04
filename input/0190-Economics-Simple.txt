@@ -81,5 +81,5 @@
 <voice lang="en">There is a trans terror cult???<break time="5s"></voice>
 <voice lang="es">¿Existe un culto terrorista trans???<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

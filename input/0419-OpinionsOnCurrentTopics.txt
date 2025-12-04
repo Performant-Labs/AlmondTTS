@@ -1,0 +1,113 @@
+<voice lang="en">Opinions on Current Topics</voice><break time="0.5s">
+<voice lang="es">Opiniones sobre temas de actualidad</voice><break time="2s">
+
+<voice lang="en">What do you think about climate change?</voice><break time="5s">
+<voice lang="es">¿Qué piensas del cambio climático?</voice><break time="2s">
+
+<voice lang="en">Do you try to be environmentally friendly?</voice><break time="5s">
+<voice lang="es">¿Intentas ser amigable con el medio ambiente?</voice><break time="2s">
+
+<voice lang="en">Do you recycle?</voice><break time="5s">
+<voice lang="es">¿Reciclas?</voice><break time="2s">
+
+<voice lang="en">Do you use reusable bags?</voice><break time="5s">
+<voice lang="es">¿Usas bolsas reutilizables?</voice><break time="2s">
+
+<voice lang="en">Do you try to reduce plastic?</voice><break time="5s">
+<voice lang="es">¿Intentas reducir el plástico?</voice><break time="2s">
+
+<voice lang="en">Do you eat less meat for environmental reasons?</voice><break time="5s">
+<voice lang="es">¿Comes menos carne por razones ambientales?</voice><break time="2s">
+
+<voice lang="en">Do you think individuals can make a difference?</voice><break time="5s">
+<voice lang="es">¿Crees que los individuos pueden hacer una diferencia?</voice><break time="2s">
+
+<voice lang="en">Or do governments and companies need to change?</voice><break time="5s">
+<voice lang="es">¿O necesitan cambiar los gobiernos y empresas?</voice><break time="2s">
+
+<voice lang="en">What do you think about electric cars?</voice><break time="5s">
+<voice lang="es">¿Qué piensas de los carros eléctricos?</voice><break time="2s">
+
+<voice lang="en">Would you buy an electric car?</voice><break time="5s">
+<voice lang="es">¿Comprarías un carro eléctrico?</voice><break time="2s">
+
+<voice lang="en">Do you think we should use more renewable energy?</voice><break time="5s">
+<voice lang="es">¿Crees que deberíamos usar más energía renovable?</voice><break time="2s">
+
+<voice lang="en">What do you think about nuclear energy?</voice><break time="5s">
+<voice lang="es">¿Qué piensas de la energía nuclear?</voice><break time="2s">
+
+<voice lang="en">Do you worry about the future?</voice><break time="5s">
+<voice lang="es">¿Te preocupas por el futuro?</voice><break time="2s">
+
+<voice lang="en">Are you optimistic or pessimistic about the future?</voice><break time="5s">
+<voice lang="es">¿Eres optimista o pesimista sobre el futuro?</voice><break time="2s">
+
+<voice lang="en">What do you think the world will be like in 50 years?</voice><break time="5s">
+<voice lang="es">¿Qué crees que será el mundo en 50 años?</voice><break time="2s">
+
+<voice lang="en">Do you think life is getting better or worse?</voice><break time="5s">
+<voice lang="es">¿Crees que la vida se está volviendo mejor o peor?</voice><break time="2s">
+
+<voice lang="en">What's the biggest problem in the world today?</voice><break time="5s">
+<voice lang="es">¿Cuál es el mayor problema en el mundo hoy?</voice><break time="2s">
+
+<voice lang="en">What would you change if you could change one thing in the world?</voice><break time="5s">
+<voice lang="es">¿Qué cambiarías si pudieras cambiar una cosa en el mundo?</voice><break time="2s">
+
+<voice lang="en">Do you think money can buy happiness?</voice><break time="5s">
+<voice lang="es">¿Crees que el dinero puede comprar la felicidad?</voice><break time="2s">
+
+<voice lang="en">What do you think is the key to happiness?</voice><break time="5s">
+<voice lang="es">¿Qué crees que es la clave de la felicidad?</voice><break time="2s">
+
+<voice lang="en">Do you think people are generally good or bad?</voice><break time="5s">
+<voice lang="es">¿Crees que la gente es generalmente buena o mala?</voice><break time="2s">
+
+<voice lang="en">Do you trust people easily?</voice><break time="5s">
+<voice lang="es">¿Confías en la gente fácilmente?</voice><break time="2s">
+
+<voice lang="en">Are you more logical or emotional?</voice><break time="5s">
+<voice lang="es">¿Eres más lógico o emocional?</voice><break time="2s">
+
+<voice lang="en">Do you make decisions with your head or your heart?</voice><break time="5s">
+<voice lang="es">¿Tomas decisiones con la cabeza o el corazón?</voice><break time="2s">
+
+<voice lang="en">Do you believe in fate or free will?</voice><break time="5s">
+<voice lang="es">¿Crees en el destino o libre albedrío?</voice><break time="2s">
+
+<voice lang="en">Do you think everything happens for a reason?</voice><break time="5s">
+<voice lang="es">¿Crees que todo pasa por una razón?</voice><break time="2s">
+
+<voice lang="en">Do you have any regrets?</voice><break time="5s">
+<voice lang="es">¿Tienes algún arrepentimiento?</voice><break time="2s">
+
+<voice lang="en">If you could go back in time, what would you change?</voice><break time="5s">
+<voice lang="es">Si pudieras volver en el tiempo, ¿qué cambiarías?</voice><break time="2s">
+
+<voice lang="en">If you could meet anyone from history, who would it be?</voice><break time="5s">
+<voice lang="es">Si pudieras conocer a alguien de la historia, ¿quién sería?</voice><break time="2s">
+
+<voice lang="en">If you won the lottery, what would you do?</voice><break time="5s">
+<voice lang="es">Si ganaras la lotería, ¿qué harías?</voice><break time="2s">
+
+<voice lang="en">Would you rather be rich or happy?</voice><break time="5s">
+<voice lang="es">¿Preferirías ser rico o feliz?</voice><break time="2s">
+
+<voice lang="en">Would you rather be famous or unknown?</voice><break time="5s">
+<voice lang="es">¿Preferirías ser famoso o desconocido?</voice><break time="2s">
+
+<voice lang="en">What's more important: family, friends, or career?</voice><break time="5s">
+<voice lang="es">¿Qué es más importante: familia, amigos o carrera?</voice><break time="2s">
+
+<voice lang="en">What's your life philosophy?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu filosofía de vida?</voice><break time="2s">
+
+<voice lang="en">What advice would you give to your younger self?</voice><break time="5s">
+<voice lang="es">¿Qué consejo le darías a tu yo más joven?</voice><break time="2s">
+
+<voice lang="en">What do you want to be remembered for?</voice><break time="5s">
+<voice lang="es">¿Por qué quieres ser recordado?</voice><break time="2s">
+
+El Fin
+<break time="4s">

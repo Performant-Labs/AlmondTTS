@@ -1,0 +1,188 @@
+<voice lang="en">Weather and Small Talk</voice><break time="0.5s">
+<voice lang="es">El clima y la charla trivial</voice><break time="2s">
+
+<voice lang="en">What's the weather like today?</voice><break time="5s">
+<voice lang="es">¿Cómo está el clima hoy?</voice><break time="2s">
+
+<voice lang="en">It's sunny today.</voice><break time="5s">
+<voice lang="es">Está soleado hoy.</voice><break time="2s">
+
+<voice lang="en">It's raining today.</voice><break time="5s">
+<voice lang="es">Está lloviendo hoy.</voice><break time="2s">
+
+<voice lang="en">It's cloudy today.</voice><break time="5s">
+<voice lang="es">Está nublado hoy.</voice><break time="2s">
+
+<voice lang="en">It's cold today.</voice><break time="5s">
+<voice lang="es">Está frío hoy.</voice><break time="2s">
+
+<voice lang="en">It's hot today.</voice><break time="5s">
+<voice lang="es">Está caliente hoy.</voice><break time="2s">
+
+<voice lang="en">It's windy today.</voice><break time="5s">
+<voice lang="es">Está ventoso hoy.</voice><break time="2s">
+
+<voice lang="en">It's snowing today.</voice><break time="5s">
+<voice lang="es">Está nevando hoy.</voice><break time="2s">
+
+<voice lang="en">What's the weather forecast?</voice><break time="5s">
+<voice lang="es">¿Cuál es el pronóstico del tiempo?</voice><break time="2s">
+
+<voice lang="en">Is it going to rain tomorrow?</voice><break time="5s">
+<voice lang="es">¿Va a llover mañana?</voice><break time="2s">
+
+<voice lang="en">Do you think it will be sunny?</voice><break time="5s">
+<voice lang="es">¿Crees que estará soleado?</voice><break time="2s">
+
+<voice lang="en">I hope the weather improves.</voice><break time="5s">
+<voice lang="es">Espero que el clima mejore.</voice><break time="2s">
+
+<voice lang="en">The weather is terrible today.</voice><break time="5s">
+<voice lang="es">El clima es terrible hoy.</voice><break time="2s">
+
+<voice lang="en">The weather is beautiful today.</voice><break time="5s">
+<voice lang="es">El clima es hermoso hoy.</voice><break time="2s">
+
+<voice lang="en">It's too hot for me.</voice><break time="5s">
+<voice lang="es">Hace demasiado calor para mí.</voice><break time="2s">
+
+<voice lang="en">It's too cold for me.</voice><break time="5s">
+<voice lang="es">Hace demasiado frío para mí.</voice><break time="2s">
+
+<voice lang="en">I love this weather.</voice><break time="5s">
+<voice lang="es">Amo este clima.</voice><break time="2s">
+
+<voice lang="en">I hate this weather.</voice><break time="5s">
+<voice lang="es">Odio este clima.</voice><break time="2s">
+
+<voice lang="en">Do you like rain?</voice><break time="5s">
+<voice lang="es">¿Te gusta la lluvia?</voice><break time="2s">
+
+<voice lang="en">Do you like snow?</voice><break time="5s">
+<voice lang="es">¿Te gusta la nieve?</voice><break time="2s">
+
+<voice lang="en">Do you prefer summer or winter?</voice><break time="5s">
+<voice lang="es">¿Prefieres el verano o el invierno?</voice><break time="2s">
+
+<voice lang="en">Do you prefer spring or autumn?</voice><break time="5s">
+<voice lang="es">¿Prefieres la primavera o el otoño?</voice><break time="2s">
+
+<voice lang="en">What's your favorite season?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu estación favorita?</voice><break time="2s">
+
+<voice lang="en">What's the weather like in your country?</voice><break time="5s">
+<voice lang="es">¿Cómo es el clima en tu país?</voice><break time="2s">
+
+<voice lang="en">Does it rain a lot there?</voice><break time="5s">
+<voice lang="es">¿Llueve mucho allí?</voice><break time="2s">
+
+<voice lang="en">Does it snow there?</voice><break time="5s">
+<voice lang="es">¿Nieva allí?</voice><break time="2s">
+
+<voice lang="en">Is it humid there?</voice><break time="5s">
+<voice lang="es">¿Es húmedo allí?</voice><break time="2s">
+
+<voice lang="en">Is it dry there?</voice><break time="5s">
+<voice lang="es">¿Es seco allí?</voice><break time="2s">
+
+<voice lang="en">What's the temperature today?</voice><break time="5s">
+<voice lang="es">¿Cuál es la temperatura hoy?</voice><break time="2s">
+
+<voice lang="en">It's about 20 degrees.</voice><break time="5s">
+<voice lang="es">Son unos 20 grados.</voice><break time="2s">
+
+<voice lang="en">It feels warmer than it is.</voice><break time="5s">
+<voice lang="es">Se siente más caliente de lo que es.</voice><break time="2s">
+
+<voice lang="en">It feels colder than it is.</voice><break time="5s">
+<voice lang="es">Se siente más frío de lo que es.</voice><break time="2s">
+
+<voice lang="en">Did you see the sunset yesterday?</voice><break time="5s">
+<voice lang="es">¿Viste la puesta de sol ayer?</voice><break time="2s">
+
+<voice lang="en">The sunrise was beautiful this morning.</voice><break time="5s">
+<voice lang="es">El amanecer fue hermoso esta mañana.</voice><break time="2s">
+
+<voice lang="en">There's a storm coming.</voice><break time="5s">
+<voice lang="es">Se acerca una tormenta.</voice><break time="2s">
+
+<voice lang="en">The wind is very strong.</voice><break time="5s">
+<voice lang="es">El viento es muy fuerte.</voice><break time="2s">
+
+<voice lang="en">Be careful, it's icy.</voice><break time="5s">
+<voice lang="es">Ten cuidado, está helado.</voice><break time="2s">
+
+<voice lang="en">Don't forget your umbrella.</voice><break time="5s">
+<voice lang="es">No olvides tu paraguas.</voice><break time="2s">
+
+<voice lang="en">Don't forget your jacket.</voice><break time="5s">
+<voice lang="es">No olvides tu chaqueta.</voice><break time="2s">
+
+<voice lang="en">You should bring a sweater.</voice><break time="5s">
+<voice lang="es">Deberías traer un suéter.</voice><break time="2s">
+
+<voice lang="en">It might rain later.</voice><break time="5s">
+<voice lang="es">Podría llover más tarde.</voice><break time="2s">
+
+<voice lang="en">How are you doing today?</voice><break time="5s">
+<voice lang="es">¿Cómo estás hoy?</voice><break time="2s">
+
+<voice lang="en">How was your weekend?</voice><break time="5s">
+<voice lang="es">¿Cómo estuvo tu fin de semana?</voice><break time="2s">
+
+<voice lang="en">Do you have any plans for the weekend?</voice><break time="5s">
+<voice lang="es">¿Tienes planes para el fin de semana?</voice><break time="2s">
+
+<voice lang="en">How was your day?</voice><break time="5s">
+<voice lang="es">¿Cómo estuvo tu día?</voice><break time="2s">
+
+<voice lang="en">Did you have a good day?</voice><break time="5s">
+<voice lang="es">¿Tuviste un buen día?</voice><break time="2s">
+
+<voice lang="en">How's work going?</voice><break time="5s">
+<voice lang="es">¿Cómo va el trabajo?</voice><break time="2s">
+
+<voice lang="en">Are you keeping busy?</voice><break time="5s">
+<voice lang="es">¿Estás ocupado?</voice><break time="2s">
+
+<voice lang="en">Long time no see!</voice><break time="5s">
+<voice lang="es">¡Cuánto tiempo sin verte!</voice><break time="2s">
+
+<voice lang="en">It's good to see you again.</voice><break time="5s">
+<voice lang="es">Es bueno verte de nuevo.</voice><break time="2s">
+
+<voice lang="en">What have you been up to?</voice><break time="5s">
+<voice lang="es">¿Qué has estado haciendo?</voice><break time="2s">
+
+<voice lang="en">How's your family?</voice><break time="5s">
+<voice lang="es">¿Cómo está tu familia?</voice><break time="2s">
+
+<voice lang="en">Did you catch the game last night?</voice><break time="5s">
+<voice lang="es">¿Viste el partido anoche?</voice><break time="2s">
+
+<voice lang="en">Have you seen any good movies lately?</voice><break time="5s">
+<voice lang="es">¿Has visto alguna buena película últimamente?</voice><break time="2s">
+
+<voice lang="en">Are you reading anything interesting?</voice><break time="5s">
+<voice lang="es">¿Estás leyendo algo interesante?</voice><break time="2s">
+
+<voice lang="en">The traffic was terrible today.</voice><break time="5s">
+<voice lang="es">El tráfico estuvo terrible hoy.</voice><break time="2s">
+
+<voice lang="en">How was your commute?</voice><break time="5s">
+<voice lang="es">¿Cómo estuvo tu viaje al trabajo?</voice><break time="2s">
+
+<voice lang="en">Are you going on vacation soon?</voice><break time="5s">
+<voice lang="es">¿Vas de vacaciones pronto?</voice><break time="2s">
+
+<voice lang="en">Did you do anything fun recently?</voice><break time="5s">
+<voice lang="es">¿Hiciste algo divertido recientemente?</voice><break time="2s">
+
+<voice lang="en">Thanks for asking!</voice><break time="5s">
+<voice lang="es">¡Gracias por preguntar!</voice><break time="2s">
+
+<voice lang="en">Same to you!</voice><break time="5s">
+<voice lang="es">¡Igualmente!</voice><break time="2s">
+
+El Fin
+<break time="4s">

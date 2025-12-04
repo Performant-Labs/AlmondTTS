@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Eleven</voice><break time="2s"/>
+<voice lang="es">Frases — Número once</voice><break time="2s"/>
+
+<voice lang="en">I hope that open hearings allow an informed and legible vision.</voice><break time="5s"/>
+<voice lang="es">Ojalá que las audiencias abiertas permitan una visión informada y legible.</voice><break time="2s"/>
+
+<voice lang="en">The convinced lawyer raises complex educational topics and provides essential guides.</voice><break time="5s"/>
+<voice lang="es">El abogado convencido plantea temáticas educativas complejas y aporta guías imprescindibles.</voice><break time="2s"/>
+
+<voice lang="en">Absolute light situates cold and hard ice layers, provoking consequences.</voice><break time="5s"/>
+<voice lang="es">La luz absoluta sitúa capas de hielo frías y duras, provocando consecuencias.</voice><break time="2s"/>
+
+<voice lang="en">As a family we watch classic cinema and listen to abstract rock, and share our own ideas.</voice><break time="5s"/>
+<voice lang="es">En familia vemos cine clásico y escuchamos rock abstracto, y compartimos ideas propias.</voice><break time="2s"/>
+
+<voice lang="en">It's absurd that old geniuses take arms and provoke a horrible scandal.</voice><break time="5s"/>
+<voice lang="es">Es absurdo que tomen las armas viejos genios y provoquen un escándalo horrible.</voice><break time="2s"/>
+
+<voice lang="en">The architectural finishes of the building impress and its dynamic interfaces work correctly.</voice><break time="5s"/>
+<voice lang="es">Los acabados arquitectónicos del edificio impresionan y sus interfaces dinámicas funcionan correctamente.</voice><break time="2s"/>
+
+<voice lang="en">Transfers represent broad scopes and generate important considerations during their course.</voice><break time="5s"/>
+<voice lang="es">Los traslados representan alcances amplios y generan consideraciones importantes durante su transcurso.</voice><break time="2s"/>
+
+<voice lang="en">It feels very academic indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy académicas en verdad.</voice><break time="2s"/>
+
+<voice lang="en">Accepted categories gather similar parameters and determine action lines.</voice><break time="5s"/>
+<voice lang="es">Las categorías aceptadas reúnen parámetros similares y determinan líneas de actuación.</voice><break time="2s"/>
+
+<voice lang="en">It always results accepted for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre aceptados para muchos.</voice><break time="2s"/>
+
+<voice lang="en">The cinematographic narration, accompanied by illustrations and animations, began today.</voice><break time="5s"/>
+<voice lang="es">La narración cinematográfica, acompañada de ilustraciones y animaciones, comenzó hoy.</voice><break time="2s"/>
+
+<voice lang="en">The expert, accompanied by clinicians, will analyze the plates and issue a ruling.</voice><break time="5s"/>
+<voice lang="es">El perito, acompañado de clínicos, analizará las placas y emitirá dictamen.</voice><break time="2s"/>
+
+<voice lang="en">The voter agreed to denounce form non-compliance and present drawings between sections.</voice><break time="5s"/>
+<voice lang="es">El elector acordó denunciar el incumplimiento del formulario y presentar dibujos entre las secciones.</voice><break time="2s"/>
+
+<voice lang="en">The agreeable public places labels on products and designs during tours.</voice><break time="5s"/>
+<voice lang="es">El público acorde coloca etiquetas en productos y diseños durante los recorridos.</voice><break time="2s"/>
+
+<voice lang="en">Our accredited tutor knows family profiles and it's definitely convenient to consult him when you need it.</voice><break time="5s"/>
+<voice lang="es">Nuestro tutor acreditado conoce los perfiles familiares y definitivamente conviene consultarlo cuando lo necesites.</voice><break time="2s"/>
+
+<voice lang="en">The king activates small resistant cars and light horses for leisure.</voice><break time="5s"/>
+<voice lang="es">El rey activa autos pequeños y resistentes y caballos ligeros para el ocio.</voice><break time="2s"/>
+
+<voice lang="en">Active sensors detect electrical waves and continuously monitor electrical pumps.</voice><break time="5s"/>
+<voice lang="es">Los sensores activos detectan ondas eléctricas y vigilan bombas eléctricas continuamente.</voice><break time="2s"/>
+
+<voice lang="en">Our family recognizes the population drama and keeps its criteria updated.</voice><break time="5s"/>
+<voice lang="es">Nuestra familia reconoce el drama poblacional y mantiene actualizado su criterio.</voice><break time="2s"/>
+
+<voice lang="en">Entities recognize the accumulated economic failure and proceed to financial renovation.</voice><break time="5s"/>
+<voice lang="es">Las entidades reconocen el acumulado fracaso económico y proceden a la renovación financiera.</voice><break time="2s"/>
+
+<voice lang="en">The accused PAN member wanted a delicious French drink for his demanding palate.</voice><break time="5s"/>
+<voice lang="es">El panista acusado quería una bebida francesa deliciosa para su exigente paladar.</voice><break time="2s"/>
+
+<voice lang="en">Our passports and adequate borders allow safe travels and enriching experiences.</voice><break time="5s"/>
+<voice lang="es">Nuestros pasaportes y fronteras adecuadas permiten viajes seguros y experiencias enriquecedoras.</voice><break time="2s"/>
+
+<voice lang="en">The deputy chief assumed command and directed the offensive.</voice><break time="5s"/>
+<voice lang="es">El jefe adjunto asumió el mando y dirigió la ofensiva.</voice><break time="2s"/>
+
+<voice lang="en">The district was administered correctly and all remaining pensions were registered.</voice><break time="5s"/>
+<voice lang="es">El distrito fue administrado correctamente y se registraron todas las pensiones restantes.</voice><break time="2s"/>
+
+<voice lang="en">It feels very administrative indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy administrativas en verdad.</voice><break time="2s"/>
+
+<voice lang="en">I want our acquired experiences on the boat to become trips.</voice><break time="5s"/>
+<voice lang="es">Quiero que nuestras experiencias adquiridas en la embarcación se conviertan en viajes.</voice><break time="2s"/>
+
+<voice lang="en">We want the family circle to take advantage of the love it acquires daily.</voice><break time="5s"/>
+<voice lang="es">Queremos que el círculo familiar aproveche el amor que adquiere diariamente.</voice><break time="2s"/>
+
+<voice lang="en">The assigned sensor indicates a relative variation in difficult internal energy flows.</voice><break time="5s"/>
+<voice lang="es">El sensor adscrito indica una variación relativa en los flujos energéticos internos difíciles.</voice><break time="2s"/>
+
+<voice lang="en">The adult has heard cruel promises and will determine to fundamentally change her life.</voice><break time="5s"/>
+<voice lang="es">La adulta ha escuchado promesas crueles y determinará cambiar fundamentalmente su vida.</voice><break time="2s"/>
+
+<voice lang="en">Our fixed aerospace home converted darkness into a precious offering.</voice><break time="5s"/>
+<voice lang="es">Nuestro hogar aeroespacial fijo convirtió la oscuridad en una ofrenda preciosa.</voice><break time="2s"/>
+
+<voice lang="en">They want affected areas to receive healing without more misfortunes.</voice><break time="5s"/>
+<voice lang="es">Ellas quieren que las áreas afectadas reciban curación sin más desgracias.</voice><break time="2s"/>
+
+<voice lang="en">The affected character knew too much and never again manufactured speakers.</voice><break time="5s"/>
+<voice lang="es">El personaje afectado sabía demasiado y jamás volvió a fabricar bocinas.</voice><break time="2s"/>
+
+<voice lang="en">Even affiliated to the gym, they simply forget to exercise and have a heavy history.</voice><break time="5s"/>
+<voice lang="es">Aun afiliadas al gimnasio, simplemente olvidan ejercitarse y tienen un historial pesado.</voice><break time="2s"/>
+
+<voice lang="en">Related fishermen consider noble stone a great symbol of natural relief.</voice><break time="5s"/>
+<voice lang="es">Pescadores afines consideran la piedra noble un gran símbolo de relieve natural.</voice><break time="2s"/>
+
+<voice lang="en">Tourist footwear is sold out and only discounted outfits remain on promotion.</voice><break time="5s"/>
+<voice lang="es">El calzado turístico está agotado y únicamente quedan atuendos rebajados en promoción.</voice><break time="2s"/>
+
+<voice lang="en">The developed agrarian organization proposes financial formulas destined to combat agrarian mortgages.</voice><break time="5s"/>
+<voice lang="es">La organización agraria desarrollada plantea fórmulas financieras destinadas a combatir las hipotecas agrarias.</voice><break time="2s"/>
+
+<voice lang="en">Agrarian environmental factors affect public health and provoke preventive physical loss.</voice><break time="5s"/>
+<voice lang="es">Factores ambientales agrarios afectan la salud pública y provocan pérdida física preventiva.</voice><break time="2s"/>
+
+<voice lang="en">Agrarian components related to hydraulically generated electrical minerals require review and compliance.</voice><break time="5s"/>
+<voice lang="es">Los componentes agrarios relacionados con minerales eléctricos generados hidráulicamente requieren revisión y cumplimiento.</voice><break time="2s"/>
+
+<voice lang="en">It opens perception although shadows affect lenses; natural stimuli stand out and surprise.</voice><break time="5s"/>
+<voice lang="es">Abre la percepción aunque las sombras afectan los lentes; los estímulos naturales destacan y sorprenden.</voice><break time="2s"/>
+
+<voice lang="en">The known family dynamic includes sweet aggregates and difficult recorded struggles.</voice><break time="5s"/>
+<voice lang="es">La dinámica familiar conocida incluye agregados dulces y luchas difíciles registradas.</voice><break time="2s"/>
+
+<voice lang="en">I accept the transition of latitudes although persecution returned during travels.</voice><break time="5s"/>
+<voice lang="es">Acepto la transición de latitudes aunque regresó la persecución durante los viajes.</voice><break time="2s"/>
+
+<voice lang="en">Senators must accredit the truth, but questions remain about liberation.</voice><break time="5s"/>
+<voice lang="es">Los senadores deben acreditar la verdad, pero quedan interrogantes sobre la liberación.</voice><break time="2s"/>
+
+<voice lang="en">In our family heritage no one accepts an aggressive style in conversation.</voice><break time="5s"/>
+<voice lang="es">En nuestra herencia familiar nadie acepta un estilo agresivo en la plática.</voice><break time="2s"/>
+
+<voice lang="en">Going together to family bathrooms reflects virtue, but also certain emotional incapacity.</voice><break time="5s"/>
+<voice lang="es">Acudir juntos a los baños familiares refleja virtud, pero también cierta incapacidad emocional.</voice><break time="2s"/>
+
+<voice lang="en">The isolated tiger will attack the car and you'll brake without thinking.</voice><break time="5s"/>
+<voice lang="es">El tigre aislado atacará al carro y frenarás sin pensar.</voice><break time="2s"/>
+
+<voice lang="en">Many students foreign to the English language feel educational lag and need support.</voice><break time="5s"/>
+<voice lang="es">Muchos estudiantes ajenos al idioma inglés sienten rezago educativo y necesitan apoyo.</voice><break time="2s"/>
+
+<voice lang="en">I appreciate your guidance about the healthy remedy, although pressure and doubts exist.</voice><break time="5s"/>
+<voice lang="es">Agradezco tu orientación sobre el remedio saludable, aunque exista presión y dudas.</voice><break time="2s"/>
+
+<voice lang="en">Hypertension is alarming in young people and we recommend continuous diagnoses during pregnancy.</voice><break time="5s"/>
+<voice lang="es">La hipertensión resulta alarmante en los jóvenes y recomendamos diagnósticos continuos durante el embarazo.</voice><break time="2s"/>
+
+<voice lang="en">The distant painter created beautiful images and achieved growing gross merit.</voice><break time="5s"/>
+<voice lang="es">El pintor alejado creó bellas imágenes y consiguió un mérito bruto creciente.</voice><break time="2s"/>
+
+<voice lang="en">The era reaches its perfection and adds tons of grain to the soils.</voice><break time="5s"/>
+<voice lang="es">La época alcanza su perfección y agrega toneladas de grano a los suelos.</voice><break time="2s"/>
+
+<voice lang="en">Winds come from the sea and adding mathematical calculations allows understanding them.</voice><break time="5s"/>
+<voice lang="es">Los vientos provienen del mar y agregar cálculos matemáticos permite comprenderlos.</voice><break time="2s"/>
+
+<voice lang="en">The German scientist wishes that the genetic hypothesis be confirmed soon.</voice><break time="5s"/>
+<voice lang="es">La científica alemana desea que la hipótesis genética sea confirmada pronto.</voice><break time="2s"/>
+
+<voice lang="en">Every morning Agregó drinks coffee and then finds calm in his pages.</voice><break time="5s"/>
+<voice lang="es">Cada mañana Agregó toma café y después encuentra calma en sus páginas.</voice><break time="2s"/>
+
+<voice lang="en">The German engineer obtained federal medical licenses for export execution.</voice><break time="5s"/>
+<voice lang="es">El ingeniero alemán consiguió licencias médicas federativas para la ejecución de la exportación.</voice><break time="2s"/>
+
+<voice lang="en">The Chilean ally assumes economic risks and faces bank dealers simultaneously.</voice><break time="5s"/>
+<voice lang="es">El aliado chileno asume riesgos económicos y enfrenta concesionarios bancarios simultáneamente.</voice><break time="2s"/>
+
+<voice lang="en">Amnesty declared the decree's closure because indications of nationality claim result.</voice><break time="5s"/>
+<voice lang="es">Amnistía declaró la clausura del decreto porque resultan indicios de reclamación de nacionalidad.</voice><break time="2s"/>
+
+<voice lang="en">I wish the aligned magistrate approves quick legal and formal negotiations.</voice><break time="5s"/>
+<voice lang="es">Deseo que el magistrado alineado apruebe rápidas negociaciones legales y formales.</voice><break time="2s"/>
+
+<voice lang="en">Family voices can advise children and suffer interruptions during dinners.</voice><break time="5s"/>
+<voice lang="es">Las voces familiares pueden asesorar a los niños y sufrir interrupciones durante las cenas.</voice><break time="2s"/>
+
+<voice lang="en">The doctor must attend to complaints because the circuit legend refers to corruption.</voice><break time="5s"/>
+<voice lang="es">La doctora debe atender denuncias porque la leyenda del circuito se refiere a corrupción.</voice><break time="2s"/>
+
+<voice lang="en">I would like high rooms to remain protected and closed soon.</voice><break time="5s"/>
+<voice lang="es">Quisiera que las habitaciones altas queden protegidas y cerradas pronto.</voice><break time="2s"/>
+
+<voice lang="en">The assistant writes opinions and will help students when consultations begin.</voice><break time="5s"/>
+<voice lang="es">El auxiliar escribe dictámenes y ayudará a los estudiantes cuando las consultas empiecen.</voice><break time="2s"/>
+
+<voice lang="en">I thought about traveling to the nearby continent with high air flow.</voice><break time="5s"/>
+<voice lang="es">Pensé en viajar al continente cercano y de alto flujo aéreo.</voice><break time="2s"/>
+
+<voice lang="en">Tourists will be able to move comfortably and powerful lighting will make arrival safe.</voice><break time="5s"/>
+<voice lang="es">Los turistas podrán trasladarse cómodamente y el alumbrado potente hará segura la llegada.</voice><break time="2s"/>
+
+<voice lang="en">He added solid arguments and assured that the probability of success would increase.</voice><break time="5s"/>
+<voice lang="es">Añadió argumentos sólidos y aseguró que la probabilidad de éxito aumentaría.</voice><break time="2s"/>
+
+<voice lang="en">Searching for tablets online is simple because you'll find a wide range and installments.</voice><break time="5s"/>
+<voice lang="es">Buscar tabletas en línea es sencillo porque encontrarás una amplia gama y cuotas.</voice><break time="2s"/>
+
+<voice lang="en">It feels very yellow indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy amarillo en verdad.</voice><break time="2s"/>
+
+<voice lang="en">It's worth affirming that the winner obtained a distinction although he lost titles and balance.</voice><break time="5s"/>
+<voice lang="es">Cabe afirmar que el ganador obtuvo una distinción aunque perdió títulos y saldo.</voice><break time="2s"/>
+
+<voice lang="en">The American estate becomes a nearby home, with fine textile carpets.</voice><break time="5s"/>
+<voice lang="es">La quinta americana se convierte en un hogar cercano, con finas alfombras textiles.</voice><break time="2s"/>
+
+<voice lang="en">Place red labels in the boxes and then combine the cards.</voice><break time="5s"/>
+<voice lang="es">Coloca etiquetas rojas en las casillas y luego combina las cartas.</voice><break time="2s"/>
+
+<voice lang="en">Knowing new tourist sites inspires originality and will lead us to take nighttime taxi trips.</voice><break time="5s"/>
+<voice lang="es">Conocer nuevos sitios turísticos inspira originalidad y nos llevará a hacer viajes nocturnos en taxi.</voice><break time="2s"/>
+
+<voice lang="en">The analyzed samples contain essential proteins and demonstrate their deep effect on combustion.</voice><break time="5s"/>
+<voice lang="es">Las muestras analizadas contienen proteínas esenciales y demuestran su efecto profundo en la combustión.</voice><break time="2s"/>
+
+<voice lang="en">I insist that the analytical review consider financial and legal circumstances.</voice><break time="5s"/>
+<voice lang="es">Insisto en que la revisión analítica considere las circunstancias financieras y legales.</voice><break time="2s"/>
+
+<voice lang="en">Equitable public education and broad curriculum form sensitive and creative generations.</voice><break time="5s"/>
+<voice lang="es">La educación pública equitativa y el amplio currículo forman generaciones sensibles y creativas.</voice><break time="2s"/>
+
+<voice lang="en">The aluminum bridge construction will depend on bidding and exact manufacturing.</voice><break time="5s"/>
+<voice lang="es">La construcción del puente de aluminio dependerá de las licitaciones y de una fabricación exacta.</voice><break time="2s"/>
+
+<voice lang="en">Consult the principles although you have doubts about the relationship between variants and races.</voice><break time="5s"/>
+<voice lang="es">Consulte los principios aunque tenga dudas sobre la relación entre variantes y razas.</voice><break time="2s"/>
+
+<voice lang="en">It feels very precedent indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy antecedente en verdad.</voice><break time="2s"/>
+
+<voice lang="en">Our ancestors worked with wood and coal; we work with competitive electronics.</voice><break time="5s"/>
+<voice lang="es">Nuestros antepasados trabajaban en madera y carbón; nosotros, en electrónica competitiva.</voice><break time="2s"/>
+
+<voice lang="en">Counting free minutes serves as a leisure marker and dancing helps.</voice><break time="5s"/>
+<voice lang="es">Contar los minutos libres sirve como marcador de ocio y bailar ayuda.</voice><break time="2s"/>
+
+<voice lang="en">You'll tell the family story although there's a generational gap and a complicated duty.</voice><break time="5s"/>
+<voice lang="es">Contarás la historia familiar aunque exista una brecha generacional y un deber complicado.</voice><break time="2s"/>
+
+<voice lang="en">In the previous house I found serious references and a certain unexpected inner peace.</voice><break time="5s"/>
+<voice lang="es">En la casa anterior encontré serias referencias y una cierta e inesperada paz interior.</voice><break time="2s"/>
+
+<voice lang="en">We want the previous wall coverings to change and make way for nature.</voice><break time="5s"/>
+<voice lang="es">Queremos que los anteriores recubrimientos de los muros cambien y dejen paso a la naturaleza.</voice><break time="2s"/>
+
+<voice lang="en">Anticipated death alters deep emotions and you think you contain them, unsuccessfully.</voice><break time="5s"/>
+<voice lang="es">La muerte anticipada altera emociones profundas y crees contenerlas, sin éxito.</voice><break time="2s"/>
+
+<voice lang="en">It feels very anticipated indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy anticipados en verdad.</voice><break time="2s"/>
+
+<voice lang="en">It's clearly ancient for everyone today.</voice><break time="5s"/>
+<voice lang="es">Es claramente antigua para todos hoy.</voice><break time="2s"/>
+
+<voice lang="en">The ancient Zapatistas, acting nervous, launched musical speeches and received protection.</voice><break time="5s"/>
+<voice lang="es">Los antiguos zapatistas, actuando nerviosos, lanzaron discursos musicales y recibieron amparo.</voice><break time="2s"/>
+
+<voice lang="en">Female cousins come to the home at every annual celebration and strengthen our nucleus.</voice><break time="5s"/>
+<voice lang="es">Las primas vienen al hogar en cada celebración anual y fortalecen nuestro núcleo.</voice><break time="2s"/>
+
+<voice lang="en">The supermarket announced discounts on small baskets and wallets announced by speakers.</voice><break time="5s"/>
+<voice lang="es">El supermercado anunció descuentos en la canasta pequeña y la cartera anunciadas por altavoces.</voice><break time="2s"/>
+
+<voice lang="en">It corresponds to human resources to manage payroll and ensure good working conditions.</voice><break time="5s"/>
+<voice lang="es">Corresponde a recursos humanos gestionar la nómina y asegurar buenas condiciones laborales.</voice><break time="2s"/>
+
+<voice lang="en">The secret section appeared lost and signified a conflict, but had a perfect solution.</voice><break time="5s"/>
+<voice lang="es">El apartado secreto apareció perdido y significó un conflicto, pero tuvo una solución perfecta.</voice><break time="2s"/>
+
+<voice lang="en">The Spanish surname became an evident and quite universal legal matter.</voice><break time="5s"/>
+<voice lang="es">El apellido español se convirtió en un asunto judicial evidente y bastante universal.</voice><break time="2s"/>
+
+<voice lang="en">Every day I created machines when I worked in succession and computational complement.</voice><break time="5s"/>
+<voice lang="es">Cada día creaba máquinas cuando trabajaba en sucesión y complemento computacional.</voice><break time="2s"/>
+
+<voice lang="en">I must verify the credential and guards should open if appropriate.</voice><break time="5s"/>
+<voice lang="es">Debo comprobar la credencial y los guardias deberán abrir si corresponde.</voice><break time="2s"/>
+
+<voice lang="en">The applicable governmental office will formulate normative codes and close eternal privilege.</voice><break time="5s"/>
+<voice lang="es">El despacho gubernamental aplicable formulará códigos normativos y cerrará el privilegio eterno.</voice><break time="2s"/>
+
+<voice lang="en">The word define returns to the emotional object and the letters interpret allow feeling.</voice><break time="5s"/>
+<voice lang="es">La palabra definir vuelve al objeto emocional y las letras interpretar permiten sentir.</voice><break time="2s"/>
+
+<voice lang="en">Applied calculation and applied accounting belong to the financial sphere.</voice><break time="5s"/>
+<voice lang="es">El cálculo aplicado y la contabilidad aplicada pertenecen al ámbito financiero.</voice><break time="2s"/>
+
+<voice lang="en">Families supported by true bonds will always return to the retreat called home.</voice><break time="5s"/>
+<voice lang="es">Familias apoyadas en lazos verdaderos volverán siempre al retiro llamado hogar.</voice><break time="2s"/>
+
+<voice lang="en">Pest protection was approved and scientists conducted biological detections.</voice><break time="5s"/>
+<voice lang="es">La protección contra plagas fue aprobada y científicos realizaron detecciones biológicas.</voice><break time="2s"/>
+
+<voice lang="en">Leave the browser page open, although the travel period has elapsed.</voice><break time="5s"/>
+<voice lang="es">Deja la página del navegador abierta, aunque haya transcurrido el período de viaje.</voice><break time="2s"/>
+
+<voice lang="en">Our family principles were approved and were born from precious mercy.</voice><break time="5s"/>
+<voice lang="es">Nuestros principios familiares fueron aprobados y nacieron de una preciosa misericordia.</voice><break time="2s"/>
+
+<voice lang="en">University students have taken advantage of preschool courses and studied specific subjects annually.</voice><break time="5s"/>
+<voice lang="es">Estudiantes universitarios han aprovechado cursos preescolares y cursado materias específicas anualmente.</voice><break time="2s"/>
+
+<voice lang="en">Depending on marketing, firms lose money although they gain fame.</voice><break time="5s"/>
+<voice lang="es">Dependiendo de la mercadotecnia, las firmas pierden dinero aunque ganan fama.</voice><break time="2s"/>
+
+<voice lang="en">Downloading anime delights us, but traveling generates presence and songs in the head.</voice><break time="5s"/>
+<voice lang="es">Descargar anime nos encanta, pero viajar genera presencia y canciones en la cabeza.</voice><break time="2s"/>
+
+<voice lang="en">Although delinquency increases, highlighting thematic chapters will allow imagining similarities and reactions.</voice><break time="5s"/>
+<voice lang="es">Aunque la delincuencia aumenta, destacar capítulos temáticos permitirá imaginar similitudes y reacciones.</voice><break time="2s"/>
+
+<voice lang="en">It always results approximate for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre aproximada para muchos.</voice><break time="2s"/>
+
+<voice lang="en">Our Argentine family talks on cordless phones alone and depends on tender accompanying.</voice><break time="5s"/>
+<voice lang="es">Nuestra familia argentina habla por teléfonos inalámbricos sola y depende de tierno acompañar.</voice><break time="2s"/>
+
+<voice lang="en">The driver detailed trips to the north and connection will arise if they make reservations.</voice><break time="5s"/>
+<voice lang="es">El chofer detalló viajes al norte y surgirá conexión si realizan reservas.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

@@ -1,0 +1,134 @@
+<voice lang="en">Reading and Knowledge</voice><break time="0.5s">
+<voice lang="es">Lectura y conocimiento</voice><break time="2s">
+
+<voice lang="en">Do you read a lot? Why?</voice><break time="5s">
+<voice lang="es">¿Lees mucho? ¿Por qué?</voice><break time="2s">
+
+<voice lang="en">I like reading because I learn a lot of interesting things that way.</voice><break time="5s">
+<voice lang="es">Me gusta leer porque aprendo muchas cosas interesantes de esa manera.</voice><break time="2s">
+
+<voice lang="en">It also helps me to relax and switch off from my phone and other devices.</voice><break time="5s">
+<voice lang="es">También me ayuda a relajarme y desconectarme de mi teléfono y otros dispositivos.</voice><break time="2s">
+
+<voice lang="en">How much do you read?</voice><break time="5s">
+<voice lang="es">¿Cuánto lees?</voice><break time="2s">
+
+<voice lang="en">I read more than ten books per month.</voice><break time="5s">
+<voice lang="es">Leo más de diez libros por mes.</voice><break time="2s">
+
+<voice lang="en">I can read very fast.</voice><break time="5s">
+<voice lang="es">Puedo leer muy rápido.</voice><break time="2s">
+
+<voice lang="en">Is reading important to you?</voice><break time="5s">
+<voice lang="es">¿Es importante leer para ti?</voice><break time="2s">
+
+<voice lang="en">Reading is very important, to acquire knowledge, to become an intelligent and educated person.</voice><break time="5s">
+<voice lang="es">Leer es muy importante, para adquirir conocimiento, para convertirte en una persona inteligente y educada.</voice><break time="2s">
+
+<voice lang="en">A person who reads a lot has a lot more knowledge than someone who doesn't read.</voice><break time="5s">
+<voice lang="es">Una persona que lee mucho tiene mucho más conocimiento que alguien que no lee.</voice><break time="2s">
+
+<voice lang="en">If you read a good book about a specific topic, you already know more about it than 50% of people.</voice><break time="5s">
+<voice lang="es">Si lees un buen libro sobre un tema específico, ya sabes más sobre él que el 50% de la gente.</voice><break time="2s">
+
+<voice lang="en">If you read three good books about a topic, you know more about it than 99% of people.</voice><break time="5s">
+<voice lang="es">Si lees tres buenos libros sobre un tema, sabes más sobre él que el 99% de la gente.</voice><break time="2s">
+
+<voice lang="en">I also read a lot of scientific studies and research papers.</voice><break time="5s">
+<voice lang="es">También leo muchos estudios científicos y artículos de investigación.</voice><break time="2s">
+
+<voice lang="en">I have to do it. If you want to be an expert on something, you have to constantly read about it to learn more.</voice><break time="5s">
+<voice lang="es">Tengo que hacerlo. Si quieres ser experto en algo, tienes que leer constantemente sobre ello para aprender más.</voice><break time="2s">
+
+<voice lang="en">I read about web development and testing.</voice><break time="5s">
+<voice lang="es">Leo sobre desarrollo web y pruebas.</voice><break time="2s">
+
+<voice lang="en">I read about Drupal and automated testing.</voice><break time="5s">
+<voice lang="es">Leo sobre Drupal y pruebas automatizadas.</voice><break time="2s">
+
+<voice lang="en">I need to stay current with web technologies.</voice><break time="5s">
+<voice lang="es">Necesito mantenerme actualizado con las tecnologías web.</voice><break time="2s">
+
+<voice lang="en">I don't just read it, but also analyze it and explain it in my own words.</voice><break time="5s">
+<voice lang="es">No solo lo leo, sino que también lo analizo y lo explico en mis propias palabras.</voice><break time="2s">
+
+<voice lang="en">This is called the Feynman technique and it's one of the best ways to learn something.</voice><break time="5s">
+<voice lang="es">Esto se llama la técnica Feynman y es una de las mejores formas de aprender algo.</voice><break time="2s">
+
+<voice lang="en">Do you agree that knowledge is power?</voice><break time="5s">
+<voice lang="es">¿Estás de acuerdo en que el conocimiento es poder?</voice><break time="2s">
+
+<voice lang="en">Knowledge is important to make smart decisions, but knowledge by itself is useless.</voice><break time="5s">
+<voice lang="es">El conocimiento es importante para tomar decisiones inteligentes, pero el conocimiento por sí solo es inútil.</voice><break time="2s">
+
+<voice lang="en">The internet forums and comment sections are full of supposedly knowledgeable losers arguing all day.</voice><break time="5s">
+<voice lang="es">Los foros de internet y secciones de comentarios están llenos de supuestos conocedores perdedores discutiendo todo el día.</voice><break time="2s">
+
+<voice lang="en">Those people have never achieved anything in their lives.</voice><break time="5s">
+<voice lang="es">Esas personas nunca han logrado nada en sus vidas.</voice><break time="2s">
+
+<voice lang="en">Knowledge plus consistent action in the right direction gets you results.</voice><break time="5s">
+<voice lang="es">Conocimiento más acción consistente en la dirección correcta te da resultados.</voice><break time="2s">
+
+<voice lang="en">You need action too.</voice><break time="5s">
+<voice lang="es">También necesitas acción.</voice><break time="2s">
+
+<voice lang="en">As long as he goes in the right direction, a dumb person who is constantly taking action</voice><break time="5s">
+<voice lang="es">Mientras vaya en la dirección correcta, una persona tonta que constantemente toma acción</voice><break time="2s">
+
+<voice lang="en">will be more successful than an armchair intellectual.</voice><break time="5s">
+<voice lang="es">será más exitosa que un intelectual de sillón.</voice><break time="2s">
+
+<voice lang="en">What do you read?</voice><break time="5s">
+<voice lang="es">¿Qué lees?</voice><break time="2s">
+
+<voice lang="en">I read a lot of different things.</voice><break time="5s">
+<voice lang="es">Leo muchas cosas diferentes.</voice><break time="2s">
+
+<voice lang="en">I like reading novels and also books about history, economics, psychology...</voice><break time="5s">
+<voice lang="es">Me gusta leer novelas y también libros sobre historia, economía, psicología...</voice><break time="2s">
+
+<voice lang="en">I also read about business and marketing, to get better at my work.</voice><break time="5s">
+<voice lang="es">También leo sobre negocios y marketing, para mejorar en mi trabajo.</voice><break time="2s">
+
+<voice lang="en">I like history a lot.</voice><break time="5s">
+<voice lang="es">Me gusta mucho la historia.</voice><break time="2s">
+
+<voice lang="en">I read a lot about history: world war two, medieval and ancient history…</voice><break time="5s">
+<voice lang="es">Leo mucho sobre historia: segunda guerra mundial, historia medieval y antigua…</voice><break time="2s">
+
+<voice lang="en">I read maybe two or three books a week about history.</voice><break time="5s">
+<voice lang="es">Leo quizás dos o tres libros a la semana sobre historia.</voice><break time="2s">
+
+<voice lang="en">But for me, history is just a hobby.</voice><break time="5s">
+<voice lang="es">Pero para mí, la historia es solo un hobby.</voice><break time="2s">
+
+<voice lang="en">It's something I read about in my free time.</voice><break time="5s">
+<voice lang="es">Es algo sobre lo que leo en mi tiempo libre.</voice><break time="2s">
+
+<voice lang="en">I read about web development and testing methodologies.</voice><break time="5s">
+<voice lang="es">Leo sobre desarrollo web y metodologías de pruebas.</voice><break time="2s">
+
+<voice lang="en">Do you read business books?</voice><break time="5s">
+<voice lang="es">¿Lees libros de negocios?</voice><break time="2s">
+
+<voice lang="en">I read business books because I have to.</voice><break time="5s">
+<voice lang="es">Leo libros de negocios porque tengo que.</voice><break time="2s">
+
+<voice lang="en">I don't like these motivational, personal development, "how to be successful" books.</voice><break time="5s">
+<voice lang="es">No me gustan estos libros motivacionales, de desarrollo personal, "cómo ser exitoso".</voice><break time="2s">
+
+<voice lang="en">They take one simple idea that could be summarised in a paragraph and they add two hundred pages of filler.</voice><break time="5s">
+<voice lang="es">Toman una idea simple que podría resumirse en un párrafo y agregan doscientas páginas de relleno.</voice><break time="2s">
+
+<voice lang="en">A lot of people write a book just so that they can call themselves an author on social media.</voice><break time="5s">
+<voice lang="es">Mucha gente escribe un libro solo para poder llamarse autores en redes sociales.</voice><break time="2s">
+
+<voice lang="en">I read about business and technology.</voice><break time="5s">
+<voice lang="es">Leo sobre negocios y tecnología.</voice><break time="2s">
+
+<voice lang="en">I read about open source sustainability.</voice><break time="5s">
+<voice lang="es">Leo sobre la sostenibilidad del código abierto.</voice><break time="2s">
+
+El Fin
+<break time="4s">

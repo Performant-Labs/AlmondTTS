@@ -1,0 +1,1238 @@
+<voice lang="en">Time - Present & Immediate</voice><break time="4s">
+<voice lang="es">Tiempo - Presente e Inmediato</voice><break time="3s">
+
+<voice lang="en">I need to leave now.</voice><break time="4s">
+<voice lang="es">Necesito irme ahora.</voice><break time="3s">
+
+<voice lang="en">I just arrived.</voice><break time="4s">
+<voice lang="es">Acabo de llegar.</voice><break time="3s">
+
+<voice lang="en">We are here now.</voice><break time="4s">
+<voice lang="es">Estamos aquí ahora.</voice><break time="3s">
+
+<voice lang="en">She will be there soon.</voice><break time="4s">
+<voice lang="es">Ella estará allí pronto.</voice><break time="3s">
+
+<voice lang="en">Dinner will be ready soon.</voice><break time="4s">
+<voice lang="es">La cena estará lista pronto.</voice><break time="3s">
+
+<voice lang="en">Please reply immediately.</voice><break time="4s">
+<voice lang="es">Por favor responda inmediatamente.</voice><break time="3s">
+
+<voice lang="en">She replied immediately.</voice><break time="4s">
+<voice lang="es">Ella respondió inmediatamente.</voice><break time="3s">
+
+<voice lang="en">He reacted instantly.</voice><break time="4s">
+<voice lang="es">Él reaccionó instantáneamente.</voice><break time="3s">
+
+<voice lang="en">He instantly reacted.</voice><break time="4s">
+<voice lang="es">Él reaccionó instantáneamente.</voice><break time="3s">
+
+<voice lang="en">Time - Past</voice><break time="4s">
+<voice lang="es">Tiempo - Pasado</voice><break time="3s">
+
+<voice lang="en">We talked then but not again.</voice><break time="4s">
+<voice lang="es">Hablamos entonces pero no volvimos a hablar.</voice><break time="3s">
+
+<voice lang="en">I called before leaving.</voice><break time="4s">
+<voice lang="es">Llamé antes de irme.</voice><break time="3s">
+
+<voice lang="en">He visited recently.</voice><break time="4s">
+<voice lang="es">Él nos visitó recientemente.</voice><break time="3s">
+
+<voice lang="en">He visited recently.</voice><break time="4s">
+<voice lang="es">Él nos visitó recientemente.</voice><break time="3s">
+
+<voice lang="en">She came back yesterday.</voice><break time="4s">
+<voice lang="es">Ella regresó ayer.</voice><break time="3s">
+
+<voice lang="en">She left yesterday.</voice><break time="4s">
+<voice lang="es">Ella se fue ayer.</voice><break time="3s">
+
+<voice lang="en">I woke up early today.</voice><break time="4s">
+<voice lang="es">Me desperté temprano hoy.</voice><break time="3s">
+
+<voice lang="en">He previously lived here.</voice><break time="4s">
+<voice lang="es">Anteriormente vivió aquí.</voice><break time="3s">
+
+<voice lang="en">Time - Future</voice><break time="4s">
+<voice lang="es">Tiempo - Futuro</voice><break time="3s">
+
+<voice lang="en">Let's meet later.</voice><break time="4s">
+<voice lang="es">Nos vemos más tarde.</voice><break time="3s">
+
+<voice lang="en">Maybe he'll come later.</voice><break time="4s">
+<voice lang="es">Quizás venga más tarde.</voice><break time="3s">
+
+<voice lang="en">We'll discuss it next week.</voice><break time="4s">
+<voice lang="es">Lo discutiremos la próxima semana.</voice><break time="3s">
+
+<voice lang="en">We can meet tomorrow.</voice><break time="4s">
+<voice lang="es">Podemos reunirnos mañana.</voice><break time="3s">
+
+<voice lang="en">Time - After</voice><break time="4s">
+<voice lang="es">Tiempo - Después</voice><break time="3s">
+
+<voice lang="en">We talked after dinner.</voice><break time="4s">
+<voice lang="es">Hablamos después de cenar.</voice><break time="3s">
+
+<voice lang="en">She arrived late.</voice><break time="4s">
+<voice lang="es">Ella llegó tarde.</voice><break time="3s">
+
+<voice lang="en">Time - Continuation</voice><break time="4s">
+<voice lang="es">Tiempo - Continuación</voice><break time="3s">
+
+<voice lang="en">She has already finished.</voice><break time="4s">
+<voice lang="es">Ella ya ha terminado.</voice><break time="3s">
+
+<voice lang="en">He still lives here.</voice><break time="4s">
+<voice lang="es">Él todavía vive aquí.</voice><break time="3s">
+
+<voice lang="en">I haven't done it yet.</voice><break time="4s">
+<voice lang="es">Aún no lo he hecho.</voice><break time="3s">
+
+<voice lang="en">Time - Eventually</voice><break time="4s">
+<voice lang="es">Tiempo - Eventualmente</voice><break time="3s">
+
+<voice lang="en">They will understand eventually.</voice><break time="4s">
+<voice lang="es">Lo entenderán eventualmente.</voice><break time="3s">
+
+<voice lang="en">We finally solved the problem.</voice><break time="4s">
+<voice lang="es">Finalmente solucionamos el problema.</voice><break time="3s">
+
+<voice lang="en">He will eventually succeed.</voice><break time="4s">
+<voice lang="es">Al final lo conseguirá.</voice><break time="3s">
+
+<voice lang="en">Time - Current Status</voice><break time="4s">
+<voice lang="es">Tiempo - Estado Actual</voice><break time="3s">
+
+<voice lang="en">She currently works remotely.</voice><break time="4s">
+<voice lang="es">Actualmente trabaja de forma remota.</voice><break time="3s">
+
+<voice lang="en">We are presently waiting.</voice><break time="4s">
+<voice lang="es">Actualmente estamos esperando.</voice><break time="3s">
+
+<voice lang="en">Frequency - Always & Never</voice><break time="4s">
+<voice lang="es">Frecuencia - Siempre y Nunca</voice><break time="3s">
+
+<voice lang="en">She always wakes up early.</voice><break time="4s">
+<voice lang="es">Ella siempre se despierta temprano.</voice><break time="3s">
+
+<voice lang="en">He never drinks coffee.</voice><break time="4s">
+<voice lang="es">Él nunca bebe café.</voice><break time="3s">
+
+<voice lang="en">Frequency - Often</voice><break time="4s">
+<voice lang="es">Frecuencia - A Menudo</voice><break time="3s">
+
+<voice lang="en">They often visit us.</voice><break time="4s">
+<voice lang="es">Nos visitan a menudo.</voice><break time="3s">
+
+<voice lang="en">He frequently checks his phone.</voice><break time="4s">
+<voice lang="es">Él revisa su teléfono con frecuencia.</voice><break time="3s">
+
+<voice lang="en">She's always busy.</voice><break time="4s">
+<voice lang="es">Ella siempre está ocupada.</voice><break time="3s">
+
+<voice lang="en">We have frequent meetings.</voice><break time="4s">
+<voice lang="es">Tenemos reuniones frecuentes.</voice><break time="3s">
+
+<voice lang="en">Frequency - Sometimes</voice><break time="4s">
+<voice lang="es">Frecuencia - A Veces</voice><break time="3s">
+
+<voice lang="en">We sometimes eat out.</voice><break time="4s">
+<voice lang="es">A veces comemos fuera.</voice><break time="3s">
+
+<voice lang="en">I occasionally see her downtown.</voice><break time="4s">
+<voice lang="es">De vez en cuando la veo en el centro.</voice><break time="3s">
+
+<voice lang="en">I make occasional mistakes.</voice><break time="4s">
+<voice lang="es">Cometo errores ocasionales.</voice><break time="3s">
+
+<voice lang="en">He occasionally visits.</voice><break time="4s">
+<voice lang="es">Él nos visita de vez en cuando.</voice><break time="3s">
+
+<voice lang="en">Frequency - Rarely</voice><break time="4s">
+<voice lang="es">Frecuencia - Raramente</voice><break time="3s">
+
+<voice lang="en">I rarely watch TV.</voice><break time="4s">
+<voice lang="es">Rara vez veo la televisión.</voice><break time="3s">
+
+<voice lang="en">She rarely complains.</voice><break time="4s">
+<voice lang="es">Ella rara vez se queja.</voice><break time="3s">
+
+<voice lang="en">Frequency - Usually</voice><break time="4s">
+<voice lang="es">Frecuencia - Usualmente</voice><break time="3s">
+
+<voice lang="en">She usually walks to work.</voice><break time="4s">
+<voice lang="es">Ella generalmente camina al trabajo.</voice><break time="3s">
+
+<voice lang="en">He's usually unlucky.</voice><break time="4s">
+<voice lang="es">Generalmente tiene mala suerte.</voice><break time="3s">
+
+<voice lang="en">Frequency - Regular Intervals</voice><break time="4s">
+<voice lang="es">Frecuencia - Intervalos Regulares</voice><break time="3s">
+
+<voice lang="en">He reads daily.</voice><break time="4s">
+<voice lang="es">Él lee diariamente.</voice><break time="3s">
+
+<voice lang="en">We practice weekly.</voice><break time="4s">
+<voice lang="es">Practicamos semanalmente.</voice><break time="3s">
+
+<voice lang="en">He pays the bill monthly.</voice><break time="4s">
+<voice lang="es">Él paga la factura mensualmente.</voice><break time="3s">
+
+<voice lang="en">They meet yearly.</voice><break time="4s">
+<voice lang="es">Se reúnen anualmente.</voice><break time="3s">
+
+<voice lang="en">He takes daily notes.</voice><break time="4s">
+<voice lang="es">Él toma notas diariamente.</voice><break time="3s">
+
+<voice lang="en">We have weekly calls.</voice><break time="4s">
+<voice lang="es">Tenemos llamadas semanales.</voice><break time="3s">
+
+<voice lang="en">They do monthly reports.</voice><break time="4s">
+<voice lang="es">Hacen informes mensuales.</voice><break time="3s">
+
+<voice lang="en">We celebrate yearly traditions.</voice><break time="4s">
+<voice lang="es">Celebramos tradiciones anuales.</voice><break time="3s">
+
+<voice lang="en">Speed</voice><break time="4s">
+<voice lang="es">Velocidad</voice><break time="3s">
+
+<voice lang="en">She walked quickly.</voice><break time="4s">
+<voice lang="es">Ella caminaba rápidamente.</voice><break time="3s">
+
+<voice lang="en">He moved slowly.</voice><break time="4s">
+<voice lang="es">Se movió lentamente.</voice><break time="3s">
+
+<voice lang="en">They ran fast.</voice><break time="4s">
+<voice lang="es">Corrieron rápido.</voice><break time="3s">
+
+<voice lang="en">He moved slowly.</voice><break time="4s">
+<voice lang="es">Se movió lentamente.</voice><break time="3s">
+
+<voice lang="en">They ran rapidly.</voice><break time="4s">
+<voice lang="es">Corrieron rápidamente.</voice><break time="3s">
+
+<voice lang="en">He improved rapidly.</voice><break time="4s">
+<voice lang="es">Mejoró rápidamente.</voice><break time="3s">
+
+<voice lang="en">Gradual Change</voice><break time="4s">
+<voice lang="es">Cambio Gradual</voice><break time="3s">
+
+<voice lang="en">He improved gradually.</voice><break time="4s">
+<voice lang="es">Mejoró gradualmente.</voice><break time="3s">
+
+<voice lang="en">The noise increased steadily.</voice><break time="4s">
+<voice lang="es">El ruido aumentaba constantemente.</voice><break time="3s">
+
+<voice lang="en">She recovered gradually.</voice><break time="4s">
+<voice lang="es">Se recuperó gradualmente.</voice><break time="3s">
+
+<voice lang="en">She is increasingly confident.</voice><break time="4s">
+<voice lang="es">Ella está cada vez más segura.</voice><break time="3s">
+
+<voice lang="en">He is decreasingly involved.</voice><break time="4s">
+<voice lang="es">Está cada vez menos involucrado.</voice><break time="3s">
+
+<voice lang="en">Duration</voice><break time="4s">
+<voice lang="es">Duración</voice><break time="3s">
+
+<voice lang="en">She spoke briefly.</voice><break time="4s">
+<voice lang="es">Ella habló brevemente.</voice><break time="3s">
+
+<voice lang="en">He calls me constantly.</voice><break time="4s">
+<voice lang="es">Él me llama constantemente.</voice><break time="3s">
+
+<voice lang="en">The machine runs continuously.</voice><break time="4s">
+<voice lang="es">La máquina funciona continuamente.</voice><break time="3s">
+
+<voice lang="en">They train regularly.</voice><break time="4s">
+<voice lang="es">Entrenan regularmente.</voice><break time="3s">
+
+<voice lang="en">He paused briefly.</voice><break time="4s">
+<voice lang="es">Hizo una breve pausa.</voice><break time="3s">
+
+<voice lang="en">Degree - Minimal</voice><break time="4s">
+<voice lang="es">Grado - Mínimo</voice><break time="3s">
+
+<voice lang="en">I barely slept.</voice><break time="4s">
+<voice lang="es">Apenas dormí.</voice><break time="3s">
+
+<voice lang="en">He hardly eats anything.</voice><break time="4s">
+<voice lang="es">Él casi no come nada.</voice><break time="3s">
+
+<voice lang="en">She scarcely moved.</voice><break time="4s">
+<voice lang="es">Ella apenas se movió.</voice><break time="3s">
+
+<voice lang="en">She barely touched it.</voice><break time="4s">
+<voice lang="es">Ella apenas lo tocó.</voice><break time="3s">
+
+<voice lang="en">He barely touched it.</voice><break time="4s">
+<voice lang="es">Apenas lo tocó.</voice><break time="3s">
+
+<voice lang="en">She smiled slightly.</voice><break time="4s">
+<voice lang="es">Ella sonrió levemente.</voice><break time="3s">
+
+<voice lang="en">He was mildly annoyed.</voice><break time="4s">
+<voice lang="es">Estaba un poco molesto.</voice><break time="3s">
+
+<voice lang="en">Degree - Partial</voice><break time="4s">
+<voice lang="es">Grado - Parcial</voice><break time="3s">
+
+<voice lang="en">The room is mostly empty.</voice><break time="4s">
+<voice lang="es">La habitación está prácticamente vacía.</voice><break time="3s">
+
+<voice lang="en">The answer is partly correct.</voice><break time="4s">
+<voice lang="es">La respuesta es parcialmente correcta.</voice><break time="3s">
+
+<voice lang="en">We mostly agree.</voice><break time="4s">
+<voice lang="es">En general estamos de acuerdo.</voice><break time="3s">
+
+<voice lang="en">The system is partially broken.</voice><break time="4s">
+<voice lang="es">El sistema está parcialmente roto.</voice><break time="3s">
+
+<voice lang="en">They mainly focus on safety.</voice><break time="4s">
+<voice lang="es">Se centran principalmente en la seguridad.</voice><break time="3s">
+
+<voice lang="en">Degree - Complete</voice><break time="4s">
+<voice lang="es">Grado - Completo</voice><break time="3s">
+
+<voice lang="en">The task is completely finished.</voice><break time="4s">
+<voice lang="es">La tarea está completamente terminada.</voice><break time="3s">
+
+<voice lang="en">He was totally surprised.</voice><break time="4s">
+<voice lang="es">Estaba totalmente sorprendido.</voice><break time="3s">
+
+<voice lang="en">It's entirely possible.</voice><break time="4s">
+<voice lang="es">Es totalmente posible.</voice><break time="3s">
+
+<voice lang="en">The project is fully approved.</voice><break time="4s">
+<voice lang="es">El proyecto está totalmente aprobado.</voice><break time="3s">
+
+<voice lang="en">The task is entirely possible.</voice><break time="4s">
+<voice lang="es">La tarea es totalmente posible.</voice><break time="3s">
+
+<voice lang="en">She totally agreed.</voice><break time="4s">
+<voice lang="es">Ella estuvo totalmente de acuerdo.</voice><break time="3s">
+
+<voice lang="en">He completely understood.</voice><break time="4s">
+<voice lang="es">Él lo entendió completamente.</voice><break time="3s">
+
+<voice lang="en">The tank is fully sealed.</voice><break time="4s">
+<voice lang="es">El tanque está completamente sellado.</voice><break time="3s">
+
+<voice lang="en">She absolutely loves it.</voice><break time="4s">
+<voice lang="es">A ella le encanta absolutamente.</voice><break time="3s">
+
+<voice lang="en">Degree - Almost</voice><break time="4s">
+<voice lang="es">Grado - Casi</voice><break time="3s">
+
+<voice lang="en">We almost arrived late.</voice><break time="4s">
+<voice lang="es">Casi llegamos tarde.</voice><break time="3s">
+
+<voice lang="en">He nearly fell.</voice><break time="4s">
+<voice lang="es">Casi se cae.</voice><break time="3s">
+
+<voice lang="en">She nearly cried.</voice><break time="4s">
+<voice lang="es">Ella casi lloró.</voice><break time="3s">
+
+<voice lang="en">He almost dropped it.</voice><break time="4s">
+<voice lang="es">Casi lo dejó caer.</voice><break time="3s">
+
+<voice lang="en">Degree - Approximate</voice><break time="4s">
+<voice lang="es">Grado - Aproximado</voice><break time="3s">
+
+<voice lang="en">The cost is approximately double.</voice><break time="4s">
+<voice lang="es">El costo es aproximadamente el doble.</voice><break time="3s">
+
+<voice lang="en">He guessed roughly how much it costs.</voice><break time="4s">
+<voice lang="es">Calculó aproximadamente cuánto costaba.</voice><break time="3s">
+
+<voice lang="en">He measured roughly.</voice><break time="4s">
+<voice lang="es">Midió aproximadamente.</voice><break time="3s">
+
+<voice lang="en">Degree - Exact</voice><break time="4s">
+<voice lang="es">Grado - Exacto</voice><break time="3s">
+
+<voice lang="en">She remembered exactly what I said.</voice><break time="4s">
+<voice lang="es">Ella recordó exactamente lo que dije.</voice><break time="3s">
+
+<voice lang="en">He followed the directions precisely.</voice><break time="4s">
+<voice lang="es">Siguió las instrucciones exactamente.</voice><break time="3s">
+
+<voice lang="en">She judged precisely.</voice><break time="4s">
+<voice lang="es">Ella juzgó con precisión.</voice><break time="3s">
+
+<voice lang="en">Degree - Relative</voice><break time="4s">
+<voice lang="es">Grado - Relativo</voice><break time="3s">
+
+<voice lang="en">He is relatively calm today.</voice><break time="4s">
+<voice lang="es">Está relativamente tranquilo hoy.</voice><break time="3s">
+
+<voice lang="en">She worked comparatively faster.</voice><break time="4s">
+<voice lang="es">Ella trabajó comparativamente más rápido.</voice><break time="3s">
+
+<voice lang="en">Degree - Essential</voice><break time="4s">
+<voice lang="es">Grado - Esencial</voice><break time="3s">
+
+<voice lang="en">The idea is essentially correct.</voice><break time="4s">
+<voice lang="es">La idea es esencialmente correcta.</voice><break time="3s">
+
+<voice lang="en">His point is fundamentally true.</voice><break time="4s">
+<voice lang="es">Su punto es fundamentalmente cierto.</voice><break time="3s">
+
+<voice lang="en">The show was virtually perfect.</voice><break time="4s">
+<voice lang="es">El espectáculo fue prácticamente perfecto.</voice><break time="3s">
+
+<voice lang="en">Degree - Significant</voice><break time="4s">
+<voice lang="es">Grado - Significativo</voice><break time="3s">
+
+<voice lang="en">She improved significantly.</voice><break time="4s">
+<voice lang="es">Ella mejoró significativamente.</voice><break time="3s">
+
+<voice lang="en">His voice changed noticeably.</voice><break time="4s">
+<voice lang="es">Su voz cambió notablemente.</voice><break time="3s">
+
+<voice lang="en">She progressed considerably.</voice><break time="4s">
+<voice lang="es">Ella progresó considerablemente.</voice><break time="3s">
+
+<voice lang="en">Manner - Clarity</voice><break time="4s">
+<voice lang="es">Manera - Claridad</voice><break time="3s">
+
+<voice lang="en">She explained everything clearly.</voice><break time="4s">
+<voice lang="es">Ella explicó todo claramente.</voice><break time="3s">
+
+<voice lang="en">He simply disagreed.</voice><break time="4s">
+<voice lang="es">Él simplemente no estaba de acuerdo.</voice><break time="3s">
+
+<voice lang="en">She simply disagreed.</voice><break time="4s">
+<voice lang="es">Ella simplemente no estuvo de acuerdo.</voice><break time="3s">
+
+<voice lang="en">Manner - Ease</voice><break time="4s">
+<voice lang="es">Manera - Facilidad</voice><break time="3s">
+
+<voice lang="en">The problem can be solved easily.</voice><break time="4s">
+<voice lang="es">El problema se puede resolver fácilmente.</voice><break time="3s">
+
+<voice lang="en">The task can be done easily.</voice><break time="4s">
+<voice lang="es">La tarea se puede realizar fácilmente.</voice><break time="3s">
+
+<voice lang="en">Manner - Specificity</voice><break time="4s">
+<voice lang="es">Manera - Especificidad</voice><break time="3s">
+
+<voice lang="en">She spoke specifically about the issue.</voice><break time="4s">
+<voice lang="es">Ella habló específicamente sobre el tema.</voice><break time="3s">
+
+<voice lang="en">He particularly enjoyed the ending.</voice><break time="4s">
+<voice lang="es">Le gustó especialmente el final.</voice><break time="3s">
+
+<voice lang="en">I especially liked the music.</voice><break time="4s">
+<voice lang="es">Me gustó especialmente la música.</voice><break time="3s">
+
+<voice lang="en">He asked specifically for help.</voice><break time="4s">
+<voice lang="es">Pidió ayuda específicamente.</voice><break time="3s">
+
+<voice lang="en">Focus</voice><break time="4s">
+<voice lang="es">Enfoque</voice><break time="3s">
+
+<voice lang="en">They mainly focus on quality.</voice><break time="4s">
+<voice lang="es">Se centran principalmente en la calidad.</voice><break time="3s">
+
+<voice lang="en">She primarily works from home.</voice><break time="4s">
+<voice lang="es">Ella trabaja principalmente desde casa.</voice><break time="3s">
+
+<voice lang="en">Certainty - Probable</voice><break time="4s">
+<voice lang="es">Certeza - Probable</voice><break time="3s">
+
+<voice lang="en">He will probably say yes.</voice><break time="4s">
+<voice lang="es">Probablemente dirá que sí.</voice><break time="3s">
+
+<voice lang="en">It's possibly true.</voice><break time="4s">
+<voice lang="es">Posiblemente sea cierto.</voice><break time="3s">
+
+<voice lang="en">It's likely to rain.</voice><break time="4s">
+<voice lang="es">Es probable que llueva.</voice><break time="3s">
+
+<voice lang="en">That is unlikely to happen.</voice><break time="4s">
+<voice lang="es">Es poco probable que eso suceda.</voice><break time="3s">
+
+<voice lang="en">Maybe he'll come later.</voice><break time="4s">
+<voice lang="es">Quizás venga más tarde.</voice><break time="3s">
+
+<voice lang="en">Perhaps we should try again.</voice><break time="4s">
+<voice lang="es">Quizás deberíamos intentarlo de nuevo.</voice><break time="3s">
+
+<voice lang="en">Certainty - Definite</voice><break time="4s">
+<voice lang="es">Certeza - Definitiva</voice><break time="3s">
+
+<voice lang="en">She certainly knows the answer.</voice><break time="4s">
+<voice lang="es">Ella ciertamente sabe la respuesta.</voice><break time="3s">
+
+<voice lang="en">He will surely understand.</voice><break time="4s">
+<voice lang="es">Seguramente lo entenderá.</voice><break time="3s">
+
+<voice lang="en">This is definitely the right choice.</voice><break time="4s">
+<voice lang="es">Esta es definitivamente la elección correcta.</voice><break time="3s">
+
+<voice lang="en">They undoubtedly deserve credit.</voice><break time="4s">
+<voice lang="es">Sin duda merecen crédito.</voice><break time="3s">
+
+<voice lang="en">He clearly needs help.</voice><break time="4s">
+<voice lang="es">Está claro que necesita ayuda.</voice><break time="3s">
+
+<voice lang="en">She obviously understood.</voice><break time="4s">
+<voice lang="es">Ella obviamente entendió.</voice><break time="3s">
+
+<voice lang="en">Certainty - Apparent</voice><break time="4s">
+<voice lang="es">Certeza - Aparente</voice><break time="3s">
+
+<voice lang="en">It apparently didn't work.</voice><break time="4s">
+<voice lang="es">Al parecer no funcionó.</voice><break time="3s">
+
+<voice lang="en">She was apparently confused.</voice><break time="4s">
+<voice lang="es">Ella aparentemente estaba confundida.</voice><break time="3s">
+
+<voice lang="en">He was seemingly fine.</voice><break time="4s">
+<voice lang="es">Él aparentemente estaba bien.</voice><break time="3s">
+
+<voice lang="en">He appeared evidently wrong.</voice><break time="4s">
+<voice lang="es">Parecía evidentemente equivocado.</voice><break time="3s">
+
+<voice lang="en">Attitude - Hopeful</voice><break time="4s">
+<voice lang="es">Actitud - Esperanzada</voice><break time="3s">
+
+<voice lang="en">I hopefully did well.</voice><break time="4s">
+<voice lang="es">Espero haberlo hecho bien.</voice><break time="3s">
+
+<voice lang="en">Thankfully, no one was hurt.</voice><break time="4s">
+<voice lang="es">Afortunadamente, nadie resultó herido.</voice><break time="3s">
+
+<voice lang="en">Luckily, we caught the last train.</voice><break time="4s">
+<voice lang="es">Por suerte cogimos el último tren.</voice><break time="3s">
+
+<voice lang="en">Attitude - Unfortunate</voice><break time="4s">
+<voice lang="es">Actitud - Desafortunada</voice><break time="3s">
+
+<voice lang="en">Unfortunately, the flight was canceled.</voice><break time="4s">
+<voice lang="es">Lamentablemente, el vuelo fue cancelado.</voice><break time="3s">
+
+<voice lang="en">Attitude - Honest</voice><break time="4s">
+<voice lang="es">Actitud - Honesta</voice><break time="3s">
+
+<voice lang="en">Frankly, I don't care.</voice><break time="4s">
+<voice lang="es">Francamente, no me importa.</voice><break time="3s">
+
+<voice lang="en">Honestly, this looks terrible.</voice><break time="4s">
+<voice lang="es">Honestamente esto se ve terrible.</voice><break time="3s">
+
+<voice lang="en">Seriously, I'm not joking.</voice><break time="4s">
+<voice lang="es">En serio, no estoy bromeando.</voice><break time="3s">
+
+<voice lang="en">Interpretation</voice><break time="4s">
+<voice lang="es">Interpretación</voice><break time="3s">
+
+<voice lang="en">The room is literally freezing.</voice><break time="4s">
+<voice lang="es">La habitación está literalmente helada.</voice><break time="3s">
+
+<voice lang="en">The room was literally freezing.</voice><break time="4s">
+<voice lang="es">La habitación estaba literalmente helada.</voice><break time="3s">
+
+<voice lang="en">He meant it figuratively.</voice><break time="4s">
+<voice lang="es">Lo decía en sentido figurado.</voice><break time="3s">
+
+<voice lang="en">Perspective - Technical</voice><break time="4s">
+<voice lang="es">Perspectiva - Técnica</voice><break time="3s">
+
+<voice lang="en">Technically, you're correct.</voice><break time="4s">
+<voice lang="es">Técnicamente, tienes razón.</voice><break time="3s">
+
+<voice lang="en">She explained it technically.</voice><break time="4s">
+<voice lang="es">Ella lo explicó técnicamente.</voice><break time="3s">
+
+<voice lang="en">She explained it technically.</voice><break time="4s">
+<voice lang="es">Ella lo explicó técnicamente.</voice><break time="3s">
+
+<voice lang="en">He solved it technically.</voice><break time="4s">
+<voice lang="es">Lo resolvió técnicamente.</voice><break time="3s">
+
+<voice lang="en">Perspective - General</voice><break time="4s">
+<voice lang="es">Perspectiva - General</voice><break time="3s">
+
+<voice lang="en">Basically, it's the same idea.</voice><break time="4s">
+<voice lang="es">Básicamente es la misma idea.</voice><break time="3s">
+
+<voice lang="en">Generally, people agree.</voice><break time="4s">
+<voice lang="es">Generalmente la gente está de acuerdo.</voice><break time="3s">
+
+<voice lang="en">Perspective - Natural</voice><break time="4s">
+<voice lang="es">Perspectiva - Natural</voice><break time="3s">
+
+<voice lang="en">Naturally, he refused.</voice><break time="4s">
+<voice lang="es">Naturalmente, él se negó.</voice><break time="3s">
+
+<voice lang="en">She normally works evenings.</voice><break time="4s">
+<voice lang="es">Normalmente trabaja por las tardes.</voice><break time="3s">
+
+<voice lang="en">Formality</voice><break time="4s">
+<voice lang="es">Formalidad</voice><break time="3s">
+
+<voice lang="en">He dressed formally.</voice><break time="4s">
+<voice lang="es">Se vistió formalmente.</voice><break time="3s">
+
+<voice lang="en">They spoke informally.</voice><break time="4s">
+<voice lang="es">Hablaron informalmente.</voice><break time="3s">
+
+<voice lang="en">He greeted her formally.</voice><break time="4s">
+<voice lang="es">La saludó formalmente.</voice><break time="3s">
+
+<voice lang="en">She apologized informally.</voice><break time="4s">
+<voice lang="es">Ella se disculpó informalmente.</voice><break time="3s">
+
+<voice lang="en">Official Status</voice><break time="4s">
+<voice lang="es">Estado Oficial</voice><break time="3s">
+
+<voice lang="en">The news was officially confirmed.</voice><break time="4s">
+<voice lang="es">La noticia fue confirmada oficialmente.</voice><break time="3s">
+
+<voice lang="en">It was unofficially approved.</voice><break time="4s">
+<voice lang="es">Fue aprobado extraoficialmente.</voice><break time="3s">
+
+<voice lang="en">Privacy</voice><break time="4s">
+<voice lang="es">Privacidad</voice><break time="3s">
+
+<voice lang="en">They acted publicly.</voice><break time="4s">
+<voice lang="es">Actuaron públicamente.</voice><break time="3s">
+
+<voice lang="en">We discussed it privately.</voice><break time="4s">
+<voice lang="es">Lo discutimos en privado.</voice><break time="3s">
+
+<voice lang="en">She spoke openly about her past.</voice><break time="4s">
+<voice lang="es">Ella habló abiertamente sobre su pasado.</voice><break time="3s">
+
+<voice lang="en">He kept the secret secretly.</voice><break time="4s">
+<voice lang="es">Él guardó el secreto en secreto.</voice><break time="3s">
+
+<voice lang="en">She complained openly.</voice><break time="4s">
+<voice lang="es">Ella se quejó abiertamente.</voice><break time="3s">
+
+<voice lang="en">He hid it secretly.</voice><break time="4s">
+<voice lang="es">Lo ocultó en secreto.</voice><break time="3s">
+
+<voice lang="en">He admitted it openly.</voice><break time="4s">
+<voice lang="es">Lo admitió abiertamente.</voice><break time="3s">
+
+<voice lang="en">Volume</voice><break time="4s">
+<voice lang="es">Volumen</voice><break time="3s">
+
+<voice lang="en">He whispered quietly.</voice><break time="4s">
+<voice lang="es">Susurró en voz baja.</voice><break time="3s">
+
+<voice lang="en">She laughed loudly.</voice><break time="4s">
+<voice lang="es">Ella se rió a carcajadas.</voice><break time="3s">
+
+<voice lang="en">They waited silently.</voice><break time="4s">
+<voice lang="es">Esperaron en silencio.</voice><break time="3s">
+
+<voice lang="en">They walked quietly.</voice><break time="4s">
+<voice lang="es">Caminaron en silencio.</voice><break time="3s">
+
+<voice lang="en">She shouted loudly.</voice><break time="4s">
+<voice lang="es">Ella gritó fuerte.</voice><break time="3s">
+
+<voice lang="en">Smoothness</voice><break time="4s">
+<voice lang="es">Suavidad</voice><break time="3s">
+
+<voice lang="en">The machine runs smoothly.</voice><break time="4s">
+<voice lang="es">La máquina funciona sin problemas.</voice><break time="3s">
+
+<voice lang="en">He held the baby gently.</voice><break time="4s">
+<voice lang="es">Él sostuvo al bebé suavemente.</voice><break time="3s">
+
+<voice lang="en">He touched it gently.</voice><break time="4s">
+<voice lang="es">Lo tocó suavemente.</voice><break time="3s">
+
+<voice lang="en">She whispered softly.</voice><break time="4s">
+<voice lang="es">Ella susurró suavemente.</voice><break time="3s">
+
+<voice lang="en">Care</voice><break time="4s">
+<voice lang="es">Cuidado</voice><break time="3s">
+
+<voice lang="en">She worked carefully.</voice><break time="4s">
+<voice lang="es">Ella trabajó con cuidado.</voice><break time="3s">
+
+<voice lang="en">He answered carelessly.</voice><break time="4s">
+<voice lang="es">Él respondió despreocupadamente.</voice><break time="3s">
+
+<voice lang="en">Effort & Intensity</voice><break time="4s">
+<voice lang="es">Esfuerzo e Intensidad</voice><break time="3s">
+
+<voice lang="en">She pushes hard when training.</voice><break time="4s">
+<voice lang="es">Ella se esfuerza mucho durante el entrenamiento.</voice><break time="3s">
+
+<voice lang="en">He handled it roughly.</voice><break time="4s">
+<voice lang="es">Él lo trató con rudeza.</voice><break time="3s">
+
+<voice lang="en">She looked intensely at the screen.</voice><break time="4s">
+<voice lang="es">Ella miró intensamente la pantalla.</voice><break time="3s">
+
+<voice lang="en">He felt deeply thankful.</voice><break time="4s">
+<voice lang="es">Se sintió profundamente agradecido.</voice><break time="3s">
+
+<voice lang="en">Performance</voice><break time="4s">
+<voice lang="es">Desempeño</voice><break time="3s">
+
+<voice lang="en">She performed badly today.</voice><break time="4s">
+<voice lang="es">Ella se desempeñó mal hoy.</voice><break time="3s">
+
+<voice lang="en">He sings well.</voice><break time="4s">
+<voice lang="es">Él canta bien.</voice><break time="3s">
+
+<voice lang="en">She writes better than before.</voice><break time="4s">
+<voice lang="es">Ella escribe mejor que antes.</voice><break time="3s">
+
+<voice lang="en">He played worse than usual.</voice><break time="4s">
+<voice lang="es">Jugó peor que de costumbre.</voice><break time="3s">
+
+<voice lang="en">Togetherness</voice><break time="4s">
+<voice lang="es">Juntos</voice><break time="3s">
+
+<voice lang="en">We worked together.</voice><break time="4s">
+<voice lang="es">Trabajamos juntos.</voice><break time="3s">
+
+<voice lang="en">She prefers to work alone.</voice><break time="4s">
+<voice lang="es">Ella prefiere trabajar sola.</voice><break time="3s">
+
+<voice lang="en">They live apart now.</voice><break time="4s">
+<voice lang="es">Ahora viven separados.</voice><break time="3s">
+
+<voice lang="en">We worked separately.</voice><break time="4s">
+<voice lang="es">Trabajamos por separado.</voice><break time="3s">
+
+<voice lang="en">They acted jointly.</voice><break time="4s">
+<voice lang="es">Actuaron conjuntamente.</voice><break time="3s">
+
+<voice lang="en">She worked individually.</voice><break time="4s">
+<voice lang="es">Ella trabajó individualmente.</voice><break time="3s">
+
+<voice lang="en">They spoke simultaneously.</voice><break time="4s">
+<voice lang="es">Hablaron simultáneamente.</voice><break time="3s">
+
+<voice lang="en">Location - Inside & Outside</voice><break time="4s">
+<voice lang="es">Ubicación - Dentro y Fuera</voice><break time="3s">
+
+<voice lang="en">The kids are playing outside.</voice><break time="4s">
+<voice lang="es">Los niños están jugando afuera.</voice><break time="3s">
+
+<voice lang="en">He stayed inside all day.</voice><break time="4s">
+<voice lang="es">Se quedó dentro todo el día.</voice><break time="3s">
+
+<voice lang="en">We stayed indoors.</voice><break time="4s">
+<voice lang="es">Nos quedamos en casa.</voice><break time="3s">
+
+<voice lang="en">They ate outdoors.</voice><break time="4s">
+<voice lang="es">Comieron al aire libre.</voice><break time="3s">
+
+<voice lang="en">Location - Vertical</voice><break time="4s">
+<voice lang="es">Ubicación - Vertical</voice><break time="3s">
+
+<voice lang="en">She waited upstairs.</voice><break time="4s">
+<voice lang="es">Ella esperó arriba.</voice><break time="3s">
+
+<voice lang="en">He walked downstairs.</voice><break time="4s">
+<voice lang="es">Bajó las escaleras.</voice><break time="3s">
+
+<voice lang="en">Location - General</voice><break time="4s">
+<voice lang="es">Ubicación - General</voice><break time="3s">
+
+<voice lang="en">We looked everywhere.</voice><break time="4s">
+<voice lang="es">Buscamos por todas partes.</voice><break time="3s">
+
+<voice lang="en">She lives somewhere nearby.</voice><break time="4s">
+<voice lang="es">Ella vive en algún lugar cercano.</voice><break time="3s">
+
+<voice lang="en">I don't want to go anywhere.</voice><break time="4s">
+<voice lang="es">No quiero ir a ninguna parte.</voice><break time="3s">
+
+<voice lang="en">He went nowhere yesterday.</voice><break time="4s">
+<voice lang="es">No fue a ninguna parte ayer.</voice><break time="3s">
+
+<voice lang="en">Location - Here & There</voice><break time="4s">
+<voice lang="es">Ubicación - Aquí y Allá</voice><break time="3s">
+
+<voice lang="en">We are here now.</voice><break time="4s">
+<voice lang="es">Estamos aquí ahora.</voice><break time="3s">
+
+<voice lang="en">She will be there soon.</voice><break time="4s">
+<voice lang="es">Ella estará allí pronto.</voice><break time="3s">
+
+<voice lang="en">Location - Distance</voice><break time="4s">
+<voice lang="es">Ubicación - Distancia</voice><break time="3s">
+
+<voice lang="en">They live nearby.</voice><break time="4s">
+<voice lang="es">Ellos viven cerca.</voice><break time="3s">
+
+<voice lang="en">He wants to travel abroad.</voice><break time="4s">
+<voice lang="es">Él quiere viajar al extranjero.</voice><break time="3s">
+
+<voice lang="en">She moved away last year.</voice><break time="4s">
+<voice lang="es">Ella se mudó el año pasado.</voice><break time="3s">
+
+<voice lang="en">Stay close to me.</voice><break time="4s">
+<voice lang="es">Quédate cerca de mí.</voice><break time="3s">
+
+<voice lang="en">She walked far from home.</voice><break time="4s">
+<voice lang="es">Ella caminó lejos de casa.</voice><break time="3s">
+
+<voice lang="en">Direction - Forward & Back</voice><break time="4s">
+<voice lang="es">Dirección - Adelante y Atrás</voice><break time="3s">
+
+<voice lang="en">Please move forward.</voice><break time="4s">
+<voice lang="es">Por favor, siga adelante.</voice><break time="3s">
+
+<voice lang="en">He took a step backward.</voice><break time="4s">
+<voice lang="es">Dio un paso atrás.</voice><break time="3s">
+
+<voice lang="en">Please go ahead.</voice><break time="4s">
+<voice lang="es">Por favor, adelante.</voice><break time="3s">
+
+<voice lang="en">She came back yesterday.</voice><break time="4s">
+<voice lang="es">Ella regresó ayer.</voice><break time="3s">
+
+<voice lang="en">Direction - Up & Down</voice><break time="4s">
+<voice lang="es">Dirección - Arriba y Abajo</voice><break time="3s">
+
+<voice lang="en">Look up and smile.</voice><break time="4s">
+<voice lang="es">Mira hacia arriba y sonríe.</voice><break time="3s">
+
+<voice lang="en">The ball rolled down.</voice><break time="4s">
+<voice lang="es">La pelota rodó hacia abajo.</voice><break time="3s">
+
+<voice lang="en">Direction - Left & Right</voice><break time="4s">
+<voice lang="es">Dirección - Izquierda y Derecha</voice><break time="3s">
+
+<voice lang="en">Turn left at the sign.</voice><break time="4s">
+<voice lang="es">Gire a la izquierda en la señal.</voice><break time="3s">
+
+<voice lang="en">He sits right beside me.</voice><break time="4s">
+<voice lang="es">Él se sienta justo a mi lado.</voice><break time="3s">
+
+<voice lang="en">Direction - Around & Aside</voice><break time="4s">
+<voice lang="es">Dirección - Alrededor y Aparte</voice><break time="3s">
+
+<voice lang="en">They walked around slowly.</voice><break time="4s">
+<voice lang="es">Caminaron lentamente.</voice><break time="3s">
+
+<voice lang="en">He stepped aside politely.</voice><break time="4s">
+<voice lang="es">Él se hizo a un lado cortésmente.</voice><break time="3s">
+
+<voice lang="en">Height</voice><break time="4s">
+<voice lang="es">Altura</voice><break time="3s">
+
+<voice lang="en">The bird flew high.</voice><break time="4s">
+<voice lang="es">El pájaro voló alto.</voice><break time="3s">
+
+<voice lang="en">The plane is flying low.</voice><break time="4s">
+<voice lang="es">El avión está volando bajo.</voice><break time="3s">
+
+<voice lang="en">Depth</voice><break time="4s">
+<voice lang="es">Profundidad</voice><break time="3s">
+
+<voice lang="en">He thinks deep about these things.</voice><break time="4s">
+<voice lang="es">Él piensa profundamente sobre estas cosas.</voice><break time="3s">
+
+<voice lang="en">Home & Away</voice><break time="4s">
+<voice lang="es">Casa y Lejos</voice><break time="3s">
+
+<voice lang="en">He went home early.</voice><break time="4s">
+<voice lang="es">Se fue a casa temprano.</voice><break time="3s">
+
+<voice lang="en">She moved overseas for work.</voice><break time="4s">
+<voice lang="es">Ella se mudó al extranjero por motivos de trabajo.</voice><break time="3s">
+
+<voice lang="en">Online & Offline</voice><break time="4s">
+<voice lang="es">En Línea y Desconectado</voice><break time="3s">
+
+<voice lang="en">We met online.</voice><break time="4s">
+<voice lang="es">Nos conocimos por internet.</voice><break time="3s">
+
+<voice lang="en">He prefers to stay offline.</voice><break time="4s">
+<voice lang="es">Él prefiere permanecer desconectado.</voice><break time="3s">
+
+<voice lang="en">Physical & Mental</voice><break time="4s">
+<voice lang="es">Físico y Mental</voice><break time="3s">
+
+<voice lang="en">She works physically all day.</voice><break time="4s">
+<voice lang="es">Ella trabaja físicamente todo el día.</voice><break time="3s">
+
+<voice lang="en">He is mentally exhausted.</voice><break time="4s">
+<voice lang="es">Está mentalmente agotado.</voice><break time="3s">
+
+<voice lang="en">She responded physically.</voice><break time="4s">
+<voice lang="es">Ella respondió físicamente.</voice><break time="3s">
+
+<voice lang="en">Emotional</voice><break time="4s">
+<voice lang="es">Emocional</voice><break time="3s">
+
+<voice lang="en">She felt emotionally overwhelmed.</voice><break time="4s">
+<voice lang="es">Ella se sintió abrumada emocionalmente.</voice><break time="3s">
+
+<voice lang="en">He reacted emotionally.</voice><break time="4s">
+<voice lang="es">Reaccionó emocionalmente.</voice><break time="3s">
+
+<voice lang="en">Social</voice><break time="4s">
+<voice lang="es">Social</voice><break time="3s">
+
+<voice lang="en">He adapted socially very fast.</voice><break time="4s">
+<voice lang="es">Se adaptó socialmente muy rápido.</voice><break time="3s">
+
+<voice lang="en">Financial</voice><break time="4s">
+<voice lang="es">Financiero</voice><break time="3s">
+
+<voice lang="en">She improved financially.</voice><break time="4s">
+<voice lang="es">Ella mejoró económicamente.</voice><break time="3s">
+
+<voice lang="en">Political</voice><break time="4s">
+<voice lang="es">Político</voice><break time="3s">
+
+<voice lang="en">They disagreed politically.</voice><break time="4s">
+<voice lang="es">Estaban en desacuerdo políticamente.</voice><break time="3s">
+
+<voice lang="en">Scientific</voice><break time="4s">
+<voice lang="es">Científico</voice><break time="3s">
+
+<voice lang="en">She explained it scientifically.</voice><break time="4s">
+<voice lang="es">Ella lo explicó científicamente.</voice><break time="3s">
+
+<voice lang="en">Logical</voice><break time="4s">
+<voice lang="es">Lógico</voice><break time="3s">
+
+<voice lang="en">He argued logically.</voice><break time="4s">
+<voice lang="es">Argumentó lógicamente.</voice><break time="3s">
+
+<voice lang="en">She answered logically.</voice><break time="4s">
+<voice lang="es">Ella respondió lógicamente.</voice><break time="3s">
+
+<voice lang="en">Historical</voice><break time="4s">
+<voice lang="es">Histórico</voice><break time="3s">
+
+<voice lang="en">She described it historically.</voice><break time="4s">
+<voice lang="es">Ella lo describió históricamente.</voice><break time="3s">
+
+<voice lang="en">She explained it historically.</voice><break time="4s">
+<voice lang="es">Ella lo explicó históricamente.</voice><break time="3s">
+
+<voice lang="en">Cultural</voice><break time="4s">
+<voice lang="es">Cultural</voice><break time="3s">
+
+<voice lang="en">He understood it culturally.</voice><break time="4s">
+<voice lang="es">Él lo entendió culturalmente.</voice><break time="3s">
+
+<voice lang="en">Personal & Professional</voice><break time="4s">
+<voice lang="es">Personal y Profesional</voice><break time="3s">
+
+<voice lang="en">I reacted personally.</voice><break time="4s">
+<voice lang="es">Reaccioné personalmente.</voice><break time="3s">
+
+<voice lang="en">She responded professionally.</voice><break time="4s">
+<voice lang="es">Ella respondió profesionalmente.</voice><break time="3s">
+
+<voice lang="en">Legal</voice><break time="4s">
+<voice lang="es">Legal</voice><break time="3s">
+
+<voice lang="en">He acted legally.</voice><break time="4s">
+<voice lang="es">Él actuó legalmente.</voice><break time="3s">
+
+<voice lang="en">They acted illegally.</voice><break time="4s">
+<voice lang="es">Actuaron ilegalmente.</voice><break time="3s">
+
+<voice lang="en">She behaved legally.</voice><break time="4s">
+<voice lang="es">Ella se comportó legalmente.</voice><break time="3s">
+
+<voice lang="en">She acted legitimately.</voice><break time="4s">
+<voice lang="es">Ella actuó legítimamente.</voice><break time="3s">
+
+<voice lang="en">He acted illegitimately.</voice><break time="4s">
+<voice lang="es">Actuó ilegítimamente.</voice><break time="3s">
+
+<voice lang="en">Duration - Temporary & Permanent</voice><break time="4s">
+<voice lang="es">Duración - Temporal y Permanente</voice><break time="3s">
+
+<voice lang="en">I'm staying temporarily.</voice><break time="4s">
+<voice lang="es">Me quedo temporalmente.</voice><break time="3s">
+
+<voice lang="en">She lived there permanently.</voice><break time="4s">
+<voice lang="es">Ella vivió allí permanentemente.</voice><break time="3s">
+
+<voice lang="en">She stayed temporarily.</voice><break time="4s">
+<voice lang="es">Ella se quedó temporalmente.</voice><break time="3s">
+
+<voice lang="en">Scope - Universal & Specific</voice><break time="4s">
+<voice lang="es">Alcance - Universal y Específico</voice><break time="3s">
+
+<voice lang="en">The law applies universally.</voice><break time="4s">
+<voice lang="es">La ley se aplica universalmente.</voice><break time="3s">
+
+<voice lang="en">He asked specifically for help.</voice><break time="4s">
+<voice lang="es">Pidió ayuda específicamente.</voice><break time="3s">
+
+<voice lang="en">He is universally respected.</voice><break time="4s">
+<voice lang="es">Es universalmente respetado.</voice><break time="3s">
+
+<voice lang="en">Scope - Local & Global</voice><break time="4s">
+<voice lang="es">Alcance - Local y Global</voice><break time="3s">
+
+<voice lang="en">She is locally known.</voice><break time="4s">
+<voice lang="es">Ella es conocida localmente.</voice><break time="3s">
+
+<voice lang="en">They are globally recognized.</voice><break time="4s">
+<voice lang="es">Son reconocidos mundialmente.</voice><break time="3s">
+
+<voice lang="en">The system works internationally.</voice><break time="4s">
+<voice lang="es">El sistema funciona a nivel internacional.</voice><break time="3s">
+
+<voice lang="en">He worked domestically.</voice><break time="4s">
+<voice lang="es">Trabajó en el ámbito doméstico.</voice><break time="3s">
+
+<voice lang="en">Intent</voice><break time="4s">
+<voice lang="es">Intención</voice><break time="3s">
+
+<voice lang="en">She spoke deliberately.</voice><break time="4s">
+<voice lang="es">Ella habló deliberadamente.</voice><break time="3s">
+
+<voice lang="en">He acted intentionally.</voice><break time="4s">
+<voice lang="es">Él actuó intencionalmente.</voice><break time="3s">
+
+<voice lang="en">I pushed accidentally.</voice><break time="4s">
+<voice lang="es">Empujé accidentalmente.</voice><break time="3s">
+
+<voice lang="en">She acted purposely.</voice><break time="4s">
+<voice lang="es">Ella actuó a propósito.</voice><break time="3s">
+
+<voice lang="en">He did it unintentionally.</voice><break time="4s">
+<voice lang="es">Lo hizo sin intención.</voice><break time="3s">
+
+<voice lang="en">He acted deliberately.</voice><break time="4s">
+<voice lang="es">Actuó deliberadamente.</voice><break time="3s">
+
+<voice lang="en">Automation</voice><break time="4s">
+<voice lang="es">Automatización</voice><break time="3s">
+
+<voice lang="en">The doors open automatically.</voice><break time="4s">
+<voice lang="es">Las puertas se abren automáticamente.</voice><break time="3s">
+
+<voice lang="en">He solved it manually.</voice><break time="4s">
+<voice lang="es">Lo resolvió manualmente.</voice><break time="3s">
+
+<voice lang="en">Randomness</voice><break time="4s">
+<voice lang="es">Aleatoriedad</voice><break time="3s">
+
+<voice lang="en">She answered randomly.</voice><break time="4s">
+<voice lang="es">Ella respondió al azar.</voice><break time="3s">
+
+<voice lang="en">He arranged everything systematically.</voice><break time="4s">
+<voice lang="es">Él organizó todo sistemáticamente.</voice><break time="3s">
+
+<voice lang="en">He answered randomly.</voice><break time="4s">
+<voice lang="es">Él respondió al azar.</voice><break time="3s">
+
+<voice lang="en">Strategy</voice><break time="4s">
+<voice lang="es">Estrategia</voice><break time="3s">
+
+<voice lang="en">She planned strategically.</voice><break time="4s">
+<voice lang="es">Ella planeó estratégicamente.</voice><break time="3s">
+
+<voice lang="en">Correctness</voice><break time="4s">
+<voice lang="es">Corrección</voice><break time="3s">
+
+<voice lang="en">She spelled it correctly.</voice><break time="4s">
+<voice lang="es">Ella lo escribió correctamente.</voice><break time="3s">
+
+<voice lang="en">He wrote it incorrectly.</voice><break time="4s">
+<voice lang="es">Lo escribió incorrectamente.</voice><break time="3s">
+
+<voice lang="en">She solved it correctly.</voice><break time="4s">
+<voice lang="es">Ella lo resolvió correctamente.</voice><break time="3s">
+
+<voice lang="en">He wrote it incorrectly.</voice><break time="4s">
+<voice lang="es">Lo escribió incorrectamente.</voice><break time="3s">
+
+<voice lang="en">Politeness</voice><break time="4s">
+<voice lang="es">Cortesía</voice><break time="3s">
+
+<voice lang="en">She spoke politely.</voice><break time="4s">
+<voice lang="es">Ella habló cortésmente.</voice><break time="3s">
+
+<voice lang="en">He behaved rudely.</voice><break time="4s">
+<voice lang="es">Se comportó de manera grosera.</voice><break time="3s">
+
+<voice lang="en">Kindness</voice><break time="4s">
+<voice lang="es">Amabilidad</voice><break time="3s">
+
+<voice lang="en">She greeted us kindly.</voice><break time="4s">
+<voice lang="es">Ella nos saludó amablemente.</voice><break time="3s">
+
+<voice lang="en">Honesty</voice><break time="4s">
+<voice lang="es">Honestidad</voice><break time="3s">
+
+<voice lang="en">She answered honestly.</voice><break time="4s">
+<voice lang="es">Ella respondió honestamente.</voice><break time="3s">
+
+<voice lang="en">He replied truthfully.</voice><break time="4s">
+<voice lang="es">Él respondió con la verdad.</voice><break time="3s">
+
+<voice lang="en">She admitted it honestly.</voice><break time="4s">
+<voice lang="es">Ella lo admitió honestamente.</voice><break time="3s">
+
+<voice lang="en">Strength & Weakness</voice><break time="4s">
+<voice lang="es">Fuerza y Debilidad</voice><break time="3s">
+
+<voice lang="en">He held her firmly.</voice><break time="4s">
+<voice lang="es">Él la sostuvo firmemente.</voice><break time="3s">
+
+<voice lang="en">She pushed strongly.</voice><break time="4s">
+<voice lang="es">Ella empujó con fuerza.</voice><break time="3s">
+
+<voice lang="en">He spoke weakly.</voice><break time="4s">
+<voice lang="es">Él habló débilmente.</voice><break time="3s">
+
+<voice lang="en">Courage</voice><break time="4s">
+<voice lang="es">Valentía</voice><break time="3s">
+
+<voice lang="en">She acted boldly.</voice><break time="4s">
+<voice lang="es">Ella actuó con valentía.</voice><break time="3s">
+
+<voice lang="en">He behaved bravely.</voice><break time="4s">
+<voice lang="es">Se comportó con valentía.</voice><break time="3s">
+
+<voice lang="en">Warmth & Coldness</voice><break time="4s">
+<voice lang="es">Calidez y Frialdad</voice><break time="3s">
+
+<voice lang="en">He smiled warmly.</voice><break time="4s">
+<voice lang="es">Él sonrió cálidamente.</voice><break time="3s">
+
+<voice lang="en">She stared coldly.</voice><break time="4s">
+<voice lang="es">Ella miró fríamente.</voice><break time="3s">
+
+<voice lang="en">Brightness</voice><break time="4s">
+<voice lang="es">Brillo</voice><break time="3s">
+
+<voice lang="en">The lights shine brightly.</voice><break time="4s">
+<voice lang="es">Las luces brillan intensamente.</voice><break time="3s">
+
+<voice lang="en">The room is lit darkly.</voice><break time="4s">
+<voice lang="es">La habitación está oscuramente iluminada.</voice><break time="3s">
+
+<voice lang="en">Wildness & Calmness</voice><break time="4s">
+<voice lang="es">Salvajismo y Calma</voice><break time="3s">
+
+<voice lang="en">He laughed wildly.</voice><break time="4s">
+<voice lang="es">Él se rió salvajemente.</voice><break time="3s">
+
+<voice lang="en">She breathed calmly.</voice><break time="4s">
+<voice lang="es">Ella respiraba tranquilamente.</voice><break time="3s">
+
+<voice lang="en">Nervousness</voice><break time="4s">
+<voice lang="es">Nerviosismo</voice><break time="3s">
+
+<voice lang="en">He waited nervously.</voice><break time="4s">
+<voice lang="es">Esperó nerviosamente.</voice><break time="3s">
+
+<voice lang="en">She looked anxiously.</voice><break time="4s">
+<voice lang="es">Ella miró ansiosamente.</voice><break time="3s">
+
+<voice lang="en">Confidence</voice><break time="4s">
+<voice lang="es">Confianza</voice><break time="3s">
+
+<voice lang="en">He spoke confidently.</voice><break time="4s">
+<voice lang="es">Él habló con confianza.</voice><break time="3s">
+
+<voice lang="en">She moved hesitantly.</voice><break time="4s">
+<voice lang="es">Ella se movió vacilante.</voice><break time="3s">
+
+<voice lang="en">Patience</voice><break time="4s">
+<voice lang="es">Paciencia</voice><break time="3s">
+
+<voice lang="en">He reacted impatiently.</voice><break time="4s">
+<voice lang="es">Reaccionó con impaciencia.</voice><break time="3s">
+
+<voice lang="en">She waited patiently.</voice><break time="4s">
+<voice lang="es">Ella esperó pacientemente.</voice><break time="3s">
+
+<voice lang="en">Judgment</voice><break time="4s">
+<voice lang="es">Juicio</voice><break time="3s">
+
+<voice lang="en">She guessed wrongly.</voice><break time="4s">
+<voice lang="es">Ella adivinó equivocadamente.</voice><break time="3s">
+
+<voice lang="en">He argued rightfully.</voice><break time="4s">
+<voice lang="es">Él argumentó con razón.</voice><break time="3s">
+
+<voice lang="en">Wisdom</voice><break time="4s">
+<voice lang="es">Sabiduría</voice><break time="3s">
+
+<voice lang="en">She chose wisely.</voice><break time="4s">
+<voice lang="es">Ella eligió sabiamente.</voice><break time="3s">
+
+<voice lang="en">He decided foolishly.</voice><break time="4s">
+<voice lang="es">Decidió tontamente.</voice><break time="3s">
+
+<voice lang="en">Security</voice><break time="4s">
+<voice lang="es">Seguridad</voice><break time="3s">
+
+<voice lang="en">She locked it securely.</voice><break time="4s">
+<voice lang="es">Ella lo cerró con llave de forma segura.</voice><break time="3s">
+
+<voice lang="en">He parked unsafely.</voice><break time="4s">
+<voice lang="es">Se estacionó de manera insegura.</voice><break time="3s">
+
+<voice lang="en">Tightness</voice><break time="4s">
+<voice lang="es">Ajuste</voice><break time="3s">
+
+<voice lang="en">She tied it tightly.</voice><break time="4s">
+<voice lang="es">Ella lo ató fuertemente.</voice><break time="3s">
+
+<voice lang="en">He held it loosely.</voice><break time="4s">
+<voice lang="es">Lo sostuvo sin apretar.</voice><break time="3s">
+
+<voice lang="en">Accuracy</voice><break time="4s">
+<voice lang="es">Precisión</voice><break time="3s">
+
+<voice lang="en">She measured accurately.</voice><break time="4s">
+<voice lang="es">Ella midió con precisión.</voice><break time="3s">
+
+<voice lang="en">He estimated inaccurately.</voice><break time="4s">
+<voice lang="es">Él estimó incorrectamente.</voice><break time="3s">
+
+<voice lang="en">Simplicity</voice><break time="4s">
+<voice lang="es">Simplicidad</voice><break time="3s">
+
+<voice lang="en">She merely observed.</voice><break time="4s">
+<voice lang="es">Ella simplemente observó.</voice><break time="3s">
+
+<voice lang="en">He only wanted help.</voice><break time="4s">
+<voice lang="es">Él sólo quería ayuda.</voice><break time="3s">
+
+<voice lang="en">Ultimate & Initial</voice><break time="4s">
+<voice lang="es">Último e Inicial</voice><break time="3s">
+
+<voice lang="en">He ultimately decided.</voice><break time="4s">
+<voice lang="es">Al final él decidió.</voice><break time="3s">
+
+<voice lang="en">She initially resisted.</voice><break time="4s">
+<voice lang="es">Al principio ella se resistió.</voice><break time="3s">
+
+<voice lang="en">Spiritual</voice><break time="4s">
+<voice lang="es">Espiritual</voice><break time="3s">
+
+<voice lang="en">He approached it spiritually.</voice><break time="4s">
+<voice lang="es">Se acercó a ello espiritualmente.</voice><break time="3s">
+
+<voice lang="en">Traditional</voice><break time="4s">
+<voice lang="es">Tradicional</voice><break time="3s">
+
+<voice lang="en">He spoke traditionally.</voice><break time="4s">
+<voice lang="es">Habló tradicionalmente.</voice><break time="3s">
+
+El final
+<break time="4s">

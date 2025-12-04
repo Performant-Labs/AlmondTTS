@@ -1,0 +1,86 @@
+<voice lang="en">Opinions and Philosophy</voice><break time="0.5s">
+<voice lang="es">Opiniones y filosofía</voice><break time="2s">
+
+<voice lang="en">Do you still think language learning is difficult?</voice><break time="5s">
+<voice lang="es">¿Todavía piensas que aprender idiomas es difícil?</voice><break time="2s">
+
+<voice lang="en">If you learn one thousand good sentences, you can speak the language well.</voice><break time="5s">
+<voice lang="es">Si aprendes mil oraciones buenas, puedes hablar el idioma bien.</voice><break time="2s">
+
+<voice lang="en">You can do that in three months or less.</voice><break time="5s">
+<voice lang="es">Puedes hacer eso en tres meses o menos.</voice><break time="2s">
+
+<voice lang="en">With an effective system and some discipline, you can learn any language fast.</voice><break time="5s">
+<voice lang="es">Con un sistema efectivo y algo de disciplina, puedes aprender cualquier idioma rápido.</voice><break time="2s">
+
+<voice lang="en">Do you agree that knowledge is power?</voice><break time="5s">
+<voice lang="es">¿Estás de acuerdo en que el conocimiento es poder?</voice><break time="2s">
+
+<voice lang="en">Knowledge is important to make smart decisions, but knowledge by itself is useless.</voice><break time="5s">
+<voice lang="es">El conocimiento es importante para tomar decisiones inteligentes, pero el conocimiento por sí solo es inútil.</voice><break time="2s">
+
+<voice lang="en">Knowledge plus consistent action in the right direction gets you results.</voice><break time="5s">
+<voice lang="es">Conocimiento más acción consistente en la dirección correcta te da resultados.</voice><break time="2s">
+
+<voice lang="en">You need action too.</voice><break time="5s">
+<voice lang="es">También necesitas acción.</voice><break time="2s">
+
+<voice lang="en">As long as he goes in the right direction, a dumb person who is constantly taking action</voice><break time="5s">
+<voice lang="es">Mientras vaya en la dirección correcta, una persona tonta que constantemente toma acción</voice><break time="2s">
+
+<voice lang="en">will be more successful than an armchair intellectual.</voice><break time="5s">
+<voice lang="es">será más exitosa que un intelectual de sillón.</voice><break time="2s">
+
+<voice lang="en">You must be really intelligent to know so many languages!</voice><break time="5s">
+<voice lang="es">¡Debes ser realmente inteligente para saber tantos idiomas!</voice><break time="2s">
+
+<voice lang="en">I don't think it's a matter of intelligence.</voice><break time="5s">
+<voice lang="es">No creo que sea cuestión de inteligencia.</voice><break time="2s">
+
+<voice lang="en">I wasn't a particularly good student in school.</voice><break time="5s">
+<voice lang="es">No era un estudiante particularmente bueno en la escuela.</voice><break time="2s">
+
+<voice lang="en">In fact, I was always distracted and bored in class.</voice><break time="5s">
+<voice lang="es">De hecho, siempre estaba distraído y aburrido en clase.</voice><break time="2s">
+
+<voice lang="en">I always forgot to do homework and struggled to pass exams.</voice><break time="5s">
+<voice lang="es">Siempre olvidaba hacer la tarea y luchaba para aprobar exámenes.</voice><break time="2s">
+
+<voice lang="en">I am really passionate about learning languages,</voice><break time="5s">
+<voice lang="es">Estoy realmente apasionado por aprender idiomas,</voice><break time="2s">
+
+<voice lang="en">so I am always learning and always trying new methods to learn faster.</voice><break time="5s">
+<voice lang="es">así que siempre estoy aprendiendo y siempre probando nuevos métodos para aprender más rápido.</voice><break time="2s">
+
+<voice lang="en">Speaking a lot of languages gives you a lot of opportunities,</voice><break time="5s">
+<voice lang="es">Hablar muchos idiomas te da muchas oportunidades,</voice><break time="2s">
+
+<voice lang="en">both professionally and personally.</voice><break time="5s">
+<voice lang="es">tanto profesionales como personales.</voice><break time="2s">
+
+<voice lang="en">It has made my life so much better.</voice><break time="5s">
+<voice lang="es">Ha hecho mi vida mucho mejor.</voice><break time="2s">
+
+<voice lang="en">Discipline is something that you need to develop.</voice><break time="5s">
+<voice lang="es">La disciplina es algo que necesitas desarrollar.</voice><break time="2s">
+
+<voice lang="en">It is not a personality trait you were born with.</voice><break time="5s">
+<voice lang="es">No es un rasgo de personalidad con el que naciste.</voice><break time="2s">
+
+<voice lang="en">It's a skill you can train.</voice><break time="5s">
+<voice lang="es">Es una habilidad que puedes entrenar.</voice><break time="2s">
+
+<voice lang="en">But you also have to work smart, not only hard.</voice><break time="5s">
+<voice lang="es">Pero también tienes que trabajar inteligentemente, no solo duro.</voice><break time="2s">
+
+<voice lang="en">If I have to work really hard, I will.</voice><break time="5s">
+<voice lang="es">Si tengo que trabajar realmente duro, lo haré.</voice><break time="2s">
+
+<voice lang="en">But if I can get the same result in one hundred hours instead of one thousand with a different technique,</voice><break time="5s">
+<voice lang="es">Pero si puedo obtener el mismo resultado en cien horas en lugar de mil con una técnica diferente,</voice><break time="2s">
+
+<voice lang="en">then I will use the technique that helps me get results faster.</voice><break time="5s">
+<voice lang="es">entonces usaré la técnica que me ayuda a obtener resultados más rápido.</voice><break time="2s">
+
+El Fin
+<break time="4s">

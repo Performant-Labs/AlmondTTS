@@ -1,0 +1,125 @@
+<voice lang="en">Introduction and Greetings</voice><break time="0.5s">
+<voice lang="es">Introducción y saludos</voice><break time="2s">
+
+<voice lang="en">Welcome!</voice><break time="1s">
+<voice lang="es">¡Bienvenido!</voice><break time="2s">
+
+<voice lang="en">My name is André.</voice><break time="3s">
+<voice lang="es">Soy André.</voice><break time="2s">
+
+<voice lang="en">I speak English and I am learning Spanish, specifically Mexican Spanish.</voice><break time="5s">
+<voice lang="es">Hablo inglés y estoy aprendiendo español, específicamente el español mexicano.</voice><break time="2s">
+
+<voice lang="en">These are my Language Islands.</voice><break time="5s">
+<voice lang="es">Estos son mis Islotes de Lenguaje.</voice><break time="2s">
+
+<voice lang="en">This is my personal list of sentences.</voice><break time="5s">
+<voice lang="es">Esta es mi lista personal de oraciones.</voice><break time="2s">
+
+<voice lang="en">I wrote down all the sentences I wanted to be able to say.</voice><break time="5s">
+<voice lang="es">Escribí todas las oraciones que quería poder decir.</voice><break time="2s">
+
+<voice lang="en">When I learn a new language, I simply learn these sentences.</voice><break time="5s">
+<voice lang="es">Cuando aprendo un nuevo idioma, simplemente aprendo estas oraciones.</voice><break time="2s">
+
+<voice lang="en">This is the fastest way to learn a language.</voice><break time="5s">
+<voice lang="es">Esta es la forma más rápida de aprender un idioma.</voice><break time="2s">
+
+<voice lang="en">You can use this list to learn any language fast.</voice><break time="5s">
+<voice lang="es">Puedes usar esta lista para aprender cualquier idioma rápido.</voice><break time="2s">
+
+<voice lang="en">You should also write your own Language Islands.</voice><break time="5s">
+<voice lang="es">También deberías escribir tus propios Islotes de Lenguaje.</voice><break time="2s">
+
+<voice lang="en">You need to learn your own sentences, for your own life.</voice><break time="5s">
+<voice lang="es">Necesitas aprender tus propias oraciones, para tu propia vida.</voice><break time="2s">
+
+<voice lang="en">But this is a good way to get started.</voice><break time="5s">
+<voice lang="es">Pero esta es una buena forma de empezar.</voice><break time="2s">
+
+<voice lang="en">Language learning is simple, if you do it right.</voice><break time="5s">
+<voice lang="es">Aprender idiomas es simple, si lo haces bien.</voice><break time="2s">
+
+<voice lang="en">You need to learn a lot of words and sentences.</voice><break time="5s">
+<voice lang="es">Necesitas aprender muchas palabras y oraciones.</voice><break time="2s">
+
+<voice lang="en">You need to listen a lot.</voice><break time="5s">
+<voice lang="es">Necesitas escuchar mucho.</voice><break time="2s">
+
+<voice lang="en">And you need to speak a lot.</voice><break time="5s">
+<voice lang="es">Y necesitas hablar mucho.</voice><break time="2s">
+
+<voice lang="en">You can learn more than one thousand sentences per week.</voice><break time="5s">
+<voice lang="es">Puedes aprender más de mil oraciones por semana.</voice><break time="2s">
+
+<voice lang="en">The most important thing in language learning is repetition.</voice><break time="5s">
+<voice lang="es">Lo más importante en el aprendizaje de idiomas es la repetición.</voice><break time="2s">
+
+<voice lang="en">You need a lot of repetition to remember the sentences.</voice><break time="5s">
+<voice lang="es">Necesitas mucha repetición para recordar las oraciones.</voice><break time="2s">
+
+<voice lang="en">You need to listen to each Language Island many times.</voice><break time="5s">
+<voice lang="es">Necesitas escuchar cada Islote de Lenguaje muchas veces.</voice><break time="2s">
+
+<voice lang="en">And you also need to repeat each language island aloud many times.</voice><break time="5s">
+<voice lang="es">Y también necesitas repetir cada islote de lenguaje en voz alta muchas veces.</voice><break time="2s">
+
+<voice lang="en">When you are learning a new Island, listen to it and repeat it aloud at least five times.</voice><break time="5s">
+<voice lang="es">Cuando estás aprendiendo un nuevo Islote, escúchalo y repítelo en voz alta al menos cinco veces.</voice><break time="2s">
+
+<voice lang="en">Ten times would be better.</voice><break time="5s">
+<voice lang="es">Diez veces sería mejor.</voice><break time="2s">
+
+<voice lang="en">You also need to review the previous islands.</voice><break time="5s">
+<voice lang="es">También necesitas repasar los islotes anteriores.</voice><break time="2s">
+
+<voice lang="en">Review each island at least once a day.</voice><break time="5s">
+<voice lang="es">Repasa cada islote al menos una vez al día.</voice><break time="2s">
+
+<voice lang="en">They are short, so it is easy.</voice><break time="5s">
+<voice lang="es">Son cortos, así que es fácil.</voice><break time="2s">
+
+<voice lang="en">Hello! How are you?</voice><break time="5s">
+<voice lang="es">¡Hola! ¿Cómo estás?</voice><break time="2s">
+
+<voice lang="en">What's your name?</voice><break time="5s">
+<voice lang="es">¿Cómo te llamas?</voice><break time="2s">
+
+<voice lang="en">Nice to meet you.</voice><break time="5s">
+<voice lang="es">Mucho gusto.</voice><break time="2s">
+
+<voice lang="en">How many languages do you speak?</voice><break time="5s">
+<voice lang="es">¿Cuántos idiomas hablas?</voice><break time="2s">
+
+<voice lang="en">I speak a few languages.</voice><break time="5s">
+<voice lang="es">Hablo algunos idiomas.</voice><break time="2s">
+
+<voice lang="en">Learning languages is easy.</voice><break time="5s">
+<voice lang="es">Aprender idiomas es fácil.</voice><break time="2s">
+
+<voice lang="en">With this text, you can learn more than one hundred sentences in one week.</voice><break time="5s">
+<voice lang="es">Con este texto, puedes aprender más de cien oraciones en una semana.</voice><break time="2s">
+
+<voice lang="en">This is enough to have simple conversations.</voice><break time="5s">
+<voice lang="es">Esto es suficiente para tener conversaciones simples.</voice><break time="2s">
+
+<voice lang="en">You have to read the sentences over and over again.</voice><break time="5s">
+<voice lang="es">Tienes que leer las oraciones una y otra vez.</voice><break time="2s">
+
+<voice lang="en">You have to listen to the audio files a lot.</voice><break time="5s">
+<voice lang="es">Tienes que escuchar los archivos de audio mucho.</voice><break time="2s">
+
+<voice lang="en">You have to listen and repeat the sentences.</voice><break time="5s">
+<voice lang="es">Tienes que escuchar y repetir las oraciones.</voice><break time="2s">
+
+<voice lang="en">This is the best way to learn pronunciation.</voice><break time="5s">
+<voice lang="es">Esta es la mejor forma de aprender pronunciación.</voice><break time="2s">
+
+<voice lang="en">Finally, you have to write and translate the sentences.</voice><break time="5s">
+<voice lang="es">Finalmente, tienes que escribir y traducir las oraciones.</voice><break time="2s">
+
+<voice lang="en">Let's learn as many sentences as possible!</voice><break time="5s">
+<voice lang="es">¡Aprendamos tantas oraciones como sea posible!</voice><break time="2s">
+
+El Fin
+<break time="4s">

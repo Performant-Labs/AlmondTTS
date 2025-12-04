@@ -1,0 +1,149 @@
+<voice lang="en">Travel Experiences</voice><break time="0.5s">
+<voice lang="es">Experiencias de viaje</voice><break time="2s">
+
+<voice lang="en">Do you travel often?</voice><break time="5s">
+<voice lang="es">¿Viajas a menudo?</voice><break time="2s">
+
+<voice lang="en">I travel often.</voice><break time="5s">
+<voice lang="es">Viajo a menudo.</voice><break time="2s">
+
+<voice lang="en">Do you like to travel alone or with friends?</voice><break time="5s">
+<voice lang="es">¿Te gusta viajar solo o con amigos?</voice><break time="2s">
+
+<voice lang="en">I usually travel alone, but sometimes with friends or my girlfriend.</voice><break time="5s">
+<voice lang="es">Usualmente viajo solo, pero a veces con amigos o mi novia.</voice><break time="2s">
+
+<voice lang="en">What's your favorite country?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu país favorito?</voice><break time="2s">
+
+<voice lang="en">There are a lot of countries I like to visit.</voice><break time="5s">
+<voice lang="es">Hay muchos países que me gusta visitar.</voice><break time="2s">
+
+<voice lang="en">Have you visited many countries?</voice><break time="5s">
+<voice lang="es">¿Has visitado muchos países?</voice><break time="2s">
+
+<voice lang="en">I have visited many countries.</voice><break time="5s">
+<voice lang="es">He visitado muchos países.</voice><break time="2s">
+
+<voice lang="en">I don't know how many countries I have visited.</voice><break time="5s">
+<voice lang="es">No sé cuántos países he visitado.</voice><break time="2s">
+
+<voice lang="en">I travel a lot.</voice><break time="5s">
+<voice lang="es">Viajo mucho.</voice><break time="2s">
+
+<voice lang="en">What was your favorite trip?</voice><break time="5s">
+<voice lang="es">¿Cuál fue tu viaje favorito?</voice><break time="2s">
+
+<voice lang="en">I have had a lot of very interesting trips.</voice><break time="5s">
+<voice lang="es">He tenido muchos viajes muy interesantes.</voice><break time="2s">
+
+<voice lang="en">I wouldn't be able to choose one over the others.</voice><break time="5s">
+<voice lang="es">No podría elegir uno sobre los otros.</voice><break time="2s">
+
+<voice lang="en">Have you lived abroad?</voice><break time="5s">
+<voice lang="es">¿Has vivido en el extranjero?</voice><break time="2s">
+
+<voice lang="en">Yes, I used to live abroad.</voice><break time="5s">
+<voice lang="es">Sí, solía vivir en el extranjero.</voice><break time="2s">
+
+<voice lang="en">I prefer to live in my country though.</voice><break time="5s">
+<voice lang="es">Prefiero vivir en mi país aunque.</voice><break time="2s">
+
+<voice lang="en">Did you learn the language of each country?</voice><break time="5s">
+<voice lang="es">¿Aprendiste el idioma de cada país?</voice><break time="2s">
+
+<voice lang="en">Yes, I always learn the language when I visit a country.</voice><break time="5s">
+<voice lang="es">Sí, siempre aprendo el idioma cuando visito un país.</voice><break time="2s">
+
+<voice lang="en">Traveling is a good time to continue improving your language skills.</voice><break time="5s">
+<voice lang="es">Viajar es un buen momento para continuar mejorando tus habilidades lingüísticas.</voice><break time="2s">
+
+<voice lang="en">But you have to prepare before the trip too.</voice><break time="5s">
+<voice lang="es">Pero también tienes que prepararte antes del viaje.</voice><break time="2s">
+
+<voice lang="en">I usually learn sentences before the trip.</voice><break time="5s">
+<voice lang="es">Usualmente aprendo oraciones antes del viaje.</voice><break time="2s">
+
+<voice lang="en">Then I speak to people as much as possible when I am on holiday.</voice><break time="5s">
+<voice lang="es">Luego hablo con la gente tanto como sea posible cuando estoy de vacaciones.</voice><break time="2s">
+
+<voice lang="en">I live in Nampa now, but I've traveled to many places.</voice><break time="5s">
+<voice lang="es">Vivo en Nampa ahora, pero he viajado a muchos lugares.</voice><break time="2s">
+
+<voice lang="en">Who do you usually travel with?</voice><break time="5s">
+<voice lang="es">¿Con quién viajas usualmente?</voice><break time="2s">
+
+<voice lang="en">I normally travel alone or with a friend.</voice><break time="5s">
+<voice lang="es">Normalmente viajo solo o con un amigo.</voice><break time="2s">
+
+<voice lang="en">I like traveling, but flying is tiring.</voice><break time="5s">
+<voice lang="es">Me gusta viajar, pero volar es cansado.</voice><break time="2s">
+
+<voice lang="en">The plane itself is not bad, but waking up early, going to the airport and waiting there can be exhausting.</voice><break time="5s">
+<voice lang="es">El avión en sí no es malo, pero despertarse temprano, ir al aeropuerto y esperar allí puede ser agotador.</voice><break time="2s">
+
+<voice lang="en">I usually bring something to read or listen to, for when I am on the plane.</voice><break time="5s">
+<voice lang="es">Usualmente llevo algo para leer o escuchar, para cuando estoy en el avión.</voice><break time="2s">
+
+<voice lang="en">I often buy books and magazines in the airport as well.</voice><break time="5s">
+<voice lang="es">A menudo compro libros y revistas en el aeropuerto también.</voice><break time="2s">
+
+<voice lang="en">Traveling is also a good time to learn languages.</voice><break time="5s">
+<voice lang="es">Viajar también es un buen momento para aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">I travel very often, sometimes for business, sometimes for pleasure.</voice><break time="5s">
+<voice lang="es">Viajo muy a menudo, a veces por negocios, a veces por placer.</voice><break time="2s">
+
+<voice lang="en">I like spending time abroad, especially in countries where people speak one of the languages I am learning.</voice><break time="5s">
+<voice lang="es">Me gusta pasar tiempo en el extranjero, especialmente en países donde la gente habla uno de los idiomas que estoy aprendiendo.</voice><break time="2s">
+
+<voice lang="en">I travel for work sometimes.</voice><break time="5s">
+<voice lang="es">Viajo por trabajo a veces.</voice><break time="2s">
+
+<voice lang="en">I attend Drupal conferences and meetups.</voice><break time="5s">
+<voice lang="es">Asisto a conferencias y meetups de Drupal.</voice><break time="2s">
+
+<voice lang="en">Working online gives me the opportunity to spend time abroad and work from there.</voice><break time="5s">
+<voice lang="es">Trabajar en línea me da la oportunidad de pasar tiempo en el extranjero y trabajar desde allí.</voice><break time="2s">
+
+<voice lang="en">I like going to places where I like the culture and the lifestyle.</voice><break time="5s">
+<voice lang="es">Me gusta ir a lugares donde me gusta la cultura y el estilo de vida.</voice><break time="2s">
+
+<voice lang="en">Do you travel a lot?</voice><break time="5s">
+<voice lang="es">¿Viajas mucho?</voice><break time="2s">
+
+<voice lang="en">I travel a lot, often for work.</voice><break time="5s">
+<voice lang="es">Viajo mucho, a menudo por trabajo.</voice><break time="2s">
+
+<voice lang="en">I also like to spend a few weeks abroad while working remotely sometimes.</voice><break time="5s">
+<voice lang="es">También me gusta pasar unas semanas en el extranjero mientras trabajo remotamente a veces.</voice><break time="2s">
+
+<voice lang="en">It makes life more interesting.</voice><break time="5s">
+<voice lang="es">Hace la vida más interesante.</voice><break time="2s">
+
+<voice lang="en">Do you like traveling for work?</voice><break time="5s">
+<voice lang="es">¿Te gusta viajar por trabajo?</voice><break time="2s">
+
+<voice lang="en">It is interesting and fun, but it can also be exhausting. In general, I enjoy traveling a lot.</voice><break time="5s">
+<voice lang="es">Es interesante y divertido, pero también puede ser agotador. En general, disfruto mucho viajar.</voice><break time="2s">
+
+<voice lang="en">I like being abroad, meeting people and speaking foreign languages.</voice><break time="5s">
+<voice lang="es">Me gusta estar en el extranjero, conocer gente y hablar idiomas extranjeros.</voice><break time="2s">
+
+<voice lang="en">I like international food as well.</voice><break time="5s">
+<voice lang="es">También me gusta la comida internacional.</voice><break time="2s">
+
+<voice lang="en">I sometimes travel to conferences and tech events.</voice><break time="5s">
+<voice lang="es">A veces viajo a conferencias y eventos tecnológicos.</voice><break time="2s">
+
+<voice lang="en">Have you been to Mexico?</voice><break time="5s">
+<voice lang="es">¿Has estado en México?</voice><break time="2s">
+
+<voice lang="en">I want to visit Mexico.</voice><break time="5s">
+<voice lang="es">Quiero visitar México.</voice><break time="2s">
+
+<voice lang="en">I'm learning Mexican Spanish specifically.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo específicamente el español mexicano.</voice><break time="2s">
+
+El fin
+<break time="4s">

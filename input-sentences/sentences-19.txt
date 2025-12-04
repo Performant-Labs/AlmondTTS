@@ -1,0 +1,299 @@
+<voice lang="en">Sentences — Number Twenty</voice><break time="2s"/>
+<voice lang="es">Fraces — Número Veinte</voice><break time="2s"/>
+
+<voice lang="en">The forest would be protected if governments could fulfill their environmental promises.</voice><break time="5s">
+<voice lang="es">El bosque estaría protegido si los gobiernos pudieran cumplir sus promesas ambientales.</voice><break time="2s">
+
+<voice lang="en">The traveler orients himself well when exploring new cities by bicycle.</voice><break time="5s">
+<voice lang="es">El viajero se orienta bien cuando explora ciudades nuevas en bicicleta.</voice><break time="2s">
+
+<voice lang="en">Let's set the alarm today, then eat healthy and reflect carefully about habits!</voice><break time="5s">
+<voice lang="es">¡Pongamos la alarma hoy, después comamos saludable y reflexionemos cuidadosamente sobre los hábitos!</voice><break time="2s">
+
+<voice lang="en">Let's be clear: agreements must be fair for all workers today.</voice><break time="5s">
+<voice lang="es">Seamos claros: los acuerdos deben ser justos para todos los trabajadores hoy.</voice><break time="2s">
+
+<voice lang="en">They were reviewing reports last night because they needed to know what had happened.</voice><break time="5s">
+<voice lang="es">Estuvieron revisando los informes anoche porque necesitaban saber qué había ocurrido.</voice><break time="2s">
+
+<voice lang="en">Thirty students read fifteen books and nine solve ten daily problems.</voice><break time="5s">
+<voice lang="es">Treinta estudiantes leen quince libros y nueve resuelven diez problemas diarios.</voice><break time="2s">
+
+<voice lang="en">The supermarket is full today because big winter sales were announced.</voice><break time="5s">
+<voice lang="es">El supermercado está lleno hoy porque se anunciaron grandes rebajas de invierno.</voice><break time="2s">
+
+<voice lang="en">Where do you keep the secret letter we found yesterday at home.</voice><break time="5s">
+<voice lang="es">Dónde guardas la carta secreta que encontramos ayer en casa.</voice><break time="2s">
+
+<voice lang="en">I seek that artists integrate better and that unions contribute to dignity.</voice><break time="5s">
+<voice lang="es">Busco que los artistas se integren mejor y que los sindicatos contribuyan a la dignidad.</voice><break time="2s">
+
+<voice lang="en">You'll find her tomorrow and explain to her why you didn't come.</voice><break time="5s">
+<voice lang="es">La encontrarás mañana y le explicarás por qué no viniste.</voice><break time="2s">
+
+<voice lang="en">I would be more patient if there had been time to listen to you.</voice><break time="5s">
+<voice lang="es">Yo sería más paciente si hubiera habido tiempo para escucharte.</voice><break time="2s">
+
+<voice lang="en">Yesterday I was working extra hours so that we could finish the project.</voice><break time="5s">
+<voice lang="es">Ayer estuve trabajando horas extra para que pudiéramos terminar el proyecto.</voice><break time="2s">
+
+<voice lang="en">Three hundred students donated five hundred books to the library in eleven days.</voice><break time="5s">
+<voice lang="es">Trescientos estudiantes donaron quinientos libros a la biblioteca en once días.</voice><break time="2s">
+
+<voice lang="en">What child runs and asks about the train at the station.</voice><break time="5s">
+<voice lang="es">Qué niño corre y pregunta por el tren en la estación.</voice><break time="2s">
+
+<voice lang="en">Hello family, we dine together tonight to celebrate mom's birthday.</voice><break time="5s">
+<voice lang="es">Hola familia, cenamos juntos esta noche para celebrar el cumpleaños de mamá.</voice><break time="2s">
+
+<voice lang="en">She should be able to decide tomorrow if we can help on time.</voice><break time="5s">
+<voice lang="es">Ella deberá poder decidir mañana si podremos ayudar a tiempo.</voice><break time="2s">
+
+<voice lang="en">Don't run down the hallway, the child is sleeping now.</voice><break time="5s">
+<voice lang="es">No corras por el pasillo, que el niño duerme ahora.</voice><break time="2s">
+
+<voice lang="en">Neither you nor I rest, but we continue studying and improving together.</voice><break time="5s">
+<voice lang="es">Ni tú ni yo descansamos, sino que seguimos estudiando y mejorando juntos.</voice><break time="2s">
+
+<voice lang="en">Since you arrived early, we can have dinner together when the meeting ends.</voice><break time="5s">
+<voice lang="es">Como llegaste temprano, podemos cenar juntos cuando termine la reunión.</voice><break time="2s">
+
+<voice lang="en">Tomorrow I'll be able to finish the pending report and send important emails early.</voice><break time="5s">
+<voice lang="es">Mañana podré terminar el informe pendiente y enviar los correos importantes temprano.</voice><break time="2s">
+
+<voice lang="en">I cooked thirteen empanadas for Sunday family dinner.</voice><break time="5s">
+<voice lang="es">Cociné trece empanadas para la cena familiar del domingo.</voice><break time="2s">
+
+<voice lang="en">They want clean air to allow animals in forests to rest better.</voice><break time="5s">
+<voice lang="es">Quieren que el aire limpio permita descansar mejor a los animales en los bosques.</voice><break time="2s">
+
+<voice lang="en">We want employees to work with equity and receive automotive recognition.</voice><break time="5s">
+<voice lang="es">Queremos que los empleados trabajen con equidad y reciban reconocimiento automotriz.</voice><break time="2s">
+
+<voice lang="en">When we're arriving home, I think about hugging you again.</voice><break time="5s">
+<voice lang="es">Cuando vamos llegando a casa, pienso en volver a abrazarte.</voice><break time="2s">
+
+<voice lang="en">Students are studying in the library because tomorrow they'll present their projects.</voice><break time="5s">
+<voice lang="es">Los estudiantes están estudiando en la biblioteca porque mañana presentarán sus proyectos.</voice><break time="2s">
+
+<voice lang="en">I can read peacefully at the beach because there are few people.</voice><break time="5s">
+<voice lang="es">Puedo leer tranquilo en la playa porque hay poca gente.</voice><break time="2s">
+
+<voice lang="en">Yesterday I went to the doctor because I had to check the test results.</voice><break time="5s">
+<voice lang="es">Ayer fui al médico porque tenía que revisar los resultados del análisis.</voice><break time="2s">
+
+<voice lang="en">Nobody should doubt when you should turn off the lights each night.</voice><break time="5s">
+<voice lang="es">Nadie debe dudar de cuándo debes apagar las luces cada noche.</voice><break time="2s">
+
+<voice lang="en">We seek that work-life balance benefits all households.</voice><break time="5s">
+<voice lang="es">Buscamos que la conciliación laboral beneficie a todos los hogares.</voice><break time="2s">
+
+<voice lang="en">I ask that they have rooms with a super comfortable design and elegant floor.</voice><break time="5s">
+<voice lang="es">Pido que tengan habitaciones con un diseño súper cómodo y un suelo elegante.</voice><break time="2s">
+
+<voice lang="en">I want the doctor to have consistency in caring for my body and soul.</voice><break time="5s">
+<voice lang="es">Quiero que el médico tenga congruencia al cuidar mi cuerpo y mi alma.</voice><break time="2s">
+
+<voice lang="en">I insist that my daughter takes care of family members with perseverance.</voice><break time="5s">
+<voice lang="es">Insisto en que mi hija cuide de los familiares con perseverancia.</voice><break time="2s">
+
+<voice lang="en">My family dines united, but everyone shares their own concerns.</voice><break time="5s">
+<voice lang="es">Mi familia cena unida, pero cada quien comparte sus propias preocupaciones.</voice><break time="2s">
+
+<voice lang="en">Share laughter and respect at home, and rest in silence!</voice><break time="5s">
+<voice lang="es">¡Comparte en casa la risa y el respeto, y descansa en silencio!</voice><break time="2s">
+
+<voice lang="en">For whom they work and why they improve working conditions today.</voice><break time="5s">
+<voice lang="es">Por quién trabajan y para qué mejoran hoy las condiciones laborales.</voice><break time="2s">
+
+<voice lang="en">As a family we would be calmer if we could have dinner together daily.</voice><break time="5s">
+<voice lang="es">En familia estaríamos más tranquilos si pudiéramos cenar juntos a diario.</voice><break time="2s">
+
+<voice lang="en">You are responsible when you can help your neighbors during an emergency.</voice><break time="5s">
+<voice lang="es">Eres responsable cuando puedes ayudar a tus vecinos durante una emergencia.</voice><break time="2s">
+
+<voice lang="en">Your emotions will be softer when these difficult weeks have passed.</voice><break time="5s">
+<voice lang="es">Tus emociones serán más suaves cuando hayan pasado estas difíciles semanas.</voice><break time="2s">
+
+<voice lang="en">Yes, hopefully the coast receives rain soon to avoid fires.</voice><break time="5s">
+<voice lang="es">Sí, ojalá la costa reciba lluvias pronto para evitar incendios.</voice><break time="2s">
+
+<voice lang="en">Either you'll stay with me tonight or you won't come home.</voice><break time="5s">
+<voice lang="es">O te quedarás conmigo esta noche o no vendrás a casa.</voice><break time="2s">
+
+<voice lang="en">Twelve colleagues organized night shifts to finish the urgent project.</voice><break time="5s">
+<voice lang="es">Doce colegas organizaron turnos nocturnos para terminar el proyecto urgente.</voice><break time="2s">
+
+<voice lang="en">Doctors are reviewing your tests because they could indicate serious heart problems.</voice><break time="5s">
+<voice lang="es">Los médicos están revisando tus análisis porque podrían indicar problemas cardíacos graves.</voice><break time="2s">
+
+<voice lang="en">One million students improve their future when they finish secondary education.</voice><break time="5s">
+<voice lang="es">Un millón de estudiantes mejora su futuro cuando termina la educación secundaria.</voice><break time="2s">
+
+<voice lang="en">Be will work extra hours and/or cover his tasks tomorrow.</voice><break time="5s">
+<voice lang="es">Be trabajará horas extra y/o cubrirá sus tareas mañana.</voice><break time="2s">
+
+<voice lang="en">Go together; exercising and laughing allows living better and maintaining health!</voice><break time="5s">
+<voice lang="es">¡Vayan ustedes juntos; ejercitarse y reír permite vivir mejor y mantener la salud!</voice><break time="2s">
+
+<voice lang="en">The united family already had dinner and talks about their day.</voice><break time="5s">
+<voice lang="es">La familia unida ya cenó y conversa sobre su día.</voice><break time="2s">
+
+<voice lang="en">You truly take care of your health and walk daily to strengthen it.</voice><break time="5s">
+<voice lang="es">De verdad cuidas tu salud y caminas diariamente para fortalecerla.</voice><break time="2s">
+
+<voice lang="en">Maybe you haven't been able to visit your grandmother for months.</voice><break time="5s">
+<voice lang="es">Tal vez no hayas podido visitar a tu abuela durante meses.</voice><break time="2s">
+
+<voice lang="en">While I was shopping, I could compare prices and quality calmly.</voice><break time="5s">
+<voice lang="es">Mientras estaba de compras, podía comparar precios y calidad tranquilamente.</voice><break time="2s">
+
+<voice lang="en">Don't be so hard on yourself when you have to make difficult decisions.</voice><break time="5s">
+<voice lang="es">No seas tan duro contigo mismo cuando tengas que tomar decisiones difíciles.</voice><break time="2s">
+
+<voice lang="en">Sixty volunteers cleaned the beach at dawn to protect the turtles.</voice><break time="5s">
+<voice lang="es">Sesenta voluntarios limpiaron la playa al amanecer para proteger a las tortugas.</voice><break time="2s">
+
+<voice lang="en">Enter the repository and save innovative contents, offering accompaniment and continuity!</voice><break time="5s">
+<voice lang="es">¡Ingresa al repositorio y guarda contenidos innovadores, ofreciendo acompañamiento y continuidad!</voice><break time="2s">
+
+<voice lang="en">What students read and analyze historical novels to better understand the past.</voice><break time="5s">
+<voice lang="es">Qué estudiantes leen y analizan novelas históricas para comprender mejor el pasado.</voice><break time="2s">
+
+<voice lang="en">My mother must have talked with the family before selling the house.</voice><break time="5s">
+<voice lang="es">Mi madre debió de hablar con la familia antes de vender la casa.</voice><break time="2s">
+
+<voice lang="en">Nobody could explain why we had wasted time being so stubborn.</voice><break time="5s">
+<voice lang="es">Nadie podía explicar por qué habíamos perdido tiempo siendo tan tercos.</voice><break time="2s">
+
+<voice lang="en">We could improve health if we had healthier daily habits.</voice><break time="5s">
+<voice lang="es">Nosotros podríamos mejorar la salud si tuviéramos hábitos diarios más saludables.</voice><break time="2s">
+
+<voice lang="en">If you cook steamed vegetables with garlic, you'll find better flavor.</voice><break time="5s">
+<voice lang="es">Si cocinas verduras al vapor con ajo, encontrarás mejor sabor.</voice><break time="2s">
+
+<voice lang="en">They would be happier having forgiven everything that had happened.</voice><break time="5s">
+<voice lang="es">Ellos serían más felices habiendo perdonado todo lo que había ocurrido.</voice><break time="2s">
+
+<voice lang="en">They will have been playing chess all afternoon in the park.</voice><break time="5s">
+<voice lang="es">Habrán estado jugando al ajedrez toda la tarde en el parque.</voice><break time="2s">
+
+<voice lang="en">Some people can cry in silence when nobody has listened to them.</voice><break time="5s">
+<voice lang="es">Algunas personas pueden llorar en silencio cuando nadie las ha escuchado.</voice><break time="2s">
+
+<voice lang="en">The public university was able to transform rural communities by offering free higher education.</voice><break time="5s">
+<voice lang="es">La universidad pública pudo transformar comunidades rurales al ofrecer educación superior gratuita.</voice><break time="2s">
+
+<voice lang="en">Your grandparents would have been happier if they had lived near the whole family.</voice><break time="5s">
+<voice lang="es">Tus abuelos habrían sido más felices si hubieran vivido cerca de toda la familia.</voice><break time="2s">
+
+<voice lang="en">Every morning you clean the kitchen before there's noise.</voice><break time="5s">
+<voice lang="es">Cada mañana limpias la cocina antes de que haya ruido.</voice><break time="2s">
+
+<voice lang="en">When you eat healthily, you strengthen your body and prevent diseases.</voice><break time="5s">
+<voice lang="es">Cuando comes saludablemente, fortaleces tu cuerpo y previenes enfermedades.</voice><break time="2s">
+
+<voice lang="en">What healthy habits do you maintain today to better care for your heart.</voice><break time="5s">
+<voice lang="es">Qué hábitos saludables mantienes hoy para cuidar mejor tu corazón.</voice><break time="2s">
+
+<voice lang="en">Enter your data, learn to use the system better and enjoy it!</voice><break time="5s">
+<voice lang="es">¡Ingresa tus datos, aprende a usar mejor el sistema y disfrútalo!</voice><break time="2s">
+
+<voice lang="en">They should have been able to study more before the difficult final exam.</voice><break time="5s">
+<voice lang="es">Ellos deberían haber podido estudiar más antes del examen final difícil.</voice><break time="2s">
+
+<voice lang="en">María doubted between calling Carlos or waiting for his night message.</voice><break time="5s">
+<voice lang="es">María dudaba entre llamar a Carlos o esperar su mensaje nocturno.</voice><break time="2s">
+
+<voice lang="en">Avoid drinking too much daily and get enough rest here now!</voice><break time="5s">
+<voice lang="es">¡Evita beber demasiado a diario y consigue aquí ahora suficiente descanso!</voice><break time="2s">
+
+<voice lang="en">Your house is a refuge where you share stories with your family.</voice><break time="5s">
+<voice lang="es">Tu casa es un refugio donde compartes historias con tu familia.</voice><break time="2s">
+
+<voice lang="en">Who prepares daily breakfast and talks with me before work.</voice><break time="5s">
+<voice lang="es">Quién prepara el desayuno diario y conversa conmigo antes del trabajo.</voice><break time="2s">
+
+<voice lang="en">I wear my new coat when I go shopping in winter.</voice><break time="5s">
+<voice lang="es">Llevo mi abrigo nuevo cuando salgo de compras en invierno.</voice><break time="2s">
+
+<voice lang="en">Even if it rains, we will continue buying fresh fruits at the market.</voice><break time="5s">
+<voice lang="es">Aunque llueva, nosotros seguiremos comprando frutas frescas en el mercado.</voice><break time="2s">
+
+<voice lang="en">They should study tonight so the exam turns out easy tomorrow.</voice><break time="5s">
+<voice lang="es">Ellos deberán estudiar esta noche para que el examen resulte sencillo mañana.</voice><break time="2s">
+
+<voice lang="en">Desserts will be ready after there has been enough cooling time.</voice><break time="5s">
+<voice lang="es">Los postres estarán listos después de que haya habido suficiente tiempo de enfriado.</voice><break time="2s">
+
+<voice lang="en">I'm grateful they have homes where attachment and pride are protected.</voice><break time="5s">
+<voice lang="es">Agradezco que tengan hogares donde el apego y el orgullo se protejan.</voice><break time="2s">
+
+<voice lang="en">Don't hesitate when your family wants to talk, because we could solve conflicts together.</voice><break time="5s">
+<voice lang="es">No dudes cuando tu familia quiera hablar, porque podríamos resolver los conflictos juntos.</voice><break time="2s">
+
+<voice lang="en">Friends should rest together on Sundays, being able to enjoy long peaceful walks.</voice><break time="5s">
+<voice lang="es">Los amigos deben descansar juntos los domingos, pudiendo disfrutar de largos paseos tranquilos.</voice><break time="2s">
+
+<voice lang="en">Watch movies and enjoy them, then comment on what you remember!</voice><break time="5s">
+<voice lang="es">¡Mira películas y disfrútalas, luego comenta lo que recuerdes!</voice><break time="2s">
+
+<voice lang="en">They had been able to finish the project earlier, but didn't want to do it.</voice><break time="5s">
+<voice lang="es">Ellos habían podido terminar el proyecto antes, pero no quisieron hacerlo.</voice><break time="2s">
+
+<voice lang="en">Seek medical support early and your health will improve with adequate treatments.</voice><break time="5s">
+<voice lang="es">Busca apoyo médico temprano y tu salud mejorará con tratamientos adecuados.</voice><break time="2s">
+
+<voice lang="en">I want my daughters to enjoy healthy fruits and care that respects their dreams.</voice><break time="5s">
+<voice lang="es">Quiero que mis hijas disfruten de frutas saludables y de cuidados que respeten sus sueños.</voice><break time="2s">
+
+<voice lang="en">Don't sleep eight hours each night to take care of your health.</voice><break time="5s">
+<voice lang="es">No duermas ocho horas cada noche para cuidar tu salud.</voice><break time="2s">
+
+<voice lang="en">I get up at fourteen hours when I work the night shift.</voice><break time="5s">
+<voice lang="es">Me levanto a las catorce horas cuando trabajo en el turno nocturno.</voice><break time="2s">
+
+<voice lang="en">The chef cooks fresh seafood with garlic because it enhances its flavor.</voice><break time="5s">
+<voice lang="es">El chef cocina mariscos frescos con ajo porque este realza su sabor.</voice><break time="2s">
+
+<voice lang="en">I don't understand well how I react emotionally when I hear that song.</voice><break time="5s">
+<voice lang="es">No entiendo bien cómo reacciono emocionalmente cuando escucho esa canción.</voice><break time="2s">
+
+<voice lang="en">With my family I have dinner together to strengthen our daily communication.</voice><break time="5s">
+<voice lang="es">Con mi familia ceno juntos para fortalecer nuestra comunicación diaria.</voice><break time="2s">
+
+<voice lang="en">A exists.</voice><break time="5s">
+<voice lang="es">A existe.</voice><break time="2s">
+
+<voice lang="en">You have environmental education classes for students who participate actively.</voice><break time="5s">
+<voice lang="es">Tienes clases de educación ambiental para los estudiantes que participan activamente.</voice><break time="2s">
+
+<voice lang="en">Students could study earlier when they were alone in the silent library.</voice><break time="5s">
+<voice lang="es">Los estudiantes podían estudiar más temprano cuando estaban solos en la biblioteca silenciosa.</voice><break time="2s">
+
+<voice lang="en">Thanks, for me you work hard and improve every day.</voice><break time="5s">
+<voice lang="es">Gracias, para mí trabajas duro y mejoras cada día.</voice><break time="2s">
+
+<voice lang="en">We want to travel tomorrow by train because we're tired of always driving.</voice><break time="5s">
+<voice lang="es">Queremos viajar mañana en tren porque estamos cansados de conducir siempre.</voice><break time="2s">
+
+<voice lang="en">They could finish the report before the deadline and surprised the boss.</voice><break time="5s">
+<voice lang="es">Ellos pudieron terminar el informe antes del plazo y sorprendieron al jefe.</voice><break time="2s">
+
+<voice lang="en">If I'm hungry, I prepare pasta with vegetables and lots of cheese.</voice><break time="5s">
+<voice lang="es">Si tengo hambre, preparo pasta con verduras y mucho queso.</voice><break time="2s">
+
+<voice lang="en">They could help tomorrow if the meeting continues without more problems.</voice><break time="5s">
+<voice lang="es">Ellos podrían ayudar mañana si la reunión continúa sin más problemas.</voice><break time="2s">
+
+<voice lang="en">My team would have finished the project yesterday with a little more support.</voice><break time="5s">
+<voice lang="es">Mi equipo habría terminado el proyecto ayer con un poco más de apoyo.</voice><break time="2s">
+
+<voice lang="en">I wish that participants receive the invitation and win deserved recognition.</voice><break time="5s">
+<voice lang="es">Deseo que los participantes reciban la invitación y ganen el merecido reconocimiento.</voice><break time="2s">
+
+<voice lang="en">Why do you study so much if you never apply what you learned.</voice><break time="5s">
+<voice lang="es">Para qué estudias tanto si nunca aplicas lo aprendido.</voice><break time="2s">
+
+El fin
+<break time="4s"/>

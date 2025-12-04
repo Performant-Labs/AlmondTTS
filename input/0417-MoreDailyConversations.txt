@@ -1,0 +1,206 @@
+<voice lang="en">More Daily Life Conversations</voice><break time="0.5s">
+<voice lang="es">Más conversaciones cotidianas</voice><break time="2s">
+
+<voice lang="en">What time is it?</voice><break time="5s">
+<voice lang="es">¿A qué hora es?</voice><break time="2s">
+
+<voice lang="en">What time do you wake up?</voice><break time="5s">
+<voice lang="es">¿A qué hora te despiertas?</voice><break time="2s">
+
+<voice lang="en">What time do you go to bed?</voice><break time="5s">
+<voice lang="es">¿A qué hora te vas a la cama?</voice><break time="2s">
+
+<voice lang="en">Are you a morning person or a night owl?</voice><break time="5s">
+<voice lang="es">¿Eres persona de mañana o de noche?</voice><break time="2s">
+
+<voice lang="en">Do you take naps?</voice><break time="5s">
+<voice lang="es">¿Tomas siestas?</voice><break time="2s">
+
+<voice lang="en">Do you sleep well?</voice><break time="5s">
+<voice lang="es">¿Duermes bien?</voice><break time="2s">
+
+<voice lang="en">Do you snore?</voice><break time="5s">
+<voice lang="es">¿Roncas?</voice><break time="2s">
+
+<voice lang="en">Do you dream a lot?</voice><break time="5s">
+<voice lang="es">¿Sueñas mucho?</voice><break time="2s">
+
+<voice lang="en">Do you remember your dreams?</voice><break time="5s">
+<voice lang="es">¿Recuerdas tus sueños?</voice><break time="2s">
+
+<voice lang="en">What did you dream about last night?</voice><break time="5s">
+<voice lang="es">¿De qué soñaste anoche?</voice><break time="2s">
+
+<voice lang="en">Did you sleep well?</voice><break time="5s">
+<voice lang="es">¿Dormiste bien?</voice><break time="2s">
+
+<voice lang="en">I'm tired today.</voice><break time="5s">
+<voice lang="es">Estoy cansado hoy.</voice><break time="2s">
+
+<voice lang="en">I didn't sleep well last night.</voice><break time="5s">
+<voice lang="es">No dormí bien anoche.</voice><break time="2s">
+
+<voice lang="en">I woke up several times.</voice><break time="5s">
+<voice lang="es">Me desperté varias veces.</voice><break time="2s">
+
+<voice lang="en">I couldn't fall asleep.</voice><break time="5s">
+<voice lang="es">No pude dormir.</voice><break time="2s">
+
+<voice lang="en">I'm exhausted.</voice><break time="5s">
+<voice lang="es">Estoy exhausto.</voice><break time="2s">
+
+<voice lang="en">I need more sleep.</voice><break time="5s">
+<voice lang="es">Necesito más sueño.</voice><break time="2s">
+
+<voice lang="en">I need coffee.</voice><break time="5s">
+<voice lang="es">Necesito café.</voice><break time="2s">
+
+<voice lang="en">I'm wide awake.</voice><break time="5s">
+<voice lang="es">Estoy completamente despierto.</voice><break time="2s">
+
+<voice lang="en">I'm energetic today.</voice><break time="5s">
+<voice lang="es">Estoy enérgico hoy.</voice><break time="2s">
+
+<voice lang="en">I feel great today.</voice><break time="5s">
+<voice lang="es">Me siento genial hoy.</voice><break time="2s">
+
+<voice lang="en">I don't feel well today.</voice><break time="5s">
+<voice lang="es">No me siento bien hoy.</voice><break time="2s">
+
+<voice lang="en">I have a headache.</voice><break time="5s">
+<voice lang="es">Tengo dolor de cabeza.</voice><break time="2s">
+
+<voice lang="en">I have a cold.</voice><break time="5s">
+<voice lang="es">Tengo un resfriado.</voice><break time="2s">
+
+<voice lang="en">I'm feeling better now.</voice><break time="5s">
+<voice lang="es">Me estoy sintiendo mejor ahora.</voice><break time="2s">
+
+<voice lang="en">I'm recovering.</voice><break time="5s">
+<voice lang="es">Me estoy recuperando.</voice><break time="2s">
+
+<voice lang="en">Take care of yourself.</voice><break time="5s">
+<voice lang="es">Cuídate.</voice><break time="2s">
+
+<voice lang="en">Get well soon.</voice><break time="5s">
+<voice lang="es">Mejórate pronto.</voice><break time="2s">
+
+<voice lang="en">Did you eat yet?</voice><break time="5s">
+<voice lang="es">¿Ya comiste?</voice><break time="2s">
+
+<voice lang="en">I'm starving.</voice><break time="5s">
+<voice lang="es">Me estoy muriendo de hambre.</voice><break time="2s">
+
+<voice lang="en">I'm full.</voice><break time="5s">
+<voice lang="es">Estoy lleno.</voice><break time="2s">
+
+<voice lang="en">I ate too much.</voice><break time="5s">
+<voice lang="es">Comí demasiado.</voice><break time="2s">
+
+<voice lang="en">I'm on a diet.</voice><break time="5s">
+<voice lang="es">Estoy a dieta.</voice><break time="2s">
+
+<voice lang="en">I'm trying to lose weight.</voice><break time="5s">
+<voice lang="es">Estoy tratando de bajar de peso.</voice><break time="2s">
+
+<voice lang="en">I'm trying to gain weight.</voice><break time="5s">
+<voice lang="es">Estoy tratando de ganar peso.</voice><break time="2s">
+
+<voice lang="en">I'm trying to eat healthier.</voice><break time="5s">
+<voice lang="es">Estoy tratando de comer más saludable.</voice><break time="2s">
+
+<voice lang="en">What are you doing today?</voice><break time="5s">
+<voice lang="es">¿Qué estás haciendo hoy?</voice><break time="2s">
+
+<voice lang="en">What are you doing tonight?</voice><break time="5s">
+<voice lang="es">¿Qué estás haciendo esta noche?</voice><break time="2s">
+
+<voice lang="en">What are you doing this weekend?</voice><break time="5s">
+<voice lang="es">¿Qué estás haciendo este fin de semana?</voice><break time="2s">
+
+<voice lang="en">Do you have any plans?</voice><break time="5s">
+<voice lang="es">¿Tienes algún plan?</voice><break time="2s">
+
+<voice lang="en">I have no plans.</voice><break time="5s">
+<voice lang="es">No tengo planes.</voice><break time="2s">
+
+<voice lang="en">I'm free.</voice><break time="5s">
+<voice lang="es">Estoy libre.</voice><break time="2s">
+
+<voice lang="en">I'm busy today.</voice><break time="5s">
+<voice lang="es">Estoy ocupado hoy.</voice><break time="2s">
+
+<voice lang="en">I have a lot to do.</voice><break time="5s">
+<voice lang="es">Tengo mucho que hacer.</voice><break time="2s">
+
+<voice lang="en">I need to finish some work.</voice><break time="5s">
+<voice lang="es">Necesito terminar algo de trabajo.</voice><break time="2s">
+
+<voice lang="en">I have a deadline.</voice><break time="5s">
+<voice lang="es">Tengo una fecha límite.</voice><break time="2s">
+
+<voice lang="en">I'm behind schedule.</voice><break time="5s">
+<voice lang="es">Estoy atrasado en el horario.</voice><break time="2s">
+
+<voice lang="en">I'm ahead of schedule.</voice><break time="5s">
+<voice lang="es">Estoy adelantado en el horario.</voice><break time="2s">
+
+<voice lang="en">I finished early.</voice><break time="5s">
+<voice lang="es">Terminé temprano.</voice><break time="2s">
+
+<voice lang="en">I'm running late.</voice><break time="5s">
+<voice lang="es">Llego tarde.</voice><break time="2s">
+
+<voice lang="en">I'll be there soon.</voice><break time="5s">
+<voice lang="es">Llegaré pronto.</voice><break time="2s">
+
+<voice lang="en">Where should we meet?</voice><break time="5s">
+<voice lang="es">¿Dónde nos encontramos?</voice><break time="2s">
+
+<voice lang="en">What time should we meet?</voice><break time="5s">
+<voice lang="es">¿A qué hora nos encontramos?</voice><break time="2s">
+
+<voice lang="en">I'll text you.</voice><break time="5s">
+<voice lang="es">Te mando un mensaje.</voice><break time="2s">
+
+<voice lang="en">I'll call you.</voice><break time="5s">
+<voice lang="es">Te llamo.</voice><break time="2s">
+
+<voice lang="en">See you soon!</voice><break time="5s">
+<voice lang="es">¡Nos vemos pronto!</voice><break time="2s">
+
+<voice lang="en">See you later!</voice><break time="5s">
+<voice lang="es">¡Nos vemos después!</voice><break time="2s">
+
+<voice lang="en">See you tomorrow!</voice><break time="5s">
+<voice lang="es">¡Nos vemos mañana!</voice><break time="2s">
+
+<voice lang="en">Have a good day!</voice><break time="5s">
+<voice lang="es">¡Que tengas un buen día!</voice><break time="2s">
+
+<voice lang="en">Have a good evening!</voice><break time="5s">
+<voice lang="es">¡Que tengas una buena noche!</voice><break time="2s">
+
+<voice lang="en">Have a good weekend!</voice><break time="5s">
+<voice lang="es">¡Que tengas un buen fin de semana!</voice><break time="2s">
+
+<voice lang="en">Have a safe trip!</voice><break time="5s">
+<voice lang="es">¡Que tengas un viaje seguro!</voice><break time="2s">
+
+<voice lang="en">Good luck!</voice><break time="5s">
+<voice lang="es">¡Buena suerte!</voice><break time="2s">
+
+<voice lang="en">Congratulations!</voice><break time="5s">
+<voice lang="es">¡Felicidades!</voice><break time="2s">
+
+<voice lang="en">Happy birthday!</voice><break time="5s">
+<voice lang="es">¡Feliz cumpleaños!</voice><break time="2s">
+
+<voice lang="en">Happy new year!</voice><break time="5s">
+<voice lang="es">¡Feliz año nuevo!</voice><break time="2s">
+
+<voice lang="en">Merry Christmas!</voice><break time="5s">
+<voice lang="es">¡Feliz Navidad!</voice><break time="2s">
+
+El Fin
+<break time="4s">

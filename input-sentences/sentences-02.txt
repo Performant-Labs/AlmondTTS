@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Three</voice><break time="2s"/>
+<voice lang="es">Frases — Número tres</voice><break time="2s"/>
+
+<voice lang="en">Engineers perform productive communication and teachers organize profitable and demanding in-person teaching.</voice><break time="5s"/>
+<voice lang="es">Ingenieros realizan comunicación productiva y maestros organizan una enseñanza presencial rentable y exigente.</voice><break time="2s"/>
+
+<voice lang="en">Responsible citizens consume fruits and oil, and compare acquired concepts and memories.</voice><break time="5s"/>
+<voice lang="es">La ciudadanía responsable consume frutas y aceite, y compara conceptos y recuerdos adquiridos.</voice><break time="2s"/>
+
+<voice lang="en">The Concha entity protects the territory and the organization continues rebuilding the bonds.</voice><break time="5s"/>
+<voice lang="es">La entidad Concha protege el territorio y el organismo continúa reconstruyendo los vínculos.</voice><break time="2s"/>
+
+<voice lang="en">Followers believe in reconciliation and social developments create optimism and clarity.</voice><break time="5s"/>
+<voice lang="es">Los seguidores creen en la conciliación y los desarrollos sociales crean optimismo y claridad.</voice><break time="2s"/>
+
+<voice lang="en">We live in small rooms and the construction competition will allow improving conditions.</voice><break time="5s"/>
+<voice lang="es">Vivimos en cuartos pequeños y el concurso de construcción permitirá mejorar las condiciones.</voice><break time="2s"/>
+
+<voice lang="en">Norma reveals the condition of the file and decides to reform the regulations.</voice><break time="5s"/>
+<voice lang="es">Norma revela la condición del expediente y decide reformar la normativa.</voice><break time="2s"/>
+
+<voice lang="en">Coneval collects information about thoughts and hopes, but people decide to be surprised.</voice><break time="5s"/>
+<voice lang="es">Coneval recoge información sobre pensamientos y esperanzas, pero la gente decide sorprenderse.</voice><break time="2s"/>
+
+<voice lang="en">Entrepreneurs develop sustainable mobility and conferences allow reflecting on responsible travel.</voice><break time="5s"/>
+<voice lang="es">Los empresarios desarrollan movilidad sostenible y las conferencias permiten reflexionar sobre viajes responsables.</voice><break time="2s"/>
+
+<voice lang="en">As the sauce increases, visitors enjoy weddings and artists win gold.</voice><break time="5s"/>
+<voice lang="es">Conforme aumenta la salsa, los visitantes disfrutan de las bodas y los artistas ganan oro.</voice><break time="2s"/>
+
+<voice lang="en">The counselor promotes educational possibilities and students value their profession daily.</voice><break time="5s"/>
+<voice lang="es">El consejero impulsa posibilidades educativas y los estudiantes valoran su profesión diariamente.</voice><break time="2s"/>
+
+<voice lang="en">Curious counselors travel to the club and enjoy recommendable trips in spring.</voice><break time="5s"/>
+<voice lang="es">Consejeros curiosos viajan al club y disfrutan viajes recomendables en primavera.</voice><break time="2s"/>
+
+<voice lang="en">Authorities will provide useful advice, but the police will judge attitudes.</voice><break time="5s"/>
+<voice lang="es">Las autoridades brindarán consejos útiles, pero la policía juzgará las actitudes.</voice><break time="2s"/>
+
+<voice lang="en">Conservation provides value to everyone.</voice><break time="5s"/>
+<voice lang="es">La Conservación aporta valor a todos.</voice><break time="2s"/>
+
+<voice lang="en">The company supports the conservatory and offers training that transforms work trajectories.</voice><break time="5s"/>
+<voice lang="es">La empresa apoya al conservatorio y ofrece capacitación que transforma trayectorias laborales.</voice><break time="2s"/>
+
+<voice lang="en">Researchers consider new considerations and that the Judiciary supervise violence issues.</voice><break time="5s"/>
+<voice lang="es">Investigadores consideran nuevas consideraciones y que la Judicatura supervise cuestiones de violencia.</voice><break time="2s"/>
+
+<voice lang="en">Modern consoles transform video games and allow coexistence, despite certain difficulties.</voice><break time="5s"/>
+<voice lang="es">Las consolas modernas transforman los videojuegos y permiten convivir, pese a ciertas dificultades.</voice><break time="2s"/>
+
+<voice lang="en">The Consortium participates in the bidding, but is unaware of current implications.</voice><break time="5s"/>
+<voice lang="es">El Consorcio participa en la licitación, pero desconoce las implicaciones actuales.</voice><break time="2s"/>
+
+<voice lang="en">Don Constancia directs magnificent workshops on campus and student actors participate actively.</voice><break time="5s"/>
+<voice lang="es">Don Constancia dirige magníficos talleres en el campus y actores estudiantiles participan activamente.</voice><break time="2s"/>
+
+<voice lang="en">Diverse culture allows daily fun and attractive constructions continue fostering interest.</voice><break time="5s"/>
+<voice lang="es">La diversa cultura permite diversión cotidiana y las construcciones atractivas siguen fomentando interés.</voice><break time="2s"/>
+
+<voice lang="en">The store has gourmet products and nearby construction maintains supply.</voice><break time="5s"/>
+<voice lang="es">La tienda dispone de productos gourmet y la construcción cercana mantiene el abasto.</voice><break time="2s"/>
+
+<voice lang="en">The lady makes a consultation and thanks my patience and transparency.</voice><break time="5s"/>
+<voice lang="es">La señora realiza una consulta y agradece mi paciencia y transparencia.</voice><break time="2s"/>
+
+<voice lang="en">The consultant informs about airport requirements and offers tips for the journey.</voice><break time="5s"/>
+<voice lang="es">El consultor informa sobre los requisitos del aeropuerto y ofrece tips para el trayecto.</voice><break time="2s"/>
+
+<voice lang="en">The office workers participate because they need belonging and to deepen their knowledge.</voice><break time="5s"/>
+<voice lang="es">Las trabajadoras del consultorio participan porque necesitan pertenencia y profundizar sus conocimientos.</voice><break time="2s"/>
+
+<voice lang="en">The consultancy indicated an increase in passion and commented that it transforms characters.</voice><break time="5s"/>
+<voice lang="es">La consultoría indicó un aumento de pasión y comentó que transforma caracteres.</voice><break time="2s"/>
+
+<voice lang="en">Accounting needs a cart for markets and we sell merchandise offering family mobile accessories.</voice><break time="5s"/>
+<voice lang="es">Contabilidad necesita un carrito para mercados y vendemos mercancía ofreciendo accesorios móviles familiares.</voice><break time="2s"/>
+
+<voice lang="en">At home, music and festivals maintain contact and create recreational experiences.</voice><break time="5s"/>
+<voice lang="es">En el hogar, la música y los festivales mantienen contacto y realizan experiencias recreativas.</voice><break time="2s"/>
+
+<voice lang="en">Accountants who study jurisprudence and implement tax systems require constant corrections and validation.</voice><break time="5s"/>
+<voice lang="es">Los contadores que estudian jurisprudencia e implementan sistemas fiscales requieren correcciones y validación constantes.</voice><break time="2s"/>
+
+<voice lang="en">In accounting I sell promotional balances and the defined sale jointly benefits buyers.</voice><break time="5s"/>
+<voice lang="es">En contaduría vendo saldos promocionales y la venta definida beneficia conjuntamente a los compradores.</voice><break time="2s"/>
+
+<voice lang="en">The evening modality maintains adequate content and interested teachers improve learning.</voice><break time="5s"/>
+<voice lang="es">La modalidad vespertina mantiene contenidos adecuados y docentes interesados mejoran el aprendizaje.</voice><break time="2s"/>
+
+<voice lang="en">The institution coordinates brigades because the continent faces vulnerabilities and multiple risks.</voice><break time="5s"/>
+<voice lang="es">La institución coordina brigadas porque el continente enfrenta vulnerabilidades y múltiples riesgos.</voice><break time="2s"/>
+
+<voice lang="en">The Comptroller's Office maintains exemplary files and courts exercise effective powers.</voice><break time="5s"/>
+<voice lang="es">La Contraloría mantiene archivos ejemplares y los tribunales ejercen atribuciones eficaces.</voice><break time="2s"/>
+
+<voice lang="en">The laboratory improves control and develops advanced technical methods for manufacturing.</voice><break time="5s"/>
+<voice lang="es">El laboratorio mejora el control y desarrolla métodos técnicos avanzados para la manufactura.</voice><break time="2s"/>
+
+<voice lang="en">Commercial companies offer furniture on sale and conventions, sufficient to satisfy purchases.</voice><break time="5s"/>
+<voice lang="es">Compañías comerciales ofrecen muebles en oferta y convenciones, suficientes para satisfacer las compras.</voice><break time="2s"/>
+
+<voice lang="en">The Educational Convention motivates the learner, and constant discipline allows significant graduation.</voice><break time="5s"/>
+<voice lang="es">La Convención Educativa motiva al aprendiz, y la disciplina constante permite una titulación significativa.</voice><break time="2s"/>
+
+<voice lang="en">During lunch we share simple Puebla wines and Agreement offers service.</voice><break time="5s"/>
+<voice lang="es">Durante el almuerzo compartimos vinos poblanos sencillos y Convenio ofrece servicio.</voice><break time="2s"/>
+
+<voice lang="en">The relationship with socialism suffers silence because agreements deal with emotions and reinforce relationships.</voice><break time="5s"/>
+<voice lang="es">La relación con el socialismo sufre silencio porque los convenios tratan emociones y refuerzan relaciones.</voice><break time="2s"/>
+
+<voice lang="en">Convergence identifies favorites when attendees talk about meals and leisure schedules.</voice><break time="5s"/>
+<voice lang="es">Convergencia identifica a los favoritos cuando los asistentes hablan de comidas y horarios de ocio.</voice><break time="2s"/>
+
+<voice lang="en">Mexican inhabitants await the call and obtain innovative equipment through established procedures.</voice><break time="5s"/>
+<voice lang="es">Los habitantes mexicanos esperan la convocatoria y obtienen equipos innovadores mediante los procedimientos establecidos.</voice><break time="2s"/>
+
+<voice lang="en">Hotels accept cookies and offer reservations in restaurants and franchises.</voice><break time="5s"/>
+<voice lang="es">Los hoteles aceptan cookies y ofrecen reservaciones en restaurantes y franquicias.</voice><break time="2s"/>
+
+<voice lang="en">The Coordination exercises surveillance on the site and facilitates bank procedures if they arrive.</voice><break time="5s"/>
+<voice lang="es">La Coordinación ejerce vigilancia en el sitio y facilita trámites bancarios si estos llegan.</voice><break time="2s"/>
+
+<voice lang="en">The coordinator provides reports and magazines when Income defines norms and rules.</voice><break time="5s"/>
+<voice lang="es">El coordinador proporciona informes y revistas cuando Ingresos define normas y reglas.</voice><break time="2s"/>
+
+<voice lang="en">The author presents the copy of the contract when the administrative process concludes.</voice><break time="5s"/>
+<voice lang="es">La autora presenta la copia del contrato cuando concluye el proceso administrativo.</voice><break time="2s"/>
+
+<voice lang="en">The Crown continues generating discontent although generations move goods and offer cooperation.</voice><break time="5s"/>
+<voice lang="es">La Corona continúa generando descontento aunque las generaciones mueven bienes y ofrecen cooperación.</voice><break time="2s"/>
+
+<voice lang="en">The colonel enjoys the architecture of the home, although fatigue takes away his tranquility.</voice><break time="5s"/>
+<voice lang="es">El coronel disfruta de la arquitectura del hogar, aunque el cansancio le quita tranquilidad.</voice><break time="2s"/>
+
+<voice lang="en">The mail reflects friendship and tears, although we see strength and cohesion.</voice><break time="5s"/>
+<voice lang="es">El correo refleja amistad y llanto, aunque vemos fuerza y cohesión.</voice><break time="2s"/>
+
+<voice lang="en">Correspondence works although the bank faces risks and operators forget routes.</voice><break time="5s"/>
+<voice lang="es">La correspondencia funciona aunque el banco enfrenta riesgos y los operadores olvidan rutas.</voice><break time="2s"/>
+
+<voice lang="en">Rural policy affects the elderly and women, while Courts implements effective laws.</voice><break time="5s"/>
+<voice lang="es">La política rural afecta a ancianos y mujeres, mientras Cortes implementa leyes efectivas.</voice><break time="2s"/>
+
+<voice lang="en">The creation of gift cards continues, and excited couples take commercial windows.</voice><break time="5s"/>
+<voice lang="es">La creación de tarjetas de regalo continúa, y parejas emocionadas toman ventanas comerciales.</voice><break time="2s"/>
+
+<voice lang="en">Our clean residence brings joyful growth and I love returning every night.</voice><break time="5s"/>
+<voice lang="es">Nuestra residencia limpia aporta un crecimiento alegre y amo regresar cada noche.</voice><break time="2s"/>
+
+<voice lang="en">The Attorney requests the credential and issues an updated receipt to the taxpayer.</voice><break time="5s"/>
+<voice lang="es">El Procurador solicita la credencial y emite un comprobante actualizado al contribuyente.</voice><break time="2s"/>
+
+<voice lang="en">The vendor offers cake although billing criteria impose certain restrictions.</voice><break time="5s"/>
+<voice lang="es">El vendedor ofrece pastel aunque los criterios de facturación imponen cierta restricción.</voice><break time="2s"/>
+
+<voice lang="en">The Chronicle protects dreams every day.</voice><break time="5s"/>
+<voice lang="es">La Crónica protege sueños cada día.</voice><break time="2s"/>
+
+<voice lang="en">Female students use notebooks although homework, which increases efforts, seems endless.</voice><break time="5s"/>
+<voice lang="es">Las alumnas usan cuadernos aunque la tarea, que incrementa los esfuerzos, parece interminable.</voice><break time="2s"/>
+
+<voice lang="en">Our garden of green squares provides powerful colors and deep conversations that maintain the home.</voice><break time="5s"/>
+<voice lang="es">Nuestro jardín de cuadrados verdes brinda colores poderosos y conversaciones profundas que mantienen el hogar.</voice><break time="2s"/>
+
+<voice lang="en">Missionaries teach calculus and logic, although they lack infrastructure and school modules.</voice><break time="5s"/>
+<voice lang="es">Misioneros enseñan cálculo y lógica, aunque carecen de infraestructura y módulos escolares.</voice><break time="2s"/>
+
+<voice lang="en">Summits created hope, although the consequences of crime surprised the ladies.</voice><break time="5s"/>
+<voice lang="es">Cumbres creó esperanza, aunque las consecuencias del delito sorprendieron a las damas.</voice><break time="2s"/>
+
+<voice lang="en">Free peoples need a fair quota and clear processes if they want peace.</voice><break time="5s"/>
+<voice lang="es">Los pueblos libres necesitan una cuota justa y procesos claros si quieren paz.</voice><break time="2s"/>
+
+<voice lang="en">Courses generate studies because giving us knowledge facilitates solving problems and understanding movies.</voice><break time="5s"/>
+<voice lang="es">Los cursos generan estudios porque darnos conocimientos facilita resolver problemas y comprender las películas.</voice><break time="2s"/>
+
+<voice lang="en">The family chamber opens a dialogue box and creates testimonies about the facts.</voice><break time="5s"/>
+<voice lang="es">La cámara familiar abre una casilla de diálogo y crea testimonios sobre los hechos.</voice><break time="2s"/>
+
+<voice lang="en">Sports cameras locate marine bodies and contribute to studying biological diversity.</voice><break time="5s"/>
+<voice lang="es">Las cámaras deportivas ubican cuerpos marinos y contribuyen a estudiar la diversidad biológica.</voice><break time="2s"/>
+
+<voice lang="en">We students provide documents and certificates because the professor recommends and reviews them.</voice><break time="5s"/>
+<voice lang="es">Los estudiantes brindamos documentos y cédulas porque el profesor los recomienda y los revisa.</voice><break time="2s"/>
+
+<voice lang="en">Drivers consider long distances and the Traffic Code requires respecting borders.</voice><break time="5s"/>
+<voice lang="es">Los conductores consideran las largas distancias y el Código Vial obliga a respetar las fronteras.</voice><break time="2s"/>
+
+<voice lang="en">The director analyzes computer data and colleagues will develop sustainable improvements.</voice><break time="5s"/>
+<voice lang="es">El directivo analiza datos de cómputo y los compañeros desarrollarán mejoras sustentables.</voice><break time="2s"/>
+
+<voice lang="en">Legislators initiated debates and deputies pointed out a serious affectation in the nation.</voice><break time="5s"/>
+<voice lang="es">Los legisladores iniciaron debates y los diputados señalaron una afectación grave en la nación.</voice><break time="2s"/>
+
+<voice lang="en">You must comply with the ordinances because the coalition of owners manifested sanctions and management.</voice><break time="5s"/>
+<voice lang="es">Deberás cumplir los ordenamientos porque la coalición de propietarios manifestó sanciones y manejo.</voice><break time="2s"/>
+
+<voice lang="en">The priest declared the Legal Declaration and the competent auditor approved the provisions.</voice><break time="5s"/>
+<voice lang="es">El sacerdote declaró la Declaración Jurídica y el fiscalizador competente aprobó las disposiciones.</voice><break time="2s"/>
+
+<voice lang="en">The Decree will limit concessions and the union will discuss regularization petitions.</voice><break time="5s"/>
+<voice lang="es">El Decreto limitará las concesiones y el sindicato discutirá las peticiones de regularización.</voice><break time="2s"/>
+
+<voice lang="en">Defense acts with firm measures and the Army responds, avoiding serious disasters.</voice><break time="5s"/>
+<voice lang="es">La Defensa actúa con medidas firmes y el Ejército responde, evitando desastres graves.</voice><break time="2s"/>
+
+<voice lang="en">In quiet neighborhoods reside families and delegations that take care of doors, facilities and freedom.</voice><break time="5s"/>
+<voice lang="es">En barrios tranquilos residen familias y delegaciones que cuidan puertas, instalaciones y la libertad.</voice><break time="2s"/>
+
+<voice lang="en">The Delegation will guide musicians and offer broad creative support.</voice><break time="5s"/>
+<voice lang="es">La Delegación orientará a los músicos y ofrecerá un amplio apoyo creativo.</voice><break time="2s"/>
+
+<voice lang="en">Architects work although labor democracy is usually lacking in structures.</voice><break time="5s"/>
+<voice lang="es">Los arquitectos trabajan aunque la democracia laboral suele faltar en las estructuras.</voice><break time="2s"/>
+
+<voice lang="en">Departments will have recognition when competent executives manage sales and properties.</voice><break time="5s"/>
+<voice lang="es">Los departamentos tendrán reconocimiento cuando ejecutivos competentes manejen ventas y propiedades.</voice><break time="2s"/>
+
+<voice lang="en">The Agency manifested distrust in communications and requested official investigations.</voice><break time="5s"/>
+<voice lang="es">La Dependencia manifestó desconfianza en las comunicaciones y pidió investigaciones oficiales.</voice><break time="2s"/>
+
+<voice lang="en">Every morning I visit public agencies and then return to the hotel to rest.</voice><break time="5s"/>
+<voice lang="es">Cada mañana visito dependencias públicas y luego regreso al hotel para descansar.</voice><break time="2s"/>
+
+<voice lang="en">Sport favors health and providing creativity generates extraordinary enjoyment.</voice><break time="5s"/>
+<voice lang="es">El deporte favorece la salud y brindar creatividad genera un goce extraordinario.</voice><break time="2s"/>
+
+<voice lang="en">Sports begin when work ends and freedom emerges.</voice><break time="5s"/>
+<voice lang="es">Los deportes comienzan cuando termina el trabajo y surge la libertad.</voice><break time="2s"/>
+
+<voice lang="en">Servers defend labor rights and business organizations carry out concrete labor reforms.</voice><break time="5s"/>
+<voice lang="es">Los servidores defienden los derechos laborales y las organizaciones empresariales realizan reformas laborales concretas.</voice><break time="2s"/>
+
+<voice lang="en">The public download will impact, will allow economic profits and will reach an impressive family agreement.</voice><break time="5s"/>
+<voice lang="es">La descarga pública impactará, permitirá utilidades económicas y alcanzará un impresionante acuerdo familiar.</voice><break time="2s"/>
+
+<voice lang="en">The description pointed out the problem, although academics believe that citizen conditions require better policies.</voice><break time="5s"/>
+<voice lang="es">La descripción señaló la problemática, aunque académicos opinan que las condiciones ciudadanas requieren mejores políticas.</voice><break time="2s"/>
+
+<voice lang="en">We need to hire Human Resources consulting when the annual discount ends.</voice><break time="5s"/>
+<voice lang="es">Necesitamos contratar consultoría para Recursos Humanos cuando termine el descuento anual.</voice><break time="2s"/>
+
+<voice lang="en">Vital therapy would relieve the chest, the independent Mexican office stated.</voice><break time="5s"/>
+<voice lang="es">La terapia vital aliviaría el pecho, manifestó el despacho mexicano independiente.</voice><break time="2s"/>
+
+<voice lang="en">Spending in the Latin American market grew, but debt also weighs heavily.</voice><break time="5s"/>
+<voice lang="es">El gasto en el mercado latinoamericano creció, pero la deuda también pesa.</voice><break time="2s"/>
+
+<voice lang="en">Adequate nutrition preserves health, although the newspaper indicates deficiencies and worrying concerns.</voice><break time="5s"/>
+<voice lang="es">Una nutrición adecuada preserva la salud, aunque el diario indica carencias y preocupaciones que inquietan.</voice><break time="2s"/>
+
+<voice lang="en">In December we will perform ordinary exercises and breaks intended to reduce stress.</voice><break time="5s"/>
+<voice lang="es">En diciembre realizaremos ejercicios ordinarios y descansos destinados a reducir el estrés.</voice><break time="2s"/>
+
+<voice lang="en">The opinion reveals conclusions and strengthening of democracy, but will generate doubts.</voice><break time="5s"/>
+<voice lang="es">El dictamen revela conclusiones y fortalecimiento de la democracia, pero generará dudas.</voice><break time="2s"/>
+
+<voice lang="en">The dissemination of the video proceeds slowly, but future profits vary greatly.</voice><break time="5s"/>
+<voice lang="es">La difusión del video procede lentamente, pero las ganancias futuras varían mucho.</voice><break time="2s"/>
+
+<voice lang="en">Directors deliver Diploma and capital school fulfills educational obligations, regulations and needs.</voice><break time="5s"/>
+<voice lang="es">Directores entregan Diploma y escuela capitalino cumple obligaciones, regulaciones y necesidades educativas.</voice><break time="2s"/>
+
+<voice lang="en">The congresswoman expressed concern, although we continue doing analysis and seek emotional management.</voice><break time="5s"/>
+<voice lang="es">La diputada expresó preocupación, aunque seguimos haciendo análisis y buscamos manejo emocional.</voice><break time="2s"/>
+
+<voice lang="en">The Directory reported operational statistics and governments increased their participation and utilization.</voice><break time="5s"/>
+<voice lang="es">El Directorio informó estadísticas operativas y los gobiernos incrementaron su participación y aprovechamiento.</voice><break time="2s"/>
+
+<voice lang="en">Disability affects lives and the observatory will provide logistics and recognition.</voice><break time="5s"/>
+<voice lang="es">La discapacidad afecta vidas y el observatorio proporcionará logística y reconocimiento.</voice><break time="2s"/>
+
+<voice lang="en">Discrimination affects opportunities, although analysts say advances generate credibility and courage.</voice><break time="5s"/>
+<voice lang="es">La discriminación afecta las oportunidades, aunque analistas dicen que los avances generan credibilidad y valentía.</voice><break time="2s"/>
+
+<voice lang="en">Settlers mention scarcity, although officials assure availability and sufficient reserves.</voice><break time="5s"/>
+<voice lang="es">Los colonos mencionan escasez, aunque los funcionarios aseguran disponibilidad y reservas suficientes.</voice><break time="2s"/>
+
+<voice lang="en">The president recalled legal provisions and the legislator proposed constitutional reforms.</voice><break time="5s"/>
+<voice lang="es">La presidenta recordó las disposiciones jurídicas y el legislador planteó reformas constitucionales.</voice><break time="2s"/>
+
+<voice lang="en">Youth performs repairs on the stairs and Distance requires controls for traffic.</voice><break time="5s"/>
+<voice lang="es">La Juventud realiza reparaciones en las escaleras y la Distancia requiere controles para el tránsito.</voice><break time="2s"/>
+
+<voice lang="en">Mom considers the furniture distribution excellent and prepares an elegant white decoration.</voice><break time="5s"/>
+<voice lang="es">Mamá considera excelente la distribución de muebles y prepara una elegante decoración blanca.</voice><break time="2s"/>
+
+<voice lang="en">The Distributor prepares furniture for the home and I'm looking for a new and orderly dwelling.</voice><break time="5s"/>
+<voice lang="es">El Distribuidor prepara muebles para el hogar y busco una vivienda nueva y ordenada.</voice><break time="2s"/>
+
+<voice lang="en">The youth activist organizes a sports division and promotes modern games for her friends.</voice><break time="5s"/>
+<voice lang="es">La activista juvenil organiza una división deportiva y promueve juegos modernos para sus amigas.</voice><break time="2s"/>
+
+<voice lang="en">Culinary dissemination integrates cultural values, although maintenance problems affect food options.</voice><break time="5s"/>
+<voice lang="es">La divulgación culinaria integra valores culturales, aunque los problemas de manutención afectan las opciones alimentarias.</voice><break time="2s"/>
+
+<voice lang="en">Teaching strengthens beliefs and generations maintain support while advancing research contains details.</voice><break time="5s"/>
+<voice lang="es">Docencia fortalece creencias y generaciones mantienen apoyos mientras investigaciones avanzando contienen detalles.</voice><break time="2s"/>
+
+<voice lang="en">The doctor plays video games in March and then swimming at the beach relaxes him.</voice><break time="5s"/>
+<voice lang="es">El doctor juega videojuegos en marzo y luego nadar en la playa lo relaja.</voice><break time="2s"/>
+
+<voice lang="en">The doctor trusts the market brand and discovers new opportunities.</voice><break time="5s"/>
+<voice lang="es">La doctora confía en la marca del mercado y descubre nuevas oportunidades.</voice><break time="2s"/>
+
+<voice lang="en">The engineer reviewed the documentation and verified updated numbers without errors.</voice><break time="5s"/>
+<voice lang="es">El ingeniero revisó la documentación y verificó los números actualizados sin errores.</voice><break time="2s"/>
+
+<voice lang="en">PAN party leaders presented the document and affirmed that jurisprudence protects rights.</voice><break time="5s"/>
+<voice lang="es">Líderes panistas presentaron el documento y afirmaron que la jurisprudencia protege derechos.</voice><break time="2s"/>
+
+<voice lang="en">Documents inspire the community.</voice><break time="5s"/>
+<voice lang="es">Los Documentos inspiran a la comunidad.</voice><break time="2s"/>
+
+<voice lang="en">World sociology explains human behaviors and emotional pain, shared studies mention.</voice><break time="5s"/>
+<voice lang="es">La sociología mundial explica los comportamientos humanos y el dolor emocional, mencionan estudios compartidos.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

@@ -1,0 +1,20 @@
+Give me those. Follow exactly this format: 
+<voice lang="es">Infinitive in Spanish (English infinitive)</voice><break time="3s"> 
+<voice lang="en">First person simple past in English<break time="1s">Second person simple past in
+English<break time="1s">Third person simple past in English</voice><break time="4s"> 
+<voice lang="es">First person simple past in Spanish<break time="1s">Second person simple past in Spanish<break time="1s">Third person
+simple past in Spanish</voice><break time="3s">
+
+
+
+Give me those. Follow exactly this format: 
+<voice lang="es">Infinitive in Spanish (English infinitive)</voice><break time="3s"> 
+<voice lang="en">Third person simple past in English</voice><break time="4s"> 
+<voice lang="es">Third person simple past in Spanish</voice><break time="3s">
+
+
+<voice lang="en">English sentence or question</voice><break time="5s">
+<voice lang="es">Spanish sentence of question</voice><break time="3s">
+
+<voice lang="en">English sentence or question</voice><break time="3s">
+<voice lang="es">Spanish sentence of question</voice><break time="3s">

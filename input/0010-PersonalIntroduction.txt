@@ -79,5 +79,5 @@
 <voice lang="en">What do you do?<break time=5s"></voice>
 <voice lang="es">¿A qué te dedicas?<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

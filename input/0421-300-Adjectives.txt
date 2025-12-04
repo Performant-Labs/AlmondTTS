@@ -1,0 +1,1143 @@
+
+<voice lang="en">Size and Dimensions</voice><break time="4s">
+<voice lang="es">Tamaño y Dimensiones</voice><break time="3s">
+
+<voice lang="en">The house is big enough for all of us.</voice><break time="4s">
+<voice lang="es">La casa es lo suficientemente grande para todos nosotros.</voice><break time="3s">
+
+<voice lang="en">This phone is too small for my hands.</voice><break time="4s">
+<voice lang="es">Este teléfono es demasiado pequeño para mis manos.</voice><break time="3s">
+
+<voice lang="en">They live in a large apartment downtown.</voice><break time="4s">
+<voice lang="es">Viven en un gran apartamento en el centro.</voice><break time="3s">
+
+<voice lang="en">The puppy is tiny but full of energy.</voice><break time="4s">
+<voice lang="es">El cachorro es pequeño pero lleno de energía.</voice><break time="3s">
+
+<voice lang="en">It's a long road to mastery.</voice><break time="4s">
+<voice lang="es">Es un largo camino hacia la maestría.</voice><break time="3s">
+
+<voice lang="en">The meeting was short but productive.</voice><break time="4s">
+<voice lang="es">La reunión fue breve pero productiva.</voice><break time="3s">
+
+<voice lang="en">She's tall compared to her classmates.</voice><break time="4s">
+<voice lang="es">Ella es alta en comparación con sus compañeros de clase.</voice><break time="3s">
+
+<voice lang="en">The ceiling is too low for tall people.</voice><break time="4s">
+<voice lang="es">El techo es demasiado bajo para personas altas.</voice><break time="3s">
+
+<voice lang="en">He climbed the high mountain alone.</voice><break time="4s">
+<voice lang="es">Subió solo la alta montaña.</voice><break time="3s">
+
+<voice lang="en">The river is very wide here.</voice><break time="4s">
+<voice lang="es">El río es muy ancho aquí.</voice><break time="3s">
+
+<voice lang="en">This path is too narrow for cars.</voice><break time="4s">
+<voice lang="es">Este camino es demasiado estrecho para los coches.</voice><break time="3s">
+
+<voice lang="en">The lake is surprisingly deep.</voice><break time="4s">
+<voice lang="es">El lago es sorprendentemente profundo.</voice><break time="3s">
+
+<voice lang="en">The water is shallow near the shore.</voice><break time="4s">
+<voice lang="es">El agua es poco profunda cerca de la orilla.</voice><break time="3s">
+
+<voice lang="en">The suitcase is fat and heavy.</voice><break time="4s">
+<voice lang="es">La maleta es gorda y pesada.</voice><break time="3s">
+
+<voice lang="en">The book is thin but interesting.</voice><break time="4s">
+<voice lang="es">El libro es delgado pero interesante.</voice><break time="3s">
+
+<voice lang="en">The wall is thick.</voice><break time="4s">
+<voice lang="es">La pared es gruesa.</voice><break time="3s">
+
+<voice lang="en">The paper is thin.</voice><break time="4s">
+<voice lang="es">El papel es fino.</voice><break time="3s">
+
+<voice lang="en">Speed and Time</voice><break time="4s">
+<voice lang="es">Velocidad y Tiempo</voice><break time="3s">
+
+<voice lang="en">She walks fast when she's excited.</voice><break time="4s">
+<voice lang="es">Ella camina rápido cuando está emocionada.</voice><break time="3s">
+
+<voice lang="en">The old computer feels slow.</voice><break time="4s">
+<voice lang="es">La vieja computadora se siente lenta.</voice><break time="3s">
+
+<voice lang="en">I woke up early today.</voice><break time="4s">
+<voice lang="es">Me desperté temprano hoy.</voice><break time="3s">
+
+<voice lang="en">You arrived late again.</voice><break time="4s">
+<voice lang="es">Llegaste tarde otra vez.</voice><break time="3s">
+
+<voice lang="en">Age and Era</voice><break time="4s">
+<voice lang="es">Edad y Época</voice><break time="3s">
+
+<voice lang="en">My grandfather is very old.</voice><break time="4s">
+<voice lang="es">Mi abuelo es muy viejo.</voice><break time="3s">
+
+<voice lang="en">The girl is still young.</voice><break time="4s">
+<voice lang="es">La niña todavía es joven.</voice><break time="3s">
+
+<voice lang="en">They bought a new car last week.</voice><break time="4s">
+<voice lang="es">Compraron un coche nuevo la semana pasada.</voice><break time="3s">
+
+<voice lang="en">We visited an ancient temple.</voice><break time="4s">
+<voice lang="es">Visitamos un templo antiguo.</voice><break time="3s">
+
+<voice lang="en">They live in a modern building.</voice><break time="4s">
+<voice lang="es">Viven en un edificio moderno.</voice><break time="3s">
+
+<voice lang="en">Quality and Comparison</voice><break time="4s">
+<voice lang="es">Calidad y Comparación</voice><break time="3s">
+
+<voice lang="en">He is a good friend.</voice><break time="4s">
+<voice lang="es">Él es un buen amigo.</voice><break time="3s">
+
+<voice lang="en">This restaurant is bad.</voice><break time="4s">
+<voice lang="es">Este restaurante es malo.</voice><break time="3s">
+
+<voice lang="en">Her second attempt was better.</voice><break time="4s">
+<voice lang="es">Su segundo intento fue mejor.</voice><break time="3s">
+
+<voice lang="en">The situation couldn't be worse.</voice><break time="4s">
+<voice lang="es">La situación no podría ser peor.</voice><break time="3s">
+
+<voice lang="en">This is the best solution.</voice><break time="4s">
+<voice lang="es">Esta es la mejor solución.</voice><break time="3s">
+
+<voice lang="en">That was the worst idea.</voice><break time="4s">
+<voice lang="es">Esa fue la peor idea.</voice><break time="3s">
+
+<voice lang="en">Difficulty</voice><break time="4s">
+<voice lang="es">Dificultad</voice><break time="3s">
+
+<voice lang="en">The task was easy for him.</voice><break time="4s">
+<voice lang="es">La tarea fue fácil para él.</voice><break time="3s">
+
+<voice lang="en">The problem is difficult to solve.</voice><break time="4s">
+<voice lang="es">El problema es difícil de resolver.</voice><break time="3s">
+
+<voice lang="en">This trick is simple but effective.</voice><break time="4s">
+<voice lang="es">Este truco es simple pero efectivo.</voice><break time="3s">
+
+<voice lang="en">It's a complex system.</voice><break time="4s">
+<voice lang="es">Es un sistema complejo.</voice><break time="3s">
+
+<voice lang="en">The exam was hard.</voice><break time="4s">
+<voice lang="es">El examen fue difícil.</voice><break time="3s">
+
+<voice lang="en">The design is simple.</voice><break time="4s">
+<voice lang="es">El diseño es simple.</voice><break time="3s">
+
+<voice lang="en">Physical Strength and Health</voice><break time="4s">
+<voice lang="es">Fuerza Física y Salud</voice><break time="3s">
+
+<voice lang="en">The mattress is soft.</voice><break time="4s">
+<voice lang="es">El colchón es suave.</voice><break time="3s">
+
+<voice lang="en">She feels strong today.</voice><break time="4s">
+<voice lang="es">Ella se siente fuerte hoy.</voice><break time="3s">
+
+<voice lang="en">He feels weak after the workout.</voice><break time="4s">
+<voice lang="es">Se siente débil después del entrenamiento.</voice><break time="3s">
+
+<voice lang="en">She's finally healthy again.</voice><break time="4s">
+<voice lang="es">Por fin está sana de nuevo.</voice><break time="3s">
+
+<voice lang="en">He's been sick all week.</voice><break time="4s">
+<voice lang="es">Estuvo enfermo toda la semana.</voice><break time="3s">
+
+<voice lang="en">Weight</voice><break time="4s">
+<voice lang="es">Peso</voice><break time="3s">
+
+<voice lang="en">The box is heavy.</voice><break time="4s">
+<voice lang="es">La caja es pesada.</voice><break time="3s">
+
+<voice lang="en">The bag is light and easy to carry.</voice><break time="4s">
+<voice lang="es">La bolsa es ligera y fácil de transportar.</voice><break time="3s">
+
+<voice lang="en">Cleanliness</voice><break time="4s">
+<voice lang="es">Limpieza</voice><break time="3s">
+
+<voice lang="en">Keep the kitchen clean.</voice><break time="4s">
+<voice lang="es">Mantenga la cocina limpia.</voice><break time="3s">
+
+<voice lang="en">Your shoes are dirty.</voice><break time="4s">
+<voice lang="es">Tus zapatos están sucios.</voice><break time="3s">
+
+<voice lang="en">The bread tastes fresh.</voice><break time="4s">
+<voice lang="es">El pan sabe fresco.</voice><break time="3s">
+
+<voice lang="en">The air here feels stale.</voice><break time="4s">
+<voice lang="es">El aire aquí se siente viciado.</voice><break time="3s">
+
+<voice lang="en">The room is clean.</voice><break time="4s">
+<voice lang="es">La habitación está limpia.</voice><break time="3s">
+
+<voice lang="en">His desk is messy.</voice><break time="4s">
+<voice lang="es">Su escritorio está desordenado.</voice><break time="3s">
+
+<voice lang="en">Her files are organized.</voice><break time="4s">
+<voice lang="es">Sus archivos están organizados.</voice><break time="3s">
+
+<voice lang="en">His notes are disorganized.</voice><break time="4s">
+<voice lang="es">Sus notas están desorganizadas.</voice><break time="3s">
+
+<voice lang="en">Temperature</voice><break time="4s">
+<voice lang="es">Temperatura</voice><break time="3s">
+
+<voice lang="en">The soup is too hot.</voice><break time="4s">
+<voice lang="es">La sopa está demasiado caliente.</voice><break time="3s">
+
+<voice lang="en">The room is cold at night.</voice><break time="4s">
+<voice lang="es">La habitación está fría por la noche.</voice><break time="3s">
+
+<voice lang="en">The water is warm.</voice><break time="4s">
+<voice lang="es">El agua está caliente.</voice><break time="3s">
+
+<voice lang="en">The wind is cool today.</voice><break time="4s">
+<voice lang="es">El viento es fresco hoy.</voice><break time="3s">
+
+<voice lang="en">Moisture</voice><break time="4s">
+<voice lang="es">Humedad</voice><break time="3s">
+
+<voice lang="en">My clothes are dry now.</voice><break time="4s">
+<voice lang="es">Mi ropa está seca ahora.</voice><break time="3s">
+
+<voice lang="en">His hair is wet from the rain.</voice><break time="4s">
+<voice lang="es">Su cabello está mojado por la lluvia.</voice><break time="3s">
+
+<voice lang="en">Fullness</voice><break time="4s">
+<voice lang="es">Llenura</voice><break time="3s">
+
+<voice lang="en">The tank is full.</voice><break time="4s">
+<voice lang="es">El tanque está lleno.</voice><break time="3s">
+
+<voice lang="en">The fridge is empty.</voice><break time="4s">
+<voice lang="es">La nevera está vacía.</voice><break time="3s">
+
+<voice lang="en">The stadium is empty today.</voice><break time="4s">
+<voice lang="es">El estadio está vacío hoy.</voice><break time="3s">
+
+<voice lang="en">The bus is crowded.</voice><break time="4s">
+<voice lang="es">El autobús está lleno.</voice><break time="3s">
+
+<voice lang="en">The mall is busy today.</voice><break time="4s">
+<voice lang="es">El centro comercial está muy concurrido hoy.</voice><break time="3s">
+
+<voice lang="en">The stadium was empty.</voice><break time="4s">
+<voice lang="es">El estadio estaba vacío.</voice><break time="3s">
+
+<voice lang="en">Open and Closed</voice><break time="4s">
+<voice lang="es">Abierto y Cerrado</voice><break time="3s">
+
+<voice lang="en">The store is open.</voice><break time="4s">
+<voice lang="es">La tienda está abierta.</voice><break time="3s">
+
+<voice lang="en">The office is closed.</voice><break time="4s">
+<voice lang="es">La oficina está cerrada.</voice><break time="3s">
+
+<voice lang="en">The door is open.</voice><break time="4s">
+<voice lang="es">La puerta está abierta.</voice><break time="3s">
+
+<voice lang="en">The bottle is closed.</voice><break time="4s">
+<voice lang="es">La botella está cerrada.</voice><break time="3s">
+
+<voice lang="en">Light and Sound</voice><break time="4s">
+<voice lang="es">Luz y Sonido</voice><break time="3s">
+
+<voice lang="en">The room is bright and cheerful.</voice><break time="4s">
+<voice lang="es">La habitación es luminosa y alegre.</voice><break time="3s">
+
+<voice lang="en">It's too dark to read.</voice><break time="4s">
+<voice lang="es">Está demasiado oscuro para leer.</voice><break time="3s">
+
+<voice lang="en">The music is loud.</voice><break time="4s">
+<voice lang="es">La música está fuerte.</voice><break time="3s">
+
+<voice lang="en">The house is quiet at night.</voice><break time="4s">
+<voice lang="es">La casa está tranquila por la noche.</voice><break time="3s">
+
+<voice lang="en">The crowd suddenly went silent.</voice><break time="4s">
+<voice lang="es">De repente la multitud quedó en silencio.</voice><break time="3s">
+
+<voice lang="en">The street is noisy during the day.</voice><break time="4s">
+<voice lang="es">La calle es ruidosa durante el día.</voice><break time="3s">
+
+<voice lang="en">The street is quiet tonight.</voice><break time="4s">
+<voice lang="es">La calle está tranquila esta noche.</voice><break time="3s">
+
+<voice lang="en">The neighborhood feels peaceful.</voice><break time="4s">
+<voice lang="es">El barrio se siente tranquilo.</voice><break time="3s">
+
+<voice lang="en">The beach is quiet.</voice><break time="4s">
+<voice lang="es">La playa está tranquila.</voice><break time="3s">
+
+<voice lang="en">Wealth and Value</voice><break time="4s">
+<voice lang="es">Riqueza y Valor</voice><break time="3s">
+
+<voice lang="en">He grew up in a rich family.</voice><break time="4s">
+<voice lang="es">Creció en una familia rica.</voice><break time="3s">
+
+<voice lang="en">Many students are poor here.</voice><break time="4s">
+<voice lang="es">Muchos estudiantes son pobres aquí.</voice><break time="3s">
+
+<voice lang="en">The shoes are cheap but durable.</voice><break time="4s">
+<voice lang="es">Los zapatos son baratos pero duraderos.</voice><break time="3s">
+
+<voice lang="en">That watch is expensive.</voice><break time="4s">
+<voice lang="es">Ese reloj es caro.</voice><break time="3s">
+
+<voice lang="en">Gold is very valuable.</voice><break time="4s">
+<voice lang="es">El oro es muy valioso.</voice><break time="3s">
+
+<voice lang="en">This broken toy is worthless now.</voice><break time="4s">
+<voice lang="es">Este juguete roto ya no vale nada.</voice><break time="3s">
+
+<voice lang="en">The service is free today.</voice><break time="4s">
+<voice lang="es">El servicio es gratuito hoy.</voice><break time="3s">
+
+<voice lang="en">Activity and Energy</voice><break time="4s">
+<voice lang="es">Actividad y Energía</voice><break time="3s">
+
+<voice lang="en">She's always busy.</voice><break time="4s">
+<voice lang="es">Ella siempre está ocupada.</voice><break time="3s">
+
+<voice lang="en">He's too lazy to clean.</voice><break time="4s">
+<voice lang="es">Es demasiado perezoso para limpiar.</voice><break time="3s">
+
+<voice lang="en">I feel tired after training.</voice><break time="4s">
+<voice lang="es">Me siento cansado después del entrenamiento.</voice><break time="3s">
+
+<voice lang="en">She looks sleepy.</voice><break time="4s">
+<voice lang="es">Ella parece somnolienta.</voice><break time="3s">
+
+<voice lang="en">He is fully awake now.</voice><break time="4s">
+<voice lang="es">Ahora está completamente despierto.</voice><break time="3s">
+
+<voice lang="en">She is very active.</voice><break time="4s">
+<voice lang="es">Ella es muy activa.</voice><break time="3s">
+
+<voice lang="en">He is passive in meetings.</voice><break time="4s">
+<voice lang="es">Él es pasivo en las reuniones.</voice><break time="3s">
+
+<voice lang="en">Life and Death</voice><break time="4s">
+<voice lang="es">Vida y Muerte</voice><break time="3s">
+
+<voice lang="en">The patient is still alive.</voice><break time="4s">
+<voice lang="es">El paciente todavía está vivo.</voice><break time="3s">
+
+<voice lang="en">The plant is dead.</voice><break time="4s">
+<voice lang="es">La planta está muerta.</voice><break time="3s">
+
+<voice lang="en">Physical Needs</voice><break time="4s">
+<voice lang="es">Necesidades Físicas</voice><break time="3s">
+
+<voice lang="en">I'm hungry after the workout.</voice><break time="4s">
+<voice lang="es">Tengo hambre después del entrenamiento.</voice><break time="3s">
+
+<voice lang="en">We're thirsty from the heat.</voice><break time="4s">
+<voice lang="es">Tenemos sed por el calor.</voice><break time="3s">
+
+<voice lang="en">Readiness</voice><break time="4s">
+<voice lang="es">Preparación</voice><break time="3s">
+
+<voice lang="en">I'm ready to start.</voice><break time="4s">
+<voice lang="es">Estoy listo para empezar.</voice><break time="3s">
+
+<voice lang="en">He's unready for this level.</voice><break time="4s">
+<voice lang="es">No está preparado para este nivel.</voice><break time="3s">
+
+<voice lang="en">Correctness and Direction</voice><break time="4s">
+<voice lang="es">Corrección y Dirección</voice><break time="3s">
+
+<voice lang="en">Your answer is correct.</voice><break time="4s">
+<voice lang="es">Tu respuesta es correcta</voice><break time="3s">
+
+<voice lang="en">The guess was wrong.</voice><break time="4s">
+<voice lang="es">La suposición era errónea.</voice><break time="3s">
+
+<voice lang="en">Turn right at the corner.</voice><break time="4s">
+<voice lang="es">En la esquina, gire a la derecha.</voice><break time="3s">
+
+<voice lang="en">The cup is on the left side.</voice><break time="4s">
+<voice lang="es">La copa está en el lado izquierdo.</voice><break time="3s">
+
+<voice lang="en">Truth and Reality</voice><break time="4s">
+<voice lang="es">Verdad y Realidad</voice><break time="3s">
+
+<voice lang="en">The story is true.</voice><break time="4s">
+<voice lang="es">La historia es verdadera.</voice><break time="3s">
+
+<voice lang="en">His excuse was false.</voice><break time="4s">
+<voice lang="es">Su excusa era falsa.</voice><break time="3s">
+
+<voice lang="en">The danger was real.</voice><break time="4s">
+<voice lang="es">El peligro era real.</voice><break time="3s">
+
+<voice lang="en">The jewelry is fake.</voice><break time="4s">
+<voice lang="es">Las joyas son falsas.</voice><break time="3s">
+
+<voice lang="en">Safety and Risk</voice><break time="4s">
+<voice lang="es">Seguridad y Riesgo</voice><break time="3s">
+
+<voice lang="en">The neighborhood feels safe.</voice><break time="4s">
+<voice lang="es">El barrio se siente seguro.</voice><break time="3s">
+
+<voice lang="en">This area is dangerous at night.</voice><break time="4s">
+<voice lang="es">Esta zona es peligrosa por la noche.</voice><break time="3s">
+
+<voice lang="en">The password is secure.</voice><break time="4s">
+<voice lang="es">La contraseña es segura.</voice><break time="3s">
+
+<voice lang="en">The deal is risky.</voice><break time="4s">
+<voice lang="es">El acuerdo es arriesgado.</voice><break time="3s">
+
+<voice lang="en">The climb was dangerous.</voice><break time="4s">
+<voice lang="es">La subida era peligrosa.</voice><break time="3s">
+
+<voice lang="en">The test is harmless.</voice><break time="4s">
+<voice lang="es">La prueba es inofensiva.</voice><break time="3s">
+
+<voice lang="en">Fame and Recognition</voice><break time="4s">
+<voice lang="es">Fama y Reconocimiento</voice><break time="3s">
+
+<voice lang="en">She became famous overnight.</voice><break time="4s">
+<voice lang="es">Se hizo famosa de la noche a la mañana.</voice><break time="3s">
+
+<voice lang="en">His name is unknown to me.</voice><break time="4s">
+<voice lang="es">Su nombre me es desconocido.</voice><break time="3s">
+
+<voice lang="en">Public and Private</voice><break time="4s">
+<voice lang="es">Público y Privado</voice><break time="3s">
+
+<voice lang="en">The event is public.</voice><break time="4s">
+<voice lang="es">El evento es público.</voice><break time="3s">
+
+<voice lang="en">The meeting is private.</voice><break time="4s">
+<voice lang="es">La reunión es privada.</voice><break time="3s">
+
+<voice lang="en">The garden feels private.</voice><break time="4s">
+<voice lang="es">El jardín se siente privado.</voice><break time="3s">
+
+<voice lang="en">The park is public.</voice><break time="4s">
+<voice lang="es">El parque es público.</voice><break time="3s">
+
+<voice lang="en">Scope</voice><break time="4s">
+<voice lang="es">Alcance</voice><break time="3s">
+
+<voice lang="en">They prefer local food.</voice><break time="4s">
+<voice lang="es">Prefieren la comida local.</voice><break time="3s">
+
+<voice lang="en">This issue is global.</voice><break time="4s">
+<voice lang="es">Este problema es mundial.</voice><break time="3s">
+
+<voice lang="en">Importance</voice><break time="4s">
+<voice lang="es">Importancia</voice><break time="3s">
+
+<voice lang="en">This decision is important.</voice><break time="4s">
+<voice lang="es">Esta decisión es importante.</voice><break time="3s">
+
+<voice lang="en">Your complaint is unimportant.</voice><break time="4s">
+<voice lang="es">Su queja no tiene importancia</voice><break time="3s">
+
+<voice lang="en">Water is essential.</voice><break time="4s">
+<voice lang="es">El agua es esencial.</voice><break time="3s">
+
+<voice lang="en">This step is optional.</voice><break time="4s">
+<voice lang="es">Este paso es opcional.</voice><break time="3s">
+
+<voice lang="en">That's the main problem.</voice><break time="4s">
+<voice lang="es">Ése es el problema principal.</voice><break time="3s">
+
+<voice lang="en">It's just a minor detail.</voice><break time="4s">
+<voice lang="es">Es solo un detalle menor.</voice><break time="3s">
+
+<voice lang="en">The central idea is clear.</voice><break time="4s">
+<voice lang="es">La idea central es clara.</voice><break time="3s">
+
+<voice lang="en">Level and Detail</voice><break time="4s">
+<voice lang="es">Nivel y Detalle</voice><break time="3s">
+
+<voice lang="en">We need basic tools.</voice><break time="4s">
+<voice lang="es">Necesitamos herramientas básicas.</voice><break time="3s">
+
+<voice lang="en">This is advanced material.</voice><break time="4s">
+<voice lang="es">Este es material avanzado.</voice><break time="3s">
+
+<voice lang="en">The report is detailed.</voice><break time="4s">
+<voice lang="es">El informe es detallado.</voice><break time="3s">
+
+<voice lang="en">His explanation was general.</voice><break time="4s">
+<voice lang="es">Su explicación fue general.</voice><break time="3s">
+
+<voice lang="en">We need a specific answer.</voice><break time="4s">
+<voice lang="es">Necesitamos una respuesta específica.</voice><break time="3s">
+
+<voice lang="en">We teach basic grammar.</voice><break time="4s">
+<voice lang="es">Enseñamos gramática básica.</voice><break time="3s">
+
+<voice lang="en">Similarity and Equality</voice><break time="4s">
+<voice lang="es">Similitud e Igualdad</voice><break time="3s">
+
+<voice lang="en">These two look similar.</voice><break time="4s">
+<voice lang="es">Estos dos parecen similares.</voice><break time="3s">
+
+<voice lang="en">The results are different.</voice><break time="4s">
+<voice lang="es">Los resultados son diferentes.</voice><break time="3s">
+
+<voice lang="en">We need equal opportunities.</voice><break time="4s">
+<voice lang="es">Necesitamos igualdad de oportunidades.</voice><break time="3s">
+
+<voice lang="en">Their pay is unequal.</voice><break time="4s">
+<voice lang="es">Su remuneración es desigual.</voice><break time="3s">
+
+<voice lang="en">The two ideas are similar.</voice><break time="4s">
+<voice lang="es">Las dos ideas son similares.</voice><break time="3s">
+
+<voice lang="en">The sides are equal.</voice><break time="4s">
+<voice lang="es">Los lados son iguales.</voice><break time="3s">
+
+<voice lang="en">The terms are unequal.</voice><break time="4s">
+<voice lang="es">Los términos son desiguales.</voice><break time="3s">
+
+<voice lang="en">Flexibility</voice><break time="4s">
+<voice lang="es">Flexibilidad</voice><break time="3s">
+
+<voice lang="en">She's open-minded about new ideas.</voice><break time="4s">
+<voice lang="es">Ella tiene la mente abierta a nuevas ideas.</voice><break time="3s">
+
+<voice lang="en">He is too closed-minded.</voice><break time="4s">
+<voice lang="es">Él es demasiado cerrado de mente.</voice><break time="3s">
+
+<voice lang="en">The plan is flexible.</voice><break time="4s">
+<voice lang="es">El plan es flexible.</voice><break time="3s">
+
+<voice lang="en">The rules are rigid.</voice><break time="4s">
+<voice lang="es">Las reglas son rígidas.</voice><break time="3s">
+
+<voice lang="en">Interest and Entertainment</voice><break time="4s">
+<voice lang="es">Interés y Entretenimiento</voice><break time="3s">
+
+<voice lang="en">She's a creative person.</voice><break time="4s">
+<voice lang="es">Ella es una persona creativa.</voice><break time="3s">
+
+<voice lang="en">The lecture was boring.</voice><break time="4s">
+<voice lang="es">La conferencia fue aburrida.</voice><break time="3s">
+
+<voice lang="en">The book is interesting.</voice><break time="4s">
+<voice lang="es">El libro es interesante.</voice><break time="3s">
+
+<voice lang="en">He's a funny guy.</voice><break time="4s">
+<voice lang="es">Es un tipo divertido.</voice><break time="3s">
+
+<voice lang="en">Emotions - Positive</voice><break time="4s">
+<voice lang="es">Emociones - Positivas</voice><break time="3s">
+
+<voice lang="en">She has a serious tone.</voice><break time="4s">
+<voice lang="es">Ella tiene un tono serio.</voice><break time="3s">
+
+<voice lang="en">He looks happy today.</voice><break time="4s">
+<voice lang="es">Se le ve feliz hoy.</voice><break time="3s">
+
+<voice lang="en">He remained calm through the chaos.</voice><break time="4s">
+<voice lang="es">Se mantuvo tranquilo durante el caos.</voice><break time="3s">
+
+<voice lang="en">The music makes me relaxed.</voice><break time="4s">
+<voice lang="es">La música me relaja.</voice><break time="3s">
+
+<voice lang="en">She sounds confident.</voice><break time="4s">
+<voice lang="es">Ella suena segura.</voice><break time="3s">
+
+<voice lang="en">The parents are proud.</voice><break time="4s">
+<voice lang="es">Los padres están orgullosos.</voice><break time="3s">
+
+<voice lang="en">Emotions - Negative</voice><break time="4s">
+<voice lang="es">Emociones - Negativas</voice><break time="3s">
+
+<voice lang="en">The news made her sad.</voice><break time="4s">
+<voice lang="es">La noticia la puso triste.</voice><break time="3s">
+
+<voice lang="en">She's angry about the delay.</voice><break time="4s">
+<voice lang="es">Ella está enojada por el retraso.</voice><break time="3s">
+
+<voice lang="en">He felt stressed last night.</voice><break time="4s">
+<voice lang="es">Se sintió estresado anoche.</voice><break time="3s">
+
+<voice lang="en">He seems shy.</voice><break time="4s">
+<voice lang="es">Él parece tímido.</voice><break time="3s">
+
+<voice lang="en">She felt ashamed of her mistake.</voice><break time="4s">
+<voice lang="es">Se sintió avergonzada de su error.</voice><break time="3s">
+
+<voice lang="en">She felt scared of the dark.</voice><break time="4s">
+<voice lang="es">Ella sentía miedo de la oscuridad.</voice><break time="3s">
+
+<voice lang="en">Character - Kindness</voice><break time="4s">
+<voice lang="es">Carácter - Amabilidad</voice><break time="3s">
+
+<voice lang="en">He is known as a kind man.</voice><break time="4s">
+<voice lang="es">Es conocido como un hombre amable.</voice><break time="3s">
+
+<voice lang="en">The remark was mean.</voice><break time="4s">
+<voice lang="es">El comentario fue mezquino.</voice><break time="3s">
+
+<voice lang="en">She's very friendly.</voice><break time="4s">
+<voice lang="es">Ella es muy amigable.</voice><break time="3s">
+
+<voice lang="en">The staff was unfriendly.</voice><break time="4s">
+<voice lang="es">El personal era antipático.</voice><break time="3s">
+
+<voice lang="en">Character - Manners</voice><break time="4s">
+<voice lang="es">Carácter - Modales</voice><break time="3s">
+
+<voice lang="en">He was polite during the meeting.</voice><break time="4s">
+<voice lang="es">Fue educado durante la reunión.</voice><break time="3s">
+
+<voice lang="en">The comment was rude.</voice><break time="4s">
+<voice lang="es">El comentario fue grosero.</voice><break time="3s">
+
+<voice lang="en">Character - Honesty</voice><break time="4s">
+<voice lang="es">Carácter - Honestidad</voice><break time="3s">
+
+<voice lang="en">She's honest with her feelings.</voice><break time="4s">
+<voice lang="es">Ella es honesta con sus sentimientos.</voice><break time="3s">
+
+<voice lang="en">That answer was dishonest.</voice><break time="4s">
+<voice lang="es">Esa respuesta fue deshonesta.</voice><break time="3s">
+
+<voice lang="en">Character - Courage</voice><break time="4s">
+<voice lang="es">Carácter - Valentía</voice><break time="3s">
+
+<voice lang="en">He was brave in that moment.</voice><break time="4s">
+<voice lang="es">Fue valiente en ese momento.</voice><break time="3s">
+
+<voice lang="en">Character - Temperament</voice><break time="4s">
+<voice lang="es">Carácter - Temperamento</voice><break time="3s">
+
+<voice lang="en">The fight became violent.</voice><break time="4s">
+<voice lang="es">La pelea se volvió violenta.</voice><break time="3s">
+
+<voice lang="en">He can be hot-tempered.</voice><break time="4s">
+<voice lang="es">Él puede tener mal carácter.</voice><break time="3s">
+
+<voice lang="en">She seems cold-hearted.</voice><break time="4s">
+<voice lang="es">Ella parece tener un corazón frío.</voice><break time="3s">
+
+<voice lang="en">Intelligence and Wisdom</voice><break time="4s">
+<voice lang="es">Inteligencia y Sabiduría</voice><break time="3s">
+
+<voice lang="en">He is smart for his age.</voice><break time="4s">
+<voice lang="es">Es inteligente para su edad.</voice><break time="3s">
+
+<voice lang="en">The idea was stupid.</voice><break time="4s">
+<voice lang="es">La idea era estúpida.</voice><break time="3s">
+
+<voice lang="en">She's considered wise.</voice><break time="4s">
+<voice lang="es">Ella es considerada sabia.</voice><break time="3s">
+
+<voice lang="en">The decision was foolish.</voice><break time="4s">
+<voice lang="es">La decisión fue una tontería.</voice><break time="3s">
+
+<voice lang="en">Skills and Experience</voice><break time="4s">
+<voice lang="es">Habilidades y Experiencia</voice><break time="3s">
+
+<voice lang="en">He is talented at music.</voice><break time="4s">
+<voice lang="es">Él tiene talento para la música.</voice><break time="3s">
+
+<voice lang="en">She's skilled in design.</voice><break time="4s">
+<voice lang="es">Ella es experta en diseño.</voice><break time="3s">
+
+<voice lang="en">He is unskilled but motivated.</voice><break time="4s">
+<voice lang="es">No tiene habilidades, pero está motivado.</voice><break time="3s">
+
+<voice lang="en">They are experienced workers.</voice><break time="4s">
+<voice lang="es">Son trabajadores experimentados.</voice><break time="3s">
+
+<voice lang="en">She is inexperienced but eager to learn.</voice><break time="4s">
+<voice lang="es">Ella no tiene experiencia pero tiene muchas ganas de aprender.</voice><break time="3s">
+
+<voice lang="en">Power and Success</voice><break time="4s">
+<voice lang="es">Poder y Éxito</voice><break time="3s">
+
+<voice lang="en">The engine is powerful.</voice><break time="4s">
+<voice lang="es">El motor es potente.</voice><break time="3s">
+
+<voice lang="en">I feel powerless sometimes.</voice><break time="4s">
+<voice lang="es">A veces me siento impotente.</voice><break time="3s">
+
+<voice lang="en">The plan was successful.</voice><break time="4s">
+<voice lang="es">El plan tuvo éxito.</voice><break time="3s">
+
+<voice lang="en">The project was unsuccessful.</voice><break time="4s">
+<voice lang="es">El proyecto no tuvo éxito.</voice><break time="3s">
+
+<voice lang="en">Luck</voice><break time="4s">
+<voice lang="es">Suerte</voice><break time="3s">
+
+<voice lang="en">She's lucky today.</voice><break time="4s">
+<voice lang="es">Ella tiene suerte hoy.</voice><break time="3s">
+
+<voice lang="en">He's usually unlucky.</voice><break time="4s">
+<voice lang="es">Generalmente tiene mala suerte.</voice><break time="3s">
+
+<voice lang="en">Possibility and Necessity</voice><break time="4s">
+<voice lang="es">Posibilidad y Necesidad</voice><break time="3s">
+
+<voice lang="en">It's possible to finish early.</voice><break time="4s">
+<voice lang="es">Es posible terminar antes.</voice><break time="3s">
+
+<voice lang="en">That's impossible without help.</voice><break time="4s">
+<voice lang="es">Esto es imposible sin ayuda.</voice><break time="3s">
+
+<voice lang="en">Food is necessary.</voice><break time="4s">
+<voice lang="es">La comida es necesaria.</voice><break time="3s">
+
+<voice lang="en">This item is unnecessary.</voice><break time="4s">
+<voice lang="es">Este artículo no es necesario.</voice><break time="3s">
+
+<voice lang="en">Availability</voice><break time="4s">
+<voice lang="es">Disponibilidad</voice><break time="3s">
+
+<voice lang="en">The doctor is available.</voice><break time="4s">
+<voice lang="es">El médico está disponible.</voice><break time="3s">
+
+<voice lang="en">The manager is unavailable.</voice><break time="4s">
+<voice lang="es">El gerente no está disponible.</voice><break time="3s">
+
+<voice lang="en">Familiarity</voice><break time="4s">
+<voice lang="es">Familiaridad</voice><break time="3s">
+
+<voice lang="en">The city feels familiar.</voice><break time="4s">
+<voice lang="es">La ciudad se siente familiar.</voice><break time="3s">
+
+<voice lang="en">This place is unfamiliar to me.</voice><break time="4s">
+<voice lang="es">Este lugar no me resulta familiar.</voice><break time="3s">
+
+<voice lang="en">Comfort</voice><break time="4s">
+<voice lang="es">Comodidad</voice><break time="3s">
+
+<voice lang="en">The chair is comfortable.</voice><break time="4s">
+<voice lang="es">La silla es cómoda.</voice><break time="3s">
+
+<voice lang="en">The shoes are uncomfortable.</voice><break time="4s">
+<voice lang="es">Los zapatos son incómodos.</voice><break time="3s">
+
+<voice lang="en">Usefulness</voice><break time="4s">
+<voice lang="es">Utilidad</voice><break time="3s">
+
+<voice lang="en">The tool is useful.</voice><break time="4s">
+<voice lang="es">La herramienta es útil.</voice><break time="3s">
+
+<voice lang="en">That trick is useless.</voice><break time="4s">
+<voice lang="es">Ese truco es inútil.</voice><break time="3s">
+
+<voice lang="en">Your advice was helpful.</voice><break time="4s">
+<voice lang="es">Su consejo fue útil.</voice><break time="3s">
+
+<voice lang="en">The comment was harmful.</voice><break time="4s">
+<voice lang="es">El comentario fue perjudicial.</voice><break time="3s">
+
+<voice lang="en">This task feels pointless.</voice><break time="4s">
+<voice lang="es">Esta tarea parece inútil.</voice><break time="3s">
+
+<voice lang="en">Natural vs Artificial</voice><break time="4s">
+<voice lang="es">Natural vs Artificial</voice><break time="3s">
+
+<voice lang="en">It looks natural.</voice><break time="4s">
+<voice lang="es">Parece natural.</voice><break time="3s">
+
+<voice lang="en">The taste feels artificial.</voice><break time="4s">
+<voice lang="es">El sabor se siente artificial.</voice><break time="3s">
+
+<voice lang="en">Normality</voice><break time="4s">
+<voice lang="es">Normalidad</voice><break time="3s">
+
+<voice lang="en">The behavior is normal.</voice><break time="4s">
+<voice lang="es">El comportamiento es normal.</voice><break time="3s">
+
+<voice lang="en">His reaction was strange.</voice><break time="4s">
+<voice lang="es">Su reacción fue extraña.</voice><break time="3s">
+
+<voice lang="en">The noise is weird.</voice><break time="4s">
+<voice lang="es">El ruido es extraño.</voice><break time="3s">
+
+<voice lang="en">Frequency</voice><break time="4s">
+<voice lang="es">Frecuencia</voice><break time="3s">
+
+<voice lang="en">It's a common mistake.</voice><break time="4s">
+<voice lang="es">Es un error común.</voice><break time="3s">
+
+<voice lang="en">That bird is rare here.</voice><break time="4s">
+<voice lang="es">Ese pájaro es raro aquí.</voice><break time="3s">
+
+<voice lang="en">We have frequent meetings.</voice><break time="4s">
+<voice lang="es">Tenemos reuniones frecuentes.</voice><break time="3s">
+
+<voice lang="en">I make occasional mistakes.</voice><break time="4s">
+<voice lang="es">Cometo errores ocasionales.</voice><break time="3s">
+
+<voice lang="en">He takes daily notes.</voice><break time="4s">
+<voice lang="es">Él toma notas diariamente.</voice><break time="3s">
+
+<voice lang="en">We have weekly calls.</voice><break time="4s">
+<voice lang="es">Tenemos llamadas semanales.</voice><break time="3s">
+
+<voice lang="en">They do monthly reports.</voice><break time="4s">
+<voice lang="es">Hacen informes mensuales.</voice><break time="3s">
+
+<voice lang="en">We celebrate yearly traditions.</voice><break time="4s">
+<voice lang="es">Celebramos tradiciones anuales.</voice><break time="3s">
+
+<voice lang="en">Duration</voice><break time="4s">
+<voice lang="es">Duración</voice><break time="3s">
+
+<voice lang="en">This job is temporary.</voice><break time="4s">
+<voice lang="es">Este trabajo es temporal.</voice><break time="3s">
+
+<voice lang="en">The damage was permanent.</voice><break time="4s">
+<voice lang="es">El daño fue permanente.</voice><break time="3s">
+
+<voice lang="en">Time Period</voice><break time="4s">
+<voice lang="es">Período de Tiempo</voice><break time="3s">
+
+<voice lang="en">The current situation is stable.</voice><break time="4s">
+<voice lang="es">La situación actual es estable.</voice><break time="3s">
+
+<voice lang="en">The former leader retired.</voice><break time="4s">
+<voice lang="es">El ex líder se retiró.</voice><break time="3s">
+
+<voice lang="en">The future results depend on you.</voice><break time="4s">
+<voice lang="es">Los resultados futuros dependen de ti.</voice><break time="3s">
+
+<voice lang="en">The past was difficult.</voice><break time="4s">
+<voice lang="es">El pasado fue difícil.</voice><break time="3s">
+
+<voice lang="en">We'll discuss it next week.</voice><break time="4s">
+<voice lang="es">Lo discutiremos la próxima semana.</voice><break time="3s">
+
+<voice lang="en">The previous version was better.</voice><break time="4s">
+<voice lang="es">La versión anterior era mejor.</voice><break time="3s">
+
+<voice lang="en">Order and Position</voice><break time="4s">
+<voice lang="es">Orden y Posición</voice><break time="3s">
+
+<voice lang="en">She got the first place.</voice><break time="4s">
+<voice lang="es">Ella obtuvo el primer lugar.</voice><break time="3s">
+
+<voice lang="en">He finished last.</voice><break time="4s">
+<voice lang="es">Terminó último.</voice><break time="3s">
+
+<voice lang="en">This is the final answer.</voice><break time="4s">
+<voice lang="es">Esta es la respuesta final.</voice><break time="3s">
+
+<voice lang="en">Let's start with the initial step.</voice><break time="4s">
+<voice lang="es">Empecemos con el paso inicial.</voice><break time="3s">
+
+<voice lang="en">Amount and Degree</voice><break time="4s">
+<voice lang="es">Cantidad y Grado</voice><break time="3s">
+
+<voice lang="en">This is the maximum amount.</voice><break time="4s">
+<voice lang="es">Esta es la cantidad máxima.</voice><break time="3s">
+
+<voice lang="en">That was the minimum effort.</voice><break time="4s">
+<voice lang="es">Ese fue el mínimo esfuerzo.</voice><break time="3s">
+
+<voice lang="en">The average temperature is rising.</voice><break time="4s">
+<voice lang="es">La temperatura media está aumentando.</voice><break time="3s">
+
+<voice lang="en">He paid the total cost.</voice><break time="4s">
+<voice lang="es">Él pagó el costo total.</voice><break time="3s">
+
+<voice lang="en">We found partial success.</voice><break time="4s">
+<voice lang="es">Tuvimos un éxito parcial.</voice><break time="3s">
+
+<voice lang="en">The whole team agreed.</voice><break time="4s">
+<voice lang="es">Todo el equipo estuvo de acuerdo.</voice><break time="3s">
+
+<voice lang="en">Condition</voice><break time="4s">
+<voice lang="es">Condición</voice><break time="3s">
+
+<voice lang="en">The device is broken.</voice><break time="4s">
+<voice lang="es">El dispositivo está roto.</voice><break time="3s">
+
+<voice lang="en">The laptop is fixed now.</voice><break time="4s">
+<voice lang="es">La computadora portátil ya está arreglada.</voice><break time="3s">
+
+<voice lang="en">Fairness</voice><break time="4s">
+<voice lang="es">Justicia</voice><break time="3s">
+
+<voice lang="en">The rule is fair.</voice><break time="4s">
+<voice lang="es">La regla es justa.</voice><break time="3s">
+
+<voice lang="en">The decision was unfair.</voice><break time="4s">
+<voice lang="es">La decisión fue injusta.</voice><break time="3s">
+
+<voice lang="en">Tightness</voice><break time="4s">
+<voice lang="es">Tensión</voice><break time="3s">
+
+<voice lang="en">The rope is tight.</voice><break time="4s">
+<voice lang="es">La cuerda está tensa.</voice><break time="3s">
+
+<voice lang="en">His shirt is loose.</voice><break time="4s">
+<voice lang="es">Su camisa está suelta.</voice><break time="3s">
+
+<voice lang="en">The rope is loose.</voice><break time="4s">
+<voice lang="es">La cuerda está suelta.</voice><break time="3s">
+
+<voice lang="en">Sharpness</voice><break time="4s">
+<voice lang="es">Filo</voice><break time="3s">
+
+<voice lang="en">The knife is sharp.</voice><break time="4s">
+<voice lang="es">El cuchillo está afilado.</voice><break time="3s">
+
+<voice lang="en">The pencil is dull.</voice><break time="4s">
+<voice lang="es">El lápiz está desafilado.</voice><break time="3s">
+
+<voice lang="en">Texture</voice><break time="4s">
+<voice lang="es">Textura</voice><break time="3s">
+
+<voice lang="en">The table is smooth.</voice><break time="4s">
+<voice lang="es">La mesa es lisa.</voice><break time="3s">
+
+<voice lang="en">The rock is rough.</voice><break time="4s">
+<voice lang="es">La roca es áspera.</voice><break time="3s">
+
+<voice lang="en">The blanket is soft.</voice><break time="4s">
+<voice lang="es">La manta es suave.</voice><break time="3s">
+
+<voice lang="en">The floor is hard.</voice><break time="4s">
+<voice lang="es">El suelo es duro.</voice><break time="3s">
+
+<voice lang="en">The glue is sticky.</voice><break time="4s">
+<voice lang="es">El pegamento es pegajoso.</voice><break time="3s">
+
+<voice lang="en">The floor is slippery.</voice><break time="4s">
+<voice lang="es">El suelo está resbaladizo.</voice><break time="3s">
+
+<voice lang="en">Taste</voice><break time="4s">
+<voice lang="es">Sabor</voice><break time="3s">
+
+<voice lang="en">The cake is sweet.</voice><break time="4s">
+<voice lang="es">El pastel es dulce.</voice><break time="3s">
+
+<voice lang="en">The lemon is sour.</voice><break time="4s">
+<voice lang="es">El limón está agrio.</voice><break time="3s">
+
+<voice lang="en">The medicine is bitter.</voice><break time="4s">
+<voice lang="es">La medicina es amarga.</voice><break time="3s">
+
+<voice lang="en">The soup is salty.</voice><break time="4s">
+<voice lang="es">La sopa es salada.</voice><break time="3s">
+
+<voice lang="en">The curry is spicy.</voice><break time="4s">
+<voice lang="es">El curry es picante.</voice><break time="3s">
+
+<voice lang="en">The bread tastes bland.</voice><break time="4s">
+<voice lang="es">El pan tiene un sabor insípido.</voice><break time="3s">
+
+<voice lang="en">The meal was delicious.</voice><break time="4s">
+<voice lang="es">La comida estaba deliciosa.</voice><break time="3s">
+
+<voice lang="en">The smell was disgusting.</voice><break time="4s">
+<voice lang="es">El olor era repugnante.</voice><break time="3s">
+
+<voice lang="en">Appearance</voice><break time="4s">
+<voice lang="es">Apariencia</voice><break time="3s">
+
+<voice lang="en">The view is beautiful.</voice><break time="4s">
+<voice lang="es">La vista es hermosa.</voice><break time="3s">
+
+<voice lang="en">The monster looks ugly.</voice><break time="4s">
+<voice lang="es">El monstruo parece feo.</voice><break time="3s">
+
+<voice lang="en">She looks pretty in that dress.</voice><break time="4s">
+<voice lang="es">Ella se ve bonita en ese vestido.</voice><break time="3s">
+
+<voice lang="en">He looked handsome yesterday.</voice><break time="4s">
+<voice lang="es">Ayer se veía guapo.</voice><break time="3s">
+
+<voice lang="en">The puppy is cute.</voice><break time="4s">
+<voice lang="es">El cachorro es lindo.</voice><break time="3s">
+
+<voice lang="en">The design is attractive.</voice><break time="4s">
+<voice lang="es">El diseño es atractivo.</voice><break time="3s">
+
+<voice lang="en">The ad is unattractive.</voice><break time="4s">
+<voice lang="es">El anuncio no es atractivo.</voice><break time="3s">
+
+<voice lang="en">Independence</voice><break time="4s">
+<voice lang="es">Independencia</voice><break time="3s">
+
+<voice lang="en">She is independent.</voice><break time="4s">
+<voice lang="es">Ella es independiente.</voice><break time="3s">
+
+<voice lang="en">He is dependent on others.</voice><break time="4s">
+<voice lang="es">Él depende de los demás.</voice><break time="3s">
+
+<voice lang="en">Legality and Morality</voice><break time="4s">
+<voice lang="es">Legalidad y Moralidad</voice><break time="3s">
+
+<voice lang="en">The act is legal.</voice><break time="4s">
+<voice lang="es">El acto es legal.</voice><break time="3s">
+
+<voice lang="en">That move was illegal.</voice><break time="4s">
+<voice lang="es">Ese movimiento fue ilegal.</voice><break time="3s">
+
+<voice lang="en">His behavior was moral.</voice><break time="4s">
+<voice lang="es">Su comportamiento fue moral.</voice><break time="3s">
+
+<voice lang="en">The action was immoral.</voice><break time="4s">
+<voice lang="es">La acción fue inmoral.</voice><break time="3s">
+
+<voice lang="en">Formality</voice><break time="4s">
+<voice lang="es">Formalidad</voice><break time="3s">
+
+<voice lang="en">He looks serious.</voice><break time="4s">
+<voice lang="es">Él parece serio.</voice><break time="3s">
+
+<voice lang="en">The outfit is casual.</voice><break time="4s">
+<voice lang="es">El atuendo es casual.</voice><break time="3s">
+
+<voice lang="en">The event is formal.</voice><break time="4s">
+<voice lang="es">El evento es formal.</voice><break time="3s">
+
+<voice lang="en">Her tone is informal.</voice><break time="4s">
+<voice lang="es">Su tono es informal.</voice><break time="3s">
+
+<voice lang="en">Style and Elegance</voice><break time="4s">
+<voice lang="es">Estilo y Elegancia</voice><break time="3s">
+
+<voice lang="en">The restaurant is fancy.</voice><break time="4s">
+<voice lang="es">El restaurante es elegante.</voice><break time="3s">
+
+<voice lang="en">They stayed in a luxurious hotel.</voice><break time="4s">
+<voice lang="es">Se alojaron en un hotel de lujo.</voice><break time="3s">
+
+<voice lang="en">Stability</voice><break time="4s">
+<voice lang="es">Estabilidad</voice><break time="3s">
+
+<voice lang="en">The economy is stable.</voice><break time="4s">
+<voice lang="es">La economía es estable.</voice><break time="3s">
+
+<voice lang="en">Their plan is unstable.</voice><break time="4s">
+<voice lang="es">Su plan es inestable.</voice><break time="3s">
+
+<voice lang="en">The streets are chaotic.</voice><break time="4s">
+<voice lang="es">Las calles están caóticas.</voice><break time="3s">
+
+<voice lang="en">States of Matter</voice><break time="4s">
+<voice lang="es">Estados de la Materia</voice><break time="3s">
+
+<voice lang="en">The ground feels solid.</voice><break time="4s">
+<voice lang="es">El suelo se siente sólido.</voice><break time="3s">
+
+<voice lang="en">Water is liquid.</voice><break time="4s">
+<voice lang="es">El agua es líquida.</voice><break time="3s">
+
+<voice lang="en">Air is gas.</voice><break time="4s">
+<voice lang="es">El aire es gas.</voice><break time="3s">
+
+<voice lang="en">Grip and Hold</voice><break time="4s">
+<voice lang="es">Agarre y Sujeción</voice><break time="3s">
+
+<voice lang="en">Her grip is firm.</voice><break time="4s">
+<voice lang="es">Su agarre es firme.</voice><break time="3s">
+
+<voice lang="en">Shape and Form</voice><break time="4s">
+<voice lang="es">Forma</voice><break time="3s">
+
+<voice lang="en">The line is straight.</voice><break time="4s">
+<voice lang="es">La línea es recta.</voice><break time="3s">
+
+<voice lang="en">Her hair is curly.</voice><break time="4s">
+<voice lang="es">Su cabello es rizado.</voice><break time="3s">
+
+<voice lang="en">The terrain is flat.</voice><break time="4s">
+<voice lang="es">El terreno es plano.</voice><break time="3s">
+
+<voice lang="en">The table is round.</voice><break time="4s">
+<voice lang="es">La mesa es redonda.</voice><break time="3s">
+
+<voice lang="en">The mirror is square.</voice><break time="4s">
+<voice lang="es">El espejo es cuadrado.</voice><break time="3s">
+
+<voice lang="en">The sign is triangular.</voice><break time="4s">
+<voice lang="es">El signo es triangular.</voice><break time="3s">
+
+<voice lang="en">Location</voice><break time="4s">
+<voice lang="es">Ubicación</voice><break time="3s">
+
+<voice lang="en">The store is central.</voice><break time="4s">
+<voice lang="es">La tienda está céntrica.</voice><break time="3s">
+
+<voice lang="en">The cabin is remote.</voice><break time="4s">
+<voice lang="es">La cabaña está alejada.</voice><break time="3s">
+
+<voice lang="en">Connection</voice><break time="4s">
+<voice lang="es">Conexión</voice><break time="3s">
+
+<voice lang="en">The devices are connected.</voice><break time="4s">
+<voice lang="es">Los dispositivos están conectados.</voice><break time="3s">
+
+<voice lang="en">The rooms are separate.</voice><break time="4s">
+<voice lang="es">Las habitaciones están separadas.</voice><break time="3s">
+
+<voice lang="en">Flexibility and Change</voice><break time="4s">
+<voice lang="es">Flexibilidad y Cambio</voice><break time="3s">
+
+<voice lang="en">The question is open-ended.</voice><break time="4s">
+<voice lang="es">La pregunta está abierta.</voice><break time="3s">
+
+<voice lang="en">The schedule is fixed.</voice><break time="4s">
+<voice lang="es">El horario es fijo.</voice><break time="3s">
+
+<voice lang="en">Their method is dynamic.</voice><break time="4s">
+<voice lang="es">Su método es dinámico.</voice><break time="3s">
+
+<voice lang="en">His posture is static.</voice><break time="4s">
+<voice lang="es">Su postura es estática.</voice><break time="3s">
+
+<voice lang="en">Predictability</voice><break time="4s">
+<voice lang="es">Predictibilidad</voice><break time="3s">
+
+<voice lang="en">The outcome was random.</voice><break time="4s">
+<voice lang="es">El resultado fue aleatorio.</voice><break time="3s">
+
+<voice lang="en">The pattern is predictable.</voice><break time="4s">
+<voice lang="es">El patrón es predecible.</voice><break time="3s">
+
+<voice lang="en">Accuracy and Precision</voice><break time="4s">
+<voice lang="es">Exactitud y Precisión</voice><break time="3s">
+
+<voice lang="en">The data is accurate.</voice><break time="4s">
+<voice lang="es">Los datos son precisos.</voice><break time="3s">
+
+<voice lang="en">The figures are inaccurate.</voice><break time="4s">
+<voice lang="es">Las cifras son inexactas.</voice><break time="3s">
+
+<voice lang="en">Her aim is precise.</voice><break time="4s">
+<voice lang="es">Su puntería es precisa.</voice><break time="3s">
+
+<voice lang="en">His guess is imprecise.</voice><break time="4s">
+<voice lang="es">Su conjetura es imprecisa.</voice><break time="3s">
+
+<voice lang="en">Balance</voice><break time="4s">
+<voice lang="es">Equilibrio</voice><break time="3s">
+
+<voice lang="en">The system is balanced.</voice><break time="4s">
+<voice lang="es">El sistema está equilibrado.</voice><break time="3s">
+
+<voice lang="en">The load is unbalanced.</voice><break time="4s">
+<voice lang="es">La carga está desequilibrada.</voice><break time="3s">
+
+<voice lang="en">Visibility</voice><break time="4s">
+<voice lang="es">Visibilidad</voice><break time="3s">
+
+<voice lang="en">The moon is visible.</voice><break time="4s">
+<voice lang="es">La luna es visible.</voice><break time="3s">
+
+<voice lang="en">The stars are invisible tonight.</voice><break time="4s">
+<voice lang="es">Las estrellas son invisibles esta noche.</voice><break time="3s">
+
+El final
+<break time="4s">

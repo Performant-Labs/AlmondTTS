@@ -1,0 +1,32 @@
+<voice lang="en">Motorcycles and Hobbies</voice><break time="0.5s">
+<voice lang="es">Motocicletas y pasatiempos</voice><break time="2s">
+
+<voice lang="en">Do you ride motorcycles?</voice><break time="5s">
+<voice lang="es">¿Andas en motocicleta?</voice><break time="2s">
+
+<voice lang="en">I ride motorcycles.</voice><break time="5s">
+<voice lang="es">Ando en motocicleta.</voice><break time="2s">
+
+<voice lang="en">I like adventure riding.</voice><break time="5s">
+<voice lang="es">Me gusta el riding de aventura.</voice><break time="2s">
+
+<voice lang="en">I'm interested in motorcycle gear and equipment.</voice><break time="5s">
+<voice lang="es">Estoy interesado en equipo y accesorios de motocicleta.</voice><break time="2s">
+
+<voice lang="en">Which kind of car do you have?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de carro tienes?</voice><break time="2s">
+
+<voice lang="en">Do you like cars?</voice><break time="5s">
+<voice lang="es">¿Te gustan los carros?</voice><break time="2s">
+
+<voice lang="en">I like cars, but it is not something very important for me.</voice><break time="5s">
+<voice lang="es">Me gustan los carros, pero no es algo muy importante para mí.</voice><break time="2s">
+
+<voice lang="en">I prefer spending money on other things.</voice><break time="5s">
+<voice lang="es">Prefiero gastar dinero en otras cosas.</voice><break time="2s">
+
+<voice lang="en">I have friends who are always talking about cars, they like buying old cars and repairing them…</voice><break time="5s">
+<voice lang="es">Tengo amigos que siempre hablan de carros, les gusta comprar carros viejos y repararlos…</voice><break time="2s">
+
+El Fin
+<break time="4s">

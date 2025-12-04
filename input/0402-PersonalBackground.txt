@@ -1,0 +1,206 @@
+<voice lang="en">Personal Background</voice><break time="0.5s">
+<voice lang="es">Antecedentes personales</voice><break time="2s">
+
+<voice lang="en">Where are you from?</voice><break time="5s">
+<voice lang="es">¿De dónde eres?</voice><break time="2s">
+
+<voice lang="en">I'm from the United States.</voice><break time="5s">
+<voice lang="es">Soy de Estados Unidos.</voice><break time="2s">
+
+<voice lang="en">I'm from Idaho.</voice><break time="5s">
+<voice lang="es">Soy de Idaho.</voice><break time="2s">
+
+<voice lang="en">Where do you live</voice><break time="5s">
+<voice lang="es">¿Dónde vives?</voice><break time="2s">
+
+<voice lang="en">I live in Nampa, Idaho.</voice><break time="5s">
+<voice lang="es">Vivo en Nampa, Idaho.</voice><break time="2s">
+
+<voice lang="en">I don't know that city.</voice><break time="5s">
+<voice lang="es">No conozco esa ciudad.</voice><break time="2s">
+
+<voice lang="en">What is the city like?</voice><break time="5s">
+<voice lang="es">¿Cómo es la ciudad?</voice><break time="2s">
+
+<voice lang="en">It's a small but beautiful city.</voice><break time="5s">
+<voice lang="es">Es una ciudad pequeña pero hermosa.</voice><break time="2s">
+
+<voice lang="en">Do you like traveling?</voice><break time="5s">
+<voice lang="es">¿Te gusta viajar?</voice><break time="2s">
+
+<voice lang="en">I like travelling.</voice><break time="5s">
+<voice lang="es">Me gusta viajar.</voice><break time="2s">
+
+<voice lang="en">Do you travel a lot?</voice><break time="5s">
+<voice lang="es">¿Viajas mucho?</voice><break time="2s">
+
+<voice lang="en">I travel a lot.</voice><break time="5s">
+<voice lang="es">Viajo mucho.</voice><break time="2s">
+
+<voice lang="en">Are you here on holiday?</voice><break time="5s">
+<voice lang="es">¿Estás aquí de vacaciones?</voice><break time="2s">
+
+<voice lang="en">No, I'm here on a business trip. And you?</voice><break time="5s">
+<voice lang="es">No, estoy aquí en un viaje de negocios. ¿Y tú?</voice><break time="2s">
+
+<voice lang="en">I live here. I am from here.</voice><break time="5s">
+<voice lang="es">Vivo aquí. Soy de aquí.</voice><break time="2s">
+
+<voice lang="en">Tell me more about yourself.</voice><break time="5s">
+<voice lang="es">Cuéntame más sobre ti.</voice><break time="2s">
+
+<voice lang="en">So, what are you doing here?</voice><break time="5s">
+<voice lang="es">Entonces, ¿qué estás haciendo aquí?</voice><break time="2s">
+
+<voice lang="en">Really? That's interesting!</voice><break time="5s">
+<voice lang="es">¿En serio? ¡Eso es interesante!</voice><break time="2s">
+
+<voice lang="en">How long are you staying here?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo te quedas aquí?</voice><break time="2s">
+
+<voice lang="en">I'll stay here three more days.</voice><break time="5s">
+<voice lang="es">Me quedo aquí tres días más.</voice><break time="2s">
+
+<voice lang="en">I am leaving on Monday.</voice><break time="5s">
+<voice lang="es">Me voy el lunes.</voice><break time="2s">
+
+<voice lang="en">Where are you staying?</voice><break time="5s">
+<voice lang="es">¿Dónde te estás quedando?</voice><break time="2s">
+
+<voice lang="en">I am staying in a hotel, 5 minutes from here.</voice><break time="5s">
+<voice lang="es">Me estoy quedando en un hotel, a 5 minutos de aquí.</voice><break time="2s">
+
+<voice lang="en">My apartment is not far away from here.</voice><break time="5s">
+<voice lang="es">Mi apartamento no está lejos de aquí.</voice><break time="2s">
+
+<voice lang="en">Are you British?</voice><break time="5s">
+<voice lang="es">¿Eres británico?</voice><break time="2s">
+
+<voice lang="en">No, I'm not German. And you?</voice><break time="5s">
+<voice lang="es">No, no soy alemán. ¿Y tú?</voice><break time="2s">
+
+<voice lang="en">Yes, I am American.</voice><break time="5s">
+<voice lang="es">Sí, soy americano.</voice><break time="2s">
+
+<voice lang="en">Why are you learning French?</voice><break time="5s">
+<voice lang="es">¿Por qué estás aprendiendo francés?</voice><break time="2s">
+
+<voice lang="en">I am learning Spanish because I want to communicate better with Spanish speakers.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo español porque quiero comunicarme mejor con hablantes de español.</voice><break time="2s">
+
+<voice lang="en">I am learning Spanish, specifically Mexican Spanish.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo español, específicamente el español mexicano.</voice><break time="2s">
+
+<voice lang="en">I am waiting for a friend.</voice><break time="5s">
+<voice lang="es">Estoy esperando a un amigo.</voice><break time="2s">
+
+<voice lang="en">What do you do for a living?</voice><break time="5s">
+<voice lang="es">¿A qué te dedicas?</voice><break time="2s">
+
+<voice lang="en">I have my own business.</voice><break time="5s">
+<voice lang="es">Tengo mi propio negocio.</voice><break time="2s">
+
+<voice lang="en">I run a software testing company.</voice><break time="5s">
+<voice lang="es">Dirijo una empresa de pruebas de software.</voice><break time="2s">
+
+<voice lang="en">I work with Drupal websites.</voice><break time="5s">
+<voice lang="es">Trabajo con sitios web de Drupal.</voice><break time="2s">
+
+<voice lang="en">My company is called Performant Labs.</voice><break time="5s">
+<voice lang="es">Mi empresa se llama Performant Labs.</voice><break time="2s">
+
+<voice lang="en">I help companies test their websites.</voice><break time="5s">
+<voice lang="es">Ayudo a las empresas a probar sus sitios web.</voice><break time="2s">
+
+<voice lang="en">I provide automated testing services.</voice><break time="5s">
+<voice lang="es">Proporciono servicios de pruebas automatizadas.</voice><break time="2s">
+
+<voice lang="en">Do you work a lot?</voice><break time="5s">
+<voice lang="es">¿Trabajas mucho?</voice><break time="2s">
+
+<voice lang="en">I work a lot.</voice><break time="5s">
+<voice lang="es">Trabajo mucho.</voice><break time="2s">
+
+<voice lang="en">I like my work.</voice><break time="5s">
+<voice lang="es">Me gusta mi trabajo.</voice><break time="2s">
+
+<voice lang="en">I don't mind working a lot.</voice><break time="5s">
+<voice lang="es">No me importa trabajar mucho.</voice><break time="2s">
+
+<voice lang="en">How long have you been doing this job?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo llevas haciendo este trabajo?</voice><break time="2s">
+
+<voice lang="en">What did you do before?</voice><break time="5s">
+<voice lang="es">¿Qué hacías antes?</voice><break time="2s">
+
+<voice lang="en">What other jobs have you had?</voice><break time="5s">
+<voice lang="es">¿Qué otros trabajos has tenido?</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Mexico?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en México?</voice><break time="2s">
+
+<voice lang="en">I want to visit Mexico.</voice><break time="5s">
+<voice lang="es">Quiero visitar México.</voice><break time="2s">
+
+<voice lang="en">Did you go to university?</voice><break time="5s">
+<voice lang="es">¿Fuiste a la universidad?</voice><break time="2s">
+
+<voice lang="en">What did you study?</voice><break time="5s">
+<voice lang="es">¿Qué estudiaste?</voice><break time="2s">
+
+<voice lang="en">What's your name?</voice><break time="5s">
+<voice lang="es">¿Cómo te llamas?</voice><break time="2s">
+
+<voice lang="en">My name is André.</voice><break time="5s">
+<voice lang="es">Me llamo André.</voice><break time="2s">
+
+<voice lang="en">Do you live in a house or an apartment?</voice><break time="5s">
+<voice lang="es">¿Vives en una casa o en un apartamento?</voice><break time="2s">
+
+<voice lang="en">I live in a house.</voice><break time="5s">
+<voice lang="es">Vivo en una casa.</voice><break time="2s">
+
+<voice lang="en">What languages do you speak?</voice><break time="5s">
+<voice lang="es">¿Qué idiomas hablas?</voice><break time="2s">
+
+<voice lang="en">I speak English and I'm learning Spanish.</voice><break time="5s">
+<voice lang="es">Hablo inglés y estoy aprendiendo español.</voice><break time="2s">
+
+<voice lang="en">How many languages do you speak?</voice><break time="5s">
+<voice lang="es">¿Cuántos idiomas hablas?</voice><break time="2s">
+
+<voice lang="en">I speak a few languages.</voice><break time="5s">
+<voice lang="es">Hablo algunos idiomas.</voice><break time="2s">
+
+<voice lang="en">What's your native language?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu idioma nativo?</voice><break time="2s">
+
+<voice lang="en">My native language is English.</voice><break time="5s">
+<voice lang="es">Mi idioma nativo es el inglés.</voice><break time="2s">
+
+<voice lang="en">Do you speak English?</voice><break time="5s">
+<voice lang="es">¿Hablas inglés?</voice><break time="2s">
+
+<voice lang="en">English is my native language.</voice><break time="5s">
+<voice lang="es">El inglés es mi idioma nativo.</voice><break time="2s">
+
+<voice lang="en">What language do you want to learn next?</voice><break time="5s">
+<voice lang="es">¿Qué idioma quieres aprender después?</voice><break time="2s">
+
+<voice lang="en">I am learning Spanish now, focusing on Mexican Spanish.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo español ahora, enfocándome en el español mexicano.</voice><break time="2s">
+
+<voice lang="en">Why do you like languages?</voice><break time="5s">
+<voice lang="es">¿Por qué te gustan los idiomas?</voice><break time="2s">
+
+<voice lang="en">I like speaking to people in their language.</voice><break time="5s">
+<voice lang="es">Me gusta hablar con la gente en su idioma.</voice><break time="2s">
+
+<voice lang="en">I also like listening to podcasts and reading books in different languages.</voice><break time="5s">
+<voice lang="es">También me gusta escuchar podcasts y leer libros en diferentes idiomas.</voice><break time="2s">
+
+<voice lang="en">It's a good way to learn about those countries.</voice><break time="5s">
+<voice lang="es">Es una buena forma de aprender sobre esos países.</voice><break time="2s">
+
+El Fin
+<break time="4s">

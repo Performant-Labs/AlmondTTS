@@ -421,6 +421,6 @@
 <voice lang="en">I need a brush<break time="5s"></voice>
 <voice lang="es">Necesito un cepillo<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>
 

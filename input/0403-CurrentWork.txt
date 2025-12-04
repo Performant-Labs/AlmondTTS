@@ -1,0 +1,126 @@
+<voice lang="en">Current Work and Business</voice><break time="0.5s">
+<voice lang="es">Trabajo y negocios actuales</voice><break time="2s">
+
+<voice lang="en">What do you do?</voice><break time="5s">
+<voice lang="es">¿Qué haces?</voice><break time="2s">
+
+<voice lang="en">I am the founder of Performant Labs.</voice><break time="5s">
+<voice lang="es">Soy el fundador de Performant Labs.</voice><break time="2s">
+
+<voice lang="en">I provide automated testing services for Drupal websites.</voice><break time="5s">
+<voice lang="es">Proporciono servicios de pruebas automatizadas para sitios web de Drupal.</voice><break time="2s">
+
+<voice lang="en">What's your job?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu trabajo?</voice><break time="2s">
+
+<voice lang="en">I help companies test their websites.</voice><break time="5s">
+<voice lang="es">Ayudo a las empresas a probar sus sitios web.</voice><break time="2s">
+
+<voice lang="en">I work with automated testing tools.</voice><break time="5s">
+<voice lang="es">Trabajo con herramientas de pruebas automatizadas.</voice><break time="2s">
+
+<voice lang="en">Do you work online?</voice><break time="5s">
+<voice lang="es">¿Trabajas en línea?</voice><break time="2s">
+
+<voice lang="en">I work online.</voice><break time="5s">
+<voice lang="es">Trabajo en línea.</voice><break time="2s">
+
+<voice lang="en">I have an online business.</voice><break time="5s">
+<voice lang="es">Tengo un negocio en línea.</voice><break time="2s">
+
+<voice lang="en">I work remotely most of the time.</voice><break time="5s">
+<voice lang="es">Trabajo de forma remota la mayor parte del tiempo.</voice><break time="2s">
+
+<voice lang="en">Do you like your job?</voice><break time="5s">
+<voice lang="es">¿Te gusta tu trabajo?</voice><break time="2s">
+
+<voice lang="en">I like my work.</voice><break time="5s">
+<voice lang="es">Me gusta mi trabajo.</voice><break time="2s">
+
+<voice lang="en">It's better than going to an office.</voice><break time="5s">
+<voice lang="es">Es mejor que ir a una oficina.</voice><break time="2s">
+
+<voice lang="en">Why did you start your testing company?</voice><break time="5s">
+<voice lang="es">¿Por qué empezaste tu empresa de pruebas?</voice><break time="2s">
+
+<voice lang="en">I saw a need in the Drupal community for better automated testing.</voice><break time="5s">
+<voice lang="es">Vi una necesidad en la comunidad de Drupal por mejores pruebas automatizadas.</voice><break time="2s">
+
+<voice lang="en">What tools do you use for testing?</voice><break time="5s">
+<voice lang="es">¿Qué herramientas usas para las pruebas?</voice><break time="2s">
+
+<voice lang="en">I use Cypress and Playwright for automated testing.</voice><break time="5s">
+<voice lang="es">Uso Cypress y Playwright para pruebas automatizadas.</voice><break time="2s">
+
+<voice lang="en">I work with tools like Diffy for visual regression testing.</voice><break time="5s">
+<voice lang="es">Trabajo con herramientas como Diffy para pruebas de regresión visual.</voice><break time="2s">
+
+<voice lang="en">I also work with Tugboat for preview infrastructure.</voice><break time="5s">
+<voice lang="es">También trabajo con Tugboat para infraestructura de vista previa.</voice><break time="2s">
+
+<voice lang="en">What's your favorite part of your work?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu parte favorita de tu trabajo?</voice><break time="2s">
+
+<voice lang="en">I like solving complex testing problems.</voice><break time="5s">
+<voice lang="es">Me gusta resolver problemas complejos de pruebas.</voice><break time="2s">
+
+<voice lang="en">I like helping Drupal sites maintain quality.</voice><break time="5s">
+<voice lang="es">Me gusta ayudar a los sitios de Drupal a mantener la calidad.</voice><break time="2s">
+
+<voice lang="en">I create my own testing frameworks and tools.</voice><break time="5s">
+<voice lang="es">Creo mis propios marcos y herramientas de pruebas.</voice><break time="2s">
+
+<voice lang="en">Do you use Zoom or Skype?</voice><break time="5s">
+<voice lang="es">¿Usas Zoom o Skype?</voice><break time="2s">
+
+<voice lang="en">I use Zoom, Google Meets and other tools like that.</voice><break time="5s">
+<voice lang="es">Uso Zoom, Google Meets y otras herramientas como esas.</voice><break time="2s">
+
+<voice lang="en">What do you do for a living?</voice><break time="5s">
+<voice lang="es">¿A qué te dedicas?</voice><break time="2s">
+
+<voice lang="en">I run Performant Labs, a testing company for Drupal websites.</voice><break time="5s">
+<voice lang="es">Dirijo Performant Labs, una empresa de pruebas para sitios web de Drupal.</voice><break time="2s">
+
+<voice lang="en">Who do you work with?</voice><break time="5s">
+<voice lang="es">¿Con quién trabajas?</voice><break time="2s">
+
+<voice lang="en">I work with companies that use Drupal.</voice><break time="5s">
+<voice lang="es">Trabajo con empresas que usan Drupal.</voice><break time="2s">
+
+<voice lang="en">I work with partners like Diffy and Tugboat.</voice><break time="5s">
+<voice lang="es">Trabajo con socios como Diffy y Tugboat.</voice><break time="2s">
+
+<voice lang="en">I'm involved in the Drupal community.</voice><break time="5s">
+<voice lang="es">Estoy involucrado en la comunidad de Drupal.</voice><break time="2s">
+
+<voice lang="en">Do you have your own business?</voice><break time="5s">
+<voice lang="es">¿Tienes tu propio negocio?</voice><break time="2s">
+
+<voice lang="en">Yes, I have my own testing business.</voice><break time="5s">
+<voice lang="es">Sí, tengo mi propio negocio de pruebas.</voice><break time="2s">
+
+<voice lang="en">I run Performant Labs independently.</voice><break time="5s">
+<voice lang="es">Dirijo Performant Labs de forma independiente.</voice><break time="2s">
+
+<voice lang="en">How long have you been doing this?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo llevas haciendo esto?</voice><break time="2s">
+
+<voice lang="en">I have been doing this for several years.</voice><break time="5s">
+<voice lang="es">Llevo haciendo esto varios años.</voice><break time="2s">
+
+<voice lang="en">What time do you finish work?</voice><break time="5s">
+<voice lang="es">¿A qué hora terminas de trabajar?</voice><break time="2s">
+
+<voice lang="en">I have my own business, so I work all the time, without a fixed schedule.</voice><break time="5s">
+<voice lang="es">Tengo mi propio negocio, así que trabajo todo el tiempo, sin un horario fijo.</voice><break time="2s">
+
+<voice lang="en">I will finish work around seven in the evening today.</voice><break time="5s">
+<voice lang="es">Terminaré de trabajar alrededor de las siete de la noche hoy.</voice><break time="2s">
+
+<voice lang="en">I work flexible hours since I have my own business.</voice><break time="5s">
+<voice lang="es">Trabajo horarios flexibles desde que tengo mi propio negocio.</voice><break time="2s">
+
+
+El Fin
+<break time="4s">

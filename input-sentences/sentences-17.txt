@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Eighteen</voice><break time="2s"/>
+<voice lang="es">Fraces — Número dieciocho</voice><break time="2s"/>
+
+<voice lang="en">The boss values your effort because he will try to make you a happy and motivated worker.</voice><break time="5s">
+<voice lang="es">El jefe valora tu empeño porque intentará hacerte una trabajadora feliz y motivada.</voice><break time="2s">
+
+<voice lang="en">The boy was making blogs when young scholarship holders arrived at the facilities.</voice><break time="5s">
+<voice lang="es">El niño hacía blogs cuando los jóvenes becarios llegaron a las instalaciones.</voice><break time="2s">
+
+<voice lang="en">Police were doing transportation checks and then filing reports about conflicts.</voice><break time="5s">
+<voice lang="es">Los policías hacían controles de transporte y luego levantaban informes sobre conflictos.</voice><break time="2s">
+
+<voice lang="en">Science observes genes and you do daily exercises that sustain natural properties.</voice><break time="5s">
+<voice lang="es">La ciencia observa genes y haces ejercicios diarios que sustentan propiedades naturales.</voice><break time="2s">
+
+<voice lang="en">My grandfather thinks about the ninth family mass and shows his appreciation.</voice><break time="5s">
+<voice lang="es">Mi abuelo piensa en la novena misa familiar y muestra su aprecio.</voice><break time="2s">
+
+<voice lang="en">Be a smart shopper when you select medicines and fruits from the catalog.</voice><break time="5s">
+<voice lang="es">Sé un comprador inteligente cuando selecciones medicamentos y frutas del catálogo.</voice><break time="2s">
+
+<voice lang="en">I wish that the emotion of the ninth recognition allows inner improvement and rest.</voice><break time="5s">
+<voice lang="es">Deseo que la emoción del noveno reconocimiento permita la mejoría y el descanso interiores.</voice><break time="2s">
+
+<voice lang="en">Every morning I made coffee, but then programming videos and computing became mandatory.</voice><break time="5s">
+<voice lang="es">Cada mañana hacía café, pero luego programar videos y computación resultaba obligatorio.</voice><break time="2s">
+
+<voice lang="en">The referee's null participation allowed looting and accidents on original lands.</voice><break time="5s">
+<voice lang="es">La nula participación del árbitro permitió saqueos y accidentes en terrenos originarios.</voice><break time="2s">
+
+<voice lang="en">The band made changes although management denied permits and protection.</voice><break time="5s">
+<voice lang="es">La banda hizo cambios aunque los directivos negaron permisos y resguardo.</voice><break time="2s">
+
+<voice lang="en">Rocks contain molecules and numerical science reveals temporary gases.</voice><break time="5s">
+<voice lang="es">Las rocas contienen moléculas y la ciencia numérica revela gases temporales.</voice><break time="2s">
+
+<voice lang="en">The lady, when asking about server integrity, remembered everything you did.</voice><break time="5s">
+<voice lang="es">La señora, al preguntar por la integridad del servidor, recordó todo lo que hiciste.</voice><break time="2s">
+
+<voice lang="en">The forced couple left corrupt homes, but found particular peace.</voice><break time="5s">
+<voice lang="es">La pareja obligada salió de hogares corruptos, pero encontró paz particular.</voice><break time="2s">
+
+<voice lang="en">I want the obligated boys to go together to the recreation planned for today.</voice><break time="5s">
+<voice lang="es">Quiero que los muchachos obligados vayan juntos a la recreación prevista para hoy.</voice><break time="2s">
+
+<voice lang="en">Students must identify educational deficiencies and professionals can propose ethical strategies.</voice><break time="5s">
+<voice lang="es">Los alumnos deberán identificar carencias educativas y los profesionales podrán plantear estrategias éticas.</voice><break time="2s">
+
+<voice lang="en">Experts analyzed the jurisprudence obtained and proposed by the Regional Attorney's Office.</voice><break time="5s">
+<voice lang="es">Los expertos analizaron la jurisprudencia obtenida y planteada por la Procuraduría Regional.</voice><break time="2s">
+
+<voice lang="en">The professor will identify anomalies in records and scientists will point out clear differences.</voice><break time="5s">
+<voice lang="es">El catedrático identificará anomalías en los registros y los científicos señalarán claras diferencias.</voice><break time="2s">
+
+<voice lang="en">Primary schools improve following semesters and obtained knowledge allows inspiration in youth.</voice><break time="5s">
+<voice lang="es">Escuelas primarias mejoran semestres siguientes y conocimientos obtenidos permiten inspiración en jóvenes.</voice><break time="2s">
+
+<voice lang="en">Union people will impose the regulation because collaborators lost benefits and salary.</voice><break time="5s">
+<voice lang="es">Personas del sindicato impondrán el reglamento porque los colaboradores perdieron prestaciones y sueldo.</voice><break time="2s">
+
+<voice lang="en">Some dads had some spam and then removed it all.</voice><break time="5s">
+<voice lang="es">Algunos papás tuvieron algo de spam y luego lo quitaron todo.</voice><break time="2s">
+
+<voice lang="en">The analysis hides territorial conflicts that occurred in nearby linked neighborhoods.</voice><break time="5s">
+<voice lang="es">El análisis oculta conflictos territoriales ocurridos en colonias vinculadas próximas entre sí.</voice><break time="2s">
+
+<voice lang="en">Aunt called when I arrived home because she wanted to import music.</voice><break time="5s">
+<voice lang="es">La tía llamó cuando llegué a casa porque quiso importar música.</voice><break time="2s">
+
+<voice lang="en">The project will include evaluations because experts asked to measure behaviors and reasoning.</voice><break time="5s">
+<voice lang="es">El proyecto incluirá evaluaciones porque los expertos pidieron medir las conductas y el razonamiento.</voice><break time="2s">
+
+<voice lang="en">The doctor included employment evaluation and, although there were complaints, professionals allowed it.</voice><break time="5s">
+<voice lang="es">La doctora incluyó la evaluación de empleo y, aunque hubo quejas, los profesionales lo permitieron.</voice><break time="2s">
+
+<voice lang="en">He feels very operated indeed.</voice><break time="5s">
+<voice lang="es">Se siente muy operado en verdad.</voice><break time="2s">
+
+<voice lang="en">She feels very operative indeed.</voice><break time="5s">
+<voice lang="es">Se siente muy operativa en verdad.</voice><break time="2s">
+
+<voice lang="en">Workers will fill documents indicating principles of confidentiality and leadership in offices.</voice><break time="5s">
+<voice lang="es">Las trabajadoras llenarán documentos indicando principios de confidentialidad y liderazgo en los despachos.</voice><break time="2s">
+
+<voice lang="en">It always turns out operative for many.</voice><break time="5s">
+<voice lang="es">Resulta siempre operativas para muchos.</voice><break time="2s">
+
+<voice lang="en">The restaurant offers original foods produced with used additives and provided benefits.</voice><break time="5s">
+<voice lang="es">El restaurante ofrece comidas originarias producidas con aditivos utilizados y beneficios proporcionados.</voice><break time="2s">
+
+<voice lang="en">The governor initiated housing programs and is initiating sustainability evaluations.</voice><break time="5s">
+<voice lang="es">El gobernador inició programas de vivienda y está iniciando evaluaciones de sustentabilidad.</voice><break time="2s">
+
+<voice lang="en">Merchants installed controls and police took checks to the municipality.</voice><break time="5s">
+<voice lang="es">Los comerciantes instalaron controles y la policía llevó los cheques al municipio.</voice><break time="2s">
+
+<voice lang="en">The family tries to understand, but trying to stop deep suffering still hurts.</voice><break time="5s">
+<voice lang="es">La familia intenta comprender, pero intentar parar el sufrimiento profundo todavía duele.</voice><break time="2s">
+
+<voice lang="en">The company introduces Night Roads and salespeople brought Happy Families traveling together.</voice><break time="5s">
+<voice lang="es">La compañía introduce Caminos nocturnos y los vendedores llevaron Familias felices viajando juntas.</voice><break time="2s">
+
+<voice lang="en">The concession granted by the Criminal Board was followed by appeals.</voice><break time="5s">
+<voice lang="es">La concesión otorgada por la Junta Penal fue seguida de recursos.</voice><break time="2s">
+
+<voice lang="en">We leave home early; some afternoons we rest calmly.</voice><break time="5s">
+<voice lang="es">Nosotros salimos temprano al hogar; algunas tardes descansamos en calma.</voice><break time="2s">
+
+<voice lang="en">The doctor demands that the granted treatment serve all patients.</voice><break time="5s">
+<voice lang="es">El médico exige que el tratamiento otorgado sirva para todos los enfermos.</voice><break time="2s">
+
+<voice lang="en">The author presented a similar study on sociology and conducted ecology.</voice><break time="5s">
+<voice lang="es">La autora presentó un estudio parecido sobre sociología y ecología realizado.</voice><break time="2s">
+
+<voice lang="en">Many collectives have participated voluntarily in the young festival celebration.</voice><break time="5s">
+<voice lang="es">Muchos colectivos han participado voluntariamente en la celebración del joven festival.</voice><break time="2s">
+
+<voice lang="en">Medical organizations want to introduce campaigns and governments will allow preventive services.</voice><break time="5s">
+<voice lang="es">Organizaciones de medicina quieren introducir campañas y los gobiernos permitirán servicios preventivos.</voice><break time="2s">
+
+<voice lang="en">The analyst invited women to the hotel and then prepared pasta recipes.</voice><break time="5s">
+<voice lang="es">El analista invitó a mujeres al hotel y luego preparó recetas de pasta.</voice><break time="2s">
+
+<voice lang="en">The unique address represents emotional departure, floor thought of as true birth.</voice><break time="5s">
+<voice lang="es">El domicilio único representa la partida emocional, piso pensado como verdadero nacimiento.</voice><break time="2s">
+
+<voice lang="en">They ask him how crimes relate to money.</voice><break time="5s">
+<voice lang="es">Ellos le preguntan cómo se relacionan los crímenes con el dinero.</voice><break time="2s">
+
+<voice lang="en">Multitude of teenagers think about freedom and faith regarding past ailments.</voice><break time="5s">
+<voice lang="es">Multitud de adolescentes piensan en la libertad y la fe respecto a padecimientos pasados.</voice><break time="2s">
+
+<voice lang="en">Pastoral teaching gathers religious knowledge and officials requested public workshops, respectively.</voice><break time="5s">
+<voice lang="es">La enseñanza pastoral reúne saberes religiosos y los funcionarios solicitaron talleres públicos, respectivamente.</voice><break time="2s">
+
+<voice lang="en">Adults will rush to the track when the daily session arrives.</voice><break time="5s">
+<voice lang="es">Los adultos se lanzarán a la pista cuando llegue la sesión diaria.</voice><break time="2s">
+
+<voice lang="en">Tutors read articles about parenting and the whole family wants to read them together.</voice><break time="5s">
+<voice lang="es">Los tutores leen artículos sobre crianza y toda la familia quiere leerlos juntos.</voice><break time="2s">
+
+<voice lang="en">Every day the secretary makes exercise as a home habit clear.</voice><break time="5s">
+<voice lang="es">Cada día la secretaria pone patente el ejercicio como hábito de hogar.</voice><break time="2s">
+
+<voice lang="en">Someone decides read to advance.</voice><break time="5s">
+<voice lang="es">Alguien decide leída para avanzar.</voice><break time="2s">
+
+<voice lang="en">Poor peripheral gathered parents represent a presented society and achieved accomplishments.</voice><break time="5s">
+<voice lang="es">Padres periféricos pobres reunidos representan una sociedad presentada y logros realizados.</voice><break time="2s">
+
+<voice lang="en">The athlete was called champion because he scored the decisive goal yesterday.</voice><break time="5s">
+<voice lang="es">El deportista se llamaba campeón porque marcó el gol decisivo ayer.</voice><break time="2s">
+
+<voice lang="en">The Logistics coordinator will call the municipalities and offer them work support.</voice><break time="5s">
+<voice lang="es">El coordinador de Logística llamará a los municipios y les ofrecerá apoyos laborales.</voice><break time="2s">
+
+<voice lang="en">Food will have good quality although nobody calls to pick up products.</voice><break time="5s">
+<voice lang="es">La alimentación tendrá buena calidad aunque nadie llame para recoger los productos.</voice><break time="2s">
+
+<voice lang="en">Foods tested by PRD experts paint joys and rhythm in warehouses.</voice><break time="5s">
+<voice lang="es">Alimentos probados por expertos perredistas pintan alegrías y ritmo en las bodegas.</voice><break time="2s">
+
+<voice lang="en">On the beach where you all arrive, nighttime fun gets excellent.</voice><break time="5s">
+<voice lang="es">En la playa donde ustedes llegan, la diversión nocturna se pone excelente.</voice><break time="2s">
+
+<voice lang="en">The Youth Commission presents pertinent statements about war, peoples and localities.</voice><break time="5s">
+<voice lang="es">La Comisión de Juventud presenta declaraciones pertinentes sobre la guerra, los pueblos y las localidades.</voice><break time="2s">
+
+<voice lang="en">Youth has planned to wear glasses to take care of their eyes and health.</voice><break time="5s">
+<voice lang="es">La juventud ha planeado ponerse lentes para cuidar sus ojos y su salud.</voice><break time="2s">
+
+<voice lang="en">Legally linked plural teaching requires presented public workdays and solved problems.</voice><break time="5s">
+<voice lang="es">La docencia plural vinculada legalmente obliga a jornadas públicas presentadas y problemas resueltos.</voice><break time="2s">
+
+<voice lang="en">The apprentice has arrived at the classroom and students have been able to locate surfaces.</voice><break time="5s">
+<voice lang="es">El aprendiz ha llegado al salón y las alumnas han podido localizar superficies.</voice><break time="2s">
+
+<voice lang="en">She and I work together; we ourselves put all our effort.</voice><break time="5s">
+<voice lang="es">Ella y yo trabajamos juntos; nosotros mismos ponemos todo nuestro esfuerzo.</voice><break time="2s">
+
+<voice lang="en">The applicant arrived at the south by taxi and took travel covers.</voice><break time="5s">
+<voice lang="es">El solicitante llegó al sur en taxi y tomó portadas de viaje.</voice><break time="2s">
+
+<voice lang="en">The company will gather teachers and professors who arrive at the south for excellent teaching.</voice><break time="5s">
+<voice lang="es">La empresa reunirá a maestros y profesores que lleguen al sur para una docencia excelente.</voice><break time="2s">
+
+<voice lang="en">Lunch presented with affection and beauty was treated as a gourmet implant.</voice><break time="5s">
+<voice lang="es">El almuerzo presentado con cariño y belleza fue tratado como un implante gourmet.</voice><break time="2s">
+
+<voice lang="en">The administrative angel revealed deep emotions that I kept putting into words.</voice><break time="5s">
+<voice lang="es">El ángel administrativo reveló emociones profundas que quedé poniendo en palabras.</voice><break time="2s">
+
+<voice lang="en">The presidential forum Promocion Inn Imperial represents the required gay sexy leisure.</voice><break time="5s">
+<voice lang="es">El foro presidencial Promocion Inn Imperial representa el ocio gay sexy requerido.</voice><break time="2s">
+
+<voice lang="en">Hunger coming from the park grew and almost managed to replace dignity.</voice><break time="5s">
+<voice lang="es">El hambre procedente del parque creció y casi pudo sustituir la dignidad.</voice><break time="2s">
+
+<voice lang="en">Every school improves creativity and research centers bring excellence to all.</voice><break time="5s">
+<voice lang="es">Cada colegio mejora la creatividad y los centros de investigación llevan la excelencia a todos.</voice><break time="2s">
+
+<voice lang="en">With me it's about feeling at home always.</voice><break time="5s">
+<voice lang="es">Conmigo se trata de sentirnos como en casa siempre.</voice><break time="2s">
+
+<voice lang="en">Unique producers of orange chiles require well-treated red kitchens.</voice><break time="5s">
+<voice lang="es">Las productoras únicas de chiles naranjas requieren cocinas rojas bien tratadas.</voice><break time="2s">
+
+<voice lang="en">Every morning I made sure my son wore a clean uniform.</voice><break time="5s">
+<voice lang="es">Cada mañana me aseguraba de que mi hijo llevara un uniforme limpio.</voice><break time="2s">
+
+<voice lang="en">Humanity will be able to take remains from the south if it's allowed to sustain findings.</voice><break time="5s">
+<voice lang="es">La humanidad podrá llevarse restos del sur si se permite sustentar los hallazgos.</voice><break time="2s">
+
+<voice lang="en">Any warehouse catalog brings food brands and allows selecting things.</voice><break time="5s">
+<voice lang="es">Cualquier catálogo de bodegas trae marcas alimenticias y permite seleccionar cosas.</voice><break time="2s">
+
+<voice lang="en">That family takes care of its health and consumes many fresh vegetables.</voice><break time="5s">
+<voice lang="es">Esa familia cuida su salud y consume muchas hortalizas frescas.</voice><break time="2s">
+
+<voice lang="en">These teachers allow all of us to use clear educational rules.</voice><break time="5s">
+<voice lang="es">Estos profesores permiten que todas nosotras usemos reglas educativas claras.</voice><break time="2s">
+
+<voice lang="en">My scheduled evening includes computing tasks and, afterwards, my favorite restaurants.</voice><break time="5s">
+<voice lang="es">Mi noche programada incluye tareas de computación y, después, mis restaurantes favoritos.</voice><break time="2s">
+
+<voice lang="en">In the mercantile statute Facebook is prohibited, according to the Union Chancellery.</voice><break time="5s">
+<voice lang="es">En el estatuto mercantil está prohibido Facebook, según la Cancillería de la Unión.</voice><break time="2s">
+
+<voice lang="en">Companions will bring the basket and movies, and fans will see the spectacle.</voice><break time="5s">
+<voice lang="es">Las compañeras llevarán la canasta y las películas, y la afición verá el espectáculo.</voice><break time="2s">
+
+<voice lang="en">I want the promoted culture to allow public freedoms and real democracy.</voice><break time="5s">
+<voice lang="es">Quiero que la cultura promovida permita libertades públicas y una democracia real.</voice><break time="2s">
+
+<voice lang="en">The community offers recreation offers and the program offers meditation.</voice><break time="5s">
+<voice lang="es">La comunidad ofrece ofertas de recreación y el programa ofrece meditación.</voice><break time="2s">
+
+<voice lang="en">The natural kingdom follows the balance proposed by radical thermal forces.</voice><break time="5s">
+<voice lang="es">El reino natural sigue el equilibrio propuesto por fuerzas térmicas radicales.</voice><break time="2s">
+
+<voice lang="en">Visitors bring blankets and collaborators put posters about sexuality.</voice><break time="5s">
+<voice lang="es">Los visitantes llevan mantas y los colaboradores ponen carteles sobre sexualidad.</voice><break time="2s">
+
+<voice lang="en">The committee proposed guidelines aimed at improving urban sustainability.</voice><break time="5s">
+<voice lang="es">El comité propuso lineamientos tendientes a mejorar la sostenibilidad urbana.</voice><break time="2s">
+
+<voice lang="en">That environment is my home and my family represents its permanence.</voice><break time="5s">
+<voice lang="es">Ese ambiente es mi hogar y mi familia representa su permanencia.</voice><break time="2s">
+
+<voice lang="en">The couple wanted to mention family problems, although they preferred maintaining discretion before collaborators.</voice><break time="5s">
+<voice lang="es">La pareja quiso mencionar problemas familiares, aunque prefirió mantener la discreción ante los colaboradores.</voice><break time="2s">
+
+<voice lang="en">I would like the projected teenager to have dignified housing and honor.</voice><break time="5s">
+<voice lang="es">Quisiera que el adolescente proyectado tuviera una vivienda digna y honor.</voice><break time="2s">
+
+<voice lang="en">The next Brown and Guevara trades will be used in public facilities.</voice><break time="5s">
+<voice lang="es">Los próximos oficios Brown y Guevara serán utilizados en instalaciones públicas.</voice><break time="2s">
+
+<voice lang="en">You asked them for help and they left.</voice><break time="5s">
+<voice lang="es">Tú les pedías ayuda y ellos se iban.</voice><break time="2s">
+
+<voice lang="en">Public electronic variety stores were used according to the International School plan.</voice><break time="5s">
+<voice lang="es">Las misceláneas públicas electrónicas fueron utilizadas según el plan International School.</voice><break time="2s">
+
+<voice lang="en">These family homes have babies and their daily nights tend to be complicated.</voice><break time="5s">
+<voice lang="es">Estas casas familiares tienen bebés y sus noches diarias suelen ser complicadas.</voice><break time="2s">
+
+<voice lang="en">The citizen took the ID and looked at his car parked nearby.</voice><break time="5s">
+<voice lang="es">El ciudadano tomó la cédula y miró su automóvil estacionado cerca.</voice><break time="2s">
+
+<voice lang="en">Couples should opt for scientific solutions and evaluate problems with understanding.</voice><break time="5s">
+<voice lang="es">Las parejas deberán optar por soluciones científicas y evaluar las problemáticas con comprensión.</voice><break time="2s">
+
+<voice lang="en">The business requested blankets several inches for professional reception decoration.</voice><break time="5s">
+<voice lang="es">El negocio solicitó mantas de varias pulgadas para la decoración en recepción profesional.</voice><break time="2s">
+
+<voice lang="en">Many hearts feel pleasure and guilt; they refer to deep feelings.</voice><break time="5s">
+<voice lang="es">Muchos corazones sienten placer y culpa; se refieren a sentimientos profundos.</voice><break time="2s">
+
+<voice lang="en">A handful of young lovers take comfort in restaurants.</voice><break time="5s">
+<voice lang="es">Un puñado de jóvenes amantes toma comodidades en restaurantes.</voice><break time="2s">
+
+<voice lang="en">The lady emphasized survival when she listened attentively.</voice><break time="5s">
+<voice lang="es">La señora hizo hincapié en la supervivencia cuando escuchó con atención.</voice><break time="2s">
+
+<voice lang="en">The fifth member requests that universities allow the required scholarship for citizen teenagers.</voice><break time="5s">
+<voice lang="es">El quinto miembro solicita que las universidades permitan la beca requerida para adolescentes ciudadanos.</voice><break time="2s">
+
+<voice lang="en">He had nothing and nobody could touch his wounded emotions today.</voice><break time="5s">
+<voice lang="es">Él no tuvo nada y nadie pudo tocar sus emociones heridas hoy.</voice><break time="2s">
+
+<voice lang="en">No teacher took breaks and our boys had classes all day.</voice><break time="5s">
+<voice lang="es">Ninguna profesora tomó descansos y nuestros muchachos tuvieron clases todo el día.</voice><break time="2s">
+
+<voice lang="en">People established alone in winter dance parties and super trips.</voice><break time="5s">
+<voice lang="es">La gente radicada sola en invierno baila fiestas y viajes súper.</voice><break time="2s">
+
+<voice lang="en">Starting from the thesis, the president specified when transformation will come.</voice><break time="5s">
+<voice lang="es">Partiendo de la tesis, el mandatario puntualizó cuándo vendrá la transformación.</voice><break time="2s">
+
+<voice lang="en">Received documents were forwarded to the respective Infonavit trust.</voice><break time="5s">
+<voice lang="es">Los documentos recibidos fueron remitidos al fideicomiso Infonavit respectivo.</voice><break time="2s">
+
+<voice lang="en">The doctor left calmly because the majority trusted her intelligence.</voice><break time="5s">
+<voice lang="es">La doctora partió tranquila porque la mayoría confiaba en su inteligencia.</voice><break time="2s">
+
+<voice lang="en">WHO recommends daily exercises; people had scarce care and tragedy could repeat.</voice><break time="5s">
+<voice lang="es">La OMS recomienda ejercicios diarios; la gente tuvo escasos cuidados y la tragedia pudo repetirse.</voice><break time="2s">
+
+<voice lang="en">The militant gentlemen met in the dining room at round tables.</voice><break time="5s">
+<voice lang="es">Los señores militantes se reunieron en el comedor en mesas redondas.</voice><break time="2s">
+
+<voice lang="en">Another leader gathered enough attendees, and girls were able to obtain certificates.</voice><break time="5s">
+<voice lang="es">Otro dirigente reunió a bastantes asistentes, y las chicas pudieron sacar constancias.</voice><break time="2s">
+
+<voice lang="en">The career regarding education requires dedication, responsible management and practical experience.</voice><break time="5s">
+<voice lang="es">La carrera referente a la educación requiere dedicación, gestión responsable y experiencia práctica.</voice><break time="2s">
+
+El fin
+<break time="4s"/>

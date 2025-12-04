@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Seventeen</voice><break time="2s"/>
+<voice lang="es">Fraces — Número diecisiete</voice><break time="2s"/>
+
+<voice lang="en">I wish you understand that imposed limits are not really impossible.</voice><break time="5s"/>
+<voice lang="es">Deseo que entiendas que los límites impuestos no son realmente imposibles.</voice><break time="2s"/>
+
+<voice lang="en">Both drug trafficking and logging represent inevitable consequences strictly imposed by nature.</voice><break time="5s"/>
+<voice lang="es">Tanto el narcotráfico como la tala representan consecuencias inevitables estrictamente impuestas por la naturaleza.</voice><break time="2s"/>
+
+<voice lang="en">I hope the inaugurated project pleases and represents fully realized emotions.</voice><break time="5s"/>
+<voice lang="es">Ojalá que el proyecto inaugurado guste y represente emociones plenamente realizadas.</voice><break time="2s"/>
+
+<voice lang="en">The incapable PRI member ended up dressed in black and lost remaining opportunities.</voice><break time="5s"/>
+<voice lang="es">El incapaz priista terminó vestido de negro y perdió las oportunidades restantes.</voice><break time="2s"/>
+
+<voice lang="en">You say you'll travel tomorrow when I have everything prepared.</voice><break time="5s"/>
+<voice lang="es">Dices que viajarás mañana cuando yo tenga todo preparado.</voice><break time="2s"/>
+
+<voice lang="en">They were sad, saying that love had already gone away.</voice><break time="5s"/>
+<voice lang="es">Ellos estaban tristes, diciendo que el amor ya se había ido.</voice><break time="2s"/>
+
+<voice lang="en">It always results included for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre incluidas para muchos.</voice><break time="2s"/>
+
+<voice lang="en">She would give money, but prefers to donate clothes when ordering food online.</voice><break time="5s"/>
+<voice lang="es">Ella daría dinero, pero prefiere donar ropa cuando ordena comida en línea.</voice><break time="2s"/>
+
+<voice lang="en">I would like you to choose some included example and could explain its meaning to me.</voice><break time="5s"/>
+<voice lang="es">Quisiera que eligieras algún ejemplo incluido y pudieras explicarme su significado.</voice><break time="2s"/>
+
+<voice lang="en">She wants her unconscious mind to remain linked to repressed memories.</voice><break time="5s"/>
+<voice lang="es">Ella quiere que su mente inconsciente permanezca ligada a recuerdos reprimidos.</voice><break time="2s"/>
+
+<voice lang="en">We wish the embedded system works correctly when the latest updates arrive.</voice><break time="5s"/>
+<voice lang="es">Deseamos que el sistema empotrado funcione correctamente cuando lleguen las últimas actualizaciones.</voice><break time="2s"/>
+
+<voice lang="en">Forests intervene silently and say truths that few have known.</voice><break time="5s"/>
+<voice lang="es">Los bosques intervienen silenciosamente y dicen verdades que pocos han sabido.</voice><break time="2s"/>
+
+<voice lang="en">They wish incorrect data to be corrected before sending them.</voice><break time="5s"/>
+<voice lang="es">Desean que los datos incorrectos sean corregidos antes de enviarlos.</voice><break time="2s"/>
+
+<voice lang="en">It makes me worse that you don't discuss the indicated topic with me.</voice><break time="5s"/>
+<voice lang="es">Me pone peor que no trate el tema indicado conmigo.</voice><break time="2s"/>
+
+<voice lang="en">They decided to go together because staying separated would have prevented them from fully realizing themselves.</voice><break time="5s"/>
+<voice lang="es">Ellos decidieron dirigirse juntos porque quedarse separados les habría impedido realizarse plenamente.</voice><break time="2s"/>
+
+<voice lang="en">The indicated interns participated, achieved initial titles and will receive personalized training.</voice><break time="5s"/>
+<voice lang="es">Los pasantes indicados participaron, lograron títulos iniciales y recibirán una formación personalizada.</voice><break time="2s"/>
+
+<voice lang="en">It always results undocumented for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre indocumentados para muchos.</voice><break time="2s"/>
+
+<voice lang="en">I would say nature can foresee storms if you observe birds that have passed.</voice><break time="5s"/>
+<voice lang="es">Diría que la naturaleza puede prever tormentas si observas aves que han pasado.</voice><break time="2s"/>
+
+<voice lang="en">The mining company obtained inferior results and then launched nearby technological initiatives.</voice><break time="5s"/>
+<voice lang="es">La empresa minera obtuvo resultados inferiores y luego lanzó iniciativas tecnológicas cercanas.</voice><break time="2s"/>
+
+<voice lang="en">At home they have everything available because they knew how to take good advantage of each cozy space.</voice><break time="5s"/>
+<voice lang="es">En casa disponen de todo porque supieron aprovechar bien cada espacio acogedor.</voice><break time="2s"/>
+
+<voice lang="en">I measure an empty English keyboard and, obviously, made a rare linear mathematical model.</voice><break time="5s"/>
+<voice lang="es">Mido un teclado inglés vacío y, obviamente, hice un modelo matemático lineal raro.</voice><break time="2s"/>
+
+<voice lang="en">I give health advice and they ask because they have important doubts.</voice><break time="5s"/>
+<voice lang="es">Yo doy consejos de salud y ellos preguntan porque tienen dudas importantes.</voice><break time="2s"/>
+
+<voice lang="en">We offer to lend a hand when the right moment arrives.</voice><break time="5s"/>
+<voice lang="es">Nos ofrecemos a echar una mano cuando llegue el momento adecuado.</voice><break time="2s"/>
+
+<voice lang="en">Although some deny resources, teachers execute educational projects and obtain significant learning.</voice><break time="5s"/>
+<voice lang="es">Aunque algunos niegan recursos, los docentes ejecutan proyectos educativos y obtienen aprendizajes significativos.</voice><break time="2s"/>
+
+<voice lang="en">They chose the candidate and requested to ask him questions to see him.</voice><break time="5s"/>
+<voice lang="es">Ellos eligieron al candidato y solicitaron hacerle preguntas para verlo.</voice><break time="2s"/>
+
+<voice lang="en">Those inherent risks worry the parliamentarian and he demands clear normative measures.</voice><break time="5s"/>
+<voice lang="es">Esos riesgos inherentes preocupan al parlamentario y este reclama medidas normativas claras.</voice><break time="2s"/>
+
+<voice lang="en">They had initiated mercantile treaties and then the so-called representative resigned.</voice><break time="5s"/>
+<voice lang="es">Ellos habían iniciado tratados mercantiles y luego renunció el llamado representante.</voice><break time="2s"/>
+
+<voice lang="en">Although every morning I exercise, I must always choose to have breakfast in a healthy way.</voice><break time="5s"/>
+<voice lang="es">Aunque cada mañana hago ejercicio, siempre debo elegir desayunar de forma saludable.</voice><break time="2s"/>
+
+<voice lang="en">Nature chooses to adapt because we should prevent harming it and recognize its value.</voice><break time="5s"/>
+<voice lang="es">La naturaleza elige adaptarse porque deberíamos impedir dañarla y reconocer su valor.</voice><break time="2s"/>
+
+<voice lang="en">They tried Japanese entrance dishes and then ordered similar heavy desserts.</voice><break time="5s"/>
+<voice lang="es">Ellos probaron platos japoneses de entrada y luego pidieron postres similares pesados.</voice><break time="2s"/>
+
+<voice lang="en">I fear the imminent danger provokes immediate transfer of remaining tons.</voice><break time="5s"/>
+<voice lang="es">Temo que el peligro inminente provoque el traslado inmediato de las toneladas remanentes.</voice><break time="2s"/>
+
+<voice lang="en">If you choose your projects well, you'll find opportunities and be able to personalize solutions.</voice><break time="5s"/>
+<voice lang="es">Si elige bien sus proyectos, encontrará oportunidades y podrá personalizar soluciones.</voice><break time="2s"/>
+
+<voice lang="en">I will issue the report when the committee meets and specifies objectives.</voice><break time="5s"/>
+<voice lang="es">Yo emitiré el informe cuando se reúna el comité y precise objetivos.</voice><break time="2s"/>
+
+<voice lang="en">Many newborns use installed, obtained and timely provided secondary education.</voice><break time="5s"/>
+<voice lang="es">Muchos recién nacidos utilizan la educación secundaria instalada, obtenida y proporcionada oportunamente.</voice><break time="2s"/>
+
+<voice lang="en">Starting would be necessary if you want to resume projects, although you mentioned having refused.</voice><break time="5s"/>
+<voice lang="es">Empezar sería necesario si quieres retomar proyectos, aunque mencionaste haberte negado.</voice><break time="2s"/>
+
+<voice lang="en">She took charge of the project and then pointed out the errors she found.</voice><break time="5s"/>
+<voice lang="es">Ella se encargó del proyecto y luego señaló los errores que encontró.</voice><break time="2s"/>
+
+<voice lang="en">Our leisure includes an integrated pool and a magical garden to relax.</voice><break time="5s"/>
+<voice lang="es">Nuestro ocio incluye una alberca integrada y un jardín mágico para relajarnos.</voice><break time="2s"/>
+
+<voice lang="en">I found good offers and everything necessary for cooking.</voice><break time="5s"/>
+<voice lang="es">Encontré buenas ofertas y todo lo necesario para cocinar.</voice><break time="2s"/>
+
+<voice lang="en">It always results interested for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre interesadas para muchos.</voice><break time="2s"/>
+
+<voice lang="en">Health improved when adequate treatment was found and the doctor found answers.</voice><break time="5s"/>
+<voice lang="es">La salud mejoró cuando se encontró el tratamiento adecuado y el médico encontró respuestas.</voice><break time="2s"/>
+
+<voice lang="en">I want the house located in the intermediate neighborhood to be sold.</voice><break time="5s"/>
+<voice lang="es">Quiero que la casa ubicada en el barrio intermedio sea vendida.</voice><break time="2s"/>
+
+<voice lang="en">You'll find sadness, but you'll also find joy when you finally find yourself.</voice><break time="5s"/>
+<voice lang="es">Encontrarás tristeza, pero también hallarás alegría cuando finalmente te encuentres.</voice><break time="2s"/>
+
+<voice lang="en">The internal manual points out clear procedures and requires always following them.</voice><break time="5s"/>
+<voice lang="es">El manual interno señala procedimientos claros y obliga a seguirlos siempre.</voice><break time="2s"/>
+
+<voice lang="en">They will be able to meet tomorrow because the expo has generated interest and everyone will participate.</voice><break time="5s"/>
+<voice lang="es">Ellos podrán encontrarse mañana porque la expo ha generado interés y participarán todos.</voice><break time="2s"/>
+
+<voice lang="en">Putin has invested resources in the original church of Atlacomulco.</voice><break time="5s"/>
+<voice lang="es">Putin ha invertido recursos en la iglesia originaria de Atlacomulco.</voice><break time="2s"/>
+
+<voice lang="en">The presidential left thought to add support, but obtained partial and limited results.</voice><break time="5s"/>
+<voice lang="es">La izquierda presidencial pensaba sumar apoyos, pero obtuvo resultados parciales y limitados.</voice><break time="2s"/>
+
+<voice lang="en">The Japanese professor explained human emotions and translated inevitably complex feelings.</voice><break time="5s"/>
+<voice lang="es">El profesor japonés explicó emociones humanas y tradujo sentimientos inevitablemente complejos.</voice><break time="2s"/>
+
+<voice lang="en">Jurisdictional reform ended up reduced, nevertheless, many public sectors requested changes.</voice><break time="5s"/>
+<voice lang="es">La reforma jurisdiccional terminó reducida, no obstante, muchos sectores públicos solicitaron cambios.</voice><break time="2s"/>
+
+<voice lang="en">Protesters will find open windows and empty pools if police arrive.</voice><break time="5s"/>
+<voice lang="es">Los manifestantes encontrarán ventanas abiertas y albercas vacías si llega la policía.</voice><break time="2s"/>
+
+<voice lang="en">You'll find a variety of foods when you visit the sites and the portal kitchen.</voice><break time="5s"/>
+<voice lang="es">Encontrarás una variedad de alimentos cuando visites los sitios y la cocina del portal.</voice><break time="2s"/>
+
+<voice lang="en">High ministers requested used spare parts and programmed cars arrived later.</voice><break time="5s"/>
+<voice lang="es">Los ministros altos solicitaron refacciones usadas y autos programados llegaron luego.</voice><break time="2s"/>
+
+<voice lang="en">Passengers will arrive in the country because, by emphasizing mobility and routes, they will obtain satisfaction.</voice><break time="5s"/>
+<voice lang="es">Los pasajeros llegarán al país porque, al enfatizar la movilidad y las rutas, obtendrán satisfacción.</voice><break time="2s"/>
+
+<voice lang="en">The Nation emphasized environmental prevention and the planet responded with surprising progress.</voice><break time="5s"/>
+<voice lang="es">La Nación enfatizó la prevención ambiental y el planeta respondió con un sorprendente progreso.</voice><break time="2s"/>
+
+<voice lang="en">My partner finished the master's degree and then used the side gym.</voice><break time="5s"/>
+<voice lang="es">Mi pareja terminó la maestría y luego utilizó el gimnasio lateral.</voice><break time="2s"/>
+
+<voice lang="en">The official read previous reports and pointed out extremely well-founded organizational fears.</voice><break time="5s"/>
+<voice lang="es">El funcionario leyó informes previos y señaló temores organizacionales sumamente fundados.</voice><break time="2s"/>
+
+<voice lang="en">The moon allows the entry of summer rays and crops, remaining vigor.</voice><break time="5s"/>
+<voice lang="es">La luna permite la entrada de rayos de verano y cultivos, quedando vigor.</voice><break time="2s"/>
+
+<voice lang="en">Oil will enter the country and the Nation will guarantee basic foods.</voice><break time="5s"/>
+<voice lang="es">El petróleo entrará en el país y la Nación garantizará los alimentos básicos.</voice><break time="2s"/>
+
+<voice lang="en">Citizens will be able to dedicate themselves to prevention when the doctor indicates infection.</voice><break time="5s"/>
+<voice lang="es">Los ciudadanos podrán dedicarse a la prevención cuando el doctor indique infección.</voice><break time="2s"/>
+
+<voice lang="en">The character linked to crime asked for freedom and lent photographs.</voice><break time="5s"/>
+<voice lang="es">El personaje ligado a la delincuencia pidió libertad y prestó fotografías.</voice><break time="2s"/>
+
+<voice lang="en">The so-called promotion will offer discounts on November sales, obligatory benefit.</voice><break time="5s"/>
+<voice lang="es">La llamada promoción ofrecerá descuentos en las ventas de noviembre, beneficio obligatorio.</voice><break time="2s"/>
+
+<voice lang="en">The Transportation committee delivered route maps because these would improve mobility.</voice><break time="5s"/>
+<voice lang="es">El comité de Transportes entregó mapas de ruta porque estos mejorarían la movilidad.</voice><break time="2s"/>
+
+<voice lang="en">Teams start when sent orders arrive and I organize their use.</voice><break time="5s"/>
+<voice lang="es">Los equipos se inician cuando llegan los pedidos enviados y organizo su uso.</voice><break time="2s"/>
+
+<voice lang="en">Spambots called Dog and Robot greet from a remote internet.</voice><break time="5s"/>
+<voice lang="es">Spambots llamados Perro y Robot saludan desde un internet remoto.</voice><break time="2s"/>
+
+<voice lang="en">Research colleagues requested the extraction of herbs taken to community public restrooms.</voice><break time="5s"/>
+<voice lang="es">Los compañeros investigadores solicitaron la extracción de hierbas llevadas a los baños públicos comunitarios.</voice><break time="2s"/>
+
+<voice lang="en">Someone usually will send every day.</voice><break time="5s"/>
+<voice lang="es">Alguien suele enviará cada día.</voice><break time="2s"/>
+
+<voice lang="en">The school has achieved educational progress using a personalized curriculum and conducted school evaluations.</voice><break time="5s"/>
+<voice lang="es">La escuela ha logrado progreso educativo utilizando un currículo personalizado y evaluaciones escolares realizadas.</voice><break time="2s"/>
+
+<voice lang="en">The president sent answers and the minister sent financing offers.</voice><break time="5s"/>
+<voice lang="es">La presidenta envió respuestas y el ministro envió ofertas de financiamiento.</voice><break time="2s"/>
+
+<voice lang="en">The bar sends messages to its friends and organizes raffles for the nights.</voice><break time="5s"/>
+<voice lang="es">El bar envía mensajes a sus amigos y organiza sorteos para las noches.</voice><break time="2s"/>
+
+<voice lang="en">The manager requested that they send me the documents and contest data.</voice><break time="5s"/>
+<voice lang="es">El gerente solicitó que me enviaran los documentos y datos del concurso.</voice><break time="2s"/>
+
+<voice lang="en">I would like macro joy to happen soon and sadness disappearance to occur.</voice><break time="5s"/>
+<voice lang="es">Quisiera que macro alegría suceder pronto y que desaparición tristeza ocurriera.</voice><break time="2s"/>
+
+<voice lang="en">The magnetic platform gathers selected objects and allows fixing simple pieces.</voice><break time="5s"/>
+<voice lang="es">La plataforma magnética reúne objetos seleccionados y permite fijar piezas simples.</voice><break time="2s"/>
+
+<voice lang="en">People use health manuals obtained at the hospital each year.</voice><break time="5s"/>
+<voice lang="es">La gente utiliza cada año los manuales de salud obtenidos en el hospital.</voice><break time="2s"/>
+
+<voice lang="en">The indicated story occurred at the first religious cross from here.</voice><break time="5s"/>
+<voice lang="es">El cuento señalado ocurrió en la primera cruz religiosa de aquí.</voice><break time="2s"/>
+
+<voice lang="en">The sky inspires poetry and citizens want to write stories about sustainability.</voice><break time="5s"/>
+<voice lang="es">El cielo inspira poesía y los ciudadanos desean escribir historias sobre sustentabilidad.</voice><break time="2s"/>
+
+<voice lang="en">Teachers want to wait, but voters request immediate resolutions and supervision.</voice><break time="5s"/>
+<voice lang="es">Las maestras quieren esperar, pero los electores solicitan resoluciones y supervisión inmediatas.</voice><break time="2s"/>
+
+<voice lang="en">Original documents were marked and presented in the department.</voice><break time="5s"/>
+<voice lang="es">Los documentos originales fueron marcados y presentados en el departamento.</voice><break time="2s"/>
+
+<voice lang="en">The buyer waits for the discount, although the invoice passed without reduction today.</voice><break time="5s"/>
+<voice lang="es">El comprador espera el descuento, aunque la factura pasó sin reducción hoy.</voice><break time="2s"/>
+
+<voice lang="en">Millions of citizens will travel in November and the government will establish clear norms.</voice><break time="5s"/>
+<voice lang="es">Millones de ciudadanos viajarán en noviembre y el gobierno establecerá normas claras.</voice><break time="2s"/>
+
+<voice lang="en">Our medium family dined calmly and then gathered to watch videos.</voice><break time="5s"/>
+<voice lang="es">Nuestra familia mediana cenaba tranquila y luego se reunía para ver videos.</voice><break time="2s"/>
+
+<voice lang="en">You'll be in the office and workers will carry wellness programs.</voice><break time="5s"/>
+<voice lang="es">Estarás en la oficina y los trabajadores llevarán programas de bienestar.</voice><break time="2s"/>
+
+<voice lang="en">The medium seller selects merchandise and then sets less high prices.</voice><break time="5s"/>
+<voice lang="es">El vendedor mediano selecciona mercancías y luego pone precios menos altos.</voice><break time="2s"/>
+
+<voice lang="en">It always results average for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre medias para muchos.</voice><break time="2s"/>
+
+<voice lang="en">Tourists carried cell phones, mere weight savings and maximum calm.</voice><break time="5s"/>
+<voice lang="es">Los turistas llevaban celulares, mero ahorro de peso y máxima calma.</voice><break time="2s"/>
+
+<voice lang="en">The teacher exhorted people and asked for tranquility in the towns.</voice><break time="5s"/>
+<voice lang="es">La maestra exhortó a las personas y pidió tranquilidad en los pueblos.</voice><break time="2s"/>
+
+<voice lang="en">My contemporaries want a brief silence to allow healing our respective complaints.</voice><break time="5s"/>
+<voice lang="es">Mis contemporáneos quieren que un breve silencio permita sanar nuestras respectivas quejas.</voice><break time="2s"/>
+
+<voice lang="en">The cafeteria issues lunches and tourists enjoy landscapes during their stay.</voice><break time="5s"/>
+<voice lang="es">La cafetería expide almuerzos y los turistas disfrutan de los paisajes durante su estancia.</voice><break time="2s"/>
+
+<voice lang="en">Psychology of provoked affection modeling allowed lasting calm and gratitude.</voice><break time="5s"/>
+<voice lang="es">La psicología del modelado del afecto provocado permitió una calma y un agradecimiento duraderos.</voice><break time="2s"/>
+
+<voice lang="en">Neighbors enjoy adventure tourism and the journalist explains its benefits.</voice><break time="5s"/>
+<voice lang="es">Los vecinos disfrutan del turismo de aventura y el periodista explica sus beneficios.</voice><break time="2s"/>
+
+<voice lang="en">The bulletin exposes criminal sentences and television repeats them daily.</voice><break time="5s"/>
+<voice lang="es">El boletín expone sentencias criminales y la televisión las repite diariamente.</voice><break time="2s"/>
+
+<voice lang="en">Modified medicine requires respective adjustments to improve public health.</voice><break time="5s"/>
+<voice lang="es">La medicina modificada requiere ajustes respectivos para mejorar la salud pública.</voice><break time="2s"/>
+
+<voice lang="en">The community enjoyed Sunday's walk because it extended festivities and left satisfied hearts.</voice><break time="5s"/>
+<voice lang="es">La comunidad disfrutó del paseo del domingo porque extendió las fiestas y dejó corazones satisfechos.</voice><break time="2s"/>
+
+<voice lang="en">Police ask to extract evidence and specialists will allow its correct preservation.</voice><break time="5s"/>
+<voice lang="es">La Policía pide extraer evidencias y especialistas permitirán su correcta conservación.</voice><break time="2s"/>
+
+<voice lang="en">The daughter arrived riding in a vintage truck to the family dining room.</voice><break time="5s"/>
+<voice lang="es">La hija llegó montada en una camioneta vintage al comedor familiar.</voice><break time="2s"/>
+
+<voice lang="en">The denied teacher watched video games and ate chocolate during past and rainy nights.</voice><break time="5s"/>
+<voice lang="es">El maestro negado veía videojuegos y comía chocolate durante noches pasadas y lluviosas.</voice><break time="2s"/>
+
+<voice lang="en">Black girls use elegant black clothes and shoes used daily.</voice><break time="5s"/>
+<voice lang="es">Las niñas negras utilizan ropa negra elegante y zapatos usados a diario.</voice><break time="2s"/>
+
+<voice lang="en">The manager congratulated young workers when they finished repairs and technical training.</voice><break time="5s"/>
+<voice lang="es">La gerente felicitó a los jóvenes trabajadores cuando terminaron las reparaciones y las capacitaciones técnicas.</voice><break time="2s"/>
+
+<voice lang="en">Tutors work forming inclusive classrooms although tuition has increased this quarter.</voice><break time="5s"/>
+<voice lang="es">Los tutores trabajan formando aulas inclusivas aunque la colegiatura ha aumentado este trimestre.</voice><break time="2s"/>
+
+<voice lang="en">Parents record family letters and use television to record memories.</voice><break time="5s"/>
+<voice lang="es">Los padres graban cartas familiares y usan la televisión para grabar recuerdos.</voice><break time="2s"/>
+
+<voice lang="en">Most neighboring adults would like to join because they value companionship.</voice><break time="5s"/>
+<voice lang="es">A la mayoría de adultos vecinos les gustaría unirse porque valoran la compañía.</voice><break time="2s"/>
+
+<voice lang="en">The leader poorly named by Governance has received secondary telephone attention.</voice><break time="5s"/>
+<voice lang="es">El líder mal nombrado por Gobernación ha recibido atención telefónica secundaria.</voice><break time="2s"/>
+
+<voice lang="en">Women work with commitment and quality, without having thought too much about it before.</voice><break time="5s"/>
+<voice lang="es">Las mujeres trabajan con compromiso y calidad, sin haberlo pensado demasiado antes.</voice><break time="2s"/>
+
+<voice lang="en">People usually do it every day.</voice><break time="5s"/>
+<voice lang="es">La gente suele hacerla cada día.</voice><break time="2s"/>
+
+<voice lang="en">The nominal leader presided over sectoral commissions and indicated last public organisms.</voice><break time="5s"/>
+<voice lang="es">El dirigente nominal presidía comisiones sectoriales y señalados organismos públicos últimos.</voice><break time="2s"/>
+
+<voice lang="en">The young man took the evening agenda and decided to do daily exercises.</voice><break time="5s"/>
+<voice lang="es">El joven tomó la agenda vespertina y decidió hacer los ejercicios diarios.</voice><break time="2s"/>
+
+<voice lang="en">Bees could become resistant although the storm arrives with extreme temperatures.</voice><break time="5s"/>
+<voice lang="es">Las abejas podrían volverse resistentes aunque la tormenta llegue con temperaturas extremas.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

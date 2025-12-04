@@ -1,0 +1,1022 @@
+<voice lang="en">Daily Routines and Habits</voice><break time="4s">
+<voice lang="es">Rutinas y hábitos diarios</voice><break time="3s">
+
+<voice lang="en">He makes his bed every morning.</voice><break time="4s">
+<voice lang="es">Él hace su cama todas las mañanas.</voice><break time="3s">
+
+<voice lang="en">She starts her day with coffee.</voice><break time="4s">
+<voice lang="es">Ella comienza su día con café.</voice><break time="3s">
+
+<voice lang="en">I read before going to bed.</voice><break time="4s">
+<voice lang="es">Leo antes de irme a dormir.</voice><break time="3s">
+
+<voice lang="en">She writes in her notebook daily.</voice><break time="4s">
+<voice lang="es">Ella escribe en su cuaderno todos los días.</voice><break time="3s">
+
+<voice lang="en">He opens the window every morning.</voice><break time="4s">
+<voice lang="es">Él abre la ventana todas las mañanas.</voice><break time="3s">
+
+<voice lang="en">I close the door quietly.</voice><break time="4s">
+<voice lang="es">Cierro la puerta silenciosamente.</voice><break time="3s">
+
+<voice lang="en">He wakes early without an alarm.</voice><break time="4s">
+<voice lang="es">Se despierta temprano sin alarma.</voice><break time="3s">
+
+<voice lang="en">I sleep very deeply.</voice><break time="4s">
+<voice lang="es">Duermo muy profundamente.</voice><break time="3s">
+
+<voice lang="en">She eats healthy meals.</voice><break time="4s">
+<voice lang="es">Ella come comidas saludables.</voice><break time="3s">
+
+<voice lang="en">They drink too much coffee.</voice><break time="4s">
+<voice lang="es">Beben demasiado café.</voice><break time="3s">
+
+<voice lang="en">I cook dinner every night.</voice><break time="4s">
+<voice lang="es">Yo cocino la cena todas las noches.</voice><break time="3s">
+
+<voice lang="en">He cleans his room on Sundays.</voice><break time="4s">
+<voice lang="es">Él limpia su habitación los domingos.</voice><break time="3s">
+
+<voice lang="en">She washes her car often.</voice><break time="4s">
+<voice lang="es">Ella lava su coche a menudo.</voice><break time="3s">
+
+<voice lang="en">I change my routine often.</voice><break time="4s">
+<voice lang="es">Cambio mi rutina a menudo.</voice><break time="3s">
+
+<voice lang="en">I follow a strict routine.</voice><break time="4s">
+<voice lang="es">Sigo una rutina estricta.</voice><break time="3s">
+
+<voice lang="en">Work and Professional Life</voice><break time="4s">
+<voice lang="es">Trabajo y vida profesional</voice><break time="3s">
+
+<voice lang="en">She takes her work seriously.</voice><break time="4s">
+<voice lang="es">Ella toma su trabajo en serio.</voice><break time="3s">
+
+<voice lang="en">He stops working at 6 p.m.</voice><break time="4s">
+<voice lang="es">Deja de trabajar a las 6 p.m.</voice><break time="3s">
+
+<voice lang="en">We continue the project tomorrow.</voice><break time="4s">
+<voice lang="es">Continuamos el proyecto mañana.</voice><break time="3s">
+
+<voice lang="en">She works harder than anyone else.</voice><break time="4s">
+<voice lang="es">Ella trabaja más duro que nadie.</voice><break time="3s">
+
+<voice lang="en">I do my best every day.</voice><break time="4s">
+<voice lang="es">Hago lo mejor que puedo cada día.</voice><break time="3s">
+
+<voice lang="en">He leads the team with confidence.</voice><break time="4s">
+<voice lang="es">Lidera el equipo con confianza.</voice><break time="3s">
+
+<voice lang="en">She manages her team well.</voice><break time="4s">
+<voice lang="es">Ella gestiona bien su equipo.</voice><break time="3s">
+
+<voice lang="en">He leads without arrogance.</voice><break time="4s">
+<voice lang="es">Él dirige sin arrogancia.</voice><break time="3s">
+
+<voice lang="en">I own a small business.</voice><break time="4s">
+<voice lang="es">Soy dueño de una pequeña empresa.</voice><break time="3s">
+
+<voice lang="en">She sends daily reports.</voice><break time="4s">
+<voice lang="es">Ella envía informes diarios.</voice><break time="3s">
+
+<voice lang="en">He posts updates on social media.</voice><break time="4s">
+<voice lang="es">Publica actualizaciones en las redes sociales.</voice><break time="3s">
+
+<voice lang="en">They publish new content weekly.</voice><break time="4s">
+<voice lang="es">Publican contenido nuevo semanalmente.</voice><break time="3s">
+
+<voice lang="en">I finish everything early.</voice><break time="4s">
+<voice lang="es">Termino todo temprano.</voice><break time="3s">
+
+<voice lang="en">She improves every week.</voice><break time="4s">
+<voice lang="es">Ella mejora cada semana.</voice><break time="3s">
+
+<voice lang="en">He checks his work twice.</voice><break time="4s">
+<voice lang="es">Él revisa su trabajo dos veces.</voice><break time="3s">
+
+<voice lang="en">They push the project forward.</voice><break time="4s">
+<voice lang="es">Impulsan el proyecto.</voice><break time="3s">
+
+<voice lang="en">Meetings and Scheduling</voice><break time="4s">
+<voice lang="es">Reuniones y programación</voice><break time="3s">
+
+<voice lang="en">I arrive on time to every meeting.</voice><break time="4s">
+<voice lang="es">Llego puntual a cada reunión.</voice><break time="3s">
+
+<voice lang="en">She leaves early on Fridays.</voice><break time="4s">
+<voice lang="es">Ella sale temprano los viernes.</voice><break time="3s">
+
+<voice lang="en">We meet once a week.</voice><break time="4s">
+<voice lang="es">Nos reunimos una vez a la semana.</voice><break time="3s">
+
+<voice lang="en">I join the meeting at 2 p.m.</voice><break time="4s">
+<voice lang="es">Me uno a la reunión a las 2 p.m.</voice><break time="3s">
+
+<voice lang="en">I schedule meetings ahead of time.</voice><break time="4s">
+<voice lang="es">Programo reuniones con anticipación.</voice><break time="3s">
+
+<voice lang="en">She cancels plans last minute.</voice><break time="4s">
+<voice lang="es">Ella cancela planes de último minuto.</voice><break time="3s">
+
+<voice lang="en">He delays the launch.</voice><break time="4s">
+<voice lang="es">Retrasa el lanzamiento.</voice><break time="3s">
+
+<voice lang="en">They confirm attendance.</voice><break time="4s">
+<voice lang="es">Confirman asistencia.</voice><break time="3s">
+
+<voice lang="en">She checks her schedule.</voice><break time="4s">
+<voice lang="es">Ella revisa su agenda.</voice><break time="3s">
+
+<voice lang="en">He confirms the reservation.</voice><break time="4s">
+<voice lang="es">Él confirma la reserva.</voice><break time="3s">
+
+<voice lang="en">Communication and Speaking</voice><break time="4s">
+<voice lang="es">Comunicación y habla</voice><break time="3s">
+
+<voice lang="en">He speaks confidently in public.</voice><break time="4s">
+<voice lang="es">Él habla con confianza en público.</voice><break time="3s">
+
+<voice lang="en">She asks smart questions.</voice><break time="4s">
+<voice lang="es">Ella hace preguntas inteligentes.</voice><break time="3s">
+
+<voice lang="en">He answers quickly and clearly.</voice><break time="4s">
+<voice lang="es">Él responde rápidamente y claramente.</voice><break time="3s">
+
+<voice lang="en">They explain the plan step by step.</voice><break time="4s">
+<voice lang="es">Explican el plan paso a paso.</voice><break time="3s">
+
+<voice lang="en">I tell the truth even when it's hard.</voice><break time="4s">
+<voice lang="es">Digo la verdad incluso cuando es difícil.</voice><break time="3s">
+
+<voice lang="en">She listens carefully to feedback.</voice><break time="4s">
+<voice lang="es">Ella escucha atentamente los comentarios.</voice><break time="3s">
+
+<voice lang="en">He calls his mother every day.</voice><break time="4s">
+<voice lang="es">Él llama a su madre todos los días.</voice><break time="3s">
+
+<voice lang="en">She texts her friends constantly.</voice><break time="4s">
+<voice lang="es">Ella envía mensajes de texto a sus amigos constantemente.</voice><break time="3s">
+
+<voice lang="en">I describe situations clearly.</voice><break time="4s">
+<voice lang="es">Describo situaciones con claridad.</voice><break time="3s">
+
+<voice lang="en">She discusses everything openly.</voice><break time="4s">
+<voice lang="es">Ella discute todo abiertamente.</voice><break time="3s">
+
+<voice lang="en">He argues passionately.</voice><break time="4s">
+<voice lang="es">Él discute apasionadamente.</voice><break time="3s">
+
+<voice lang="en">They say it's important to prepare.</voice><break time="4s">
+<voice lang="es">Dicen que es importante prepararse.</voice><break time="3s">
+
+<voice lang="en">Learning and Education</voice><break time="4s">
+<voice lang="es">Aprendizaje y educación</voice><break time="3s">
+
+<voice lang="en">I learn something new every day.</voice><break time="4s">
+<voice lang="es">Aprendo algo nuevo cada día.</voice><break time="3s">
+
+<voice lang="en">They study the data carefully.</voice><break time="4s">
+<voice lang="es">Estudian los datos cuidadosamente.</voice><break time="3s">
+
+<voice lang="en">He teaches online classes.</voice><break time="4s">
+<voice lang="es">Él imparte clases en línea.</voice><break time="3s">
+
+<voice lang="en">They learn from mistakes.</voice><break time="4s">
+<voice lang="es">Aprenden de los errores.</voice><break time="3s">
+
+<voice lang="en">I repeat key concepts.</voice><break time="4s">
+<voice lang="es">Repito conceptos clave.</voice><break time="3s">
+
+<voice lang="en">She corrects errors gently.</voice><break time="4s">
+<voice lang="es">Ella corrige los errores con suavidad.</voice><break time="3s">
+
+<voice lang="en">He tests new ideas.</voice><break time="4s">
+<voice lang="es">Él prueba nuevas ideas.</voice><break time="3s">
+
+<voice lang="en">She practices her speech daily.</voice><break time="4s">
+<voice lang="es">Ella practica su discurso diariamente.</voice><break time="3s">
+
+<voice lang="en">He registers for the course.</voice><break time="4s">
+<voice lang="es">Se inscribe para el curso.</voice><break time="3s">
+
+<voice lang="en">Thinking and Mental Processes</voice><break time="4s">
+<voice lang="es">Pensamiento y procesos mentales</voice><break time="3s">
+
+<voice lang="en">He thinks about the future a lot.</voice><break time="4s">
+<voice lang="es">Él piensa mucho en el futuro.</voice><break time="3s">
+
+<voice lang="en">She believes in discipline.</voice><break time="4s">
+<voice lang="es">Ella cree en la disciplina.</voice><break time="3s">
+
+<voice lang="en">I understand the instructions clearly.</voice><break time="4s">
+<voice lang="es">Entiendo claramente las instrucciones.</voice><break time="3s">
+
+<voice lang="en">He remembers every detail.</voice><break time="4s">
+<voice lang="es">Él recuerda cada detalle.</voice><break time="3s">
+
+<voice lang="en">She forgets names easily.</voice><break time="4s">
+<voice lang="es">Ella olvida los nombres fácilmente.</voice><break time="3s">
+
+<voice lang="en">I know what you mean.</voice><break time="4s">
+<voice lang="es">Sé lo que quieres decir.</voice><break time="3s">
+
+<voice lang="en">He doubts the story.</voice><break time="4s">
+<voice lang="es">Él duda de la historia.</voice><break time="3s">
+
+<voice lang="en">She imagines a better future.</voice><break time="4s">
+<voice lang="es">Ella imagina un futuro mejor.</voice><break time="3s">
+
+<voice lang="en">He dreams big.</voice><break time="4s">
+<voice lang="es">Él sueña en grande.</voice><break time="3s">
+
+<voice lang="en">I focus on what matters.</voice><break time="4s">
+<voice lang="es">Me concentro en lo que importa.</voice><break time="3s">
+
+<voice lang="en">She concentrates well under stress.</voice><break time="4s">
+<voice lang="es">Se concentra bien bajo estrés.</voice><break time="3s">
+
+<voice lang="en">Decision Making and Planning</voice><break time="4s">
+<voice lang="es">Toma de decisiones y planificación</voice><break time="3s">
+
+<voice lang="en">She chooses wisely.</voice><break time="4s">
+<voice lang="es">Ella elige sabiamente.</voice><break time="3s">
+
+<voice lang="en">He decides quickly when needed.</voice><break time="4s">
+<voice lang="es">Él decide rápidamente cuando es necesario.</voice><break time="3s">
+
+<voice lang="en">I plan my week on Sundays.</voice><break time="4s">
+<voice lang="es">Planifico mi semana los domingos.</voice><break time="3s">
+
+<voice lang="en">I decide after careful thought.</voice><break time="4s">
+<voice lang="es">Decido después de pensarlo detenidamente.</voice><break time="3s">
+
+<voice lang="en">She chooses honesty.</voice><break time="4s">
+<voice lang="es">Ella elige la honestidad.</voice><break time="3s">
+
+<voice lang="en">I decide to move forward.</voice><break time="4s">
+<voice lang="es">Decido seguir adelante.</voice><break time="3s">
+
+<voice lang="en">She prefers tea over coffee.</voice><break time="4s">
+<voice lang="es">Ella prefiere el té al café.</voice><break time="3s">
+
+<voice lang="en">He plans years ahead.</voice><break time="4s">
+<voice lang="es">Él planifica con años de antelación.</voice><break time="3s">
+
+<voice lang="en">They prepare for any scenario.</voice><break time="4s">
+<voice lang="es">Se preparan para cualquier escenario.</voice><break time="3s">
+
+<voice lang="en">He chooses the best path.</voice><break time="4s">
+<voice lang="es">Él elige el mejor camino.</voice><break time="3s">
+
+<voice lang="en">Emotions and Feelings</voice><break time="4s">
+<voice lang="es">Emociones y sentimientos</voice><break time="3s">
+
+<voice lang="en">He is always calm under pressure.</voice><break time="4s">
+<voice lang="es">Él siempre está tranquilo bajo presión.</voice><break time="3s">
+
+<voice lang="en">I get tired after long meetings.</voice><break time="4s">
+<voice lang="es">Me canso después de largas reuniones.</voice><break time="3s">
+
+<voice lang="en">He feels better after resting.</voice><break time="4s">
+<voice lang="es">Se siente mejor después de descansar.</voice><break time="3s">
+
+<voice lang="en">I fear the unknown.</voice><break time="4s">
+<voice lang="es">Temo a lo desconocido.</voice><break time="3s">
+
+<voice lang="en">She loves traveling.</voice><break time="4s">
+<voice lang="es">A ella le encanta viajar.</voice><break time="3s">
+
+<voice lang="en">He likes simple routines.</voice><break time="4s">
+<voice lang="es">Le gustan las rutinas sencillas.</voice><break time="3s">
+
+<voice lang="en">They dislike crowded places.</voice><break time="4s">
+<voice lang="es">No les gustan los lugares concurridos.</voice><break time="3s">
+
+<voice lang="en">I hate waking up late.</voice><break time="4s">
+<voice lang="es">Odio despertarme tarde.</voice><break time="3s">
+
+<voice lang="en">She enjoys long walks.</voice><break time="4s">
+<voice lang="es">A ella le gustan los largos paseos.</voice><break time="3s">
+
+<voice lang="en">He misses his friends.</voice><break time="4s">
+<voice lang="es">Extraña a sus amigos.</voice><break time="3s">
+
+<voice lang="en">I worry about deadlines.</voice><break time="4s">
+<voice lang="es">Me preocupan los plazos.</voice><break time="3s">
+
+<voice lang="en">She relaxes after work.</voice><break time="4s">
+<voice lang="es">Ella se relaja después del trabajo.</voice><break time="3s">
+
+<voice lang="en">He rests when he feels tired.</voice><break time="4s">
+<voice lang="es">Descansa cuando se siente cansado.</voice><break time="3s">
+
+<voice lang="en">Physical Actions and Movement</voice><break time="4s">
+<voice lang="es">Acciones físicas y movimiento</voice><break time="3s">
+
+<voice lang="en">We go to the gym early in the morning.</voice><break time="4s">
+<voice lang="es">Vamos al gimnasio temprano en la mañana.</voice><break time="3s">
+
+<voice lang="en">They run every morning before sunrise.</voice><break time="4s">
+<voice lang="es">Corren todas las mañanas antes del amanecer.</voice><break time="3s">
+
+<voice lang="en">We walk together after lunch.</voice><break time="4s">
+<voice lang="es">Caminamos juntos después del almuerzo.</voice><break time="3s">
+
+<voice lang="en">He sits near the window.</voice><break time="4s">
+<voice lang="es">Él se sienta cerca de la ventana.</voice><break time="3s">
+
+<voice lang="en">She stands confidently on stage.</voice><break time="4s">
+<voice lang="es">Ella se mantiene segura en el escenario.</voice><break time="3s">
+
+<voice lang="en">He drives to work every day.</voice><break time="4s">
+<voice lang="es">Él conduce al trabajo todos los días.</voice><break time="3s">
+
+<voice lang="en">They ride their bikes to school.</voice><break time="4s">
+<voice lang="es">Ellos van en bicicleta a la escuela.</voice><break time="3s">
+
+<voice lang="en">I touch the screen to unlock it.</voice><break time="4s">
+<voice lang="es">Toco la pantalla para desbloquearla.</voice><break time="3s">
+
+<voice lang="en">They move fast under pressure.</voice><break time="4s">
+<voice lang="es">Se mueven rápido bajo presión.</voice><break time="3s">
+
+<voice lang="en">Helping and Supporting</voice><break time="4s">
+<voice lang="es">Ayudando y apoyando</voice><break time="3s">
+
+<voice lang="en">I help whenever I can.</voice><break time="4s">
+<voice lang="es">Ayudo siempre que puedo.</voice><break time="3s">
+
+<voice lang="en">She supports her colleagues fully.</voice><break time="4s">
+<voice lang="es">Ella apoya plenamente a sus colegas.</voice><break time="3s">
+
+<voice lang="en">They give me good advice.</voice><break time="4s">
+<voice lang="es">Me dan buenos consejos.</voice><break time="3s">
+
+<voice lang="en">They protect the environment actively.</voice><break time="4s">
+<voice lang="es">Protegen activamente el medio ambiente.</voice><break time="3s">
+
+<voice lang="en">He creates new opportunities.</voice><break time="4s">
+<voice lang="es">Él crea nuevas oportunidades.</voice><break time="3s">
+
+<voice lang="en">She builds trust with everyone.</voice><break time="4s">
+<voice lang="es">Ella genera confianza con todos.</voice><break time="3s">
+
+<voice lang="en">Success and Failure</voice><break time="4s">
+<voice lang="es">Éxito y fracaso</voice><break time="3s">
+
+<voice lang="en">They succeed through persistence.</voice><break time="4s">
+<voice lang="es">Logran el éxito mediante la perseverancia.</voice><break time="3s">
+
+<voice lang="en">I fail sometimes, and that's okay.</voice><break time="4s">
+<voice lang="es">A veces fallo, y eso está bien.</voice><break time="3s">
+
+<voice lang="en">She wins almost every game.</voice><break time="4s">
+<voice lang="es">Ella gana casi todos los partidos.</voice><break time="3s">
+
+<voice lang="en">He loses his keys often.</voice><break time="4s">
+<voice lang="es">Pierde sus llaves a menudo.</voice><break time="3s">
+
+<voice lang="en">He tries again after failing.</voice><break time="4s">
+<voice lang="es">Lo intenta de nuevo después de fallar.</voice><break time="3s">
+
+<voice lang="en">She risks everything for her dream.</voice><break time="4s">
+<voice lang="es">Ella arriesga todo por su sueño.</voice><break time="3s">
+
+<voice lang="en">They celebrate every success.</voice><break time="4s">
+<voice lang="es">Celebran cada éxito.</voice><break time="3s">
+
+<voice lang="en">Money and Finance</voice><break time="4s">
+<voice lang="es">Dinero y finanzas</voice><break time="3s">
+
+<voice lang="en">They buy groceries every Monday.</voice><break time="4s">
+<voice lang="es">Compran alimentos todos los lunes.</voice><break time="3s">
+
+<voice lang="en">I sell old things online.</voice><break time="4s">
+<voice lang="es">Vendo cosas viejas en línea.</voice><break time="3s">
+
+<voice lang="en">She pays her bills on time.</voice><break time="4s">
+<voice lang="es">Ella paga sus cuentas a tiempo.</voice><break time="3s">
+
+<voice lang="en">It costs more than I expected.</voice><break time="4s">
+<voice lang="es">Cuesta más de lo que esperaba.</voice><break time="3s">
+
+<voice lang="en">He saves money every month.</voice><break time="4s">
+<voice lang="es">Él ahorra dinero cada mes.</voice><break time="3s">
+
+<voice lang="en">She spends too much on clothes.</voice><break time="4s">
+<voice lang="es">Ella gasta demasiado en ropa.</voice><break time="3s">
+
+<voice lang="en">They earn respect from everyone.</voice><break time="4s">
+<voice lang="es">Se ganan el respeto de todos.</voice><break time="3s">
+
+<voice lang="en">I invest in myself.</voice><break time="4s">
+<voice lang="es">Yo invierto en mí mismo.</voice><break time="3s">
+
+<voice lang="en">They compare prices before buying.</voice><break time="4s">
+<voice lang="es">Comparan precios antes de comprar.</voice><break time="3s">
+
+<voice lang="en">They reduce unnecessary expenses.</voice><break time="4s">
+<voice lang="es">Reducen gastos innecesarios.</voice><break time="3s">
+
+<voice lang="en">Perception and Senses</voice><break time="4s">
+<voice lang="es">Percepción y sentidos</voice><break time="3s">
+
+<voice lang="en">She sees potential in everyone.</voice><break time="4s">
+<voice lang="es">Ella ve potencial en todos.</voice><break time="3s">
+
+<voice lang="en">He looks tired today.</voice><break time="4s">
+<voice lang="es">Parece cansado hoy.</voice><break time="3s">
+
+<voice lang="en">They watch movies on weekends.</voice><break time="4s">
+<voice lang="es">Ven películas los fines de semana.</voice><break time="3s">
+
+<voice lang="en">I hear strange noises at night.</voice><break time="4s">
+<voice lang="es">Oigo ruidos extraños por la noche.</voice><break time="3s">
+
+<voice lang="en">I show my work when needed.</voice><break time="4s">
+<voice lang="es">Muestro mi trabajo cuando es necesario.</voice><break time="3s">
+
+<voice lang="en">Technology and Digital</voice><break time="4s">
+<voice lang="es">Tecnología y Digital</voice><break time="3s">
+
+<voice lang="en">I log in securely.</voice><break time="4s">
+<voice lang="es">Me conecto de forma segura.</voice><break time="3s">
+
+<voice lang="en">She logs out when finished.</voice><break time="4s">
+<voice lang="es">Ella cierra la sesión cuando termina.</voice><break time="3s">
+
+<voice lang="en">He uploads his homework.</voice><break time="4s">
+<voice lang="es">Él sube su tarea.</voice><break time="3s">
+
+<voice lang="en">They download the files.</voice><break time="4s">
+<voice lang="es">Ellos descargan los archivos.</voice><break time="3s">
+
+<voice lang="en">I install the software.</voice><break time="4s">
+<voice lang="es">Instalo el software.</voice><break time="3s">
+
+<voice lang="en">She updates her computer.</voice><break time="4s">
+<voice lang="es">Ella actualiza su computadora.</voice><break time="3s">
+
+<voice lang="en">He deletes old messages.</voice><break time="4s">
+<voice lang="es">Borra los mensajes antiguos.</voice><break time="3s">
+
+<voice lang="en">I save important documents.</voice><break time="4s">
+<voice lang="es">Guardo documentos importantes.</voice><break time="3s">
+
+<voice lang="en">She opens the file slowly.</voice><break time="4s">
+<voice lang="es">Ella abre el archivo lentamente.</voice><break time="3s">
+
+<voice lang="en">He closes all tabs.</voice><break time="4s">
+<voice lang="es">Cierra todas las pestañas.</voice><break time="3s">
+
+<voice lang="en">I type faster than before.</voice><break time="4s">
+<voice lang="es">Escribo más rápido que antes.</voice><break time="3s">
+
+<voice lang="en">He replies instantly.</voice><break time="4s">
+<voice lang="es">Él responde instantáneamente.</voice><break time="3s">
+
+<voice lang="en">They attach the document.</voice><break time="4s">
+<voice lang="es">Adjuntan el documento.</voice><break time="3s">
+
+<voice lang="en">I print the final draft.</voice><break time="4s">
+<voice lang="es">Imprimo el borrador final.</voice><break time="3s">
+
+<voice lang="en">She scans the receipt.</voice><break time="4s">
+<voice lang="es">Ella escanea el recibo.</voice><break time="3s">
+
+<voice lang="en">He charges his phone overnight.</voice><break time="4s">
+<voice lang="es">Carga su teléfono durante la noche.</voice><break time="3s">
+
+<voice lang="en">I plug the cable in.</voice><break time="4s">
+<voice lang="es">Enchufo el cable.</voice><break time="3s">
+
+<voice lang="en">She disconnects from Wi-Fi.</voice><break time="4s">
+<voice lang="es">Ella se desconecta del wifi.</voice><break time="3s">
+
+<voice lang="en">He starts early every day.</voice><break time="4s">
+<voice lang="es">Él empieza temprano todos los días.</voice><break time="3s">
+
+<voice lang="en">They restart the system.</voice><break time="4s">
+<voice lang="es">Reinician el sistema.</voice><break time="3s">
+
+<voice lang="en">I shut down the machine.</voice><break time="4s">
+<voice lang="es">Apagué la máquina.</voice><break time="3s">
+
+<voice lang="en">They search for answers.</voice><break time="4s">
+<voice lang="es">Buscan respuestas.</voice><break time="3s">
+
+<voice lang="en">I browse new ideas.</voice><break time="4s">
+<voice lang="es">Busco nuevas ideas.</voice><break time="3s">
+
+<voice lang="en">She clicks the wrong button.</voice><break time="4s">
+<voice lang="es">Ella hace clic en el botón equivocado.</voice><break time="3s">
+
+<voice lang="en">He selects the best option.</voice><break time="4s">
+<voice lang="es">Él selecciona la mejor opción.</voice><break time="3s">
+
+<voice lang="en">Problem Solving and Improvement</voice><break time="4s">
+<voice lang="es">Resolución de problemas y mejora</voice><break time="3s">
+
+<voice lang="en">I search for better solutions.</voice><break time="4s">
+<voice lang="es">Busco mejores soluciones.</voice><break time="3s">
+
+<voice lang="en">She finds the answer quickly.</voice><break time="4s">
+<voice lang="es">Ella encuentra la respuesta rápidamente.</voice><break time="3s">
+
+<voice lang="en">I fix errors as I find them.</voice><break time="4s">
+<voice lang="es">Corrijo los errores a medida que los encuentro.</voice><break time="3s">
+
+<voice lang="en">I improve my skills daily.</voice><break time="4s">
+<voice lang="es">Mejoro mis habilidades diariamente.</voice><break time="3s">
+
+<voice lang="en">She develops new habits.</voice><break time="4s">
+<voice lang="es">Ella desarrolla nuevos hábitos.</voice><break time="3s">
+
+<voice lang="en">He grows quickly in his role.</voice><break time="4s">
+<voice lang="es">Crece rápidamente en su rol.</voice><break time="3s">
+
+<voice lang="en">I increase my training intensity.</voice><break time="4s">
+<voice lang="es">Aumento la intensidad de mi entrenamiento.</voice><break time="3s">
+
+<voice lang="en">I solve problems quickly.</voice><break time="4s">
+<voice lang="es">Resuelvo problemas rápidamente.</voice><break time="3s">
+
+<voice lang="en">I improve step by step.</voice><break time="4s">
+<voice lang="es">Voy mejorando paso a paso.</voice><break time="3s">
+
+<voice lang="en">She simplifies complex ideas.</voice><break time="4s">
+<voice lang="es">Ella simplifica ideas complejas.</voice><break time="3s">
+
+<voice lang="en">Organization and Management</voice><break time="4s">
+<voice lang="es">Organización y Gestión</voice><break time="3s">
+
+<voice lang="en">She organizes her files neatly.</voice><break time="4s">
+<voice lang="es">Ella organiza sus archivos cuidadosamente.</voice><break time="3s">
+
+<voice lang="en">She separates the documents by category.</voice><break time="4s">
+<voice lang="es">Ella separa los documentos por categoría.</voice><break time="3s">
+
+<voice lang="en">They separate tasks clearly.</voice><break time="4s">
+<voice lang="es">Separan las tareas claramente.</voice><break time="3s">
+
+<voice lang="en">I coordinate the whole team.</voice><break time="4s">
+<voice lang="es">Yo coordino todo el equipo.</voice><break time="3s">
+
+<voice lang="en">She finalizes the details.</voice><break time="4s">
+<voice lang="es">Ella ultima los detalles.</voice><break time="3s">
+
+<voice lang="en">She plans events carefully.</voice><break time="4s">
+<voice lang="es">Ella planifica los eventos cuidadosamente.</voice><break time="3s">
+
+<voice lang="en">Agreement and Disagreement</voice><break time="4s">
+<voice lang="es">Acuerdo y desacuerdo</voice><break time="3s">
+
+<voice lang="en">He agrees with the proposal.</voice><break time="4s">
+<voice lang="es">Está de acuerdo con la propuesta.</voice><break time="3s">
+
+<voice lang="en">They disagree respectfully.</voice><break time="4s">
+<voice lang="es">Están en desacuerdo respetuosamente.</voice><break time="3s">
+
+<voice lang="en">I promise to be there.</voice><break time="4s">
+<voice lang="es">Prometo estar allí.</voice><break time="3s">
+
+<voice lang="en">She trusts him completely.</voice><break time="4s">
+<voice lang="es">Ella confía en él completamente.</voice><break time="3s">
+
+<voice lang="en">They hope for the best.</voice><break time="4s">
+<voice lang="es">Esperan lo mejor.</voice><break time="3s">
+
+<voice lang="en">I insist on quality.</voice><break time="4s">
+<voice lang="es">Insisto en la calidad.</voice><break time="3s">
+
+<voice lang="en">She refuses the offer.</voice><break time="4s">
+<voice lang="es">Ella rechaza la oferta.</voice><break time="3s">
+
+<voice lang="en">He accepts the challenge.</voice><break time="4s">
+<voice lang="es">Él acepta el desafío.</voice><break time="3s">
+
+<voice lang="en">Social Interactions</voice><break time="4s">
+<voice lang="es">Interacciones sociales</voice><break time="3s">
+
+<voice lang="en">They come whenever I call them.</voice><break time="4s">
+<voice lang="es">Vienen cuando los llamo.</voice><break time="3s">
+
+<voice lang="en">I wait patiently in line.</voice><break time="4s">
+<voice lang="es">Espero pacientemente en la fila.</voice><break time="3s">
+
+<voice lang="en">She visits her parents regularly.</voice><break time="4s">
+<voice lang="es">Ella visita a sus padres regularmente.</voice><break time="3s">
+
+<voice lang="en">He travels for business often.</voice><break time="4s">
+<voice lang="es">Él viaja a menudo por negocios.</voice><break time="3s">
+
+<voice lang="en">They greet everyone warmly.</voice><break time="4s">
+<voice lang="es">Saludan a todos calurosamente.</voice><break time="3s">
+
+<voice lang="en">I hug my daughter tightly.</voice><break time="4s">
+<voice lang="es">Abrazo fuertemente a mi hija.</voice><break time="3s">
+
+<voice lang="en">She kisses her husband goodbye.</voice><break time="4s">
+<voice lang="es">Ella besa a su marido para despedirse.</voice><break time="3s">
+
+<voice lang="en">He laughs at everything.</voice><break time="4s">
+<voice lang="es">Él se ríe de todo.</voice><break time="3s">
+
+<voice lang="en">I smile when I see progress.</voice><break time="4s">
+<voice lang="es">Sonrío cuando veo progreso.</voice><break time="3s">
+
+<voice lang="en">She cries at sad movies.</voice><break time="4s">
+<voice lang="es">Ella llora en las películas tristes.</voice><break time="3s">
+
+<voice lang="en">I invite friends over.</voice><break time="4s">
+<voice lang="es">Invito a mis amigos a mi casa.</voice><break time="3s">
+
+<voice lang="en">She hosts dinner tonight.</voice><break time="4s">
+<voice lang="es">Ella será la anfitriona de la cena esta noche.</voice><break time="3s">
+
+<voice lang="en">He visits occasionally.</voice><break time="4s">
+<voice lang="es">Él nos visita ocasionalmente.</voice><break time="3s">
+
+<voice lang="en">Work Quality and Standards</voice><break time="4s">
+<voice lang="es">Calidad y estándares de trabajo</voice><break time="3s">
+
+<voice lang="en">They follow the instructions.</voice><break time="4s">
+<voice lang="es">Siguen las instrucciones.</voice><break time="3s">
+
+<voice lang="en">They follow industry standards.</voice><break time="4s">
+<voice lang="es">Siguen los estándares de la industria.</voice><break time="3s">
+
+<voice lang="en">They require identification.</voice><break time="4s">
+<voice lang="es">Requieren identificación.</voice><break time="3s">
+
+<voice lang="en">He deserves a break.</voice><break time="4s">
+<voice lang="es">Se merece un descanso.</voice><break time="3s">
+
+<voice lang="en">They produce high-quality work.</voice><break time="4s">
+<voice lang="es">Producen trabajos de alta calidad.</voice><break time="3s">
+
+<voice lang="en">I design websites for clients.</voice><break time="4s">
+<voice lang="es">Diseño sitios web para clientes.</voice><break time="3s">
+
+<voice lang="en">Employment and HR</voice><break time="4s">
+<voice lang="es">Empleo y RRHH</voice><break time="3s">
+
+<voice lang="en">They hire talented people.</voice><break time="4s">
+<voice lang="es">Contratan gente talentosa.</voice><break time="3s">
+
+<voice lang="en">I fire those who don't perform.</voice><break time="4s">
+<voice lang="es">Despido a aquellos que no rinden.</voice><break time="3s">
+
+<voice lang="en">He quits when he loses interest.</voice><break time="4s">
+<voice lang="es">Él abandona cuando pierde el interés.</voice><break time="3s">
+
+<voice lang="en">I apply for new opportunities.</voice><break time="4s">
+<voice lang="es">Solicito nuevas oportunidades.</voice><break time="3s">
+
+<voice lang="en">She joins new groups easily.</voice><break time="4s">
+<voice lang="es">Se une a nuevos grupos fácilmente.</voice><break time="3s">
+
+<voice lang="en">Creation and Production</voice><break time="4s">
+<voice lang="es">Creación y producción</voice><break time="3s">
+
+<voice lang="en">He paints landscapes.</voice><break time="4s">
+<voice lang="es">Él pinta paisajes.</voice><break time="3s">
+
+<voice lang="en">She draws beautiful sketches.</voice><break time="4s">
+<voice lang="es">Ella dibuja hermosos bocetos.</voice><break time="3s">
+
+<voice lang="en">I photograph everything when I travel.</voice><break time="4s">
+<voice lang="es">Fotografío todo cuando viajo.</voice><break time="3s">
+
+<voice lang="en">She records every session.</voice><break time="4s">
+<voice lang="es">Ella graba cada sesión.</voice><break time="3s">
+
+<voice lang="en">He edits videos professionally.</voice><break time="4s">
+<voice lang="es">Él edita videos profesionalmente.</voice><break time="3s">
+
+<voice lang="en">He builds long-term partnerships.</voice><break time="4s">
+<voice lang="es">Construye asociaciones a largo plazo.</voice><break time="3s">
+
+<voice lang="en">Starting and Stopping</voice><break time="4s">
+<voice lang="es">Arranque y parada</voice><break time="3s">
+
+<voice lang="en">She begins her speech with a story.</voice><break time="4s">
+<voice lang="es">Ella comienza su discurso con una historia.</voice><break time="3s">
+
+<voice lang="en">He finishes the task quickly.</voice><break time="4s">
+<voice lang="es">Termina la tarea rápidamente.</voice><break time="3s">
+
+<voice lang="en">He breaks the silence first.</voice><break time="4s">
+<voice lang="es">Él rompe el silencio primero.</voice><break time="3s">
+
+<voice lang="en">Measurement and Analysis</voice><break time="4s">
+<voice lang="es">Medición y análisis</voice><break time="3s">
+
+<voice lang="en">She counts the votes carefully.</voice><break time="4s">
+<voice lang="es">Ella cuenta los votos cuidadosamente.</voice><break time="3s">
+
+<voice lang="en">He measures the distance precisely.</voice><break time="4s">
+<voice lang="es">Mide la distancia con precisión.</voice><break time="3s">
+
+<voice lang="en">They measure progress.</voice><break time="4s">
+<voice lang="es">Miden el progreso.</voice><break time="3s">
+
+<voice lang="en">I check the temperature.</voice><break time="4s">
+<voice lang="es">Reviso la temperatura.</voice><break time="3s">
+
+<voice lang="en">She reports every issue.</voice><break time="4s">
+<voice lang="es">Ella informa sobre todos los problemas.</voice><break time="3s">
+
+<voice lang="en">He analyzes the results.</voice><break time="4s">
+<voice lang="es">Analiza los resultados.</voice><break time="3s">
+
+<voice lang="en">Giving and Receiving</voice><break time="4s">
+<voice lang="es">Dar y recibir</voice><break time="3s">
+
+<voice lang="en">She sends confirmation emails.</voice><break time="4s">
+<voice lang="es">Ella envía correos electrónicos de confirmación.</voice><break time="3s">
+
+<voice lang="en">He ships products worldwide.</voice><break time="4s">
+<voice lang="es">Envía productos a todo el mundo.</voice><break time="3s">
+
+<voice lang="en">They send me updates daily.</voice><break time="4s">
+<voice lang="es">Me envían actualizaciones diariamente.</voice><break time="3s">
+
+<voice lang="en">I receive the package tomorrow.</voice><break time="4s">
+<voice lang="es">Recibo el paquete mañana.</voice><break time="3s">
+
+<voice lang="en">She borrows books from the library.</voice><break time="4s">
+<voice lang="es">Ella toma prestados libros de la biblioteca.</voice><break time="3s">
+
+<voice lang="en">He lends money to friends.</voice><break time="4s">
+<voice lang="es">Él presta dinero a sus amigos.</voice><break time="3s">
+
+<voice lang="en">I return the item tomorrow.</voice><break time="4s">
+<voice lang="es">Devuelvo el artículo mañana.</voice><break time="3s">
+
+<voice lang="en">Physical Manipulation</voice><break time="4s">
+<voice lang="es">Manipulación física</voice><break time="3s">
+
+<voice lang="en">I cut the vegetables slowly.</voice><break time="4s">
+<voice lang="es">Corté las verduras lentamente.</voice><break time="3s">
+
+<voice lang="en">She adds sugar to her coffee.</voice><break time="4s">
+<voice lang="es">Ella añade azúcar a su café.</voice><break time="3s">
+
+<voice lang="en">He removes his shoes at the door.</voice><break time="4s">
+<voice lang="es">Se quita los zapatos en la puerta.</voice><break time="3s">
+
+<voice lang="en">They share everything equally.</voice><break time="4s">
+<voice lang="es">Comparten todo por igual.</voice><break time="3s">
+
+<voice lang="en">I throw the ball gently.</voice><break time="4s">
+<voice lang="es">Lanzo la pelota suavemente.</voice><break time="3s">
+
+<voice lang="en">She catches it easily.</voice><break time="4s">
+<voice lang="es">Ella lo atrapa fácilmente.</voice><break time="3s">
+
+<voice lang="en">He hits the target directly.</voice><break time="4s">
+<voice lang="es">Él da directamente en el objetivo.</voice><break time="3s">
+
+<voice lang="en">I pull the door to open it.</voice><break time="4s">
+<voice lang="es">Tiro de la puerta para abrirla.</voice><break time="3s">
+
+<voice lang="en">She raises her hand to speak.</voice><break time="4s">
+<voice lang="es">Ella levanta la mano para hablar.</voice><break time="3s">
+
+<voice lang="en">He lowers the volume.</voice><break time="4s">
+<voice lang="es">Él baja el volumen.</voice><break time="3s">
+
+<voice lang="en">Advice and Recommendations</voice><break time="4s">
+<voice lang="es">Consejos y recomendaciones</voice><break time="3s">
+
+<voice lang="en">I suggest a better plan.</voice><break time="4s">
+<voice lang="es">Sugiero un plan mejor.</voice><break time="3s">
+
+<voice lang="en">She recommends this book.</voice><break time="4s">
+<voice lang="es">Ella recomienda este libro.</voice><break time="3s">
+
+<voice lang="en">He reminds me to stay focused.</voice><break time="4s">
+<voice lang="es">Él me recuerda que debo mantenerme concentrado.</voice><break time="3s">
+
+<voice lang="en">He warns us about the risks.</voice><break time="4s">
+<voice lang="es">Nos advierte de los riesgos.</voice><break time="3s">
+
+<voice lang="en">They announce the winner.</voice><break time="4s">
+<voice lang="es">Anuncian el ganador.</voice><break time="3s">
+
+<voice lang="en">They introduce new rules.</voice><break time="4s">
+<voice lang="es">Introducen nuevas reglas.</voice><break time="3s">
+
+<voice lang="en">Courtesy and Manners</voice><break time="4s">
+<voice lang="es">Cortesía y modales</voice><break time="3s">
+
+<voice lang="en">He apologizes sincerely.</voice><break time="4s">
+<voice lang="es">Se disculpa sinceramente.</voice><break time="3s">
+
+<voice lang="en">They thank everyone for coming.</voice><break time="4s">
+<voice lang="es">Agradecieron a todos por venir.</voice><break time="3s">
+
+<voice lang="en">I congratulate him on the promotion.</voice><break time="4s">
+<voice lang="es">Lo felicito por el ascenso.</voice><break time="3s">
+
+<voice lang="en">She complains about the noise.</voice><break time="4s">
+<voice lang="es">Ella se queja del ruido.</voice><break time="3s">
+
+<voice lang="en">I joke around too much.</voice><break time="4s">
+<voice lang="es">Bromeo demasiado.</voice><break time="3s">
+
+<voice lang="en">They whisper secrets.</voice><break time="4s">
+<voice lang="es">Susurran secretos.</voice><break time="3s">
+
+<voice lang="en">He shouts when excited.</voice><break time="4s">
+<voice lang="es">Él grita cuando está emocionado.</voice><break time="3s">
+
+<voice lang="en">Adaptation and Change</voice><break time="4s">
+<voice lang="es">Adaptación y cambio</voice><break time="3s">
+
+<voice lang="en">I adapt to new environments.</voice><break time="4s">
+<voice lang="es">Me adapto a nuevos entornos.</voice><break time="3s">
+
+<voice lang="en">She changes her mind often.</voice><break time="4s">
+<voice lang="es">Ella cambia de opinión a menudo.</voice><break time="3s">
+
+<voice lang="en">He recovers quickly from setbacks.</voice><break time="4s">
+<voice lang="es">Se recupera rápidamente de los reveses.</voice><break time="3s">
+
+<voice lang="en">He combines different techniques.</voice><break time="4s">
+<voice lang="es">Combina diferentes técnicas.</voice><break time="3s">
+
+<voice lang="en">He combines words into sentences easily.</voice><break time="4s">
+<voice lang="es">Combina palabras en oraciones fácilmente.</voice><break time="3s">
+
+<voice lang="en">He tries new methods constantly.</voice><break time="4s">
+<voice lang="es">Él prueba nuevos métodos constantemente.</voice><break time="3s">
+
+<voice lang="en">They avoid mistakes when possible.</voice><break time="4s">
+<voice lang="es">Evitan errores cuando es posible.</voice><break time="3s">
+
+<voice lang="en">Necessities and Requirements</voice><break time="4s">
+<voice lang="es">Necesidades y requisitos</voice><break time="3s">
+
+<voice lang="en">I need more time to finish.</voice><break time="4s">
+<voice lang="es">Necesito más tiempo para terminar.</voice><break time="3s">
+
+<voice lang="en">She wants a career change.</voice><break time="4s">
+<voice lang="es">Ella quiere un cambio de carrera.</voice><break time="3s">
+
+<voice lang="en">They try to improve daily.</voice><break time="4s">
+<voice lang="es">Intentan mejorar día a día.</voice><break time="3s">
+
+<voice lang="en">She needs more time.</voice><break time="4s">
+<voice lang="es">Ella necesita más tiempo.</voice><break time="3s">
+
+<voice lang="en">We use this tool every week.</voice><break time="4s">
+<voice lang="es">Usamos esta herramienta cada semana.</voice><break time="3s">
+
+<voice lang="en">Exercise and Training</voice><break time="4s">
+<voice lang="es">Ejercicio y entrenamiento</voice><break time="3s">
+
+<voice lang="en">They work out every morning.</voice><break time="4s">
+<voice lang="es">Ellos hacen ejercicio todas las mañanas.</voice><break time="3s">
+
+<voice lang="en">I train for a marathon.</voice><break time="4s">
+<voice lang="es">Entreno para un maratón.</voice><break time="3s">
+
+<voice lang="en">They rest after training.</voice><break time="4s">
+<voice lang="es">Descansan después del entrenamiento.</voice><break time="3s">
+
+<voice lang="en">Travel and Location</voice><break time="4s">
+<voice lang="es">Viajes y ubicación</voice><break time="3s">
+
+<voice lang="en">They stay in a quiet hotel.</voice><break time="4s">
+<voice lang="es">Se alojan en un hotel tranquilo.</voice><break time="3s">
+
+<voice lang="en">He returns home late.</voice><break time="4s">
+<voice lang="es">Regresa tarde a casa.</voice><break time="3s">
+
+<voice lang="en">They live close to the beach.</voice><break time="4s">
+<voice lang="es">Viven cerca de la playa.</voice><break time="3s">
+
+<voice lang="en">Repair and Maintenance</voice><break time="4s">
+<voice lang="es">Reparación y mantenimiento</voice><break time="3s">
+
+<voice lang="en">She repairs the printer.</voice><break time="4s">
+<voice lang="es">Ella repara la impresora.</voice><break time="3s">
+
+<voice lang="en">He repairs broken equipment.</voice><break time="4s">
+<voice lang="es">Él repara equipos averiados.</voice><break time="3s">
+
+<voice lang="en">She breaks easily under pressure.</voice><break time="4s">
+<voice lang="es">Se rompe fácilmente bajo presión.</voice><break time="3s">
+
+<voice lang="en">Packing and Travel Preparation</voice><break time="4s">
+<voice lang="es">Preparación del embalaje y del viaje</voice><break time="3s">
+
+<voice lang="en">He packs his suitcase quickly.</voice><break time="4s">
+<voice lang="es">Él hace su maleta rápidamente.</voice><break time="3s">
+
+<voice lang="en">I unpack as soon as I arrive.</voice><break time="4s">
+<voice lang="es">Desempaco tan pronto como llego.</voice><break time="3s">
+
+<voice lang="en">Cleaning</voice><break time="4s">
+<voice lang="es">Limpieza</voice><break time="3s">
+
+<voice lang="en">I clean the kitchen daily.</voice><break time="4s">
+<voice lang="es">Yo limpio la cocina diariamente.</voice><break time="3s">
+
+<voice lang="en">She dirties every dish she uses.</voice><break time="4s">
+<voice lang="es">Ella ensucia todos los platos que usa.</voice><break time="3s">
+
+<voice lang="en">Reservations and Bookings</voice><break time="4s">
+<voice lang="es">Reservas y reservas</voice><break time="3s">
+
+<voice lang="en">I book the tickets today.</voice><break time="4s">
+<voice lang="es">Reservo las entradas hoy.</voice><break time="3s">
+
+<voice lang="en">She reserves a table for two.</voice><break time="4s">
+<voice lang="es">Ella reserva una mesa para dos.</voice><break time="3s">
+
+<voice lang="en">Testing and Evaluation</voice><break time="4s">
+<voice lang="es">Pruebas y evaluación</voice><break time="3s">
+
+<voice lang="en">He tests the prototype.</voice><break time="4s">
+<voice lang="es">Él prueba el prototipo.</voice><break time="3s">
+
+<voice lang="en">They test the new approach.</voice><break time="4s">
+<voice lang="es">Ponen a prueba el nuevo enfoque.</voice><break time="3s">
+
+<voice lang="en">I try different strategies.</voice><break time="4s">
+<voice lang="es">Pruebo diferentes estrategias.</voice><break time="3s">
+
+<voice lang="en">Voting and Civic Action</voice><break time="4s">
+<voice lang="es">Votación y acción cívica</voice><break time="3s">
+
+<voice lang="en">He votes in every election.</voice><break time="4s">
+<voice lang="es">Él vota en todas las elecciones.</voice><break time="3s">
+
+<voice lang="en">They act quickly in emergencies.</voice><break time="4s">
+<voice lang="es">Actúan rápidamente en situaciones de emergencia.</voice><break time="3s">
+
+<voice lang="en">I react calmly.</voice><break time="4s">
+<voice lang="es">Reacciono con calma.</voice><break time="3s">
+
+<voice lang="en">Negotiation and Persuasion</voice><break time="4s">
+<voice lang="es">Negociación y persuasión</voice><break time="3s">
+
+<voice lang="en">They negotiate better deals.</voice><break time="4s">
+<voice lang="es">Negocian mejores acuerdos.</voice><break time="3s">
+
+<voice lang="en">They persuade the board.</voice><break time="4s">
+<voice lang="es">Convencen a la junta directiva.</voice><break time="3s">
+
+<voice lang="en">She follows instructions well.</voice><break time="4s">
+<voice lang="es">Ella sigue bien las instrucciones.</voice><break time="3s">
+
+<voice lang="en">He leads by example.</voice><break time="4s">
+<voice lang="es">Él predica con el ejemplo.</voice><break time="3s">
+
+<voice lang="en">Promises and Commitments</voice><break time="4s">
+<voice lang="es">Promesas y compromisos</voice><break time="3s">
+
+<voice lang="en">She promises to return soon.</voice><break time="4s">
+<voice lang="es">Ella promete regresar pronto.</voice><break time="3s">
+
+<voice lang="en">Waiting and Hoping</voice><break time="4s">
+<voice lang="es">Esperando y esperando</voice><break time="3s">
+
+<voice lang="en">I wait for results.</voice><break time="4s">
+<voice lang="es">Espero resultados.</voice><break time="3s">
+
+<voice lang="en">She hopes everything works out.</voice><break time="4s">
+<voice lang="es">Ella espera que todo salga bien.</voice><break time="3s">
+
+<voice lang="en">Destruction</voice><break time="4s">
+<voice lang="es">Destrucción</voice><break time="3s">
+
+<voice lang="en">They destroy the old structure.</voice><break time="4s">
+<voice lang="es">Destruyen la vieja estructura.</voice><break time="3s">
+
+<voice lang="en">Miscellaneous</voice><break time="4s">
+<voice lang="es">Misceláneas</voice><break time="3s">
+
+<voice lang="en">She has everything she needs.</voice><break time="4s">
+<voice lang="es">Ella tiene todo lo que necesita.</voice><break time="3s">
+
+<voice lang="en">She plays the piano beautifully.</voice><break time="4s">
+<voice lang="es">Él toca el piano maravillosamente.</voice><break time="3s">
+
+<voice lang="en">She dies in the final chapter of the book.</voice><break time="4s">
+<voice lang="es">Ella muere en el capítulo final del libro.</voice><break time="3s">
+
+<voice lang="en">They relax on weekends.</voice><break time="4s">
+<voice lang="es">Se relajan los fines de semana.</voice><break time="3s">
+
+<voice lang="en">They allow late submissions sometimes.</voice><break time="4s">
+<voice lang="es">A veces permiten entregas tardías.</voice><break time="3s">
+
+<voice lang="en">I forbid using phones in class.</voice><break time="4s">
+<voice lang="es">Prohíbo el uso de teléfonos en clase.</voice><break time="3s">
+
+El final
+<break time="4s">

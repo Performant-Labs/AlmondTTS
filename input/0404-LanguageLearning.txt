@@ -1,0 +1,374 @@
+<voice lang="en">Language Learning Philosophy</voice><break time="0.5s">
+<voice lang="es">Filosofía del aprendizaje de idiomas</voice><break time="2s">
+
+<voice lang="en">What's your favorite language?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu idioma favorito?</voice><break time="2s">
+
+<voice lang="en">It is a difficult question.</voice><break time="5s">
+<voice lang="es">Es una pregunta difícil.</voice><break time="2s">
+
+<voice lang="en">I like all the languages I have learned.</voice><break time="5s">
+<voice lang="es">Me gustan todos los idiomas que he aprendido.</voice><break time="2s">
+
+<voice lang="en">When did you start learning languages?</voice><break time="5s">
+<voice lang="es">¿Cuándo empezaste a aprender idiomas?</voice><break time="2s">
+
+<voice lang="en">I started learning languages in school, when I was a child.</voice><break time="5s">
+<voice lang="es">Empecé a aprender idiomas en la escuela, cuando era niño.</voice><break time="2s">
+
+<voice lang="en">Did you learn languages in school?</voice><break time="5s">
+<voice lang="es">¿Aprendiste idiomas en la escuela?</voice><break time="2s">
+
+<voice lang="en">I started learning English and Spanish in school.</voice><break time="5s">
+<voice lang="es">Empecé a aprender inglés y español en la escuela.</voice><break time="2s">
+
+<voice lang="en">Did you learn languages on your own?</voice><break time="5s">
+<voice lang="es">¿Aprendiste idiomas por tu cuenta?</voice><break time="2s">
+
+<voice lang="en">I learn languages on my own.</voice><break time="5s">
+<voice lang="es">Aprendo idiomas por mi cuenta.</voice><break time="2s">
+
+<voice lang="en">It's more effective than going to classes.</voice><break time="5s">
+<voice lang="es">Es más efectivo que ir a clases.</voice><break time="2s">
+
+<voice lang="en">I'm learning Spanish on my own now.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo español por mi cuenta ahora.</voice><break time="2s">
+
+<voice lang="en">I'm focusing on Mexican Spanish specifically.</voice><break time="5s">
+<voice lang="es">Me estoy enfocando específicamente en el español mexicano.</voice><break time="2s">
+
+<voice lang="en">What is the easiest language for you?</voice><break time="5s">
+<voice lang="es">¿Cuál es el idioma más fácil para ti?</voice><break time="2s">
+
+<voice lang="en">The easiest languages for me are romance languages, like Portuguese, Catalan or Italian.</voice><break time="5s">
+<voice lang="es">Los idiomas más fáciles para mí son los idiomas romances, como el portugués, el catalán o el italiano.</voice><break time="2s">
+
+<voice lang="en">They are very similar to Spanish.</voice><break time="5s">
+<voice lang="es">Son muy similares al español.</voice><break time="2s">
+
+<voice lang="en">What is the hardest language for you?</voice><break time="5s">
+<voice lang="es">¿Cuál es el idioma más difícil para ti?</voice><break time="2s">
+
+<voice lang="en">Some languages are more difficult than others.</voice><break time="5s">
+<voice lang="es">Algunos idiomas son más difíciles que otros.</voice><break time="2s">
+
+<voice lang="en">But I think you can learn any language, with the right method.</voice><break time="5s">
+<voice lang="es">Pero creo que puedes aprender cualquier idioma, con el método correcto.</voice><break time="2s">
+
+<voice lang="en">For example, some people think Asian languages are almost impossible to learn.</voice><break time="5s">
+<voice lang="es">Por ejemplo, algunas personas piensan que los idiomas asiáticos son casi imposibles de aprender.</voice><break time="2s">
+
+<voice lang="en">I disagree.</voice><break time="5s">
+<voice lang="es">No estoy de acuerdo.</voice><break time="2s">
+
+<voice lang="en">They have no idea what they are talking about.</voice><break time="5s">
+<voice lang="es">No tienen idea de lo que están hablando.</voice><break time="2s">
+
+<voice lang="en">They know nothing.</voice><break time="5s">
+<voice lang="es">No saben nada.</voice><break time="2s">
+
+<voice lang="en">You can learn any language.</voice><break time="5s">
+<voice lang="es">Puedes aprender cualquier idioma.</voice><break time="2s">
+
+<voice lang="en">How do you learn new words?</voice><break time="5s">
+<voice lang="es">¿Cómo aprendes palabras nuevas?</voice><break time="2s">
+
+<voice lang="en">I memorise words using associations.</voice><break time="5s">
+<voice lang="es">Memorizo palabras usando asociaciones.</voice><break time="2s">
+
+<voice lang="en">I create bilingual sentence collections with audio.</voice><break time="5s">
+<voice lang="es">Creo colecciones de oraciones bilingües con audio.</voice><break time="2s">
+
+<voice lang="en">I organize vocabulary by topic and domain.</voice><break time="5s">
+<voice lang="es">Organizo el vocabulario por tema y dominio.</voice><break time="2s">
+
+<voice lang="en">How many hours do you study every day?</voice><break time="5s">
+<voice lang="es">¿Cuántas horas estudias al día?</voice><break time="2s">
+
+<voice lang="en">I learn languages every day.</voice><break time="5s">
+<voice lang="es">Aprendo idiomas todos los días.</voice><break time="2s">
+
+<voice lang="en">I spend maybe two or three hours a day learning.</voice><break time="5s">
+<voice lang="es">Paso quizás dos o tres horas al día aprendiendo.</voice><break time="2s">
+
+<voice lang="en">And then, I listen to the languages a lot too.</voice><break time="5s">
+<voice lang="es">Y luego, también escucho mucho los idiomas.</voice><break time="2s">
+
+<voice lang="en">Do you watch movies in other languages?</voice><break time="5s">
+<voice lang="es">¿Ves películas en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">I sometimes watch films in other languages.</voice><break time="5s">
+<voice lang="es">A veces veo películas en otros idiomas.</voice><break time="2s">
+
+<voice lang="en">But I don't think watching films is a good way to learn languages.</voice><break time="5s">
+<voice lang="es">Pero no creo que ver películas sea una buena forma de aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">It is not efficient.</voice><break time="5s">
+<voice lang="es">No es eficiente.</voice><break time="2s">
+
+<voice lang="en">Do you listen to music in other languages?</voice><break time="5s">
+<voice lang="es">¿Escuchas música en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">I listen to music in other languages sometimes.</voice><break time="5s">
+<voice lang="es">Escucho música en otros idiomas a veces.</voice><break time="2s">
+
+<voice lang="en">But I don't think listening to music is a good way to learn languages.</voice><break time="5s">
+<voice lang="es">Pero no creo que escuchar música sea una buena forma de aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">People in real life don't talk like that.</voice><break time="5s">
+<voice lang="es">La gente en la vida real no habla así.</voice><break time="2s">
+
+<voice lang="en">Do you like reading in other languages?</voice><break time="5s">
+<voice lang="es">¿Te gusta leer en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">I like reading a lot.</voice><break time="5s">
+<voice lang="es">Me gusta leer mucho.</voice><break time="2s">
+
+<voice lang="en">Reading is a good way to learn languages.</voice><break time="5s">
+<voice lang="es">Leer es una buena forma de aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">But you should combine it with other activities.</voice><break time="5s">
+<voice lang="es">Pero deberías combinarlo con otras actividades.</voice><break time="2s">
+
+<voice lang="en">I read a lot of books.</voice><break time="5s">
+<voice lang="es">Leo muchos libros.</voice><break time="2s">
+
+<voice lang="en">But reading books alone won't make you fluent in a language.</voice><break time="5s">
+<voice lang="es">Pero leer libros solo no te hará fluido en un idioma.</voice><break time="2s">
+
+<voice lang="en">Do you write in other languages?</voice><break time="5s">
+<voice lang="es">¿Escribes en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">I don't do much writing practice.</voice><break time="5s">
+<voice lang="es">No hago mucha práctica de escritura.</voice><break time="2s">
+
+<voice lang="en">I think writing is a good exercise for language learning.</voice><break time="5s">
+<voice lang="es">Creo que escribir es un buen ejercicio para el aprendizaje de idiomas.</voice><break time="2s">
+
+<voice lang="en">Maybe I should write more.</voice><break time="5s">
+<voice lang="es">Tal vez debería escribir más.</voice><break time="2s">
+
+<voice lang="en">Do you think grammar is important?</voice><break time="5s">
+<voice lang="es">¿Crees que la gramática es importante?</voice><break time="2s">
+
+<voice lang="en">I think grammar is important.</voice><break time="5s">
+<voice lang="es">Creo que la gramática es importante.</voice><break time="2s">
+
+<voice lang="en">You should know how grammar works.</voice><break time="5s">
+<voice lang="es">Deberías saber cómo funciona la gramática.</voice><break time="2s">
+
+<voice lang="en">But I don't like studying grammar rules.</voice><break time="5s">
+<voice lang="es">Pero no me gusta estudiar reglas de gramática.</voice><break time="2s">
+
+<voice lang="en">Most people don't like doing grammar exercises.</voice><break time="5s">
+<voice lang="es">La mayoría de la gente no le gusta hacer ejercicios de gramática.</voice><break time="2s">
+
+<voice lang="en">I think you can learn grammar naturally by learning sentences.</voice><break time="5s">
+<voice lang="es">Creo que puedes aprender gramática naturalmente aprendiendo oraciones.</voice><break time="2s">
+
+<voice lang="en">I'm working through Spanish grammar systematically.</voice><break time="5s">
+<voice lang="es">Estoy trabajando en la gramática española de forma sistemática.</voice><break time="2s">
+
+<voice lang="en">Do you prefer speaking or listening?</voice><break time="5s">
+<voice lang="es">¿Prefieres hablar o escuchar?</voice><break time="2s">
+
+<voice lang="en">I like listening to languages a lot.</voice><break time="5s">
+<voice lang="es">Me gusta escuchar idiomas mucho.</voice><break time="2s">
+
+<voice lang="en">I listen to a lot of podcasts in different languages.</voice><break time="5s">
+<voice lang="es">Escucho muchos podcasts en diferentes idiomas.</voice><break time="2s">
+
+<voice lang="en">It is a great way to learn about the country where they speak the language, to learn what is going on there, and to learn about their culture.</voice><break time="5s">
+<voice lang="es">Es una gran forma de aprender sobre el país donde hablan el idioma, de aprender qué está pasando allí y de aprender sobre su cultura.</voice><break time="2s">
+
+<voice lang="en">But to improve your speaking skills, it's better to listen to your Language Islands.</voice><break time="5s">
+<voice lang="es">Pero para mejorar tus habilidades de habla, es mejor escuchar tus Islotes de Lenguaje.</voice><break time="2s">
+
+<voice lang="en">Because they're the sentences you want to be able to say.</voice><break time="5s">
+<voice lang="es">Porque son las oraciones que quieres poder decir.</voice><break time="2s">
+
+<voice lang="en">You should listen to those sentences every day. Many times.</voice><break time="5s">
+<voice lang="es">Deberías escuchar esas oraciones todos los días. Muchas veces.</voice><break time="2s">
+
+<voice lang="en">Do you like learning with flashcards?</voice><break time="5s">
+<voice lang="es">¿Te gusta aprender con tarjetas de memoria?</voice><break time="2s">
+
+<voice lang="en">I don't use flashcards or apps like Anki.</voice><break time="5s">
+<voice lang="es">No uso tarjetas de memoria ni apps como Anki.</voice><break time="2s">
+
+<voice lang="en">It can be effective, but I don't like it.</voice><break time="5s">
+<voice lang="es">Puede ser efectivo, pero no me gusta.</voice><break time="2s">
+
+<voice lang="en">I think it's much faster and more efficient if you simply review lists of sentences by reading and listening to them.</voice><break time="5s">
+<voice lang="es">Creo que es mucho más rápido y eficiente si simplemente repasas listas de oraciones leyéndolas y escuchándolas.</voice><break time="2s">
+
+<voice lang="en">Do you use language apps?</voice><break time="5s">
+<voice lang="es">¿Usas apps de idiomas?</voice><break time="2s">
+
+<voice lang="en">Language apps are worthless.</voice><break time="5s">
+<voice lang="es">Las apps de idiomas no valen nada.</voice><break time="2s">
+
+<voice lang="en">They are a waste of time.</voice><break time="5s">
+<voice lang="es">Son una pérdida de tiempo.</voice><break time="2s">
+
+<voice lang="en">Duolingo is made for children and people with low attention span.</voice><break time="5s">
+<voice lang="es">Duolingo está hecho para niños y gente con poca capacidad de atención.</voice><break time="2s">
+
+<voice lang="en">Do you practice with native speakers?</voice><break time="5s">
+<voice lang="es">¿Practicas con hablantes nativos?</voice><break time="2s">
+
+<voice lang="en">I don't speak with native speakers much.</voice><break time="5s">
+<voice lang="es">No hablo mucho con hablantes nativos.</voice><break time="2s">
+
+<voice lang="en">It is much more efficient to practice on your own.</voice><break time="5s">
+<voice lang="es">Es mucho más eficiente practicar por tu cuenta.</voice><break time="2s">
+
+<voice lang="en">You can't depend on other people for learning.</voice><break time="5s">
+<voice lang="es">No puedes depender de otras personas para aprender.</voice><break time="2s">
+
+<voice lang="en">Because they might not show up.</voice><break time="5s">
+<voice lang="es">Porque podrían no aparecer.</voice><break time="2s">
+
+<voice lang="en">Do you use a notebook to learn?</voice><break time="5s">
+<voice lang="es">¿Usas un cuaderno para aprender?</voice><break time="2s">
+
+<voice lang="en">I use a notebook to write down the things I want to learn.</voice><break time="5s">
+<voice lang="es">Uso un cuaderno para anotar las cosas que quiero aprender.</voice><break time="2s">
+
+<voice lang="en">Everything I want to be able to say.</voice><break time="5s">
+<voice lang="es">Todo lo que quiero poder decir.</voice><break time="2s">
+
+<voice lang="en">Then I add it to my Language Islands.</voice><break time="5s">
+<voice lang="es">Luego lo agrego a mis Islotes de Lenguaje.</voice><break time="2s">
+
+<voice lang="en">I translate the sentences, I create audio files and I learn them.</voice><break time="5s">
+<voice lang="es">Traduzco las oraciones, creo archivos de audio y las aprendo.</voice><break time="2s">
+
+<voice lang="en">Do you record yourself speaking?</voice><break time="5s">
+<voice lang="es">¿Te grabas hablando?</voice><break time="2s">
+
+<voice lang="en">Recording yourself speaking is a good idea, but I normally don't do it.</voice><break time="5s">
+<voice lang="es">Grabarte hablando es una buena idea, pero normalmente no lo hago.</voice><break time="2s">
+
+<voice lang="en">Do you shadow audio recordings?</voice><break time="5s">
+<voice lang="es">¿Haces shadowing de grabaciones de audio?</voice><break time="2s">
+
+<voice lang="en">I do a lot of shadowing.</voice><break time="5s">
+<voice lang="es">Hago mucho shadowing.</voice><break time="2s">
+
+<voice lang="en">I listen to the audio files and I repeat the sentences aloud when I hear them.</voice><break time="5s">
+<voice lang="es">Escucho los archivos de audio y repito las oraciones en voz alta cuando las oigo.</voice><break time="2s">
+
+<voice lang="en">Do you repeat sentences every day?</voice><break time="5s">
+<voice lang="es">¿Repites oraciones todos los días?</voice><break time="2s">
+
+<voice lang="en">I try to repeat the sentences aloud every day.</voice><break time="5s">
+<voice lang="es">Intento repetir las oraciones en voz alta todos los días.</voice><break time="2s">
+
+<voice lang="en">But I am very busy, sometimes I don't have the time.</voice><break time="5s">
+<voice lang="es">Pero estoy muy ocupado, a veces no tengo tiempo.</voice><break time="2s">
+
+<voice lang="en">I should do it more.</voice><break time="5s">
+<voice lang="es">Debería hacerlo más.</voice><break time="2s">
+
+<voice lang="en">What's your best tip for learning a language?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu mejor consejo para aprender un idioma?</voice><break time="2s">
+
+<voice lang="en">My best tip for learning a language?</voice><break time="5s">
+<voice lang="es">Mi mejor consejo para aprender un idioma?</voice><break time="2s">
+
+<voice lang="en">The most important thing is learning more words and sentences.</voice><break time="5s">
+<voice lang="es">Lo más importante es aprender más palabras y oraciones.</voice><break time="2s">
+
+<voice lang="en">You should learn a lot of words and say sentences aloud.</voice><break time="5s">
+<voice lang="es">Deberías aprender muchas palabras y decir oraciones en voz alta.</voice><break time="2s">
+
+<voice lang="en">What's the most important part of language learning?</voice><break time="5s">
+<voice lang="es">¿Cuál es la parte más importante del aprendizaje de idiomas?</voice><break time="2s">
+
+<voice lang="en">The most important thing in language learning is learning more words and sentences.</voice><break time="5s">
+<voice lang="es">Lo más importante en el aprendizaje de idiomas es aprender más palabras y oraciones.</voice><break time="2s">
+
+<voice lang="en">And you have to say them aloud.</voice><break time="5s">
+<voice lang="es">Y tienes que decirlas en voz alta.</voice><break time="2s">
+
+<voice lang="en">You can't get good at speaking, unless you say things aloud.</voice><break time="5s">
+<voice lang="es">No puedes mejorar en hablar, a menos que digas cosas en voz alta.</voice><break time="2s">
+
+<voice lang="en">Do you like to learn while walking?</voice><break time="5s">
+<voice lang="es">¿Te gusta aprender mientras caminas?</voice><break time="2s">
+
+<voice lang="en">Yes, I listen to language learning materials when I go for walks.</voice><break time="5s">
+<voice lang="es">Sí, escucho materiales de aprendizaje de idiomas cuando salgo a caminar.</voice><break time="2s">
+
+<voice lang="en">Do you learn while working out?</voice><break time="5s">
+<voice lang="es">¿Aprendes mientras haces ejercicio?</voice><break time="2s">
+
+<voice lang="en">I also listen to language learning materials when I work out.</voice><break time="5s">
+<voice lang="es">También escucho materiales de aprendizaje de idiomas cuando hago ejercicio.</voice><break time="2s">
+
+<voice lang="en">Do you listen to podcasts in other languages?</voice><break time="5s">
+<voice lang="es">¿Escuchas podcasts en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">I listen to podcasts in many different languages.</voice><break time="5s">
+<voice lang="es">Escucho podcasts en muchos idiomas diferentes.</voice><break time="2s">
+
+<voice lang="en">But I should listen to more language learning materials instead.</voice><break time="5s">
+<voice lang="es">Pero debería escuchar más materiales de aprendizaje de idiomas en su lugar.</voice><break time="2s">
+
+<voice lang="en">Listening to the same sentences again and again is better for developing speaking skills.</voice><break time="5s">
+<voice lang="es">Escuchar las mismas oraciones una y otra vez es mejor para desarrollar habilidades de habla.</voice><break time="2s">
+
+<voice lang="en">Do you ever dream in other languages?</voice><break time="5s">
+<voice lang="es">¿Alguna vez sueñas en otros idiomas?</voice><break time="2s">
+
+<voice lang="en">Yes, I have a lot of crazy dreams.</voice><break time="5s">
+<voice lang="es">Sí, tengo muchos sueños locos.</voice><break time="2s">
+
+<voice lang="en">I often dream in other languages.</voice><break time="5s">
+<voice lang="es">A menudo sueño en otros idiomas.</voice><break time="2s">
+
+<voice lang="en">Do you still think language learning is difficult?</voice><break time="5s">
+<voice lang="es">¿Todavía piensas que aprender idiomas es difícil?</voice><break time="2s">
+
+<voice lang="en">If you learn one thousand good sentences, you can speak the language well.</voice><break time="5s">
+<voice lang="es">Si aprendes mil oraciones buenas, puedes hablar el idioma bien.</voice><break time="2s">
+
+<voice lang="en">You can do that in three months or less.</voice><break time="5s">
+<voice lang="es">Puedes hacer eso en tres meses o menos.</voice><break time="2s">
+
+<voice lang="en">With an effective system and some discipline, you can learn any language fast.</voice><break time="5s">
+<voice lang="es">Con un sistema efectivo y algo de disciplina, puedes aprender cualquier idioma rápido.</voice><break time="2s">
+
+<voice lang="en">How often do you learn languages?</voice><break time="5s">
+<voice lang="es">¿Con qué frecuencia aprendes idiomas?</voice><break time="2s">
+
+<voice lang="en">I learn languages every single day.</voice><break time="5s">
+<voice lang="es">Aprendo idiomas todos los días.</voice><break time="2s">
+
+<voice lang="en">Even when I am on holiday, I keep learning.</voice><break time="5s">
+<voice lang="es">Incluso cuando estoy de vacaciones, sigo aprendiendo.</voice><break time="2s">
+
+<voice lang="en">In fact, I learn languages more when I'm on holiday.</voice><break time="5s">
+<voice lang="es">De hecho, aprendo más idiomas cuando estoy de vacaciones.</voice><break time="2s">
+
+<voice lang="en">I spend several hours a day learning languages.</voice><break time="5s">
+<voice lang="es">Paso varias horas al día aprendiendo idiomas.</voice><break time="2s">
+
+<voice lang="en">The secret to getting good at things is to practice a lot</voice><break time="5s">
+<voice lang="es">El secreto para mejorar en las cosas es practicar mucho</voice><break time="2s">
+
+<voice lang="en">and practice deliberately, with feedback.</voice><break time="5s">
+<voice lang="es">y practicar deliberadamente, con retroalimentación.</voice><break time="2s">
+
+<voice lang="en">Practice makes perfect.</voice><break time="5s">
+<voice lang="es">La práctica hace la perfección.</voice><break time="2s">
+
+<voice lang="en">That's how I learn languages.</voice><break time="5s">
+<voice lang="es">Así es como aprendo idiomas.</voice><break time="2s">
+
+<voice lang="en">How is your language learning going?</voice><break time="5s">
+<voice lang="es">¿Cómo va tu aprendizaje de idiomas?</voice><break time="2s">
+
+El Fin
+<break time="4s">

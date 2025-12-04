@@ -21,7 +21,7 @@ main() {
   local default_input="${HOME}/Documents/AlmondTTS/input/0000-BasicGrammar.txt"
   [[ -f "$default_input" ]] || default_input="${HOME}/Documents/AlmondTTS/input"
 
-  local input_path output_dir language device workers pause_after auto_detect voice_map ref_audio mx_voice_map
+  local input_path output_dir language device workers pause_after auto_detect voice_map ref_audio mx_voice_map slowdown slowdown_engine
   local confirm
 
   input_path=$(prompt "Input file or folder" "$default_input")
@@ -39,6 +39,11 @@ main() {
     ref_audio="${SCRIPT_DIR}/reference_audio/EmotionalIntelligenceClip.wav"
   fi
   voice_map=$(prompt "Voice map JSON" "$mx_voice_map")
+  slowdown=$(prompt "Slowdown factor (<1 slows, >1 speeds, blank disables)" "")
+  slowdown_engine=""
+  if [[ -n "$slowdown" ]]; then
+    slowdown_engine=$(prompt "Slowdown engine (rubberband|sox)" "rubberband")
+  fi
 
   echo
   echo "Launching AlmondTTS with:"
@@ -50,12 +55,20 @@ main() {
   [[ -n "$pause_after" ]] && echo "  pause after : $pause_after s" || echo "  pause after : (use tags/defaults)"
   [[ -n "$voice_map" ]] && echo "  voice map   : $voice_map" || echo "  voice map   : (none)"
   [[ "$auto_detect" =~ ^[Yy]$ ]] && echo "  auto-detect : enabled" || echo "  auto-detect : disabled"
+  if [[ -n "$slowdown" ]]; then
+    echo "  slowdown    : ${slowdown}x tempo (${slowdown_engine})"
+  else
+    echo "  slowdown    : (none)"
+  fi
   echo
 
   cmd=(python3 "${SCRIPT_DIR}/almond_tts.py" "$input_path" --output-dir "$output_dir" --language "$language" --workers "$workers" --device "$device")
   [[ -n "$pause_after" ]] && cmd+=(--pause-after "$pause_after")
   [[ -n "$voice_map" ]] && cmd+=(--voice-map "$voice_map")
   [[ "$auto_detect" =~ ^[Yy]$ ]] && cmd+=(--auto-detect-language)
+  if [[ -n "$slowdown" ]]; then
+    cmd+=(--slowdown-factor "$slowdown" --slowdown-engine "$slowdown_engine")
+  fi
 
   echo "Command:"
   printf '  %q' "${cmd[@]}"

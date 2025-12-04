@@ -1,0 +1,281 @@
+<voice lang="en">Technology and Modern Life</voice><break time="0.5s">
+<voice lang="es">Tecnología y vida moderna</voice><break time="2s">
+
+<voice lang="en">Do you use social media?</voice><break time="5s">
+<voice lang="es">¿Usas redes sociales?</voice><break time="2s">
+
+<voice lang="en">Which social media platforms do you use?</voice><break time="5s">
+<voice lang="es">¿Cuáles plataformas de redes sociales usas?</voice><break time="2s">
+
+<voice lang="en">Do you use Facebook?</voice><break time="5s">
+<voice lang="es">¿Usas Facebook?</voice><break time="2s">
+
+<voice lang="en">Do you use Instagram?</voice><break time="5s">
+<voice lang="es">¿Usas Instagram?</voice><break time="2s">
+
+<voice lang="en">Do you use Twitter?</voice><break time="5s">
+<voice lang="es">¿Usas Twitter?</voice><break time="2s">
+
+<voice lang="en">Do you use LinkedIn?</voice><break time="5s">
+<voice lang="es">¿Usas LinkedIn?</voice><break time="2s">
+
+<voice lang="en">How much time do you spend on social media?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo pasas en redes sociales?</voice><break time="2s">
+
+<voice lang="en">Do you think social media is good or bad?</voice><break time="5s">
+<voice lang="es">¿Crees que las redes sociales son buenas o malas?</voice><break time="2s">
+
+<voice lang="en">Do you post a lot?</voice><break time="5s">
+<voice lang="es">¿Publicas mucho?</voice><break time="2s">
+
+<voice lang="en">Do you prefer to just scroll?</voice><break time="5s">
+<voice lang="es">¿Prefieres solo hacer scroll?</voice><break time="2s">
+
+<voice lang="en">Do you follow many people?</voice><break time="5s">
+<voice lang="es">¿Sigues a mucha gente?</voice><break time="2s">
+
+<voice lang="en">Do you have a smartphone?</voice><break time="5s">
+<voice lang="es">¿Tienes un smartphone?</voice><break time="2s">
+
+<voice lang="en">What kind of phone do you have?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de teléfono tienes?</voice><break time="2s">
+
+<voice lang="en">Do you use an iPhone or Android?</voice><break time="5s">
+<voice lang="es">¿Usas iPhone o Android?</voice><break time="2s">
+
+<voice lang="en">Do you use a laptop or desktop?</voice><break time="5s">
+<voice lang="es">¿Usas laptop o desktop?</voice><break time="2s">
+
+<voice lang="en">Do you use a tablet?</voice><break time="5s">
+<voice lang="es">¿Usas una tablet?</voice><break time="2s">
+
+<voice lang="en">Do you prefer Mac or PC?</voice><break time="5s">
+<voice lang="es">¿Prefieres Mac o PC?</voice><break time="2s">
+
+<voice lang="en">Do you play video games?</voice><break time="5s">
+<voice lang="es">¿Juegas videojuegos?</voice><break time="2s">
+
+<voice lang="en">What games do you play?</voice><break time="5s">
+<voice lang="es">¿Qué juegos juegas?</voice><break time="2s">
+
+<voice lang="en">Do you game on console or PC?</voice><break time="5s">
+<voice lang="es">¿Juegas en consola o PC?</voice><break time="2s">
+
+<voice lang="en">How many hours a day do you use screens?</voice><break time="5s">
+<voice lang="es">¿Cuántas horas al día usas pantallas?</voice><break time="2s">
+
+<voice lang="en">Do you try to limit screen time?</voice><break time="5s">
+<voice lang="es">¿Intentas limitar el tiempo de pantalla?</voice><break time="2s">
+
+<voice lang="en">Do you use the internet a lot?</voice><break time="5s">
+<voice lang="es">¿Usas mucho internet?</voice><break time="2s">
+
+<voice lang="en">What do you use the internet for?</voice><break time="5s">
+<voice lang="es">¿Para qué usas internet?</voice><break time="2s">
+
+<voice lang="en">Do you shop online?</voice><break time="5s">
+<voice lang="es">¿Compras en línea?</voice><break time="2s">
+
+<voice lang="en">Do you watch YouTube?</voice><break time="5s">
+<voice lang="es">¿Ves YouTube?</voice><break time="2s">
+
+<voice lang="en">What kind of videos do you watch?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de videos ves?</voice><break time="2s">
+
+<voice lang="en">Do you listen to podcasts?</voice><break time="5s">
+<voice lang="es">¿Escuchas podcasts?</voice><break time="2s">
+
+<voice lang="en">What podcasts do you listen to?</voice><break time="5s">
+<voice lang="es">¿Qué podcasts escuchas?</voice><break time="2s">
+
+<voice lang="en">Do you use Spotify or Apple Music?</voice><break time="5s">
+<voice lang="es">¿Usas Spotify o Apple Music?</voice><break time="2s">
+
+<voice lang="en">Do you stream music or download it?</voice><break time="5s">
+<voice lang="es">¿Transmitís música o la descargas?</voice><break time="2s">
+
+<voice lang="en">Do you take a lot of photos?</voice><break time="5s">
+<voice lang="es">¿Tomas muchas fotos?</voice><break time="2s">
+
+<voice lang="en">Do you back up your photos?</voice><break time="5s">
+<voice lang="es">¿Haces respaldo de tus fotos?</voice><break time="2s">
+
+<voice lang="en">Do you use cloud storage?</voice><break time="5s">
+<voice lang="es">¿Usas almacenamiento en la nube?</voice><break time="2s">
+
+<voice lang="en">Which cloud service do you use?</voice><break time="5s">
+<voice lang="es">¿Cuál servicio en la nube usas?</voice><break time="2s">
+
+<voice lang="en">Do you worry about privacy online?</voice><break time="5s">
+<voice lang="es">¿Te preocupas por la privacidad en línea?</voice><break time="2s">
+
+<voice lang="en">Do you use a VPN?</voice><break time="5s">
+<voice lang="es">¿Usas una VPN?</voice><break time="2s">
+
+<voice lang="en">Do you use password managers?</voice><break time="5s">
+<voice lang="es">¿Usas gestores de contraseñas?</voice><break time="2s">
+
+<voice lang="en">Do you think AI will change the world?</voice><break time="5s">
+<voice lang="es">¿Crees que la IA cambiará el mundo?</voice><break time="2s">
+
+<voice lang="en">Are you worried about AI?</voice><break time="5s">
+<voice lang="es">¿Estás preocupado por la IA?</voice><break time="2s">
+
+<voice lang="en">Do you use AI tools?</voice><break time="5s">
+<voice lang="es">¿Usas herramientas de IA?</voice><break time="2s">
+
+<voice lang="en">What do you think about cryptocurrency?</voice><break time="5s">
+<voice lang="es">¿Qué piensas de la criptomoneda?</voice><break time="2s">
+
+<voice lang="en">Do you invest in crypto?</voice><break time="5s">
+<voice lang="es">¿Inviertes en cripto?</voice><break time="2s">
+
+<voice lang="en">Do you understand blockchain?</voice><break time="5s">
+<voice lang="es">¿Entiendes blockchain?</voice><break time="2s">
+
+<voice lang="en">Do you think remote work is better?</voice><break time="5s">
+<voice lang="es">¿Crees que el trabajo remoto es mejor?</voice><break time="2s">
+
+<voice lang="en">Do you prefer working from home or the office?</voice><break time="5s">
+<voice lang="es">¿Prefieres trabajar desde casa o la oficina?</voice><break time="2s">
+
+<voice lang="en">Do you use video calls a lot?</voice><break time="5s">
+<voice lang="es">¿Usas mucho videollamadas?</voice><break time="2s">
+
+<voice lang="en">What's your favorite app?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu app favorita?</voice><break time="2s">
+
+<voice lang="en">What app do you use the most?</voice><break time="5s">
+<voice lang="es">¿Cuál app usas más?</voice><break time="2s">
+
+<voice lang="en">Do you delete apps you don't use?</voice><break time="5s">
+<voice lang="es">¿Borrás apps que no usas?</voice><break time="2s">
+
+<voice lang="en">Is your phone always with you?</voice><break time="5s">
+<voice lang="es">¿Tu teléfono siempre está contigo?</voice><break time="2s">
+
+<voice lang="en">Do you check your phone first thing in the morning?</voice><break time="5s">
+<voice lang="es">¿Revisas tu teléfono primero cosa en la mañana?</voice><break time="2s">
+
+<voice lang="en">Do you use your phone before bed?</voice><break time="5s">
+<voice lang="es">¿Usas tu teléfono antes de acostarte?</voice><break time="2s">
+
+<voice lang="en">Do you think we use technology too much?</voice><break time="5s">
+<voice lang="es">¿Crees que usamos demasiada tecnología?</voice><break time="2s">
+
+<voice lang="en">Could you live without your phone for a week?</voice><break time="5s">
+<voice lang="es">¿Podrías vivir sin tu teléfono por una semana?</voice><break time="2s">
+
+<voice lang="en">Could you live without the internet?</voice><break time="5s">
+<voice lang="es">¿Podrías vivir sin internet?</voice><break time="2s">
+
+<voice lang="en">What technology do you wish existed?</voice><break time="5s">
+<voice lang="es">¿Qué tecnología deseas que existiera?</voice><break time="2s">
+
+<voice lang="en">Do you wear a smartwatch?</voice><break time="5s">
+<voice lang="es">¿Usas un reloj inteligente?</voice><break time="2s">
+
+<voice lang="en">What brand of smartwatch do you have?</voice><break time="5s">
+<voice lang="es">¿Qué marca de reloj inteligente tienes?</voice><break time="2s">
+
+<voice lang="en">Do you track your fitness with your watch?</voice><break time="5s">
+<voice lang="es">¿Rastreas tu estado físico con tu reloj?</voice><break time="2s">
+
+<voice lang="en">Do you use wireless headphones?</voice><break time="5s">
+<voice lang="es">¿Usas audífonos inalámbricos?</voice><break time="2s">
+
+<voice lang="en">Do you have AirPods or similar earbuds?</voice><break time="5s">
+<voice lang="es">¿Tienes AirPods o audífonos similares?</voice><break time="2s">
+
+<voice lang="en">Do you use voice assistants like Siri or Alexa?</voice><break time="5s">
+<voice lang="es">¿Usas asistentes de voz como Siri o Alexa?</voice><break time="2s">
+
+<voice lang="en">Do you have smart home devices?</voice><break time="5s">
+<voice lang="es">¿Tienes dispositivos de hogar inteligente?</voice><break time="2s">
+
+<voice lang="en">Do you control your lights with your phone?</voice><break time="5s">
+<voice lang="es">¿Controlas tus luces con tu teléfono?</voice><break time="2s">
+
+<voice lang="en">Do you use contactless payment?</voice><break time="5s">
+<voice lang="es">¿Usas pago sin contacto?</voice><break time="2s">
+
+<voice lang="en">Do you pay with your phone or watch?</voice><break time="5s">
+<voice lang="es">¿Pagas con tu teléfono o reloj?</voice><break time="2s">
+
+<voice lang="en">Do you read e-books or physical books?</voice><break time="5s">
+<voice lang="es">¿Lees libros electrónicos o libros físicos?</voice><break time="2s">
+
+<voice lang="en">Do you have a Kindle or similar device?</voice><break time="5s">
+<voice lang="es">¿Tienes un Kindle o dispositivo similar?</voice><break time="2s">
+
+<voice lang="en">Do you use GPS or navigation apps?</voice><break time="5s">
+<voice lang="es">¿Usas GPS o apps de navegación?</voice><break time="2s">
+
+<voice lang="en">Do you backup your data regularly?</voice><break time="5s">
+<voice lang="es">¿Haces respaldo de tus datos regularmente?</voice><break time="2s">
+
+<voice lang="en">Have you ever lost important data?</voice><break time="5s">
+<voice lang="es">¿Alguna vez perdiste datos importantes?</voice><break time="2s">
+
+<voice lang="en">Do you use two-factor authentication?</voice><break time="5s">
+<voice lang="es">¿Usas autenticación de dos factores?</voice><break time="2s">
+
+<voice lang="en">Do you get notifications on your watch?</voice><break time="5s">
+<voice lang="es">¿Recibes notificaciones en tu reloj?</voice><break time="2s">
+
+<voice lang="en">Do you track your sleep with technology?</voice><break time="5s">
+<voice lang="es">¿Rastreas tu sueño con tecnología?</voice><break time="2s">
+
+<voice lang="en">Do you use ride-sharing apps like Uber?</voice><break time="5s">
+<voice lang="es">¿Usas apps para compartir viajes como Uber?</voice><break time="2s">
+
+<voice lang="en">Do you use food delivery apps?</voice><break time="5s">
+<voice lang="es">¿Usas apps de entrega de comida?</voice><break time="2s">
+
+<voice lang="en">Does your watch monitor your heart rate?</voice><break time="5s">
+<voice lang="es">¿Tu reloj monitorea tu ritmo cardíaco?</voice><break time="2s">
+
+<voice lang="en">Do you check your heart rate during exercise?</voice><break time="5s">
+<voice lang="es">¿Revisas tu ritmo cardíaco durante el ejercicio?</voice><break time="2s">
+
+<voice lang="en">Have you noticed irregular heart rhythms?</voice><break time="5s">
+<voice lang="es">¿Has notado ritmos cardíacos irregulares?</voice><break time="2s">
+
+<voice lang="en">Does your device track your resting heart rate?</voice><break time="5s">
+<voice lang="es">¿Tu dispositivo rastrea tu ritmo cardíaco en reposo?</voice><break time="2s">
+
+<voice lang="en">Do you wear your watch while sleeping?</voice><break time="5s">
+<voice lang="es">¿Usas tu reloj mientras duermes?</voice><break time="2s">
+
+<voice lang="en">How many hours of sleep do you get according to your tracker?</voice><break time="5s">
+<voice lang="es">¿Cuántas horas de sueño obtienes según tu rastreador?</voice><break time="2s">
+
+<voice lang="en">Does your device track deep sleep?</voice><break time="5s">
+<voice lang="es">¿Tu dispositivo rastrea el sueño profundo?</voice><break time="2s">
+
+<voice lang="en">Do you track REM sleep?</voice><break time="5s">
+<voice lang="es">¿Rastreas el sueño REM?</voice><break time="2s">
+
+<voice lang="en">Has sleep tracking helped you sleep better?</voice><break time="5s">
+<voice lang="es">¿El rastreo de sueño te ha ayudado a dormir mejor?</voice><break time="2s">
+
+<voice lang="en">Do you check your sleep score in the morning?</voice><break time="5s">
+<voice lang="es">¿Revisas tu puntuación de sueño en la mañana?</voice><break time="2s">
+
+<voice lang="en">Does your watch measure blood oxygen levels?</voice><break time="5s">
+<voice lang="es">¿Tu reloj mide los niveles de oxígeno en la sangre?</voice><break time="2s">
+
+<voice lang="en">Do you use breathing exercises on your device?</voice><break time="5s">
+<voice lang="es">¿Usas ejercicios de respiración en tu dispositivo?</voice><break time="2s">
+
+<voice lang="en">Does your tracker monitor stress levels?</voice><break time="5s">
+<voice lang="es">¿Tu rastreador monitorea los niveles de estrés?</voice><break time="2s">
+
+<voice lang="en">Do you get alerts if your heart rate is too high?</voice><break time="5s">
+<voice lang="es">¿Recibes alertas si tu ritmo cardíaco está muy alto?</voice><break time="2s">
+
+<voice lang="en">Have you shared your health data with your doctor?</voice><break time="5s">
+<voice lang="es">¿Has compartido tus datos de salud con tu médico?</voice><break time="2s">
+
+El Fin
+<break time="4s">

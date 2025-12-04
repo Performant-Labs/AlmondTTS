@@ -94,5 +94,5 @@
 <voice lang="en">Key members include Felix Ophelia Baukolt and Teresa Milo Youngblood.<break time="6s"></voice>
 <voice lang="es">Entre sus principales miembros figuran Felix Ophelia Baukolt y Teresa Milo Youngblood.<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

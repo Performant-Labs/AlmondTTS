@@ -1,173 +1,311 @@
 <voice lang="en">Useful Phrases<break time="1s"></voice>
 <voice lang="es">Frases Útiles<break time="1s"></voice>
 
-<voice lang="en">Don't worry<break time="5s"></voice>
-<voice lang="es">No se preocupe<break time="3s"></voice>
+<voice lang="en">Don't worry</voice><break time="3s">
+<voice lang="es">No se preocupe</voice><break time="3s">
 
-<voice lang="en">I'm worried<break time="5s"></voice>
-<voice lang="es">Estoy preocupado<break time="3s"></voice>
+<voice lang="en">I'm worried</voice><break time="3s">
+<voice lang="es">Estoy preocupado</voice><break time="3s">
 
-<voice lang="en">I'm not worried<break time="5s"></voice>
-<voice lang="es">No me preocupa<break time="3s"></voice>
+<voice lang="en">I'm not worried</voice><break time="3s">
+<voice lang="es">No me preocupa</voice><break time="3s">
 
-<voice lang="en">That's a shame<break time="5s"></voice>
-<voice lang="es">Es una pena<break time="3s"></voice>
+<voice lang="en">That's a shame</voice><break time="3s">
+<voice lang="es">Es una pena</voice><break time="3s">
 
-<voice lang="en">That's wonderful<break time="5s"></voice>
-<voice lang="es">Eso es maravilloso<break time="3s"></voice>
+<voice lang="en">That's wonderful</voice><break time="3s">
+<voice lang="es">Eso es maravilloso</voice><break time="3s">
 
-<voice lang="en">That doesn't matter<break time="5s"></voice>
-<voice lang="es">Eso no importa<break time="3s"></voice>
+<voice lang="en">That doesn't matter</voice><break time="3s">
+<voice lang="es">Eso no importa</voice><break time="3s">
 
-<voice lang="en">That matters a lot<break time="5s"></voice>
-<voice lang="es">Eso importa mucho<break time="3s"></voice>
+<voice lang="en">That matters a lot</voice><break time="3s">
+<voice lang="es">Eso importa mucho</voice><break time="3s">
 
-<voice lang="en">I can't believe it<break time="5s"></voice>
-<voice lang="es">No me lo puedo creer<break time="3s"></voice>
+<voice lang="en">I can't believe it</voice><break time="3s">
+<voice lang="es">No me lo puedo creer</voice><break time="3s">
 
-<voice lang="en">I believe<break time="5s"></voice>
-<voice lang="en">Creo<break time="2s"></voice>
+<voice lang="en">I believe</voice><break time="3s">
+<voice lang="es">Creo<break time="2s"></voice>
 
-<voice lang="en">I believe it<break time="5s"></voice>
-<voice lang="es">Me lo creo<break time="3s"></voice>
+<voice lang="en">I believe it</voice><break time="3s">
+<voice lang="es">Me lo creo</voice><break time="3s">
 
-<voice lang="en">You're messing with me<break time="5s"></voice>
-<voice lang="es">Me estás tomando el pelo<break time="3s"></voice>
+<voice lang="en">You're messing with me</voice><break time="3s">
+<voice lang="es">Me estás tomando el pelo</voice><break time="3s">
 
-<voice lang="en">I'm serious<break time="5s"></voice>
-<voice lang="es">Lo digo en serio<break time="3s"></voice>
+<voice lang="en">I'm serious</voice><break time="3s">
+<voice lang="es">Lo digo en serio</voice><break time="3s">
 
-<voice lang="en">That's incredible<break time="5s"></voice>
-<voice lang="es">Es increíble<break time="3s"></voice>
+<voice lang="en">That's incredible</voice><break time="3s">
+<voice lang="es">Es increíble</voice><break time="3s">
 
-<voice lang="en">That's boring<break time="5s"></voice>
-<voice lang="es">Eso es aburrido<break time="3s"></voice>
+<voice lang="en">That's boring</voice><break time="3s">
+<voice lang="es">Eso es aburrido</voice><break time="3s">
 
-<voice lang="en">That makes sense<break time="5s"></voice>
-<voice lang="es">Eso tiene sentido<break time="3s"></voice>
+<voice lang="en">That makes sense</voice><break time="3s">
+<voice lang="es">Eso tiene sentido</voice><break time="3s">
 
-<voice lang="en">That's confusing<break time="5s"></voice>
-<voice lang="es">Eso es confuso<break time="3s"></voice>
+<voice lang="en">That's confusing</voice><break time="3s">
+<voice lang="es">Eso es confuso</voice><break time="3s">
 
-<voice lang="en">I have no idea<break time="5s"></voice>
-<voice lang="es">No tengo ni idea<break time="3s"></voice>
+<voice lang="en">I have no idea</voice><break time="3s">
+<voice lang="es">No tengo ni idea</voice><break time="3s">
 
-<voice lang="en">I know exactly<break time="5s"></voice>
-<voice lang="es">Lo sé exactamente<break time="3s"></voice>
+<voice lang="en">I know exactly</voice><break time="3s">
+<voice lang="es">Lo sé exactamente</voice><break time="3s">
 
-<voice lang="en">That's ridiculous<break time="5s"></voice>
-<voice lang="es">Eso es ridículo<break time="3s"></voice>
+<voice lang="en">That's ridiculous</voice><break time="3s">
+<voice lang="es">Eso es ridículo</voice><break time="3s">
 
-<voice lang="en">That's reasonable<break time="5s"></voice>
-<voice lang="es">Es razonable<break time="3s"></voice>
+<voice lang="en">That's reasonable</voice><break time="3s">
+<voice lang="es">Es razonable</voice><break time="3s">
 
-<voice lang="en">I'm exhausted<break time="5s"></voice>
-<voice lang="es">Estoy agotado<break time="3s"></voice>
+<voice lang="en">I'm exhausted</voice><break time="3s">
+<voice lang="es">Estoy agotado</voice><break time="3s">
 
-<voice lang="en">I'm full of energy<break time="5s"></voice>
-<voice lang="es">Estoy lleno de energía<break time="3s"></voice>
+<voice lang="en">I'm full of energy</voice><break time="3s">
+<voice lang="es">Estoy lleno de energía</voice><break time="3s">
 
-<voice lang="en">That's typical<break time="5s"></voice>
-<voice lang="es">Eso es típico<break time="3s"></voice>
+<voice lang="en">That's typical</voice><break time="3s">
+<voice lang="es">Eso es típico</voice><break time="3s">
 
-<voice lang="en">That's unusual<break time="5s"></voice>
-<voice lang="es">Eso es inusual<break time="3s"></voice>
+<voice lang="en">That's unusual</voice><break time="3s">
+<voice lang="es">Eso es inusual</voice><break time="3s">
 
-<voice lang="en">I'm starving<break time="5s"></voice>
-<voice lang="es">Me muero de hambre<break time="3s"></voice>
+<voice lang="en">I'm starving</voice><break time="3s">
+<voice lang="es">Me muero de hambre</voice><break time="3s">
 
-<voice lang="en">I'm dying of thirst<break time="5s"></voice>
-<voice lang="es">Me muero de sed<break time="3s"></voice>
+<voice lang="en">I'm dying of thirst</voice><break time="3s">
+<voice lang="es">Me muero de sed</voice><break time="3s">
 
-<voice lang="en">I'm full<break time="5s"></voice>
-<voice lang="es">Estoy lleno<break time="3s"></voice>
+<voice lang="en">I'm full</voice><break time="3s">
+<voice lang="es">Estoy lleno</voice><break time="3s">
 
-<voice lang="en">What a mess<break time="5s"></voice>
-<voice lang="es">Qué desastre<break time="3s"></voice>
+<voice lang="en">What a mess</voice><break time="3s">
+<voice lang="es">Qué desastre</voice><break time="3s">
 
-<voice lang="en">That's perfect<break time="5s"></voice>
-<voice lang="en">Perfecto<break time="3s"></voice>
+<voice lang="en">That's perfect</voice><break time="3s">
+<voice lang="es">Perfecto</voice><break time="3s">
 
-<voice lang="en">I'm freezing<break time="5s"></voice>
-<voice lang="es">Me estoy congelando<break time="3s"></voice>
+<voice lang="en">I'm freezing</voice><break time="3s">
+<voice lang="es">Me estoy congelando</voice><break time="3s">
 
-<voice lang="en">I'm dying of cold<break time="5s"></voice>
-<voice lang="es">Me muero de frío<break time="3s"></voice>
+<voice lang="en">I'm dying of cold</voice><break time="3s">
+<voice lang="es">Me muero de frío</voice><break time="3s">
 
-<voice lang="en">I'm roasting<break time="5s"></voice>
-<voice lang="es">Me estoy asando<break time="3s"></voice>
+<voice lang="en">I'm roasting</voice><break time="3s">
+<voice lang="es">Me estoy asando</voice><break time="3s">
 
-<voice lang="en">It's super hot<break time="5s"></voice>
-<voice lang="es">Hace un calorón<break time="3s"></voice>
+<voice lang="en">It's super hot</voice><break time="3s">
+<voice lang="es">Hace un calorón</voice><break time="3s">
 
-<voice lang="en">That's funny<break time="5s"></voice>
-<voice lang="es">Qué gracioso<break time="3s"></voice>
+<voice lang="en">That's funny</voice><break time="3s">
+<voice lang="es">Qué gracioso</voice><break time="3s">
 
-<voice lang="en">No way, that's hilarious!<break time="5s"></voice>
-<voice lang="es">¡No manches, qué chistoso!-<break time="3s"></voice>
+<voice lang="en">No way, that's hilarious!</voice><break time="3s">
+<voice lang="es">¡No manches, qué chistoso!-</voice><break time="3s">
 
-<voice lang="en">That's not funny<break time="5s"></voice>
-<voice lang="es">No tiene gracia<break time="0.75s">No es chistoso<break time="3s"></voice>
+<voice lang="en">That's not funny</voice><break time="3s">
+<voice lang="es">No tiene gracia<break time="0.75s">No es chistoso</voice><break time="3s">
 
-<voice lang="en">I've had enough<break time="5s"></voice>
-<voice lang="en">Ya he tenido bastante<break time="3s"></voice>
+<voice lang="en">I've had enough</voice><break time="3s">
+<voice lang="es">Ya he tenido bastante</voice><break time="3s">
 
-<voice lang="en">I haven't had enough<break time="5s"></voice>
-<voice lang="es">No he tenido suficiente<break time="3s"></voice>
+<voice lang="en">I haven't had enough</voice><break time="3s">
+<voice lang="es">No he tenido suficiente</voice><break time="3s">
 
-<voice lang="en">What a nightmare<break time="5s"></voice>
-<voice lang="es">Qué pesadilla<break time="3s"></voice>
+<voice lang="en">What a nightmare</voice><break time="3s">
+<voice lang="es">Qué pesadilla</voice><break time="3s">
 
-<voice lang="en">That's a dream<break time="5s"></voice>
-<voice lang="es">Es un sueño<break time="3s"></voice>
+<voice lang="en">That's a dream</voice><break time="3s">
+<voice lang="es">Es un sueño</voice><break time="3s">
 
-<voice lang="en">I'm not surprised<break time="5s"></voice>
-<voice lang="es">No me sorprende<break time="3s"></voice>
+<voice lang="en">I'm not surprised</voice><break time="3s">
+<voice lang="es">No me sorprende</voice><break time="3s">
 
-<voice lang="en">I'm surprised<break time="5s"></voice>
-<voice lang="es">Estoy sorprendido<break time="3s"></voice>
+<voice lang="en">I'm surprised</voice><break time="3s">
+<voice lang="es">Estoy sorprendido</voice><break time="3s">
 
-<voice lang="en">I'm tired of the same thing<break time="5s"></voice>
-<voice lang="es">Estoy cansado de lo mismo<break time="3s"></voice>
+<voice lang="en">I'm tired of the same thing</voice><break time="3s">
+<voice lang="es">Estoy cansado de lo mismo</voice><break time="3s">
 
-<voice lang="en">I'm fed up<break time="5s"></voice>
-<voice lang="es">Estoy harto<break time="3s"></voice>
+<voice lang="en">I'm fed up</voice><break time="3s">
+<voice lang="es">Estoy harto</voice><break time="3s">
 
-<voice lang="en">I'm fed up (vulgar)<break time="5s"></voice>
-<voice lang="es">Ya estoy hasta la madre<break time="3s"></voice>
+<voice lang="en">I'm fed up (vulgar)</voice><break time="3s">
+<voice lang="es">Ya estoy hasta la madre</voice><break time="3s">
 
-<voice lang="en">I'm pleased<break time="5s"></voice>
-<voice lang="es">Me alegro<break time="3s"></voice>
+<voice lang="en">I'm pleased</voice><break time="3s">
+<voice lang="es">Me alegro</voice><break time="3s">
 
-<voice lang="en">I can't stand it<break time="5s"></voice>
-<voice lang="es">No lo soporto<break time="3s"></voice>
+<voice lang="en">I can't stand it</voice><break time="3s">
+<voice lang="es">No lo soporto</voice><break time="3s">
 
-<voice lang="en">I'm calm<break time="5s"></voice>
-<voice lang="es">Estoy tranquilo<break time="3s"></voice>
+<voice lang="en">I'm calm</voice><break time="3s">
+<voice lang="es">Estoy tranquilo</voice><break time="3s">
 
-<voice lang="en">Bloody hell<break time="5s"></voice>
-<voice lang="es">Maldita sea<break time="3s"></voice>
+<voice lang="en">Bloody hell</voice><break time="3s">
+<voice lang="es">Maldita sea</voice><break time="3s">
 
-<voice lang="en">Damn/Hell<break time="5s"></voice>
-<voice lang="en">Carajo<break time="3s"></voice>
+<voice lang="en">Damn/Hell</voice><break time="3s">
+<voice lang="es">Carajo</voice><break time="3s">
 
-<voice lang="en">Damn/Hell<break time="5s"></voice>
-<voice lang="en">Diablos<break time="3s"></voice>
+<voice lang="en">Damn/Hell</voice><break time="3s">
+<voice lang="es">Diablos</voice><break time="3s">
 
-<voice lang="en">Darn<break time="5s"></voice>
-<voice lang="en">Chin<break time="3s"></voice>
+<voice lang="en">Darn</voice><break time="3s">
+<voice lang="es">Chin</voice><break time="3s">
 
-<voice lang="en">Fair enough<break time="5s"></voice>
-<voice lang="es">Me parece justo<break time="3s"></voice>
+<voice lang="en">Fair enough</voice><break time="3s">
+<voice lang="es">Me parece justo</voice><break time="3s">
 
-<voice lang="en">What a relief<break time="5s"></voice>
-<voice lang="es">Qué alivio<break time="3s"></voice>
+<voice lang="en">What a relief</voice><break time="3s">
+<voice lang="es">Qué alivio</voice><break time="3s">
 
-<voice lang="en">No way<break time="5s"></voice>
-<voice lang="es">De ninguna manera<break time="3s"></voice>
+<voice lang="en">No way</voice><break time="3s">
+<voice lang="es">De ninguna manera</voice><break time="3s">
 
-<voice lang="en">I'm finished<break time="5s"></voice>
-<voice lang="es">Ya terminé<break time="3s"></voice>
+<voice lang="en">I'm finished</voice><break time="3s">
+<voice lang="es">Ya terminé</voice><break time="3s">
 
-En final
-<voice lang="en"><break time="4s"></voice>
+<voice lang="en">It embarrasses me</voice><break time="3s">
+<voice lang="es">Me da vergüenza</voice><break time="3s">
+
+<voice lang="en">It makes me happy that</voice><break time="3s">
+<voice lang="es">Me alegra que</voice><break time="3s">
+
+<voice lang="en">It saddens me</voice><break time="3s">
+<voice lang="es">Me entristece</voice><break time="3s">
+
+<voice lang="en">It bothers me</voice><break time="3s">
+<voice lang="es">Me molesta</voice><break time="3s">
+
+<voice lang="en">It frustrates me</voice><break time="3s">
+<voice lang="es">Me frustra</voice><break time="3s">
+
+<voice lang="en">I'm disappointed</voice><break time="3s">
+<voice lang="es">Estoy decepcionado</voice><break time="3s">
+
+<voice lang="en">I'm nervous</voice><break time="3s">
+<voice lang="es">Estoy nervioso</voice><break time="3s">
+
+<voice lang="en">I'm excited</voice><break time="3s">
+<voice lang="es">Estoy emocionado</voice><break time="3s">
+
+<voice lang="en">I'm scared</voice><break time="3s">
+<voice lang="es">Tengo miedo</voice><break time="3s">
+
+<voice lang="en">It scares me</voice><break time="3s">
+<voice lang="es">Me da miedo</voice><break time="3s">
+
+<voice lang="en">I'm anxious</voice><break time="3s">
+<voice lang="es">Estoy ansioso</voice><break time="3s">
+
+<voice lang="en">I'm grateful</voice><break time="3s">
+<voice lang="es">Estoy agradecido</voice><break time="3s">
+
+<voice lang="en">It bothers me</voice><break time="3s">
+<voice lang="es">Me choca</voice><break time="3s">
+
+<voice lang="en">That's impressive</voice><break time="3s">
+<voice lang="es">Es impresionante</voice><break time="3s">
+
+<voice lang="en">That's disappointing</voice><break time="3s">
+<voice lang="es">Es decepcionante</voice><break time="3s">
+
+<voice lang="en">That's unacceptable</voice><break time="3s">
+<voice lang="es">Es inaceptable</voice><break time="3s">
+
+<voice lang="en">That's acceptable</voice><break time="3s">
+<voice lang="es">Es aceptable</voice><break time="3s">
+
+<voice lang="en">That's fair</voice><break time="3s">
+<voice lang="es">Es justo</voice><break time="3s">
+
+<voice lang="en">That's unfair</voice><break time="3s">
+<voice lang="es">Es injusto</voice><break time="3s">
+
+<voice lang="en">That's complicated</voice><break time="3s">
+<voice lang="es">Es complicado</voice><break time="3s">
+
+<voice lang="en">That's simple</voice><break time="3s">
+<voice lang="es">Es sencillo</voice><break time="3s">
+
+<voice lang="en">That's obvious</voice><break time="3s">
+<voice lang="es">Es obvio</voice><break time="3s">
+
+<voice lang="en">That's strange</voice><break time="3s">
+<voice lang="es">Es extraño</voice><break time="3s">
+
+<voice lang="en">That's normal</voice><break time="3s">
+<voice lang="es">Es normal</voice><break time="3s">
+
+<voice lang="en">That's exaggerated</voice><break time="3s">
+<voice lang="es">Es exagerado</voice><break time="3s">
+
+<voice lang="en">I doubt it</voice><break time="3s">
+<voice lang="es">Lo dudo</voice><break time="3s">
+
+<voice lang="en">I'm sure</voice><break time="3s">
+<voice lang="es">Estoy seguro</voice><break time="3s">
+
+<voice lang="en">I'm not sure</voice><break time="3s">
+<voice lang="es">No estoy seguro</voice><break time="3s">
+
+<voice lang="en">It seems to me that</voice><break time="3s">
+<voice lang="es">Me parece que</voice><break time="3s">
+
+<voice lang="en">I suppose</voice><break time="3s">
+<voice lang="es">Supongo</voice><break time="3s">
+
+<voice lang="en">I imagine</voice><break time="3s">
+<voice lang="es">Me imagino</voice><break time="3s">
+
+<voice lang="en">I prefer</voice><break time="3s">
+<voice lang="es">Prefiero</voice><break time="3s">
+
+<voice lang="en">It depends</voice><break time="3s">
+<voice lang="es">Depende</voice><break time="3s">
+
+<voice lang="en">I'm comfortable</voice><break time="3s">
+<voice lang="es">Estoy cómodo</voice><break time="3s">
+
+<voice lang="en">I'm uncomfortable</voice><break time="3s">
+<voice lang="es">Estoy incómodo</voice><break time="3s">
+
+<voice lang="en">I'm stressed</voice><break time="3s">
+<voice lang="es">Estoy estresado</voice><break time="3s">
+
+<voice lang="en">I'm relaxed</voice><break time="3s">
+<voice lang="es">Estoy relajado</voice><break time="3s">
+
+<voice lang="en">I'm confused</voice><break time="3s">
+<voice lang="es">Estoy confundido</voice><break time="3s">
+
+<voice lang="en">I'm dizzy</voice><break time="3s">
+<voice lang="es">Estoy mareado</voice><break time="3s">
+
+<voice lang="en">My head hurts</voice><break time="3s">
+<voice lang="es">Me duele la cabeza</voice><break time="3s">
+
+<voice lang="en">I totally agree</voice><break time="3s">
+<voice lang="es">Estoy totalmente de acuerdo</voice><break time="3s">
+
+<voice lang="en">I disagree</voice><break time="3s">
+<voice lang="es">No estoy de acuerdo</voice><break time="3s">
+
+<voice lang="en">You're right</voice><break time="3s">
+<voice lang="es">Tienes razón</voice><break time="3s">
+
+<voice lang="en">You're wrong</voice><break time="3s">
+<voice lang="es">Estás equivocado</voice><break time="3s">
+
+<voice lang="en">Exactly</voice><break time="3s">
+<voice lang="es">Exacto</voice><break time="3s">
+
+<voice lang="en">Not exactly</voice><break time="3s">
+<voice lang="es">No exactamente</voice><break time="3s">
+
+El final
+<break time="4s">

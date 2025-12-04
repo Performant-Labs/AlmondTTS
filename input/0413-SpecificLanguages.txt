@@ -1,0 +1,266 @@
+<voice lang="en">Specific Languages and Communication</voice><break time="0.5s">
+<voice lang="es">Idiomas específicos y comunicación</voice><break time="2s">
+
+<voice lang="en">Do you speak Russian?</voice><break time="5s">
+<voice lang="es">¿Hablas ruso?</voice><break time="2s">
+
+<voice lang="en">I can speak a little Arabic.</voice><break time="5s">
+<voice lang="es">Puedo hablar un poco de árabe.</voice><break time="2s">
+
+<voice lang="en">I am learning Spanish now.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo español ahora.</voice><break time="2s">
+
+<voice lang="en">Do you speak Greek?</voice><break time="5s">
+<voice lang="es">¿Hablas griego?</voice><break time="2s">
+
+<voice lang="en">I can speak a little bit of Greek.</voice><break time="5s">
+<voice lang="es">Puedo hablar un poco de griego.</voice><break time="2s">
+
+<voice lang="en">I still don't understand it very well.</voice><break time="5s">
+<voice lang="es">Todavía no lo entiendo muy bien.</voice><break time="2s">
+
+<voice lang="en">You can speak Russian?</voice><break time="5s">
+<voice lang="es">¿Puedes hablar ruso?</voice><break time="2s">
+
+<voice lang="en">Why are you asking?</voice><break time="5s">
+<voice lang="es">¿Por qué lo preguntas?</voice><break time="2s">
+
+<voice lang="en">Yes, I can speak Russian if you want.</voice><break time="5s">
+<voice lang="es">Sí, puedo hablar ruso si quieres.</voice><break time="2s">
+
+<voice lang="en">But you won't understand anything.</voice><break time="5s">
+<voice lang="es">Pero no entenderás nada.</voice><break time="2s">
+
+<voice lang="en">You could learn the language fast if you wanted to.</voice><break time="5s">
+<voice lang="es">Podrías aprender el idioma rápido si quisieras.</voice><break time="2s">
+
+<voice lang="en">I could help you learn.</voice><break time="5s">
+<voice lang="es">Podría ayudarte a aprender.</voice><break time="2s">
+
+<voice lang="en">I can help you learn, if you want to.</voice><break time="5s">
+<voice lang="es">Puedo ayudarte a aprender, si quieres.</voice><break time="2s">
+
+<voice lang="en">If you want to speak Romanian with me, you should learn it.</voice><break time="5s">
+<voice lang="es">Si quieres hablar rumano conmigo, deberías aprenderlo.</voice><break time="2s">
+
+<voice lang="en">Sorry, I didn't understand, could you repeat that?</voice><break time="5s">
+<voice lang="es">Lo siento, no entendí, ¿puedes repetirlo?</voice><break time="2s">
+
+<voice lang="en">I am still learning.</voice><break time="5s">
+<voice lang="es">Todavía estoy aprendiendo.</voice><break time="2s">
+
+<voice lang="en">I still have a lot to learn.</voice><break time="5s">
+<voice lang="es">Todavía tengo mucho que aprender.</voice><break time="2s">
+
+<voice lang="en">Can you speak more slowly?</voice><break time="5s">
+<voice lang="es">¿Puedes hablar más despacio?</voice><break time="2s">
+
+<voice lang="en">I still don't understand very well.</voice><break time="5s">
+<voice lang="es">Todavía no entiendo muy bien.</voice><break time="2s">
+
+<voice lang="en">Why do you speak Arabic?</voice><break time="5s">
+<voice lang="es">¿Por qué hablas árabe?</voice><break time="2s">
+
+<voice lang="en">I speak a little Arabic because I like learning languages.</voice><break time="5s">
+<voice lang="es">Hablo un poco de árabe porque me gusta aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">Arabic is a very useful language for business.</voice><break time="5s">
+<voice lang="es">El árabe es un idioma muy útil para los negocios.</voice><break time="2s">
+
+<voice lang="en">Why do you speak Ukrainian?</voice><break time="5s">
+<voice lang="es">¿Por qué hablas ucraniano?</voice><break time="2s">
+
+<voice lang="en">I know a lot of Ukrainians.</voice><break time="5s">
+<voice lang="es">Conozco a muchos ucranianos.</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Ukraine?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en Ucrania?</voice><break time="2s">
+
+<voice lang="en">I have been to Ukraine. I have friends in Ukraine.</voice><break time="5s">
+<voice lang="es">He estado en Ucrania. Tengo amigos en Ucrania.</voice><break time="2s">
+
+<voice lang="en">What other languages do you speak?</voice><break time="5s">
+<voice lang="es">¿Qué otros idiomas hablas?</voice><break time="2s">
+
+<voice lang="en">Which languages do you speak?</voice><break time="5s">
+<voice lang="es">¿Cuáles idiomas hablas?</voice><break time="2s">
+
+<voice lang="en">Do you speak many languages?</voice><break time="5s">
+<voice lang="es">¿Hablas muchos idiomas?</voice><break time="2s">
+
+<voice lang="en">Why do you speak so many languages?</voice><break time="5s">
+<voice lang="es">¿Por qué hablas tantos idiomas?</voice><break time="2s">
+
+<voice lang="en">Which language are you speaking now?</voice><break time="5s">
+<voice lang="es">¿Qué idioma estás hablando ahora?</voice><break time="2s">
+
+<voice lang="en">How many people speak Basque?</voice><break time="5s">
+<voice lang="es">¿Cuántas personas hablan vasco?</voice><break time="2s">
+
+<voice lang="en">Can you read Arabic?</voice><break time="5s">
+<voice lang="es">¿Puedes leer árabe?</voice><break time="2s">
+
+<voice lang="en">No, I can't read Arabic. But I will learn someday.</voice><break time="5s">
+<voice lang="es">No, no puedo leer árabe. Pero lo aprenderé algún día.</voice><break time="2s">
+
+<voice lang="en">You speak Arabic very well.</voice><break time="5s">
+<voice lang="es">Hablas árabe muy bien.</voice><break time="2s">
+
+<voice lang="en">Thank you but I still have a lot to learn.</voice><break time="5s">
+<voice lang="es">Gracias pero todavía tengo mucho que aprender.</voice><break time="2s">
+
+<voice lang="en">But I enjoy speaking it.</voice><break time="5s">
+<voice lang="es">Pero disfruto hablándolo.</voice><break time="2s">
+
+<voice lang="en">Why do you learn so many languages?</voice><break time="5s">
+<voice lang="es">¿Por qué aprendes tantos idiomas?</voice><break time="2s">
+
+<voice lang="en">It was one of my hobbies and now it's my business too.</voice><break time="5s">
+<voice lang="es">Era uno de mis hobbies y ahora también es mi negocio.</voice><break time="2s">
+
+<voice lang="en">I like traveling, reading and listening to podcasts, so learning languages is easy for me.</voice><break time="5s">
+<voice lang="es">Me gusta viajar, leer y escuchar podcasts, así que aprender idiomas es fácil para mí.</voice><break time="2s">
+
+<voice lang="en">How did you learn so many languages?</voice><break time="5s">
+<voice lang="es">¿Cómo aprendiste tantos idiomas?</voice><break time="2s">
+
+<voice lang="en">I read a lot and I listen to podcasts.</voice><break time="5s">
+<voice lang="es">Leo mucho y escucho podcasts.</voice><break time="2s">
+
+<voice lang="en">I like talking to people too.</voice><break time="5s">
+<voice lang="es">También me gusta hablar con la gente.</voice><break time="2s">
+
+<voice lang="en">You must be really intelligent to know so many languages!</voice><break time="5s">
+<voice lang="es">¡Debes ser realmente inteligente para saber tantos idiomas!</voice><break time="2s">
+
+<voice lang="en">I don't think it's a matter of intelligence.</voice><break time="5s">
+<voice lang="es">No creo que sea cuestión de inteligencia.</voice><break time="2s">
+
+<voice lang="en">I wasn't a particularly good student in school.</voice><break time="5s">
+<voice lang="es">No era un estudiante particularmente bueno en la escuela.</voice><break time="2s">
+
+<voice lang="en">In fact, I was always distracted and bored in class.</voice><break time="5s">
+<voice lang="es">De hecho, siempre estaba distraído y aburrido en clase.</voice><break time="2s">
+
+<voice lang="en">I always forgot to do homework and struggled to pass exams.</voice><break time="5s">
+<voice lang="es">Siempre olvidaba hacer la tarea y luchaba para aprobar exámenes.</voice><break time="2s">
+
+<voice lang="en">I am really passionate about learning languages,</voice><break time="5s">
+<voice lang="es">Estoy realmente apasionado por aprender idiomas,</voice><break time="2s">
+
+<voice lang="en">so I am always learning and always trying new methods to learn faster.</voice><break time="5s">
+<voice lang="es">así que siempre estoy aprendiendo y siempre probando nuevos métodos para aprender más rápido.</voice><break time="2s">
+
+<voice lang="en">Speaking a lot of languages gives you a lot of opportunities, both professionally and personally.</voice><break time="5s">
+<voice lang="es">Hablar muchos idiomas te da muchas oportunidades, tanto profesionales como personales.</voice><break time="2s">
+
+<voice lang="en">It has made my life so much better.</voice><break time="5s">
+<voice lang="es">Ha hecho mi vida mucho mejor.</voice><break time="2s">
+
+<voice lang="en">Why do you speak Dutch?</voice><break time="5s">
+<voice lang="es">¿Por qué hablas holandés?</voice><break time="2s">
+
+<voice lang="en">I like the way Dutch sounds and I liked the Netherlands when I was there on holiday.</voice><break time="5s">
+<voice lang="es">Me gusta cómo suena el holandés y me gustó los Países Bajos cuando estuve allí de vacaciones.</voice><break time="2s">
+
+<voice lang="en">Also, it is easy to learn Dutch if you already speak English and German.</voice><break time="5s">
+<voice lang="es">Además, es fácil aprender holandés si ya hablas inglés y alemán.</voice><break time="2s">
+
+<voice lang="en">How did you learn Russian?</voice><break time="5s">
+<voice lang="es">¿Cómo aprendiste ruso?</voice><break time="2s">
+
+<voice lang="en">I learned online and by speaking to friends.</voice><break time="5s">
+<voice lang="es">Aprendí en línea y hablando con amigos.</voice><break time="2s">
+
+<voice lang="en">I learned Russian on my own.</voice><break time="5s">
+<voice lang="es">Aprendí ruso por mi cuenta.</voice><break time="2s">
+
+<voice lang="en">I read a lot of books in Russian and listen to podcasts.</voice><break time="5s">
+<voice lang="es">Leo muchos libros en ruso y escucho podcasts.</voice><break time="2s">
+
+<voice lang="en">There is a lot of interesting content in Russian on the internet.</voice><break time="5s">
+<voice lang="es">Hay mucho contenido interesante en ruso en internet.</voice><break time="2s">
+
+<voice lang="en">Do you speak Catalan?</voice><break time="5s">
+<voice lang="es">¿Hablas catalán?</voice><break time="2s">
+
+<voice lang="en">I speak a little Catalan.</voice><break time="5s">
+<voice lang="es">Hablo un poco de catalán.</voice><break time="2s">
+
+<voice lang="en">I learned Catalan very fast.</voice><break time="5s">
+<voice lang="es">Aprendí catalán muy rápido.</voice><break time="2s">
+
+<voice lang="en">It is an easy language if you speak Spanish and French.</voice><break time="5s">
+<voice lang="es">Es un idioma fácil si hablas español y francés.</voice><break time="2s">
+
+<voice lang="en">I like speaking Catalan.</voice><break time="5s">
+<voice lang="es">Me gusta hablar catalán.</voice><break time="2s">
+
+<voice lang="en">Do you speak Romanian?</voice><break time="5s">
+<voice lang="es">¿Hablas rumano?</voice><break time="2s">
+
+<voice lang="en">I speak Romanian well.</voice><break time="5s">
+<voice lang="es">Hablo bien rumano.</voice><break time="2s">
+
+<voice lang="en">It is a romance language so it is not very difficult for me.</voice><break time="5s">
+<voice lang="es">Es un idioma romance así que no es muy difícil para mí.</voice><break time="2s">
+
+<voice lang="en">Do you speak Croatian?</voice><break time="5s">
+<voice lang="es">¿Hablas croata?</voice><break time="2s">
+
+<voice lang="en">I speak a little Croatian.</voice><break time="5s">
+<voice lang="es">Hablo un poco de croata.</voice><break time="2s">
+
+<voice lang="en">I am learning Croatian now.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo croata ahora.</voice><break time="2s">
+
+<voice lang="en">Really? You speak Croatian?</voice><break time="5s">
+<voice lang="es">¿En serio? ¿Hablas croata?</voice><break time="2s">
+
+<voice lang="en">Why are you learning Croatian?</voice><break time="5s">
+<voice lang="es">¿Por qué estás aprendiendo croata?</voice><break time="2s">
+
+<voice lang="en">I am learning because I am going on holiday to Croatia next year.</voice><break time="5s">
+<voice lang="es">Estoy aprendiendo porque voy de vacaciones a Croacia el próximo año.</voice><break time="2s">
+
+<voice lang="en">Is Croatian difficult?</voice><break time="5s">
+<voice lang="es">¿Es difícil el croata?</voice><break time="2s">
+
+<voice lang="en">No, Croatian is not difficult for me.</voice><break time="5s">
+<voice lang="es">No, el croata no es difícil para mí.</voice><break time="2s">
+
+<voice lang="en">Maybe it is difficult for some people, but not for people who speak Slavic languages.</voice><break time="5s">
+<voice lang="es">Tal vez es difícil para algunas personas, pero no para gente que habla idiomas eslavos.</voice><break time="2s">
+
+<voice lang="en">If you speak a Slavic language, learning Croatian is easy.</voice><break time="5s">
+<voice lang="es">Si hablas un idioma eslavo, aprender croata es fácil.</voice><break time="2s">
+
+<voice lang="en">I think the languages are very similar to each other.</voice><break time="5s">
+<voice lang="es">Creo que los idiomas son muy similares entre sí.</voice><break time="2s">
+
+<voice lang="en">They could all speak to each other and understand each other.</voice><break time="5s">
+<voice lang="es">Podrían todos hablar entre sí y entenderse.</voice><break time="2s">
+
+<voice lang="en">Croatian is similar to Russian in many ways.</voice><break time="5s">
+<voice lang="es">El croata es similar al ruso en muchas formas.</voice><break time="2s">
+
+<voice lang="en">But pronunciation is very different.</voice><break time="5s">
+<voice lang="es">Pero la pronunciación es muy diferente.</voice><break time="2s">
+
+<voice lang="en">It sounds much more Mediterranean. I like it.</voice><break time="5s">
+<voice lang="es">Suena mucho más mediterráneo. Me gusta.</voice><break time="2s">
+
+<voice lang="en">I can see some influence from Italian or Greek.</voice><break time="5s">
+<voice lang="es">Puedo ver alguna influencia del italiano o griego.</voice><break time="2s">
+
+<voice lang="en">I happen to speak French too!</voice><break time="5s">
+<voice lang="es">¡Resulta que también hablo francés!</voice><break time="2s">
+
+<voice lang="en">Given that I don't get many opportunities to practice,</voice><break time="5s">
+<voice lang="es">Dado que no tengo muchas oportunidades para practicar,</voice><break time="2s">
+
+<voice lang="en">I suggest we speak French for the rest of the conversation.</voice><break time="5s">
+<voice lang="es">sugiero que hablemos francés por el resto de la conversación.</voice><break time="2s">
+
+El Fin
+<break time="4s">

@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Eight</voice><break time="2s"/>
+<voice lang="es">Frases — Número ocho</voice><break time="2s"/>
+
+<voice lang="en">The absorption of the ink was intense and left an eternal stain.</voice><break time="5s">
+<voice lang="es">La absorción de la tinta fue intensa y dejó una mancha eterna.</voice><break time="2s">
+
+<voice lang="en">The family avoids abuse and fosters daily ways of forgiveness.</voice><break time="5s">
+<voice lang="es">La familia evita el abuso y fomenta maneras de perdón cotidianas.</voice><break time="2s">
+
+<voice lang="en">The Body governs labor regulations, although labor accessibility still fails.</voice><break time="5s">
+<voice lang="es">El Órgano rige normativas laborales, aunque la accesibilidad laboral todavía falla.</voice><break time="2s">
+
+<voice lang="en">Educational establishments will guarantee equitable access and will finance innovation to improve performance.</voice><break time="5s">
+<voice lang="es">Los establecimientos educativos garantizarán el acceso equitativo y financiarán la innovación para mejorar el rendimiento.</voice><break time="2s">
+
+<voice lang="en">Access to cocoa will be optimized because junk and imports will avoid being carried out.</voice><break time="5s">
+<voice lang="es">Los accesos al cacao se optimizaciónporque chatarra y importaciones evitar realizarán.</voice><break time="2s">
+
+<voice lang="en">Free children's enrollment will allow renewing educational stages and avoiding frequent school accidents.</voice><break time="5s">
+<voice lang="es">La matrícula infantil gratuita permitirá renovar las etapas educativas y evitar los accidentes escolares frecuentes.</voice><break time="2s">
+
+<voice lang="en">The mayor's action convinced the allies and reversed the crimes in the neighborhood.</voice><break time="5s">
+<voice lang="es">La acción del munícipe convenció a los aliados y revirtió los crímenes en la colonia.</voice><break time="2s">
+
+<voice lang="en">The Open Museum will promote in-person scientific meetings, generating unparalleled human integration.</voice><break time="5s">
+<voice lang="es">El Museo Abierto impulsará encuentros científicos presenciales, generando una integración humana inigualable.</voice><break time="2s">
+
+<voice lang="en">Intrigue distresses the brain, although careful approach provides certain preservation.</voice><break time="5s">
+<voice lang="es">La intriga angustia al cerebro, aunque el acercamiento cuidadoso proporciona cierta preservación.</voice><break time="2s">
+
+<voice lang="en">I always do open practices early and then request administrative permits.</voice><break time="5s">
+<voice lang="es">Siempre realizo prácticas abiertas temprano y luego pido permisos administrativos.</voice><break time="2s">
+
+<voice lang="en">I want the conditioned office to have friendly emergencies and a convenient infirmary.</voice><break time="5s">
+<voice lang="es">Quiero que el consultorio acondicionado tenga urgencias amigables y una enfermería conveniente.</voice><break time="2s">
+
+<voice lang="en">I wish that accredited specialists observe the western eagle without causing depression.</voice><break time="5s">
+<voice lang="es">Deseo que acreditados especialistas observen el águila occidental sin causar depresión.</voice><break time="2s">
+
+<voice lang="en">Acteal brings together jazz enthusiasts and offers soft but absolute food.</voice><break time="5s">
+<voice lang="es">Acteal reúne a aficionados al jazz y ofrece comida suave pero absoluta.</voice><break time="2s">
+
+<voice lang="en">Daily I do active exercises at home and then participate in talks.</voice><break time="5s">
+<voice lang="es">Diariamente realizo ejercicios activos en casa y luego participo en pláticas.</voice><break time="2s">
+
+<voice lang="en">The administrator wants the bank to pay the mortgage, but I lose confidence.</voice><break time="5s">
+<voice lang="es">La administradora quiere que el banco pague la hipoteca, pero pierdo la confianza.</voice><break time="2s">
+
+<voice lang="en">The explorer enjoys occasional banquets and the administrative entity allows recreational amenities.</voice><break time="5s">
+<voice lang="es">El explorador disfruta de banquetes ocasionales y la entidad administrativa permite amenidades recreativas.</voice><break time="2s">
+
+<voice lang="en">The Administrative band started unforgettable private concerts and published subsequent judicial reports.</voice><break time="5s">
+<voice lang="es">La banda Administrativa inició conciertos privados inolvidables y publicó informes judiciales posteriores.</voice><break time="2s">
+
+<voice lang="en">The agrarian agent selling expensive cookies made popular rural gardens grow.</voice><break time="5s">
+<voice lang="es">El agente agrario vendiendo cookies caras hizo crecer jardines rurales populares.</voice><break time="2s">
+
+<voice lang="en">I always work at the agricultural establishment and then take healthy careers.</voice><break time="5s">
+<voice lang="es">Siempre trabajo en el establecimiento agrícola y después tomo carreras saludables.</voice><break time="2s">
+
+<voice lang="en">Currently we travel comfortably; the sewage system accompanies the luggage and the seat without problems.</voice><break time="5s">
+<voice lang="es">Actualmente viajamos cómodamente; el alcantarillado acompaña al equipaje y al asiento sin problemas.</voice><break time="2s">
+
+<voice lang="en">I would like the food authority to ensure compatible and mandatory drinkable subsidies.</voice><break time="5s">
+<voice lang="es">Quisiera que la autoridad alimentaria asegure subsidios potables compatibles y obligatorios.</voice><break time="2s">
+
+<voice lang="en">Although the mind suffers blows, the internal defense strengthens like steel.</voice><break time="5s">
+<voice lang="es">Aunque la mente sufra golpes, la defensa interna se fortalece como el acero.</voice><break time="2s">
+
+<voice lang="en">I only train marathon daily and maintain high physical motivation now.</voice><break time="5s">
+<voice lang="es">Solo entreno maratón diariamente y mantengo alta motivación física ahora.</voice><break time="2s">
+
+<voice lang="en">We want the High Senate to consider the nullity given the mentioned gravity.</voice><break time="5s">
+<voice lang="es">Queremos que el Alto Senado considere la nulidad dada la gravedad mencionada.</voice><break time="2s">
+
+<voice lang="en">Today I normally begin high trainings and then listen to music in front of the screen.</voice><break time="5s">
+<voice lang="es">Hoy normalmente comienzo altos entrenamientos y después escucho música frente a la pantalla.</voice><break time="2s">
+
+<voice lang="en">Guaranteed imparted American profession shares practical readings and ethical stimuli.</voice><break time="5s">
+<voice lang="es">Profesión americana impartida garantizada comparte lecturas prácticas y estímulos éticos.</voice><break time="2s">
+
+<voice lang="en">My dear house, surrounded by babies, was constituted as the unforgettable Americas.</voice><break time="5s">
+<voice lang="es">Mi querida casa, rodeada de bebés, quedó constituida como la inolvidable Américas.</voice><break time="2s">
+
+<voice lang="en">Our labor heritage grows because we promote hiring and entrepreneurship of new collective projects.</voice><break time="5s">
+<voice lang="es">Nuestro acervo laboral crece porque fomentamos las contrataciones y el emprendimiento de nuevos proyectos colectivos.</voice><break time="2s">
+
+<voice lang="en">The strategist pointed out successes and the magazine published comments of gratitude.</voice><break time="5s">
+<voice lang="es">El estratega señaló aciertos y la revista publicó comentarios de agradecimiento.</voice><break time="2s">
+
+<voice lang="en">I think the Old Party will win the governorship in this era.</voice><break time="5s">
+<voice lang="es">Pienso que el Antiguo Partido ganará la gubernatura en esta época.</voice><break time="2s">
+
+<voice lang="en">The secretary presented the annual calendar and explained the following budgetary decisions.</voice><break time="5s">
+<voice lang="es">El secretario presentó el calendario anual y explicó las siguientes decisiones presupuestarias.</voice><break time="2s">
+
+<voice lang="en">Applied and courteous, orderly, we search at home; the nearby clay also attracts us.</voice><break time="5s">
+<voice lang="es">Aplicada y cortés, ordenados, buscamos en casa; el barro cercano también nos atrae.</voice><break time="2s">
+
+<voice lang="en">The approved deputy spoke with direct tone and decided to fight.</voice><break time="5s">
+<voice lang="es">El diputado aprobado habló con tono directo y decidió luchar.</voice><break time="2s">
+
+<voice lang="en">Armed athletes take care of their health quickly and applying clinical methodologies.</voice><break time="5s">
+<voice lang="es">Las deportistas armadas cuidan su salud con rapidez y aplicando metodologías clínicas.</voice><break time="2s">
+
+<voice lang="en">Competent associated personalities work hard, contribute efficiency and improve work contexts.</voice><break time="5s">
+<voice lang="es">Personalidades asociadas competentes trabajan duro, aportan eficacia y mejoran los contextos laborales.</voice><break time="2s">
+
+<voice lang="en">The house, combined with affection, creates an authentic and dignified approach.</voice><break time="5s">
+<voice lang="es">La casa, aunada al cariño, crea un enfoque auténtico y digno.</voice><break time="2s">
+
+<voice lang="en">Today I read the book "Avanzada" and then carefully plan the work closures.</voice><break time="5s">
+<voice lang="es">Hoy leo el libro "Avanzada" y después planeo los cierres laborales cuidadosamente.</voice><break time="2s">
+
+<voice lang="en">The Mexican avenue contains artistic galleries and photographic cameras that are enchanting to visit.</voice><break time="5s">
+<voice lang="es">La avenida mexicana contiene galerías artísticas y cámaras fotográficas que encantan visitar.</voice><break time="2s">
+
+<voice lang="en">It feels very Blue indeed.</voice><break time="5s">
+<voice lang="es">Se siente muy Azul en verdad.</voice><break time="2s">
+
+<voice lang="en">The mathematical aerial tuition leads to public, fast and participatory classes.</voice><break time="5s">
+<voice lang="es">La colegiatura aérea matemática conduce a clases públicas, rápidas y participativas.</voice><break time="2s">
+
+<voice lang="en">Banking correction is necessary and it's the legislative leader's responsibility.</voice><break time="5s">
+<voice lang="es">La corrección bancaria es necesaria y compete al dirigente legislativo.</voice><break time="2s">
+
+<voice lang="en">It always turns out Beautiful for many.</voice><break time="5s">
+<voice lang="es">Resulta siempre Bellas para muchos.</voice><break time="2s">
+
+<voice lang="en">The owner performs labor procedures and provides clarifications when work problems arise.</voice><break time="5s">
+<voice lang="es">El propietario realiza gestiones laborales y brinda aclaraciones cuando surgen problemas laborales.</voice><break time="2s">
+
+<voice lang="en">I finish my morning routine early and then enjoy an entertaining biennial reading.</voice><break time="5s">
+<voice lang="es">Acabo temprano mi rutina matutina y luego disfruto de una lectura bienal entretenida.</voice><break time="2s">
+
+<voice lang="en">Welcome, audiovisual creator, you will enjoy a fantastic combination of photography and audiovisual effects.</voice><break time="5s">
+<voice lang="es">Bienvenido, creador audiovisual, disfrutará de una fantástica combinación de fotografía y efectos audiovisuales.</voice><break time="2s">
+
+<voice lang="en">The tenor performs chords and the cat watches the novel.</voice><break time="5s">
+<voice lang="es">El tenor interpreta acordes y el gato mira la novela.</voice><break time="2s">
+
+<voice lang="en">It's clearly Biological for everyone today.</voice><break time="5s">
+<voice lang="es">Es claramente Biológicas para todos hoy.</voice><break time="2s">
+
+<voice lang="en">The stay was full of pop, and Biochemistry provided marimba.</voice><break time="5s">
+<voice lang="es">La estadía estuvo llena de pop, y la Bioquímica brindó marimba.</voice><break time="2s">
+
+<voice lang="en">A good defender will investigate frequent failures and establish critical foundations for reconstruction.</voice><break time="5s">
+<voice lang="es">Un buen defensor investigará las fallas frecuentes y establecerá fundamentos críticos para la reconstrucción.</voice><break time="2s">
+
+<voice lang="en">The good hostess wishes that unknown guests return elegantly dressed and happy.</voice><break time="5s">
+<voice lang="es">La buena anfitriona desea que los invitados desconocidos vuelvan vestidos elegantes y felices.</voice><break time="2s">
+
+<voice lang="en">Generally I start early, give good attention and finish quite happy.</voice><break time="5s">
+<voice lang="es">Generalmente comienzo temprano, doy buenas atenciones y termino bastante contenta.</voice><break time="2s">
+
+<voice lang="en">Normally I clean the basic house early and later finish the exercise steps.</voice><break time="5s">
+<voice lang="es">Normalmente limpio la casa básica temprano y posteriormente termino los pasos de ejercicio.</voice><break time="2s">
+
+<voice lang="en">Resistant footwear belongs to a precious collection and will compete tomorrow in musical events.</voice><break time="5s">
+<voice lang="es">El calzado resistente pertenece a una colección preciosa y competirá mañana en eventos musicales.</voice><break time="2s">
+
+<voice lang="en">Candelaria constantly cleans the basic house and keeps her daily routine organized.</voice><break time="5s">
+<voice lang="es">Candelaria limpia constantemente la casa básica y mantiene organizada su rutina diaria.</voice><break time="2s">
+
+<voice lang="en">The cadastral advisor will review current permits and provide precise additional charges.</voice><break time="5s">
+<voice lang="es">El asesor catastral revisará los permisos actuales y brindará cobros adicionales precisos.</voice><break time="2s">
+
+<voice lang="en">Educational accreditation implies demanding lessons, although they facilitate evolution and better resources.</voice><break time="5s">
+<voice lang="es">La acreditación educativa implica lecciones exigentes, aunque facilitan la evolución y mejores recursos.</voice><break time="2s">
+
+<voice lang="en">The Catholic boss wants committed graduates to find congruent positions.</voice><break time="5s">
+<voice lang="es">La jefa católica quiere que los egresados comprometidos encuentren cargos congruentes.</voice><break time="2s">
+
+<voice lang="en">The creditor said they should receive the invoices and record the sentences.</voice><break time="5s">
+<voice lang="es">El acreedor dijo que recibieran las facturas y registraran las sentencias.</voice><break time="2s">
+
+<voice lang="en">The cellular model works well and designers estimate great consolidation.</voice><break time="5s">
+<voice lang="es">El modelo celular funciona bien y los diseñadores estiman una gran consolidación.</voice><break time="2s">
+
+<voice lang="en">The central delegation participated successfully and celebrated the inauguration of the stadium.</voice><break time="5s">
+<voice lang="es">La delegación central participó exitosamente y celebró la inauguración del estadio.</voice><break time="2s">
+
+<voice lang="en">Tomorrow the migratory gentleman will receive the valid certificate and reserve international payments.</voice><break time="5s">
+<voice lang="es">Mañana el caballero migratorio recibirá el certificado válido y reservará pagos internacionales.</voice><break time="2s">
+
+<voice lang="en">The Scientific Association will promote experimental research and share updates through blogs.</voice><break time="5s">
+<voice lang="es">La Asociación Científica impulsará investigaciones experimentales y compartirá actualizaciones mediante blogs.</voice><break time="2s">
+
+<voice lang="en">I want the scientist to consider the basic curriculum and the primordial teaching profession.</voice><break time="5s">
+<voice lang="es">Quiero que el científico considere el currículum básico y el magisterio primordial.</voice><break time="2s">
+
+<voice lang="en">The democratic citizen went to the department and ensured mistreatment in parking lots.</voice><break time="5s">
+<voice lang="es">La ciudadana democrática acudió al departamento y aseguró maltrato en estacionamientos.</voice><break time="2s">
+
+<voice lang="en">The Civil Law professor studied marriage and suffering from extreme loneliness.</voice><break time="5s">
+<voice lang="es">El catedrático de Derecho Civil estudió el matrimonio y el sufrimiento por soledad extrema.</voice><break time="2s">
+
+<voice lang="en">Civilians want the assistant to move to other exits.</voice><break time="5s">
+<voice lang="es">Los civiles quieren que el asistente se traslade a otras salidas.</voice><break time="2s">
+
+<voice lang="en">Electronic classified forms represent effective research and will streamline subsequent state treatments.</voice><break time="5s">
+<voice lang="es">Los formularios clasificados electrónicos representan una investigación efectiva y agilizarán posteriores tratamientos estatales.</voice><break time="2s">
+
+<voice lang="en">The Spanish pilot enjoys long recreational marches and responsibly faces climate change.</voice><break time="5s">
+<voice lang="es">El piloto español disfruta de largas marchas recreativas y afronta responsablemente el cambio climático.</voice><break time="2s">
+
+<voice lang="en">The equipped clinic will attend to victims in January and carry out structural expansions.</voice><break time="5s">
+<voice lang="es">La clínica equipada atenderá a víctimas en enero y efectuará ampliaciones estructurales.</voice><break time="2s">
+
+<voice lang="en">The Urban Collective offers trades and viable labor benefits to beneficiaries.</voice><break time="5s">
+<voice lang="es">El Colectivo Urbano ofrece oficios y prestaciones laborales viables a los beneficiarios.</voice><break time="2s">
+
+<voice lang="en">It always turns out Collegiate for many.</voice><break time="5s">
+<voice lang="es">Resulta siempre Colegiado para muchos.</voice><break time="2s">
+
+<voice lang="en">A document will record our desire for soccer and promote our time.</voice><break time="5s">
+<voice lang="es">Un acta registrará nuestras ganas de fútbol y fomentará nuestro tiempo.</voice><break time="2s">
+
+<voice lang="en">The hobby completes its portfolio of leisure and complete rest by doing a show.</voice><break time="5s">
+<voice lang="es">La afición completa su portafolio de ocio y completo descanso realizando un show.</voice><break time="2s">
+
+<voice lang="en">The old region keeps cold lands and the supporting flora comes from the canyon.</voice><break time="5s">
+<voice lang="es">La vieja región guarda fríos terrenos y la comprobante flora proviene del cañón.</voice><break time="2s">
+
+<voice lang="en">The monthly communiqué arrives automatically and the administrative guard begins rounds periodically.</voice><break time="5s">
+<voice lang="es">El comunicado mensual llega automáticamente y la guardia administrativa comienza recorridos periódicamente.</voice><break time="2s">
+
+<voice lang="en">In the common bar, the adult public enjoys free hours talking and thinking.</voice><break time="5s">
+<voice lang="es">En el bar común, el público adulto disfruta horas libres hablando y pensando.</voice><break time="2s">
+
+<voice lang="en">Concurrent liquidation began today and will allow including good level fashion.</voice><break time="5s">
+<voice lang="es">La liquidación concurrente comenzó hoy y permitirá incluir moda de buen nivel.</voice><break time="2s">
+
+<voice lang="en">As soon as the hour begins, I practice Constitutional Computing and then read some pages.</voice><break time="5s">
+<voice lang="es">Apenas empieza la hora, practico Informática Constitucional y luego leo unas páginas.</voice><break time="2s">
+
+<voice lang="en">Tomorrow I will carefully clean my hands and reading it will be a constitutional obligation.</voice><break time="5s">
+<voice lang="es">Mañana limpiaré cuidadosamente mis manos y leerlo será una obligación constitucional.</voice><break time="2s">
+
+<voice lang="en">I never consider resting and the advisory regularly pressures my daily routine.</voice><break time="5s">
+<voice lang="es">Nunca considero descansar y el consultivo presiona regularmente mi rutina diaria.</voice><break time="2s">
+
+<voice lang="en">The accountant considers the approach correct and sends joint proposals to the institutes.</voice><break time="5s">
+<voice lang="es">El contable considera correcto el planteamiento y envía propuestas conjuntas a los institutos.</voice><break time="2s">
+
+<voice lang="en">Free content incorporates great and complete novelties that, you'll see, I'll search for tomorrow.</voice><break time="5s">
+<voice lang="es">El contenido gratuito incorpora novedades geniales y completas que, verás, mañana buscaré.</voice><break time="2s">
+
+<voice lang="en">Blood circulates well and Coral practices daily exercises to prevent cancer.</voice><break time="5s">
+<voice lang="es">La sangre circula bien y Coral practica ejercicios diarios para prevenir el cáncer.</voice><break time="2s">
+
+<voice lang="en">Our corporate elaboration of food additives has increased brightness and commercial sizes.</voice><break time="5s">
+<voice lang="es">Nuestra corporativa elaboración de aditivos alimentarios ha incrementado el brillo y los tamaños comerciales.</voice><break time="2s">
+
+<voice lang="en">The corporate environment provides immediate rest and my pets find an illuminated welcome.</voice><break time="5s">
+<voice lang="es">El ámbito corporativo brinda reposo inmediato y mis mascotas encuentran una bienvenida iluminada.</voice><break time="2s">
+
+<voice lang="en">They want Corporativos to provide innovative and safe trips during August.</voice><break time="5s">
+<voice lang="es">Ellos quieren que Corporativos proporcione viajes innovadores y seguros durante agosto.</voice><break time="2s">
+
+<voice lang="en">Having created his favorite rhythm, he spent afternoons listening to records and good sounds.</voice><break time="5s">
+<voice lang="es">Creado su ritmo favorito, pasaba las tardes escuchando discos y sonidos buenos.</voice><break time="2s">
+
+<voice lang="en">The Creator made singular and deeply imaginative chapters that were really liked.</voice><break time="5s">
+<voice lang="es">El Creador realizó capítulos singulares y profundamente imaginativos que realmente gustaron.</voice><break time="2s">
+
+<voice lang="en">Adult visitors buy makeup in May and the fourth store will charge in currency.</voice><break time="5s">
+<voice lang="es">Las visitantes adultas compran maquillaje en mayo y la cuarta tienda cobrará en moneda.</voice><break time="2s">
+
+<voice lang="en">They want the fourth board to consider the present general ethics applicable.</voice><break time="5s">
+<voice lang="es">Quieren que el cuarto directorio considere aplicables las éticas generales presentes.</voice><break time="2s">
+
+<voice lang="en">We arrived at the tourist space and the representative brought the travel records.</voice><break time="5s">
+<voice lang="es">Llegamos al espacio turístico y el representante llevó las actas del viaje.</voice><break time="2s">
+
+<voice lang="en">Tourist flights pass through Mexican cities; caution is always recommended.</voice><break time="5s">
+<voice lang="es">Los vuelos turísticos pasan por ciudades mexicanas; la precaución siempre resulta recomendada.</voice><break time="2s">
+
+<voice lang="en">I would like innovative cultural programs to be incorporated and represent our roots.</voice><break time="5s">
+<voice lang="es">Quisiera que programas culturales innovadores se incorporen y representen nuestras raíces.</voice><break time="2s">
+
+<voice lang="en">Girls look for supplies wholesale and the act involves selection.</voice><break time="5s">
+<voice lang="es">Las niñas buscan insumos al mayoreo y el acto involucra selección.</voice><break time="2s">
+
+<voice lang="en">Due to current discrimination, affected indigenous people obtained extraordinary financing.</voice><break time="5s">
+<voice lang="es">Debido a la discriminación vigente, los indígenas afectados consiguieron un financiamiento extraordinario.</voice><break time="2s">
+
+<voice lang="en">Here Decentralized will grant a friendly app, allowing highly organized tourist migration.</voice><break time="5s">
+<voice lang="es">Aquí Descentralizado otorgará una app amigable, permitiendo una migración turística altamente organizada.</voice><break time="2s">
+
+<voice lang="en">We organized a diagnostic session on leisure and personal growth, and interested parties participated intensely.</voice><break time="5s">
+<voice lang="es">Organizamos una sesión de diagnóstico sobre ocio y crecimiento personal, y los interesados participaron intensamente.</voice><break time="2s">
+
+<voice lang="en">The actress feels anticipation and joy, but also a certain shadow of fear.</voice><break time="5s">
+<voice lang="es">La actriz siente anticipación y alegría, pero también cierta sombra de miedo.</voice><break time="2s">
+
+<voice lang="en">I consider that family ceremony essential, because true and beautiful human details appear.</voice><break time="5s">
+<voice lang="es">Considero esencial dicha ceremonia familiar, porque aparecen detalles humanos verdaderos y bellos.</voice><break time="2s">
+
+<voice lang="en">Said appointments conclude today for the executive, but tomorrow perhaps new ones will begin.</voice><break time="5s">
+<voice lang="es">Dichas citas concluyen hoy para el ejecutivo, pero mañana quizá iniciará nuevas.</voice><break time="2s">
+
+<voice lang="en">That producer spoke about emblematic events and pointed out the transcendence of dialogue.</voice><break time="5s">
+<voice lang="es">Ese productor habló sobre sucesos emblemáticos y señaló la trascendencia del diálogo.</voice><break time="2s">
+
+<voice lang="en">Said divorce and courtship end in separation, but family memories remain alive.</voice><break time="5s">
+<voice lang="es">Dicho divorcio y noviazgo terminan en separación, pero quedan vivos recuerdos familiares.</voice><break time="2s">
+
+<voice lang="en">Hopefully the Diploma in Morals helps control negative impacts on health.</voice><break time="5s">
+<voice lang="es">Ojalá el Diplomado en Moral ayude a controlar los impactos negativos en la salud.</voice><break time="2s">
+
+<voice lang="en">The diploma courses started yesterday and will probably obtain a truly impactful grade.</voice><break time="5s">
+<voice lang="es">Los diplomados iniciaron ayer y probablemente obtendrán una calificación verdaderamente impactante.</voice><break time="2s">
+
+<voice lang="en">The congresswoman wants mayors to follow effective compliance with government resolutions.</voice><break time="5s">
+<voice lang="es">La diputada quiere que los alcaldes sigan el cumplimiento efectivo de las resoluciones gubernamentales.</voice><break time="2s">
+
+El fin
+<break time="4s"/>

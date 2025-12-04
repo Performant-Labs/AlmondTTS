@@ -1,0 +1,218 @@
+<voice lang="en">Food and Dining</voice><break time="0.5s">
+<voice lang="es">Comida y restaurantes</voice><break time="2s">
+
+<voice lang="en">Can I sit here?</voice><break time="5s">
+<voice lang="es">¿Puedo sentarme aquí?</voice><break time="2s">
+
+<voice lang="en">Do you have a table for two people?</voice><break time="5s">
+<voice lang="es">¿Tienes una mesa para dos personas?</voice><break time="2s">
+
+<voice lang="en">Can I see the menu?</voice><break time="5s">
+<voice lang="es">¿Puedo ver el menú?</voice><break time="2s">
+
+<voice lang="en">I would like to order, please.</voice><break time="5s">
+<voice lang="es">Me gustaría pedir, por favor.</voice><break time="2s">
+
+<voice lang="en">Do you want something to drink?</voice><break time="5s">
+<voice lang="es">¿Quieres algo de beber?</voice><break time="2s">
+
+<voice lang="en">Can I have a glass of water, please?</voice><break time="5s">
+<voice lang="es">¿Puedo tener un vaso de agua, por favor?</voice><break time="2s">
+
+<voice lang="en">No, thanks. I don't drink.</voice><break time="5s">
+<voice lang="es">No, gracias. No bebo.</voice><break time="2s">
+
+<voice lang="en">Can I pay by card?</voice><break time="5s">
+<voice lang="es">¿Puedo pagar con tarjeta?</voice><break time="2s">
+
+<voice lang="en">Where's the toilet?</voice><break time="5s">
+<voice lang="es">¿Dónde está el baño?</voice><break time="2s">
+
+<voice lang="en">Have you tried the food here?</voice><break time="5s">
+<voice lang="es">¿Has probado la comida aquí?</voice><break time="2s">
+
+<voice lang="en">What do you think about it?</voice><break time="5s">
+<voice lang="es">¿Qué piensas de ella?</voice><break time="2s">
+
+<voice lang="en">It's interesting.</voice><break time="5s">
+<voice lang="es">Es interesante.</voice><break time="2s">
+
+<voice lang="en">Do you have plans for the weekend?</voice><break time="5s">
+<voice lang="es">¿Tienes planes para el fin de semana?</voice><break time="2s">
+
+<voice lang="en">It's been nice talking to you.</voice><break time="5s">
+<voice lang="es">Ha sido agradable hablar contigo.</voice><break time="2s">
+
+<voice lang="en">Are you here tomorrow?</voice><break time="5s">
+<voice lang="es">¿Estás aquí mañana?</voice><break time="2s">
+
+<voice lang="en">What's your phone number?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu número de teléfono?</voice><break time="2s">
+
+<voice lang="en">Let's meet tomorrow.</voice><break time="5s">
+<voice lang="es">Nos vemos mañana.</voice><break time="2s">
+
+<voice lang="en">See you later! Bye!</voice><break time="5s">
+<voice lang="es">¡Nos vemos después! ¡Adiós!</voice><break time="2s">
+
+<voice lang="en">Do you need help?</voice><break time="5s">
+<voice lang="es">¿Necesitas ayuda?</voice><break time="2s">
+
+<voice lang="en">Can you help me?</voice><break time="5s">
+<voice lang="es">¿Me puedes ayudar?</voice><break time="2s">
+
+<voice lang="en">Do you have a cigarette?</voice><break time="5s">
+<voice lang="es">¿Tienes un cigarrillo?</voice><break time="2s">
+
+<voice lang="en">Sorry, mate. I don't smoke.</voice><break time="5s">
+<voice lang="es">Lo siento, amigo. No fumo.</voice><break time="2s">
+
+<voice lang="en">Do you smoke? Do you want a cigarette?</voice><break time="5s">
+<voice lang="es">¿Fumas? ¿Quieres un cigarrillo?</voice><break time="2s">
+
+<voice lang="en">No, thank you.</voice><break time="5s">
+<voice lang="es">No, gracias.</voice><break time="2s">
+
+<voice lang="en">Do you want something to drink?</voice><break time="5s">
+<voice lang="es">¿Quieres algo de beber?</voice><break time="2s">
+
+<voice lang="en">Do you want a beer?</voice><break time="5s">
+<voice lang="es">¿Quieres una cerveza?</voice><break time="2s">
+
+<voice lang="en">I want a beer, thank you.</voice><break time="5s">
+<voice lang="es">Quiero una cerveza, gracias.</voice><break time="2s">
+
+<voice lang="en">And another one for my friend.</voice><break time="5s">
+<voice lang="es">Y otra para mi amigo.</voice><break time="2s">
+
+<voice lang="en">Two beers please!</voice><break time="5s">
+<voice lang="es">¡Dos cervezas por favor!</voice><break time="2s">
+
+<voice lang="en">How much is it?</voice><break time="5s">
+<voice lang="es">¿Cuánto es?</voice><break time="2s">
+
+<voice lang="en">Do you want tequila?</voice><break time="5s">
+<voice lang="es">¿Quieres tequila?</voice><break time="2s">
+
+<voice lang="en">No thanks, I don't drink tequila.</voice><break time="5s">
+<voice lang="es">No gracias, no bebo tequila.</voice><break time="2s">
+
+<voice lang="en">Which food do you recommend me to try?</voice><break time="5s">
+<voice lang="es">¿Qué comida me recomiendas probar?</voice><break time="2s">
+
+<voice lang="en">There are a lot of different types of food that you should try.</voice><break time="5s">
+<voice lang="es">Hay muchos tipos diferentes de comida que deberías probar.</voice><break time="2s">
+
+<voice lang="en">The city is famous for its cuisine, both traditional and modern.</voice><break time="5s">
+<voice lang="es">La ciudad es famosa por su cocina, tanto tradicional como moderna.</voice><break time="2s">
+
+<voice lang="en">Do you like Mexican food?</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida mexicana?</voice><break time="2s">
+
+<voice lang="en">I like Mexican food a lot, it's delicious.</voice><break time="5s">
+<voice lang="es">Me gusta mucho la comida mexicana, es deliciosa.</voice><break time="2s">
+
+<voice lang="en">Italian food is also really good.</voice><break time="5s">
+<voice lang="es">La comida italiana también es realmente buena.</voice><break time="2s">
+
+<voice lang="en">I eat pizza very often, maybe too much.</voice><break time="5s">
+<voice lang="es">Como pizza muy a menudo, quizás demasiado.</voice><break time="2s">
+
+<voice lang="en">That's why I have to work out a lot!</voice><break time="5s">
+<voice lang="es">¡Por eso tengo que hacer mucho ejercicio!</voice><break time="2s">
+
+<voice lang="en">What is your country like?</voice><break time="5s">
+<voice lang="es">¿Cómo es tu país?</voice><break time="2s">
+
+<voice lang="en">Is the food good there?</voice><break time="5s">
+<voice lang="es">¿Es buena la comida allí?</voice><break time="2s">
+
+<voice lang="en">What do you think?</voice><break time="5s">
+<voice lang="es">¿Qué piensas?</voice><break time="2s">
+
+<voice lang="en">What kind of foods do you like?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de comidas te gustan?</voice><break time="2s">
+
+<voice lang="en">I like most kinds of foods.</voice><break time="5s">
+<voice lang="es">Me gustan la mayoría de tipos de comidas.</voice><break time="2s">
+
+<voice lang="en">I love the traditional food from my country, but also international food, especially spicy, exotic food.</voice><break time="5s">
+<voice lang="es">Amo la comida tradicional de mi país, pero también la comida internacional, especialmente la picante y exótica.</voice><break time="2s">
+
+<voice lang="en">I like cooking different kinds of food.</voice><break time="5s">
+<voice lang="es">Me gusta cocinar diferentes tipos de comida.</voice><break time="2s">
+
+<voice lang="en">I experiment with barbecue techniques.</voice><break time="5s">
+<voice lang="es">Experimenta con técnicas de barbacoa.</voice><break time="2s">
+
+<voice lang="en">I've tried smoking ribs.</voice><break time="5s">
+<voice lang="es">He probado ahumar costillas.</voice><break time="2s">
+
+<voice lang="en">Is there any kind of food you don't eat?</voice><break time="5s">
+<voice lang="es">¿Hay algún tipo de comida que no comes?</voice><break time="2s">
+
+<voice lang="en">But apart from that, I eat pretty much everything else.</voice><break time="5s">
+<voice lang="es">Pero aparte de eso, como casi todo lo demás.</voice><break time="2s">
+
+<voice lang="en">I'm hungry. Let's order food.</voice><break time="5s">
+<voice lang="es">Tengo hambre. Pidamos comida.</voice><break time="2s">
+
+<voice lang="en">Can you order food for me?</voice><break time="5s">
+<voice lang="es">¿Puedes pedir comida por mí?</voice><break time="2s">
+
+<voice lang="en">Do you like the food here? Yes, it's really good.</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida aquí? Sí, es realmente buena.</voice><break time="2s">
+
+<voice lang="en">How was your weekend?</voice><break time="5s">
+<voice lang="es">¿Cómo estuvo tu fin de semana?</voice><break time="2s">
+
+<voice lang="en">My weekend was fine, and yours?</voice><break time="5s">
+<voice lang="es">Mi fin de semana estuvo bien, ¿y el tuyo?</voice><break time="2s">
+
+<voice lang="en">Where are you now?</voice><break time="5s">
+<voice lang="es">¿Dónde estás ahora?</voice><break time="2s">
+
+<voice lang="en">What have you seen?</voice><break time="5s">
+<voice lang="es">¿Qué has visto?</voice><break time="2s">
+
+<voice lang="en">What did you do on the weekend?</voice><break time="5s">
+<voice lang="es">¿Qué hiciste el fin de semana?</voice><break time="2s">
+
+<voice lang="en">The weather is very bad here now.</voice><break time="5s">
+<voice lang="es">El clima está muy malo aquí ahora.</voice><break time="2s">
+
+<voice lang="en">It is very cold and it rains a lot.</voice><break time="5s">
+<voice lang="es">Está muy frío y llueve mucho.</voice><break time="2s">
+
+<voice lang="en">I prefer when the weather is good.</voice><break time="5s">
+<voice lang="es">Prefiero cuando el clima es bueno.</voice><break time="2s">
+
+<voice lang="en">What are your plans for this week?</voice><break time="5s">
+<voice lang="es">¿Cuáles son tus planes para esta semana?</voice><break time="2s">
+
+<voice lang="en">Oh really? That's interesting!</voice><break time="5s">
+<voice lang="es">¿Oh en serio? ¡Eso es interesante!</voice><break time="2s">
+
+<voice lang="en">No, I don't live here.</voice><break time="5s">
+<voice lang="es">No, no vivo aquí.</voice><break time="2s">
+
+<voice lang="en">I am visiting a friend.</voice><break time="5s">
+<voice lang="es">Estoy visitando a un amigo.</voice><break time="2s">
+
+<voice lang="en">Turkish food is good.</voice><break time="5s">
+<voice lang="es">La comida turca es buena.</voice><break time="2s">
+
+<voice lang="en">I'll have one Döner, please.</voice><break time="5s">
+<voice lang="es">Tomaré un döner, por favor.</voice><break time="2s">
+
+<voice lang="en">Without beetroot, please.</voice><break time="5s">
+<voice lang="es">Sin remolacha, por favor.</voice><break time="2s">
+
+<voice lang="en">Is it spicy? I like it spicy.</voice><break time="5s">
+<voice lang="es">¿Es picante? Me gusta picante.</voice><break time="2s">
+
+<voice lang="en">With sauce.</voice><break time="5s">
+<voice lang="es">Con salsa.</voice><break time="2s">
+
+El Fin
+<break time="4s">

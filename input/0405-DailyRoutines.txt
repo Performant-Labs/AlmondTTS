@@ -1,0 +1,455 @@
+<voice lang="en">Daily Routines and Habits</voice><break time="0.5s">
+<voice lang="es">Rutinas y hábitos diarios</voice><break time="2s">
+
+<voice lang="en">What do you do in your free time?</voice><break time="5s">
+<voice lang="es">¿Qué haces en tu tiempo libre?</voice><break time="2s">
+
+<voice lang="en">In my free time, I like cooking and riding motorcycles.</voice><break time="5s">
+<voice lang="es">En mi tiempo libre, me gusta cocinar y andar en motocicleta.</voice><break time="2s">
+
+<voice lang="en">I also work on language learning projects.</voice><break time="5s">
+<voice lang="es">También trabajo en proyectos de aprendizaje de idiomas.</voice><break time="2s">
+
+<voice lang="en">I like reading.</voice><break time="5s">
+<voice lang="es">Me gusta leer.</voice><break time="2s">
+
+<voice lang="en">I read a lot, mostly about history.</voice><break time="5s">
+<voice lang="es">Leo mucho, principalmente sobre historia.</voice><break time="2s">
+
+<voice lang="en">And of course, I like to learn languages.</voice><break time="5s">
+<voice lang="es">Y por supuesto, me gusta aprender idiomas.</voice><break time="2s">
+
+<voice lang="en">I don't have much free time, I work a lot.</voice><break time="5s">
+<voice lang="es">No tengo mucho tiempo libre, trabajo mucho.</voice><break time="2s">
+
+<voice lang="en">Do you go to bars and restaurants?</voice><break time="5s">
+<voice lang="es">¿Vas a bares y restaurantes?</voice><break time="2s">
+
+<voice lang="en">Yes, of course.</voice><break time="5s">
+<voice lang="es">Sí, por supuesto.</voice><break time="2s">
+
+<voice lang="en">What do you do in your free time?</voice><break time="5s">
+<voice lang="es">¿Qué haces en tu tiempo libre?</voice><break time="2s">
+
+<voice lang="en">In my free time, I cook, I ride motorcycles, and I learn Spanish.</voice><break time="5s">
+<voice lang="es">En mi tiempo libre, cocino, ando en motocicleta y aprendo español.</voice><break time="2s">
+
+<voice lang="en">I read a lot of books, mostly about history.</voice><break time="5s">
+<voice lang="es">Leo muchos libros, principalmente sobre historia.</voice><break time="2s">
+
+<voice lang="en">What do you do in your free time?</voice><break time="5s">
+<voice lang="es">¿Qué haces en tu tiempo libre?</voice><break time="2s">
+
+<voice lang="en">I would say I don't have much free time.</voice><break time="5s">
+<voice lang="es">Diría que no tengo mucho tiempo libre.</voice><break time="2s">
+
+<voice lang="en">I am always busy. I work a lot.</voice><break time="5s">
+<voice lang="es">Siempre estoy ocupado. Trabajo mucho.</voice><break time="2s">
+
+<voice lang="en">But it's also true that I only work when I want.</voice><break time="5s">
+<voice lang="es">Pero también es cierto que solo trabajo cuando quiero.</voice><break time="2s">
+
+<voice lang="en">I can have free time if I want.</voice><break time="5s">
+<voice lang="es">Puedo tener tiempo libre si quiero.</voice><break time="2s">
+
+<voice lang="en">I choose to work most of the time.</voice><break time="5s">
+<voice lang="es">Elijo trabajar la mayor parte del tiempo.</voice><break time="2s">
+
+<voice lang="en">In my free time, I like cooking, riding motorcycles, and learning Spanish.</voice><break time="5s">
+<voice lang="es">En mi tiempo libre, me gusta cocinar, andar en motocicleta y aprender español.</voice><break time="2s">
+
+<voice lang="en">What's your daily routine?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu rutina diaria?</voice><break time="2s">
+
+<voice lang="en">I wake up early, I make coffee and I start working.</voice><break time="5s">
+<voice lang="es">Me despierto temprano, hago café y empiezo a trabajar.</voice><break time="2s">
+
+<voice lang="en">At lunchtime, if the weather is good, I go outside and I work out while listening to language learning materials.</voice><break time="5s">
+<voice lang="es">A la hora del almuerzo, si el clima es bueno, salgo y hago ejercicio mientras escucho materiales de aprendizaje de idiomas.</voice><break time="2s">
+
+<voice lang="en">Then I come back, shower, eat lunch, make more coffee and I keep working.</voice><break time="5s">
+<voice lang="es">Luego regreso, me ducho, como almuerzo, hago más café y sigo trabajando.</voice><break time="2s">
+
+<voice lang="en">I usually wake up early.</voice><break time="5s">
+<voice lang="es">Suelo despertarme temprano.</voice><break time="2s">
+
+<voice lang="en">I don't set an alarm, I just wake up early naturally.</voice><break time="5s">
+<voice lang="es">No pongo alarma, simplemente me despierto temprano de forma natural.</voice><break time="2s">
+
+<voice lang="en">I don't like having an alarm.</voice><break time="5s">
+<voice lang="es">No me gustan las alarmas.</voice><break time="2s">
+
+<voice lang="en">I woke up early today.</voice><break time="5s">
+<voice lang="es">Me desperté temprano hoy.</voice><break time="2s">
+
+<voice lang="en">I like waking up early and getting all the important work done as soon as possible.</voice><break time="5s">
+<voice lang="es">Me gusta despertarme temprano y terminar todo el trabajo importante lo antes posible.</voice><break time="2s">
+
+<voice lang="en">It's the best way to start your day. It feels productive.</voice><break time="5s">
+<voice lang="es">Es la mejor forma de empezar el día. Se siente productivo.</voice><break time="2s">
+
+<voice lang="en">It's also less stressful, because you can relax very early in the day.</voice><break time="5s">
+<voice lang="es">También es menos estresante, porque puedes relajarte muy temprano en el día.</voice><break time="2s">
+
+<voice lang="en">I think that if you work indoors and you spend a lot of time in front of a screen, you should try to spend as much time as possible outside and moving.</voice><break time="5s">
+<voice lang="es">Creo que si trabajas adentro y pasas mucho tiempo frente a una pantalla, deberías intentar pasar tanto tiempo como sea posible afuera y moviéndote.</voice><break time="2s">
+
+<voice lang="en">Once I got home, I showered and I had lunch.</voice><break time="5s">
+<voice lang="es">Una vez que llegué a casa, me duché y comí almuerzo.</voice><break time="2s">
+
+<voice lang="en">In the afternoon, I kept working and I also did some language learning, but I took it easy because I had finished all the important work in the morning.</voice><break time="5s">
+<voice lang="es">En la tarde, seguí trabajando y también hice algo de aprendizaje de idiomas, pero lo tomé con calma porque había terminado todo el trabajo importante en la mañana.</voice><break time="2s">
+
+<voice lang="en">You've said that today you want to talk about habits, daily routines and things like that, right?</voice><break time="5s">
+<voice lang="es">Has dicho que hoy quieres hablar de hábitos, rutinas diarias y cosas así, ¿verdad?</voice><break time="2s">
+
+<voice lang="en">Why this topic specifically?</voice><break time="5s">
+<voice lang="es">¿Por qué este tema específicamente?</voice><break time="2s">
+
+<voice lang="en">Are you trying to change some habits?</voice><break time="5s">
+<voice lang="es">¿Estás tratando de cambiar algunos hábitos?</voice><break time="2s">
+
+<voice lang="en">Of course, I agree completely.</voice><break time="5s">
+<voice lang="es">Por supuesto, estoy completamente de acuerdo.</voice><break time="2s">
+
+<voice lang="en">You are totally right.</voice><break time="5s">
+<voice lang="es">Tienes totalmente razón.</voice><break time="2s">
+
+<voice lang="en">I think routines and habits are essential for productivity.</voice><break time="5s">
+<voice lang="es">Creo que las rutinas y hábitos son esenciales para la productividad.</voice><break time="2s">
+
+<voice lang="en">Routines create structure.</voice><break time="5s">
+<voice lang="es">Las rutinas crean estructura.</voice><break time="2s">
+
+<voice lang="en">They are extremely important, because you don't have to think that much.</voice><break time="5s">
+<voice lang="es">Son extremadamente importantes, porque no tienes que pensar tanto.</voice><break time="2s">
+
+<voice lang="en">Good habits reduce decision fatigue.</voice><break time="5s">
+<voice lang="es">Los buenos hábitos reducen la fatiga de decisiones.</voice><break time="2s">
+
+<voice lang="en">You do the things you need to do without having to think too much.</voice><break time="5s">
+<voice lang="es">Haces las cosas que necesitas hacer sin tener que pensar demasiado.</voice><break time="2s">
+
+<voice lang="en">Having good habits and changing bad habits makes things much easier.</voice><break time="5s">
+<voice lang="es">Tener buenos hábitos y cambiar los malos hace las cosas mucho más fáciles.</voice><break time="2s">
+
+<voice lang="en">You do good things on autopilot, without thinking.</voice><break time="5s">
+<voice lang="es">Haces cosas buenas en piloto automático, sin pensar.</voice><break time="2s">
+
+<voice lang="en">If you have to think, it is much more likely that you will not do it.</voice><break time="5s">
+<voice lang="es">Si tienes que pensar, es mucho más probable que no lo hagas.</voice><break time="2s">
+
+<voice lang="en">I think the habit of doing deep work is extremely important.</voice><break time="5s">
+<voice lang="es">Creo que el hábito de hacer trabajo profundo es extremadamente importante.</voice><break time="2s">
+
+<voice lang="en">You should have blocks of time for focused work, in which you avoid all distractions.</voice><break time="5s">
+<voice lang="es">Deberías tener bloques de tiempo para trabajo enfocado, en los que evitas todas las distracciones.</voice><break time="2s">
+
+<voice lang="en">No phone, no email, no social media.</voice><break time="5s">
+<voice lang="es">Sin teléfono, sin email, sin redes sociales.</voice><break time="2s">
+
+<voice lang="en">Also really important: No multitasking.</voice><break time="5s">
+<voice lang="es">También muy importante: Sin multitarea.</voice><break time="2s">
+
+<voice lang="en">Only one task at a time.</voice><break time="5s">
+<voice lang="es">Solo una tarea a la vez.</voice><break time="2s">
+
+<voice lang="en">Multitasking destroys your productivity.</voice><break time="5s">
+<voice lang="es">La multitarea destruye tu productividad.</voice><break time="2s">
+
+<voice lang="en">You try to do many things at the same time and in the end you do nothing well.</voice><break time="5s">
+<voice lang="es">Intentas hacer muchas cosas al mismo tiempo y al final no haces nada bien.</voice><break time="2s">
+
+<voice lang="en">If you work with a computer, multitasking is a common problem.</voice><break time="5s">
+<voice lang="es">Si trabajas con una computadora, la multitarea es un problema común.</voice><break time="2s">
+
+<voice lang="en">I organise my time in blocks of one hour, two hours or even three hours, in which I focus on one single task.</voice><break time="5s">
+<voice lang="es">Organizo mi tiempo en bloques de una hora, dos horas o incluso tres horas, en los que me enfoco en una sola tarea.</voice><break time="2s">
+
+<voice lang="en">Without any distractions.</voice><break time="5s">
+<voice lang="es">Sin distracciones.</voice><break time="2s">
+
+<voice lang="en">Then I take a small break to rest.</voice><break time="5s">
+<voice lang="es">Luego tomo un pequeño descanso para reposar.</voice><break time="2s">
+
+<voice lang="en">You can use your time much more effectively this way.</voice><break time="5s">
+<voice lang="es">Puedes usar tu tiempo mucho más efectivamente de esta forma.</voice><break time="2s">
+
+<voice lang="en">Otherwise you waste a lot of time with distractions.</voice><break time="5s">
+<voice lang="es">De lo contrario, pierdes mucho tiempo con distracciones.</voice><break time="2s">
+
+<voice lang="en">And at the end of the day, you haven't done everything you wanted to do.</voice><break time="5s">
+<voice lang="es">Y al final del día, no has hecho todo lo que querías hacer.</voice><break time="2s">
+
+<voice lang="en">It's really frustrating when that happens.</voice><break time="5s">
+<voice lang="es">Es realmente frustrante cuando eso pasa.</voice><break time="2s">
+
+<voice lang="en">What habits do you have?</voice><break time="5s">
+<voice lang="es">¿Qué hábitos tienes?</voice><break time="2s">
+
+<voice lang="en">I have never smoked.</voice><break time="5s">
+<voice lang="es">Nunca he fumado.</voice><break time="2s">
+
+<voice lang="en">I tried and I didn't like it, thank God.</voice><break time="5s">
+<voice lang="es">Lo intenté y no me gustó, gracias a Dios.</voice><break time="2s">
+
+<voice lang="en">Smoking is a really bad habit.</voice><break time="5s">
+<voice lang="es">Fumar es un hábito realmente malo.</voice><break time="2s">
+
+<voice lang="en">It's really unhealthy and expensive.</voice><break time="5s">
+<voice lang="es">Es realmente poco saludable y caro.</voice><break time="2s">
+
+<voice lang="en">What is your morning routine?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu rutina de la mañana?</voice><break time="2s">
+
+<voice lang="en">Do you have a morning routine at all?</voice><break time="5s">
+<voice lang="es">¿Tienes una rutina de la mañana en absoluto?</voice><break time="2s">
+
+<voice lang="en">Do you have an evening routine?</voice><break time="5s">
+<voice lang="es">¿Tienes una rutina de la noche?</voice><break time="2s">
+
+<voice lang="en">I don't think I have a good evening routine now.</voice><break time="5s">
+<voice lang="es">No creo que tenga una buena rutina de la noche ahora.</voice><break time="2s">
+
+<voice lang="en">I am trying to develop an evening routine.</voice><break time="5s">
+<voice lang="es">Estoy tratando de desarrollar una rutina de la noche.</voice><break time="2s">
+
+<voice lang="en">But I'm usually exhausted in the evening and I end up distracted on my phone.</voice><break time="5s">
+<voice lang="es">Pero usualmente estoy exhausto en la noche y termino distraído en mi teléfono.</voice><break time="2s">
+
+<voice lang="en">I don't like that.</voice><break time="5s">
+<voice lang="es">No me gusta eso.</voice><break time="2s">
+
+<voice lang="en">It doesn't feel good afterwards.</voice><break time="5s">
+<voice lang="es">No se siente bien después.</voice><break time="2s">
+
+<voice lang="en">If I read a book or listen to a podcast I feel much better.</voice><break time="5s">
+<voice lang="es">Si leo un libro o escucho un podcast, me siento mucho mejor.</voice><break time="2s">
+
+<voice lang="en">I sometimes listen to podcasts in the evening laying on the sofa with my eyes closed.</voice><break time="5s">
+<voice lang="es">A veces escucho podcasts en la noche recostado en el sofá con los ojos cerrados.</voice><break time="2s">
+
+<voice lang="en">I meditate in the evenings sometimes.</voice><break time="5s">
+<voice lang="es">Meditó en las noches a veces.</voice><break time="2s">
+
+<voice lang="en">I also meditate when I take breaks at work.</voice><break time="5s">
+<voice lang="es">También medito cuando tomo descansos en el trabajo.</voice><break time="2s">
+
+<voice lang="en">It helps me relax and stay focused.</voice><break time="5s">
+<voice lang="es">Me ayuda a relajarme y mantenerme enfocado.</voice><break time="2s">
+
+<voice lang="en">Discipline is something that you need to develop.</voice><break time="5s">
+<voice lang="es">La disciplina es algo que necesitas desarrollar.</voice><break time="2s">
+
+<voice lang="en">It is not a personality trait you were born with.</voice><break time="5s">
+<voice lang="es">No es un rasgo de personalidad con el que naciste.</voice><break time="2s">
+
+<voice lang="en">It's a skill you can train.</voice><break time="5s">
+<voice lang="es">Es una habilidad que puedes entrenar.</voice><break time="2s">
+
+<voice lang="en">You know how to develop more discipline and willpower?</voice><break time="5s">
+<voice lang="es">¿Sabes cómo desarrollar más disciplina y fuerza de voluntad?</voice><break time="2s">
+
+<voice lang="en">Start doing something difficult that you need to do but that you don't want to do.</voice><break time="5s">
+<voice lang="es">Empieza haciendo algo difícil que necesitas hacer pero que no quieres hacer.</voice><break time="2s">
+
+<voice lang="en">And when you want to stop because it's difficult or you're bored, don't stop.</voice><break time="5s">
+<voice lang="es">Y cuando quieras parar porque es difícil o estás aburrido, no pares.</voice><break time="2s">
+
+<voice lang="en">Look at the time in that moment.</voice><break time="5s">
+<voice lang="es">Mira el tiempo en ese momento.</voice><break time="2s">
+
+<voice lang="en">How long did it take for you to want to quit?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo tomó para que quisieras renunciar?</voice><break time="2s">
+
+<voice lang="en">How many minutes since you started?</voice><break time="5s">
+<voice lang="es">¿Cuántos minutos desde que empezaste?</voice><break time="2s">
+
+<voice lang="en">How many more minutes can you continue doing it after that?</voice><break time="5s">
+<voice lang="es">¿Cuántos minutos más puedes continuar haciéndolo después de eso?</voice><break time="2s">
+
+<voice lang="en">Write down those numbers and try to improve them in the next session.</voice><break time="5s">
+<voice lang="es">Anota esos números e intenta mejorarlos en la próxima sesión.</voice><break time="2s">
+
+<voice lang="en">Try to do it for longer in the next session.</voice><break time="5s">
+<voice lang="es">Intenta hacerlo por más tiempo en la próxima sesión.</voice><break time="2s">
+
+<voice lang="en">Try to increase the amount of time you can do it before you want to quit.</voice><break time="5s">
+<voice lang="es">Intenta aumentar la cantidad de tiempo que puedes hacerlo antes de que quieras renunciar.</voice><break time="2s">
+
+<voice lang="en">And more importantly, try to increase the amount of time</voice><break time="5s">
+<voice lang="es">Y más importante, intenta aumentar la cantidad de tiempo</voice><break time="2s">
+
+<voice lang="en">you can continue doing it after you want to quit.</voice><break time="5s">
+<voice lang="es">que puedes continuar haciéndolo después de que quieras renunciar.</voice><break time="2s">
+
+<voice lang="en">This is what distinguishes extraordinary people from the average person.</voice><break time="5s">
+<voice lang="es">Esto es lo que distingue a las personas extraordinarias de la persona promedio.</voice><break time="2s">
+
+<voice lang="en">You train your mind to continue doing things, even when you don't want to do it.</voice><break time="5s">
+<voice lang="es">Entrenas tu mente para continuar haciendo cosas, incluso cuando no quieres hacerlo.</voice><break time="2s">
+
+<voice lang="en">This way, you can do things most people can't do.</voice><break time="5s">
+<voice lang="es">De esta forma, puedes hacer cosas que la mayoría de la gente no puede hacer.</voice><break time="2s">
+
+<voice lang="en">Simply because you developed superhuman willpower.</voice><break time="5s">
+<voice lang="es">Simplemente porque desarrollaste una fuerza de voluntad sobrehumana.</voice><break time="2s">
+
+<voice lang="en">But you also have to work smart, not only hard.</voice><break time="5s">
+<voice lang="es">Pero también tienes que trabajar inteligentemente, no solo duro.</voice><break time="2s">
+
+<voice lang="en">If I have to work really hard, I will.</voice><break time="5s">
+<voice lang="es">Si tengo que trabajar realmente duro, lo haré.</voice><break time="2s">
+
+<voice lang="en">But if I can get the same result in one hundred hours instead of one thousand with a different technique,</voice><break time="5s">
+<voice lang="es">Pero si puedo obtener el mismo resultado en cien horas en lugar de mil con una técnica diferente,</voice><break time="2s">
+
+<voice lang="en">then I will use the technique that helps me get results faster.</voice><break time="5s">
+<voice lang="es">entonces usaré la técnica que me ayuda a obtener resultados más rápido.</voice><break time="2s">
+
+<voice lang="en">Building new habits can be difficult.</voice><break time="5s">
+<voice lang="es">Construir nuevos hábitos puede ser difícil.</voice><break time="2s">
+
+<voice lang="en">I've read a couple of books about habits.</voice><break time="5s">
+<voice lang="es">He leído un par de libros sobre hábitos.</voice><break time="2s">
+
+<voice lang="en">If I remember correctly, the the four laws of behavior change were:</voice><break time="5s">
+<voice lang="es">Si recuerdo correctamente, las cuatro leyes del cambio de comportamiento eran:</voice><break time="2s">
+
+<voice lang="en">Cue, craving, response and reward.</voice><break time="5s">
+<voice lang="es">Señal, antojo, respuesta y recompensa.</voice><break time="2s">
+
+<voice lang="en">Make it obvious. Identify and design cues that trigger the behavior you want to build.</voice><break time="5s">
+<voice lang="es">Hazlo obvio. Identifica y diseña señales que desencadenen el comportamiento que quieres construir.</voice><break time="2s">
+
+<voice lang="en">Make it attractive. Associate positive feelings or rewards with the habit.</voice><break time="5s">
+<voice lang="es">Hazlo atractivo. Asocia sentimientos positivos o recompensas con el hábito.</voice><break time="2s">
+
+<voice lang="en">Make it easy. Lower the barriers to action by simplifying your desired habit.</voice><break time="5s">
+<voice lang="es">Hazlo fácil. Baja las barreras a la acción simplificando tu hábito deseado.</voice><break time="2s">
+
+<voice lang="en">Make it satisfying. Reinforce the behavior with rewards to ensure consistency.</voice><break time="5s">
+<voice lang="es">Hazlo satisfactorio. Refuerza el comportamiento con recompensas para asegurar consistencia.</voice><break time="2s">
+
+<voice lang="en">And one of the most important things is identifying bad habits that lead to other bad habits.</voice><break time="5s">
+<voice lang="es">Y una de las cosas más importantes es identificar hábitos malos que llevan a otros hábitos malos.</voice><break time="2s">
+
+<voice lang="en">This way you can eliminate several bad habits by just changing one habit that leads to the others.</voice><break time="5s">
+<voice lang="es">De esta forma puedes eliminar varios hábitos malos solo cambiando uno que lleva a los otros.</voice><break time="2s">
+
+<voice lang="en">You can do this with good habits too.</voice><break time="5s">
+<voice lang="es">También puedes hacer esto con hábitos buenos.</voice><break time="2s">
+
+<voice lang="en">If you develop certain good habits, they can help you develop other good habits much more easily.</voice><break time="5s">
+<voice lang="es">Si desarrollas ciertos hábitos buenos, pueden ayudarte a desarrollar otros hábitos buenos mucho más fácilmente.</voice><break time="2s">
+
+<voice lang="en">For example, sports is a habit I developed a long time ago</voice><break time="5s">
+<voice lang="es">Por ejemplo, el deporte es un hábito que desarrollé hace mucho tiempo</voice><break time="2s">
+
+<voice lang="en">and now it's unthinkable for me not to exercise.</voice><break time="5s">
+<voice lang="es">y ahora es impensable para mí no ejercitarme.</voice><break time="2s">
+
+<voice lang="en">I don't need discipline or willpower to train. I simply have to do it.</voice><break time="5s">
+<voice lang="es">No necesito disciplina o fuerza de voluntad para entrenar. Simplemente tengo que hacerlo.</voice><break time="2s">
+
+<voice lang="en">I notice my body getting anxious if I don't go to the gym.</voice><break time="5s">
+<voice lang="es">Noto que mi cuerpo se pone ansioso si no voy al gimnasio.</voice><break time="2s">
+
+<voice lang="en">Physical Training and Sports</voice><break time="2s">
+<voice lang="es">Entrenamiento físico y deportes</voice><break time="2s">
+
+<voice lang="en">Do you go to the gym a lot?</voice><break time="5s">
+<voice lang="es">¿Vas mucho al gimnasio?</voice><break time="2s">
+
+<voice lang="en">I train almost every day.</voice><break time="5s">
+<voice lang="es">Entreno casi todos los días.</voice><break time="2s">
+
+<voice lang="en">I have to do a lot of sports because I work in an office.</voice><break time="5s">
+<voice lang="es">Tengo que hacer mucho deporte porque trabajo en una oficina.</voice><break time="2s">
+
+<voice lang="en">When I work, I am always sitting in front of a computer.</voice><break time="5s">
+<voice lang="es">Cuando trabajo, siempre estoy sentado frente a una computadora.</voice><break time="2s">
+
+<voice lang="en">That is not healthy for your body and your mind.</voice><break time="5s">
+<voice lang="es">Eso no es saludable para tu cuerpo y tu mente.</voice><break time="2s">
+
+<voice lang="en">What kind of sports do you do?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de deportes haces?</voice><break time="2s">
+
+<voice lang="en">I play football, I go to the gym and I go for runs.</voice><break time="5s">
+<voice lang="es">Juego fútbol, voy al gimnasio y salgo a correr.</voice><break time="2s">
+
+<voice lang="en">Do you like sports?</voice><break time="5s">
+<voice lang="es">¿Te gustan los deportes?</voice><break time="2s">
+
+<voice lang="en">I like sports.</voice><break time="5s">
+<voice lang="es">Me gustan los deportes.</voice><break time="2s">
+
+<voice lang="en">What sports do you do?</voice><break time="5s">
+<voice lang="es">¿Qué deportes haces?</voice><break time="2s">
+
+<voice lang="en">I go for walks and run outside.</voice><break time="5s">
+<voice lang="es">Salgo a caminar y corro afuera.</voice><break time="2s">
+
+<voice lang="en">When the weather is good, I work out outside.</voice><break time="5s">
+<voice lang="es">Cuando el clima es bueno, hago ejercicio afuera.</voice><break time="2s">
+
+<voice lang="en">Otherwise I go to the gym.</voice><break time="5s">
+<voice lang="es">De lo contrario voy al gimnasio.</voice><break time="2s">
+
+<voice lang="en">How often do you work out?</voice><break time="5s">
+<voice lang="es">¿Con qué frecuencia haces ejercicio?</voice><break time="2s">
+
+<voice lang="en">I work out almost every day.</voice><break time="5s">
+<voice lang="es">Hago ejercicio casi todos los días.</voice><break time="2s">
+
+<voice lang="en">Do you go to the gym or train at home?</voice><break time="5s">
+<voice lang="es">¿Vas al gimnasio o entrenas en casa?</voice><break time="2s">
+
+<voice lang="en">I do both things.</voice><break time="5s">
+<voice lang="es">Hago ambas cosas.</voice><break time="2s">
+
+<voice lang="en">Depending on the weather and the time I have available.</voice><break time="5s">
+<voice lang="es">Dependiendo del clima y el tiempo que tengo disponible.</voice><break time="2s">
+
+<voice lang="en">Do you like martial arts?</voice><break time="5s">
+<voice lang="es">¿Te gustan las artes marciales?</voice><break time="2s">
+
+<voice lang="en">I like martial arts.</voice><break time="5s">
+<voice lang="es">Me gustan las artes marciales.</voice><break time="2s">
+
+<voice lang="en">Do you like running or lifting weights more?</voice><break time="5s">
+<voice lang="es">¿Te gusta más correr o levantar pesas?</voice><break time="2s">
+
+<voice lang="en">I like both.</voice><break time="5s">
+<voice lang="es">Me gustan ambas.</voice><break time="2s">
+
+<voice lang="en">Both of them feel good, in a different way.</voice><break time="5s">
+<voice lang="es">Ambas se sienten bien, de manera diferente.</voice><break time="2s">
+
+<voice lang="en">I bought an exercise bike recently.</voice><break time="5s">
+<voice lang="es">Compré una bicicleta estática recientemente.</voice><break time="2s">
+
+<voice lang="en">I always listen to language learning materials when I exercise.</voice><break time="5s">
+<voice lang="es">Siempre escucho materiales de aprendizaje de idiomas cuando hago ejercicio.</voice><break time="2s">
+
+<voice lang="en">Do you like your work?</voice><break time="5s">
+<voice lang="es">¿Te gusta tu trabajo?</voice><break time="2s">
+
+<voice lang="en">I like my work.</voice><break time="5s">
+<voice lang="es">Me gusta mi trabajo.</voice><break time="2s">
+
+<voice lang="en">I work a lot of hours and sometimes it can be stressful.</voice><break time="5s">
+<voice lang="es">Trabajo muchas horas y a veces puede ser estresante.</voice><break time="2s">
+
+<voice lang="en">But I like what I do and I have a lot of freedom.</voice><break time="5s">
+<voice lang="es">Pero me gusta lo que hago y tengo mucha libertad.</voice><break time="2s">
+
+<voice lang="en">I work in an office and I sit in front of a computer all day,</voice><break time="5s">
+<voice lang="es">Trabajo en una oficina y me siento frente a una computadora todo el día,</voice><break time="2s">
+
+<voice lang="en">so when I finish work, I always want to exercise.</voice><break time="5s">
+<voice lang="es">así que cuando termino de trabajar, siempre quiero hacer ejercicio.</voice><break time="2s">
+
+El Fin
+<break time="4s">

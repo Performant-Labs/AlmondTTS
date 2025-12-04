@@ -45,6 +45,13 @@ format as the sample:
       </voice>
    - <voice lang="xx"> switches languages/voices.
    - <break time="1.5s"> inserts pauses.
+   - For multiple speakers of the same language, define them in a header:
+      <speakers>
+      maria = ~/Documents/AlmondTTS/reference_audio/maria.wav
+      carlos = ~/Documents/AlmondTTS/reference_audio/carlos.wav
+      </speakers>
+      <voice speaker="maria" lang="es">Hola, soy María.</voice>
+      <voice speaker="carlos" lang="es">Y yo soy Carlos.</voice>
 
 ----------------------------------------------------------------------
 3. Run AlmondTTS

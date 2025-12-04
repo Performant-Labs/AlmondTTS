@@ -1,98 +1,190 @@
 <voice lang="en">Working with the Language<break time="1s"></voice>
 <voice lang="es">Trabajando con el idioma<break time="1s"></voice>
 
-<voice lang="en">Can you repeat that, please?<break time="5s"></voice>
-<voice lang="es">¿Puede repetirlo, por favor?<break time="3s"></voice>
+<voice lang="en">Can you repeat that, please?</voice><break time="3s">
+<voice lang="es">¿Puede repetirlo, por favor?</voice><break time="3s">
 
-<voice lang="en">Could you say that again?<break time="5s"></voice>
-<voice lang="es">¿Podrías repetirlo?<break time="3s"></voice>
+<voice lang="en">Could you say that again?</voice><break time="3s">
+<voice lang="es">¿Podrías repetirlo?</voice><break time="3s">
 
-<voice lang="en">I'm sorry, what did you say?<break time="5s"></voice>
-<voice lang="es">Perdona, ¿qué has dicho?<break time="3s"></voice>
+<voice lang="en">I'm sorry, what did you say?</voice><break time="3s">
+<voice lang="es">Perdona, ¿qué has dicho?</voice><break time="3s">
 
-<voice lang="en">Pardon me?<break time="5s"></voice>
-<voice lang="es">¿Cómo dices?<break time="3s"></voice>
+<voice lang="en">Pardon me?</voice><break time="3s">
+<voice lang="es">¿Cómo dices?</voice><break time="3s">
 
-<voice lang="en">Come again?<break time="5s"></voice>
-<voice lang="es">¿Otra vez?<break time="3s"></voice>
+<voice lang="en">Come again?</voice><break time="3s">
+<voice lang="es">¿Otra vez?</voice><break time="3s">
 
-<voice lang="en">I'm sorry, I don't understand<break time="5s"></voice>
-<voice lang="es">Lo siento, no lo entiendo.<break time="3s"></voice>
+<voice lang="en">I'm sorry, I don't understand</voice><break time="3s">
+<voice lang="es">Lo siento, no lo entiendo.</voice><break time="3s">
 
-<voice lang="en">I'm confused<break time="5s"></voice>
-<voice lang="es">Estoy confundido.<break time="3s"></voice>
+<voice lang="en">I'm confused</voice><break time="3s">
+<voice lang="es">Estoy confundido.</voice><break time="3s">
 
-<voice lang="en">That doesn't make sense to me<break time="5s"></voice>
-<voice lang="es">Eso no tiene sentido para mí<break time="3s"></voice>
+<voice lang="en">That doesn't make sense to me</voice><break time="3s">
+<voice lang="es">Eso no tiene sentido para mí</voice><break time="3s">
 
-<voice lang="en">I'm lost<break time="5s"></voice>
-<voice lang="es">Estoy perdido.<break time="3s"></voice>
+<voice lang="en">I'm lost</voice><break time="3s">
+<voice lang="es">Estoy perdido.</voice><break time="3s">
 
-<voice lang="en">Can you say that more slowly, please?<break time="5s"></voice>
-<voice lang="es">¿Puedes decirlo más despacio, por favor?<break time="3s"></voice>
+<voice lang="en">Can you say that more slowly, please?</voice><break time="3s">
+<voice lang="es">¿Puedes decirlo más despacio, por favor?</voice><break time="3s">
 
-<voice lang="en">Could you speak more slowly?<break time="5s"></voice>
-<voice lang="es">¿Podría hablar más despacio?<break time="3s"></voice>
+<voice lang="en">Could you speak more slowly?</voice><break time="3s">
+<voice lang="es">¿Podría hablar más despacio?</voice><break time="3s">
 
-<voice lang="en">You're speaking too fast for me<break time="5s"></voice>
-<voice lang="es">Hablas demasiado rápido para mí<break time="3s"></voice>
+<voice lang="en">You're speaking too fast for me</voice><break time="3s">
+<voice lang="es">Hablas demasiado rápido para mí</voice><break time="3s">
 
-<voice lang="en">Have patience with me, please.<break time="5s"></voice>
-<voice lang="es">Ten paciencia conmigo, por favor.<break time="3s"></voice>
+<voice lang="en">Have patience with me, please.</voice><break time="3s">
+<voice lang="es">Ten paciencia conmigo, por favor.</voice><break time="3s">
 
-<voice lang="en">Slow down, please<break time="5s"></voice>
-<voice lang="en">Despacio, por favor<break time="3s"></voice>
+<voice lang="en">Slow down, please</voice><break time="3s">
+<voice lang="en">Despacio, por favor</voice><break time="3s">
 
-<voice lang="en">Can you spell that?<break time="5s"></voice>
-<voice lang="es">¿Puedes deletrearlo?<break time="3s"></voice>
+<voice lang="en">Can you spell that?</voice><break time="3s">
+<voice lang="es">¿Puedes deletrearlo?</voice><break time="3s">
 
-<voice lang="en">How do you spell that word?<break time="5s"></voice>
-<voice lang="es">¿Cómo se escribe esa palabra?<break time="3s"></voice>
+<voice lang="en">How do you spell that word?</voice><break time="3s">
+<voice lang="es">¿Cómo se escribe esa palabra?</voice><break time="3s">
 
-<voice lang="en">Could you write that down?<break time="5s"></voice>
-<voice lang="es">¿Podrías escribirlo?<break time="3s"></voice>
+<voice lang="en">Could you write that down?</voice><break time="3s">
+<voice lang="es">¿Podrías escribirlo?</voice><break time="3s">
 
-<voice lang="en">Can you show me how to write it?<break time="5s"></voice>
-<voice lang="es">¿Puede enseñarme a escribirlo?<break time="3s"></voice>
+<voice lang="en">Can you show me how to write it?</voice><break time="3s">
+<voice lang="es">¿Puede enseñarme a escribirlo?</voice><break time="3s">
 
-<voice lang="en">Finally, I understand<break time="5s"></voice>
-<voice lang="es">Por fin, entiendo<break time="3s"></voice>
+<voice lang="en">Finally, I understand</voice><break time="3s">
+<voice lang="es">Por fin, entiendo</voice><break time="3s">
 
-<voice lang="es">Now I get it<break time="5s"></voice>
-<voice lang="es">Ahora lo entiendo<break time="3s"></voice>
+<voice lang="es">Now I get it</voice><break time="3s">
+<voice lang="es">Ahora lo entiendo</voice><break time="3s">
 
-<voice lang="en">Ah, I see what you mean<break time="5s"></voice>
-<voice lang="es">Ah, ya veo lo que quieres decir<break time="3s"></voice>
+<voice lang="en">Ah, I see what you mean</voice><break time="3s">
+<voice lang="es">Ah, ya veo lo que quieres decir</voice><break time="3s">
 
-<voice lang="en">That makes sense now<break time="5s"></voice>
-<voice lang="es">Ahora tiene sentido.<break time="3s"></voice>
+<voice lang="en">That makes sense now</voice><break time="3s">
+<voice lang="es">Ahora tiene sentido.</voice><break time="3s">
 
-<voice lang="en">Got it!<break time="5s"></voice>
-<voice lang="es">¡Lo tengo!<break time="3s"></voice>
+<voice lang="en">Got it!</voice><break time="3s">
+<voice lang="es">¡Lo tengo!</voice><break time="3s">
 
-<voice lang="en">What does that mean?<break time="5s"></voice>
-<voice lang="es">¿Qué significa eso?<break time="3s"></voice>
+<voice lang="en">What does that mean?</voice><break time="3s">
+<voice lang="es">¿Qué significa eso?</voice><break time="3s">
 
-<voice lang="en">How do you say this in Spanish?<break time="5s"></voice>
-<voice lang="es">¿Cómo se dice esto en español?<break time="3s"></voice>
+<voice lang="en">How do you say this in Spanish?</voice><break time="3s">
+<voice lang="es">¿Cómo se dice esto en español?</voice><break time="3s">
 
-<voice lang="en">What's the Spanish word for...?<break time="5s"></voice>
-<voice lang="es">¿Cual es la palabra en español para...?<break time="3s"></voice>
+<voice lang="en">What's the Spanish word for...?</voice><break time="3s">
+<voice lang="es">¿Cual es la palabra en español para...?</voice><break time="3s">
 
-<voice lang="en">Is there another way to say that?<break time="5s"></voice>
-<voice lang="es">¿Hay otra forma de decirlo?<break time="3s"></voice>
+<voice lang="en">Is there another way to say that?</voice><break time="3s">
+<voice lang="es">¿Hay otra forma de decirlo?</voice><break time="3s">
 
-<voice lang="en">How do you pronounce this?<break time="5s"></voice>
-<voice lang="es">¿Cómo se pronuncia esto?<break time="3s"></voice>
+<voice lang="en">How do you pronounce this?</voice><break time="3s">
+<voice lang="es">¿Cómo se pronuncia esto?</voice><break time="3s">
 
-<voice lang="en">Am I saying this correctly?<break time="5s"></voice>
-<voice lang="es">¿Estoy diciendo esto correctamente?<break time="3s"></voice>
+<voice lang="en">Am I saying this correctly?</voice><break time="3s">
+<voice lang="es">¿Estoy diciendo esto correctamente?</voice><break time="3s">
 
-<voice lang="en">Can you help me with the pronunciation?<break time="5s"></voice>
-<voice lang="es">¿Puede ayudarme con la pronunciación?<break time="3s"></voice>
+<voice lang="en">Can you help me with the pronunciation?</voice><break time="3s">
+<voice lang="es">¿Puede ayudarme con la pronunciación?</voice><break time="3s">
 
-<voice lang="en">I meant to say<break time="5s"></voice>
-<voice lang="es">Quería decir<break time="3s"></voice>
+<voice lang="en">I meant to say</voice><break time="3s">
+<voice lang="es">Quería decir</voice><break time="3s">
 
-En final
+Here are additional phrases for working with the language that would be useful:
+
+<voice lang="en">I don't think that quickly in Spanish</voice><break time="3s">
+<voice lang="es">No pienso tan rápido en español</voice><break time="3s">
+
+<voice lang="en">I'm still learning</voice><break time="3s">
+<voice lang="es">Todavía estoy aprendiendo</voice><break time="3s">
+
+<voice lang="en">I'm a beginner</voice><break time="3s">
+<voice lang="es">Soy principiante</voice><break time="3s">
+
+<voice lang="en">My Spanish isn't very good</voice><break time="3s">
+<voice lang="es">Mi español no es muy bueno</voice><break time="3s">
+
+<voice lang="en">I only speak a little Spanish</voice><break time="3s">
+<voice lang="es">Solo hablo un poco de español</voice><break time="3s">
+
+<voice lang="en">I need more practice</voice><break time="3s">
+<voice lang="es">Necesito más práctica</voice><break time="3s">
+
+<voice lang="en">Give me a moment to think</voice><break time="3s">
+<voice lang="es">Dame un momento para pensar</voice><break time="3s">
+
+<voice lang="en">Let me think about how to say this</voice><break time="3s">
+<voice lang="es">Déjame pensar cómo decir esto</voice><break time="3s">
+
+<voice lang="en">I'm looking for the right word</voice><break time="3s">
+<voice lang="es">Estoy buscando la palabra correcta</voice><break time="3s">
+
+<voice lang="en">I forgot the word</voice><break time="3s">
+<voice lang="es">Se me olvidó la palabra</voice><break time="3s">
+
+<voice lang="en">The word escapes me</voice><break time="3s">
+<voice lang="es">Se me escapa la palabra</voice><break time="3s">
+
+<voice lang="en">I can't remember how to say it</voice><break time="3s">
+<voice lang="es">No recuerdo cómo decirlo</voice><break time="3s">
+
+<voice lang="en">Do you speak English?</voice><break time="3s">
+<voice lang="es">¿Hablas inglés?</voice><break time="3s">
+
+<voice lang="en">Can we speak in English for a moment?</voice><break time="3s">
+<voice lang="es">¿Podemos hablar en inglés un momento?</voice><break time="3s">
+
+<voice lang="en">I understand better than I speak</voice><break time="3s">
+<voice lang="es">Entiendo mejor de lo que hablo</voice><break time="3s">
+
+<voice lang="en">I can read it but I can't speak it well</voice><break time="3s">
+<voice lang="es">Puedo leerlo pero no puedo hablarlo bien</voice><break time="3s">
+
+<voice lang="en">Could you use simpler words?</voice><break time="3s">
+<voice lang="es">¿Podrías usar palabras más simples?</voice><break time="3s">
+
+<voice lang="en">Can you explain it differently?</voice><break time="3s">
+<voice lang="es">¿Puedes explicarlo de otra manera?</voice><break time="3s">
+
+<voice lang="en">Could you give me an example?</voice><break time="3s">
+<voice lang="es">¿Podrías darme un ejemplo?</voice><break time="3s">
+
+<voice lang="en">What's the difference between... and...?</voice><break time="3s">
+<voice lang="es">¿Cuál es la diferencia entre... y...?</voice><break time="3s">
+
+<voice lang="en">Is this correct?</voice><break time="3s">
+<voice lang="es">¿Está correcto esto?</voice><break time="3s">
+
+<voice lang="en">Did I say that right?</voice><break time="3s">
+<voice lang="es">¿Lo dije bien?</voice><break time="3s">
+
+<voice lang="en">Please correct me if I'm wrong</voice><break time="3s">
+<voice lang="es">Por favor corrígeme si me equivoco</voice><break time="3s">
+
+<voice lang="en">I'm trying to improve</voice><break time="3s">
+<voice lang="es">Estoy tratando de mejorar</voice><break time="3s">
+
+<voice lang="en">I want to practice</voice><break time="3s">
+<voice lang="es">Quiero practicar</voice><break time="3s">
+
+<voice lang="en">Thank you for your patience</voice><break time="3s">
+<voice lang="es">Gracias por tu paciencia</voice><break time="3s">
+
+<voice lang="en">I appreciate your help</voice><break time="3s">
+<voice lang="es">Aprecio tu ayuda</voice><break time="3s">
+
+<voice lang="en">You're very patient with me</voice><break time="3s">
+<voice lang="es">Eres muy paciente conmigo</voice><break time="3s">
+
+<voice lang="en">I'm getting better</voice><break time="3s">
+<voice lang="es">Estoy mejorando</voice><break time="3s">
+
+<voice lang="en">This is difficult for me</voice><break time="3s">
+<voice lang="es">Esto es difícil para mí</voice><break time="3s">
+
+El final
 <voice lang="en"><break time="4s"></voice>

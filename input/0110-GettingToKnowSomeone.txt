@@ -517,5 +517,5 @@
 <voice lang="en">Talk to you later<break time="5s"></voice>
 <voice lang="en">Hablamos luego<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

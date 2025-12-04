@@ -1,0 +1,470 @@
+<voice lang="en">Social and Leisure Activities</voice><break time="0.5s">
+<voice lang="es">Actividades sociales y de ocio</voice><break time="2s">
+
+<voice lang="en">Which football team do you support?</voice><break time="5s">
+<voice lang="es">¿A qué equipo de fútbol apoyas?</voice><break time="2s">
+
+<voice lang="en">I don't watch football, I find it quite boring.</voice><break time="5s">
+<voice lang="es">No veo fútbol, me parece bastante aburrido.</voice><break time="2s">
+
+<voice lang="en">I used to watch it a lot when I was younger, but now I think it's a waste of time.</voice><break time="5s">
+<voice lang="es">Solía verlo mucho cuando era más joven, pero ahora pienso que es una pérdida de tiempo.</voice><break time="2s">
+
+<voice lang="en">Which sports do you watch?</voice><break time="5s">
+<voice lang="es">¿Qué deportes ves?</voice><break time="2s">
+
+<voice lang="en">I don't watch much TV.</voice><break time="5s">
+<voice lang="es">No veo mucha TV.</voice><break time="2s">
+
+<voice lang="en">I prefer doing sports to watching.</voice><break time="5s">
+<voice lang="es">Prefiero hacer deportes a verlos.</voice><break time="2s">
+
+<voice lang="en">I sometimes watch boxing or UFC fights between famous fighters.</voice><break time="5s">
+<voice lang="es">A veces veo peleas de boxeo o UFC entre luchadores famosos.</voice><break time="2s">
+
+<voice lang="en">But I don't regularly watch sports.</voice><break time="5s">
+<voice lang="es">Pero no veo deportes regularmente.</voice><break time="2s">
+
+<voice lang="en">Do you surf?</voice><break time="5s">
+<voice lang="es">¿Haces surf?</voice><break time="2s">
+
+<voice lang="en">I have surfed a little bit, but not much.</voice><break time="5s">
+<voice lang="es">He hecho un poco de surf, pero no mucho.</voice><break time="2s">
+
+<voice lang="en">It is not easy to learn, it takes a lot of time and practice to get good enough to enjoy it.</voice><break time="5s">
+<voice lang="es">No es fácil aprenderlo, toma mucho tiempo y práctica para ser lo suficientemente bueno para disfrutarlo.</voice><break time="2s">
+
+<voice lang="en">And I don't have the time or energy to learn to do it properly because I am focusing on other things.</voice><break time="5s">
+<voice lang="es">Y no tengo el tiempo o energía para aprenderlo correctamente porque me estoy enfocando en otras cosas.</voice><break time="2s">
+
+<voice lang="en">Have you ever tried scuba diving?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has probado buceo?</voice><break time="2s">
+
+<voice lang="en">I have a friend who is a professional diver, he does underwater repairs in ports and things like that.</voice><break time="5s">
+<voice lang="es">Tengo un amigo que es buzo profesional, hace reparaciones submarinas en puertos y cosas así.</voice><break time="2s">
+
+<voice lang="en">He's also a diving instructor.</voice><break time="5s">
+<voice lang="es">También es instructor de buceo.</voice><break time="2s">
+
+<voice lang="en">I go diving with him sometimes.</voice><break time="5s">
+<voice lang="es">Voy a bucear con él a veces.</voice><break time="2s">
+
+<voice lang="en">Do you like sailing?</voice><break time="5s">
+<voice lang="es">¿Te gusta navegar?</voice><break time="2s">
+
+<voice lang="en">My friend has a boat and we sail with it sometimes when the weather is good.</voice><break time="5s">
+<voice lang="es">Mi amigo tiene un bote y navegamos con él a veces cuando el clima es bueno.</voice><break time="2s">
+
+<voice lang="en">Which kind of car do you have?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de carro tienes?</voice><break time="2s">
+
+<voice lang="en">Do you like cars?</voice><break time="5s">
+<voice lang="es">¿Te gustan los carros?</voice><break time="2s">
+
+<voice lang="en">I like cars, but it is not something very important for me.</voice><break time="5s">
+<voice lang="es">Me gustan los carros, pero no es algo muy importante para mí.</voice><break time="2s">
+
+<voice lang="en">I prefer spending money on other things.</voice><break time="5s">
+<voice lang="es">Prefiero gastar dinero en otras cosas.</voice><break time="2s">
+
+<voice lang="en">I have friends who are always talking about cars, they like buying old cars and repairing them…</voice><break time="5s">
+<voice lang="es">Tengo amigos que siempre hablan de carros, les gusta comprar carros viejos y repararlos…</voice><break time="2s">
+
+<voice lang="en">I am not that interested in cars.</voice><break time="5s">
+<voice lang="es">No estoy tan interesado en carros.</voice><break time="2s">
+
+<voice lang="en">Do you play video games?</voice><break time="5s">
+<voice lang="es">¿Juegas videojuegos?</voice><break time="2s">
+
+<voice lang="en">Do you like board games?</voice><break time="5s">
+<voice lang="es">¿Te gustan los juegos de mesa?</voice><break time="2s">
+
+<voice lang="en">Do you play chess?</voice><break time="5s">
+<voice lang="es">¿Juegas ajedrez?</voice><break time="2s">
+
+<voice lang="en">What do you do on weekends?</voice><break time="5s">
+<voice lang="es">¿Qué haces los fines de semana?</voice><break time="2s">
+
+<voice lang="en">Do you have any hobbies?</voice><break time="5s">
+<voice lang="es">¿Tienes algún hobby?</voice><break time="2s">
+
+<voice lang="en">What are your interests?</voice><break time="5s">
+<voice lang="es">¿Cuáles son tus intereses?</voice><break time="2s">
+
+<voice lang="en">Do you like music?</voice><break time="5s">
+<voice lang="es">¿Te gusta la música?</voice><break time="2s">
+
+<voice lang="en">What kind of music do you listen to?</voice><break time="5s">
+<voice lang="es">¿Qué tipo de música escuchas?</voice><break time="2s">
+
+<voice lang="en">Do you play any musical instruments?</voice><break time="5s">
+<voice lang="es">¿Tocas algún instrumento musical?</voice><break time="2s">
+
+<voice lang="en">Do you like art?</voice><break time="5s">
+<voice lang="es">¿Te gusta el arte?</voice><break time="2s">
+
+<voice lang="en">Do you visit museums?</voice><break time="5s">
+<voice lang="es">¿Visitas museos?</voice><break time="2s">
+
+<voice lang="en">Do you go to concerts?</voice><break time="5s">
+<voice lang="es">¿Vas a conciertos?</voice><break time="2s">
+
+<voice lang="en">Do you like the theater?</voice><break time="5s">
+<voice lang="es">¿Te gusta el teatro?</voice><break time="2s">
+
+<voice lang="en">Do you enjoy nature?</voice><break time="5s">
+<voice lang="es">¿Disfrutas la naturaleza?</voice><break time="2s">
+
+<voice lang="en">Do you go hiking?</voice><break time="5s">
+<voice lang="es">¿Vas de senderismo?</voice><break time="2s">
+
+<voice lang="en">Do you like camping?</voice><break time="5s">
+<voice lang="es">¿Te gusta acampar?</voice><break time="2s">
+
+<voice lang="en">Do you take photographs?</voice><break time="5s">
+<voice lang="es">¿Tomas fotografías?</voice><break time="2s">
+
+<voice lang="en">Do you collect anything?</voice><break time="5s">
+<voice lang="es">¿Coleccionas algo?</voice><break time="2s">
+
+<voice lang="en">What do you do to relax?</voice><break time="5s">
+<voice lang="es">¿Qué haces para relajarte?</voice><break time="2s">
+
+<voice lang="en">Do you watch movies at home?</voice><break time="5s">
+<voice lang="es">¿Ves películas en casa?</voice><break time="2s">
+
+<voice lang="en">Do you use Netflix or other streaming services?</voice><break time="5s">
+<voice lang="es">¿Usas Netflix u otros servicios de streaming?</voice><break time="2s">
+
+<voice lang="en">Do you like documentaries?</voice><break time="5s">
+<voice lang="es">¿Te gustan los documentales?</voice><break time="2s">
+
+<voice lang="en">What's your favorite type of movie?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu tipo de película favorita?</voice><break time="2s">
+
+<voice lang="en">Do you follow any sports teams?</voice><break time="5s">
+<voice lang="es">¿Sigues algún equipo deportivo?</voice><break time="2s">
+
+<voice lang="en">Do you play any sports recreationally?</voice><break time="5s">
+<voice lang="es">¿Juegas algún deporte recreativamente?</voice><break time="2s">
+
+<voice lang="en">Do you have pets?</voice><break time="5s">
+<voice lang="es">¿Tienes mascotas?</voice><break time="2s">
+
+<voice lang="en">Do you like animals?</voice><break time="5s">
+<voice lang="es">¿Te gustan los animales?</voice><break time="2s">
+
+<voice lang="en">Do you volunteer for any causes?</voice><break time="5s">
+<voice lang="es">¿Haces voluntariado para alguna causa?</voice><break time="2s">
+
+<voice lang="en">Are you part of any clubs or organizations?</voice><break time="5s">
+<voice lang="es">¿Eres parte de algún club u organización?</voice><break time="2s">
+
+<voice lang="en">Do you enjoy cooking as a hobby?</voice><break time="5s">
+<voice lang="es">¿Disfrutas cocinar como hobby?</voice><break time="2s">
+
+<voice lang="en">Do you bake?</voice><break time="5s">
+<voice lang="es">¿Haces repostería?</voice><break time="2s">
+
+<voice lang="en">Do you garden?</voice><break time="5s">
+<voice lang="es">¿Haces jardinería?</voice><break time="2s">
+
+<voice lang="en">Do you do any crafts?</voice><break time="5s">
+<voice lang="es">¿Haces algún artesanía?</voice><break time="2s">
+
+<voice lang="en">Do you like fashion?</voice><break time="5s">
+<voice lang="es">¿Te gusta la moda?</voice><break time="2s">
+
+<voice lang="en">Do you follow current events?</voice><break time="5s">
+<voice lang="es">¿Sigues las noticias actuales?</voice><break time="2s">
+
+<voice lang="en">Do you discuss politics with friends?</voice><break time="5s">
+<voice lang="es">¿Discutes política con amigos?</voice><break time="2s">
+
+<voice lang="en">Do you prefer staying home or going out?</voice><break time="5s">
+<voice lang="es">¿Prefieres quedarte en casa o salir?</voice><break time="2s">
+
+<voice lang="en">Do you like parties?</voice><break time="5s">
+<voice lang="es">¿Te gustan las fiestas?</voice><break time="2s">
+
+<voice lang="en">Do you enjoy quieter social gatherings?</voice><break time="5s">
+<voice lang="es">¿Disfrutas reuniones sociales más tranquilas?</voice><break time="2s">
+
+<voice lang="en">Do you keep in touch with old friends?</voice><break time="5s">
+<voice lang="es">¿Mantienes contacto con amigos viejos?</voice><break time="2s">
+
+<voice lang="en">Do you make new friends easily?</voice><break time="5s">
+<voice lang="es">¿Haces nuevos amigos fácilmente?</voice><break time="2s">
+
+<voice lang="en">Do you prefer small groups or large gatherings?</voice><break time="5s">
+<voice lang="es">¿Prefieres grupos pequeños o grandes reuniones?</voice><break time="2s">
+
+<voice lang="en">More Travel Questions</voice><break time="2s">
+<voice lang="es">Más preguntas sobre viajes</voice><break time="2s">
+
+<voice lang="en">Have you been to the Netherlands?</voice><break time="5s">
+<voice lang="es">¿Has estado en los Países Bajos?</voice><break time="2s">
+
+<voice lang="en">I have been to the Netherlands several times.</voice><break time="5s">
+<voice lang="es">He estado en los Países Bajos varias veces.</voice><break time="2s">
+
+<voice lang="en">I went to the Netherlands for the first time when I was very young.</voice><break time="5s">
+<voice lang="es">Fui a los Países Bajos por primera vez cuando era muy joven.</voice><break time="2s">
+
+<voice lang="en">I have been to Amsterdam on holiday.</voice><break time="5s">
+<voice lang="es">He estado en Ámsterdam de vacaciones.</voice><break time="2s">
+
+<voice lang="en">Have you been to Belgium?</voice><break time="5s">
+<voice lang="es">¿Has estado en Bélgica?</voice><break time="2s">
+
+<voice lang="en">I have been to Belgium many times.</voice><break time="5s">
+<voice lang="es">He estado en Bélgica muchas veces.</voice><break time="2s">
+
+<voice lang="en">The Belgian countryside is really beautiful.</voice><break time="5s">
+<voice lang="es">El campo belga es realmente hermoso.</voice><break time="2s">
+
+<voice lang="en">I have also visited friends in Ghent.</voice><break time="5s">
+<voice lang="es">También he visitado amigos en Gante.</voice><break time="2s">
+
+<voice lang="en">Have you been to Portugal?</voice><break time="5s">
+<voice lang="es">¿Has estado en Portugal?</voice><break time="2s">
+
+<voice lang="en">I have been to Portugal several times.</voice><break time="5s">
+<voice lang="es">He estado en Portugal varias veces.</voice><break time="2s">
+
+<voice lang="en">I have visited Porto and Lisbon.</voice><break time="5s">
+<voice lang="es">He visitado Oporto y Lisboa.</voice><break time="2s">
+
+<voice lang="en">I like Portugal a lot.</voice><break time="5s">
+<voice lang="es">Me gusta mucho Portugal.</voice><break time="2s">
+
+<voice lang="en">Portuguese food is tasty, people in Portugal are friendly and the culture is interesting.</voice><break time="5s">
+<voice lang="es">La comida portuguesa es sabrosa, la gente en Portugal es amigable y la cultura es interesante.</voice><break time="2s">
+
+<voice lang="en">I haven't been to Brazil yet, but I want to go.</voice><break time="5s">
+<voice lang="es">Aún no he estado en Brasil, pero quiero ir.</voice><break time="2s">
+
+<voice lang="en">Have you been to France?</voice><break time="5s">
+<voice lang="es">¿Has estado en Francia?</voice><break time="2s">
+
+<voice lang="en">I go to France often.</voice><break time="5s">
+<voice lang="es">Voy a Francia a menudo.</voice><break time="2s">
+
+<voice lang="en">I like France and the French language.</voice><break time="5s">
+<voice lang="es">Me gusta Francia y el idioma francés.</voice><break time="2s">
+
+<voice lang="en">French food is also very good.</voice><break time="5s">
+<voice lang="es">La comida francesa también es muy buena.</voice><break time="2s">
+
+<voice lang="en">Spanish people say French people are rude, but I disagree.</voice><break time="5s">
+<voice lang="es">La gente española dice que los franceses son groseros, pero no estoy de acuerdo.</voice><break time="2s">
+
+<voice lang="en">I like traveling, but flying is tiring.</voice><break time="5s">
+<voice lang="es">Me gusta viajar, pero volar es cansado.</voice><break time="2s">
+
+<voice lang="en">The plane itself is not bad, but waking up early, going to the airport and waiting there can be exhausting.</voice><break time="5s">
+<voice lang="es">El avión en sí no es malo, pero despertarse temprano, ir al aeropuerto y esperar allí puede ser agotador.</voice><break time="2s">
+
+<voice lang="en">I usually bring something to read or listen to, for when I am on the plane.</voice><break time="5s">
+<voice lang="es">Usualmente llevo algo para leer o escuchar, para cuando estoy en el avión.</voice><break time="2s">
+
+<voice lang="en">I often buy books and magazines in the airport as well.</voice><break time="5s">
+<voice lang="es">A menudo compro libros y revistas en el aeropuerto también.</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Austria?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en Austria?</voice><break time="2s">
+
+<voice lang="en">Austria is very similar to Germany.</voice><break time="5s">
+<voice lang="es">Austria es muy similar a Alemania.</voice><break time="2s">
+
+<voice lang="en">Vienna is a beautiful city.</voice><break time="5s">
+<voice lang="es">Viena es una ciudad hermosa.</voice><break time="2s">
+
+<voice lang="en">It's like a smaller version of Paris.</voice><break time="5s">
+<voice lang="es">Es como una versión más pequeña de París.</voice><break time="2s">
+
+<voice lang="en">It has a lot of history and culture.</voice><break time="5s">
+<voice lang="es">Tiene mucha historia y cultura.</voice><break time="2s">
+
+<voice lang="en">It used to be the capital of a big, multicultural empire.</voice><break time="5s">
+<voice lang="es">Solía ser la capital de un gran imperio multicultural.</voice><break time="2s">
+
+<voice lang="en">So there are people from all over Eastern Europe and the Balkans there.</voice><break time="5s">
+<voice lang="es">Así que hay gente de toda Europa del Este y los Balcanes allí.</voice><break time="2s">
+
+<voice lang="en">I like the South of Germany.</voice><break time="5s">
+<voice lang="es">Me gusta el sur de Alemania.</voice><break time="2s">
+
+<voice lang="en">It's much more traditional than the big cities.</voice><break time="5s">
+<voice lang="es">Es mucho más tradicional que las grandes ciudades.</voice><break time="2s">
+
+<voice lang="en">I like beer and traditional food.</voice><break time="5s">
+<voice lang="es">Me gusta la cerveza y la comida tradicional.</voice><break time="2s">
+
+<voice lang="en">People are also nicer in the countryside than in big cities, in my opinion.</voice><break time="5s">
+<voice lang="es">La gente también es más amable en el campo que en las grandes ciudades, en mi opinión.</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Catalonia?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en Cataluña?</voice><break time="2s">
+
+<voice lang="en">When I was a child, we used to go on holiday to the Mediterranean every year.</voice><break time="5s">
+<voice lang="es">Cuando era niño, solíamos ir de vacaciones al Mediterráneo todos los años.</voice><break time="2s">
+
+<voice lang="en">Sometimes we go there.</voice><break time="5s">
+<voice lang="es">A veces vamos allí.</voice><break time="2s">
+
+<voice lang="en">I have also visited Barcelona many times.</voice><break time="5s">
+<voice lang="es">También he visitado Barcelona muchas veces.</voice><break time="2s">
+
+<voice lang="en">Have you been to Barcelona?</voice><break time="5s">
+<voice lang="es">¿Has estado en Barcelona?</voice><break time="2s">
+
+<voice lang="en">I like some things about Barcelona but it also has things I don't like.</voice><break time="5s">
+<voice lang="es">Me gustan algunas cosas de Barcelona pero también tiene cosas que no me gustan.</voice><break time="2s">
+
+<voice lang="en">There is a lot of pickpocketing for example, and it's too hot for me.</voice><break time="5s">
+<voice lang="es">Hay mucho carterismo por ejemplo, y hace demasiado calor para mí.</voice><break time="2s">
+
+<voice lang="en">It's also noisy and dirty.</voice><break time="5s">
+<voice lang="es">También es ruidosa y sucia.</voice><break time="2s">
+
+<voice lang="en">But it is an interesting city with a lot of things to do.</voice><break time="5s">
+<voice lang="es">Pero es una ciudad interesante con muchas cosas que hacer.</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Thailand?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en Tailandia?</voice><break time="2s">
+
+<voice lang="en">I spent a month training Muay Thai in Thailand.</voice><break time="5s">
+<voice lang="es">Pasé un mes entrenando Muay Thai en Tailandia.</voice><break time="2s">
+
+<voice lang="en">I did a training camp there, living with the coaches.</voice><break time="5s">
+<voice lang="es">Hice un campamento de entrenamiento allí, viviendo con los entrenadores.</voice><break time="2s">
+
+<voice lang="en">We trained twice a day, also eating and sleeping there.</voice><break time="5s">
+<voice lang="es">Entrenábamos dos veces al día, también comiendo y durmiendo allí.</voice><break time="2s">
+
+<voice lang="en">I liked it a lot, I want to do it again some day.</voice><break time="5s">
+<voice lang="es">Me gustó mucho, quiero hacerlo de nuevo algún día.</voice><break time="2s">
+
+<voice lang="en">I learned a lot and my kicks improved a lot.</voice><break time="5s">
+<voice lang="es">Aprendí mucho y mis patadas mejoraron mucho.</voice><break time="2s">
+
+<voice lang="en">I like the way they train there.</voice><break time="5s">
+<voice lang="es">Me gusta la forma en que entrenan allí.</voice><break time="2s">
+
+<voice lang="en">It's outdoors, with very hot weather.</voice><break time="5s">
+<voice lang="es">Es al aire libre, con clima muy caluroso.</voice><break time="2s">
+
+<voice lang="en">Bangkok is fun but also can be dangerous.</voice><break time="5s">
+<voice lang="es">Bangkok es divertido pero también puede ser peligroso.</voice><break time="2s">
+
+<voice lang="en">There is a lot of partying there, a lot of drinking.</voice><break time="5s">
+<voice lang="es">Hay mucho fiesta allí, mucho beber.</voice><break time="2s">
+
+<voice lang="en">You have to be careful.</voice><break time="5s">
+<voice lang="es">Tienes que tener cuidado.</voice><break time="2s">
+
+<voice lang="en">Bangkok is a noisy and dirty city.</voice><break time="5s">
+<voice lang="es">Bangkok es una ciudad ruidosa y sucia.</voice><break time="2s">
+
+<voice lang="en">Too many people and too much traffic.</voice><break time="5s">
+<voice lang="es">Demasiada gente y demasiado tráfico.</voice><break time="2s">
+
+<voice lang="en">Have you ever been to Ireland?</voice><break time="5s">
+<voice lang="es">¿Alguna vez has estado en Irlanda?</voice><break time="2s">
+
+<voice lang="en">I have been to Ireland several times and I want to go again.</voice><break time="5s">
+<voice lang="es">He estado en Irlanda varias veces y quiero ir de nuevo.</voice><break time="2s">
+
+<voice lang="en">They are the nicest and friendliest people in the world.</voice><break time="5s">
+<voice lang="es">Son las personas más amables y amistosas del mundo.</voice><break time="2s">
+
+<voice lang="en">We always have a really good time in Ireland.</voice><break time="5s">
+<voice lang="es">Siempre pasamos un tiempo realmente bueno en Irlanda.</voice><break time="2s">
+
+<voice lang="en">The beer is really good there too.</voice><break time="5s">
+<voice lang="es">La cerveza también es realmente buena allí.</voice><break time="2s">
+
+<voice lang="en">And the pubs are amazing, they've got a great pub culture.</voice><break time="5s">
+<voice lang="es">Y los pubs son increíbles, tienen una gran cultura de pubs.</voice><break time="2s">
+
+<voice lang="en">There is always live music in pubs in Ireland.</voice><break time="5s">
+<voice lang="es">Siempre hay música en vivo en los pubs en Irlanda.</voice><break time="2s">
+
+<voice lang="en">I went to Ireland with a friend.</voice><break time="5s">
+<voice lang="es">Fui a Irlanda con un amigo.</voice><break time="2s">
+
+<voice lang="en">We rented a car in Dublin and we toured the whole island.</voice><break time="5s">
+<voice lang="es">Alquilamos un carro en Dublín y recorrimos toda la isla.</voice><break time="2s">
+
+<voice lang="en">We visited Cork, Belfast and other towns.</voice><break time="5s">
+<voice lang="es">Visitamos Cork, Belfast y otras ciudades.</voice><break time="2s">
+
+<voice lang="en">It rained every day and it was cold, and the trip was in August!</voice><break time="5s">
+<voice lang="es">Llovió todos los días y hacía frío, ¡y el viaje fue en agosto!</voice><break time="2s">
+
+<voice lang="en">Where do you usually travel?</voice><break time="5s">
+<voice lang="es">¿A dónde viajas usualmente?</voice><break time="2s">
+
+<voice lang="en">I usually travel in Europe.</voice><break time="5s">
+<voice lang="es">Usualmente viajo en Europa.</voice><break time="2s">
+
+<voice lang="en">Do you like Asia?</voice><break time="5s">
+<voice lang="es">¿Te gusta Asia?</voice><break time="2s">
+
+<voice lang="en">Have you been to South America?</voice><break time="5s">
+<voice lang="es">¿Has estado en Sudamérica?</voice><break time="2s">
+
+<voice lang="en">What's your dream destination?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu destino soñado?</voice><break time="2s">
+
+<voice lang="en">If you could live anywhere, where would it be?</voice><break time="5s">
+<voice lang="es">Si pudieras vivir en cualquier lugar, ¿dónde sería?</voice><break time="2s">
+
+<voice lang="en">Do you prefer cities or countryside?</voice><break time="5s">
+<voice lang="es">¿Prefieres ciudades o campo?</voice><break time="2s">
+
+<voice lang="en">Do you prefer mountains or beaches?</voice><break time="5s">
+<voice lang="es">¿Prefieres montañas o playas?</voice><break time="2s">
+
+<voice lang="en">Do you prefer hot or cold weather?</voice><break time="5s">
+<voice lang="es">¿Prefieres clima caliente o frío?</voice><break time="2s">
+
+<voice lang="en">What's the most beautiful place you've visited?</voice><break time="5s">
+<voice lang="es">¿Cuál es el lugar más hermoso que has visitado?</voice><break time="2s">
+
+<voice lang="en">What's the most interesting culture you've experienced?</voice><break time="5s">
+<voice lang="es">¿Cuál es la cultura más interesante que has experimentado?</voice><break time="2s">
+
+<voice lang="en">Do you take a lot of photos when you travel?</voice><break time="5s">
+<voice lang="es">¿Tomas muchas fotos cuando viajas?</voice><break time="2s">
+
+<voice lang="en">Do you keep a travel journal?</voice><break time="5s">
+<voice lang="es">¿Llevas un diario de viajes?</voice><break time="2s">
+
+<voice lang="en">Do you buy souvenirs?</voice><break time="5s">
+<voice lang="es">¿Compras souvenirs?</voice><break time="2s">
+
+<voice lang="en">Do you try to learn basic phrases before visiting a country?</voice><break time="5s">
+<voice lang="es">¿Intentas aprender frases básicas antes de visitar un país?</voice><break time="2s">
+
+<voice lang="en">Do you prefer guided tours or exploring on your own?</voice><break time="5s">
+<voice lang="es">¿Prefieres tours guiados o explorar por tu cuenta?</voice><break time="2s">
+
+<voice lang="en">Do you use travel apps?</voice><break time="5s">
+<voice lang="es">¿Usas apps de viajes?</voice><break time="2s">
+
+<voice lang="en">Do you book everything in advance or prefer spontaneity?</voice><break time="5s">
+<voice lang="es">¿Reservas todo con anticipación o prefieres espontaneidad?</voice><break time="2s">
+
+<voice lang="en">What's your biggest travel tip?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu mejor consejo de viaje?</voice><break time="2s">
+
+<voice lang="en">What's been your worst travel experience?</voice><break time="5s">
+<voice lang="es">¿Cuál ha sido tu peor experiencia de viaje?</voice><break time="2s">
+
+<voice lang="en">What's been your best travel experience?</voice><break time="5s">
+<voice lang="es">¿Cuál ha sido tu mejor experiencia de viaje?</voice><break time="2s">
+
+El Fin
+<break time="4s">

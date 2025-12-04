@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Nine</voice><break time="2s"/>
+<voice lang="es">Frases — Número nieve</voice><break time="2s"/>
+
+<voice lang="en">The real estate directive guarantees a precious and safe structure for our family dependency.</voice><break time="5s"/>
+<voice lang="es">La directiva inmobiliaria garantiza una estructura preciosa y segura para nuestra dependencia familiar.</voice><break time="2s"/>
+
+<voice lang="en">The diploma directed to Hispanic poets will allow participating and transforming pieces.</voice><break time="5s"/>
+<voice lang="es">El diplomado dirigido a poetas hispanos permitirá participar y transformar piezas.</voice><break time="2s"/>
+
+<voice lang="en">The distinguished graduate supervises the corporate branches and guarantees working conditions.</voice><break time="5s"/>
+<voice lang="es">El distinguido licenciado supervisa las sucursales del corporativo y garantiza las condiciones laborales.</voice><break time="2s"/>
+
+<voice lang="en">The District Legislature will approve tourism privatization and winners will receive a medal.</voice><break time="5s"/>
+<voice lang="es">La Legislatura Distrital aprobará la privatización turística y los ganadores recibirán una medalla.</voice><break time="2s"/>
+
+<voice lang="en">Selecting brief t-shirts is my daily routine and in Divisional we offer options.</voice><break time="5s"/>
+<voice lang="es">Seleccionar playeras breves es mi rutina diaria y en Divisional ofrecemos opciones.</voice><break time="2s"/>
+
+<voice lang="en">It always results Double for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre Doble para muchos.</voice><break time="2s"/>
+
+<voice lang="en">The dedicated teacher informed about work limitations and offered to elaborate adequate plans.</voice><break time="5s"/>
+<voice lang="es">El docente dedicado informó sobre las limitaciones laborales y ofreció elaborar planes adecuados.</voice><break time="2s"/>
+
+<voice lang="en">The ecological specialty served healthy foods in microwave, separated from corpses.</voice><break time="5s"/>
+<voice lang="es">La especialidad ecológica sirvió alimentos saludables en microondas, separados de los cadáveres.</voice><break time="2s"/>
+
+<voice lang="en">My aunt studied Economic Psychology and deep family spiritual abilities were born.</voice><break time="5s"/>
+<voice lang="es">Mi tía estudió Psicología Económica y nacieron profundas habilidades espirituales familiares.</voice><break time="2s"/>
+
+<voice lang="en">Conservationist graduates discover forest plant species that are disappearing due to fire.</voice><break time="5s"/>
+<voice lang="es">Egresados conservacionistas descubren especies vegetales forestales que están desapareciendo debido al incendio.</voice><break time="2s"/>
+
+<voice lang="en">I wish our expenses are minimal and that the conformation remains protected.</voice><break time="5s"/>
+<voice lang="es">Deseo que nuestros egresos sean mínimos y que la conformación quede protegida.</voice><break time="2s"/>
+
+<voice lang="en">It's clearly Executive for everyone today.</voice><break time="5s"/>
+<voice lang="es">Es claramente Ejecutiva para todos hoy.</voice><break time="2s"/>
+
+<voice lang="en">We have monthly electoral forces used in real estate mining and labor exploitation.</voice><break time="5s"/>
+<voice lang="es">Contamos con efectivos electorales mensuales utilizados en la minería inmobiliaria y la explotación laboral.</voice><break time="2s"/>
+
+<voice lang="en">The family talks about mutual reliability and responsible use of electronics.</voice><break time="5s"/>
+<voice lang="es">La familia habla de confiabilidad mutua y del uso responsable de la electrónica.</voice><break time="2s"/>
+
+<voice lang="en">Electronic support facilitates frequent consultations and vulnerable employees can access easily.</voice><break time="5s"/>
+<voice lang="es">El soporte electrónico facilita las consultas frecuentes y los empleados vulnerables pueden acceder fácilmente.</voice><break time="2s"/>
+
+<voice lang="en">The tour will reach distant worlds, although performances included local portals.</voice><break time="5s"/>
+<voice lang="es">La gira llegará a mundos lejanos, aunque las actuaciones incluyeron portales locales.</voice><break time="2s"/>
+
+<voice lang="en">Electric Medicine allows practicing medical treatments and representing important physical advances.</voice><break time="5s"/>
+<voice lang="es">La Medicina Eléctrica permite practicar tratamientos médicos y representar avances físicos importantes.</voice><break time="2s"/>
+
+<voice lang="en">The Argentine embassy approved preventive measures regarding taxes and dollars for days.</voice><break time="5s"/>
+<voice lang="es">La embajada argentina aprobó medidas preventivas relativas a impuestos y dólares durante días.</voice><break time="2s"/>
+
+<voice lang="en">The Mexican entrepreneur will travel far and surely find new strategic routes.</voice><break time="5s"/>
+<voice lang="es">El emprendedor mexicano viajará lejos y seguramente encontrará nuevas rutas estratégicas.</voice><break time="2s"/>
+
+<voice lang="en">Instruction includes creative acting and learning English allows developing different genres.</voice><break time="5s"/>
+<voice lang="es">La instrucción incluye actuación creativa y el aprendizaje de inglés permite desarrollar distintos géneros.</voice><break time="2s"/>
+
+<voice lang="en">The business program advanced adequately and finally obtained valid authenticity certificates.</voice><break time="5s"/>
+<voice lang="es">El programa empresarial avanzó adecuadamente y finalmente obtuvo certificados de autenticidad vigentes.</voice><break time="2s"/>
+
+<voice lang="en">Business editors design visual works and the public compares them.</voice><break time="5s"/>
+<voice lang="es">Los editores empresariales diseñan obras visuales y el público las compara.</voice><break time="2s"/>
+
+<voice lang="en">I want the energy forest expansion to develop and remain full.</voice><break time="5s"/>
+<voice lang="es">Quiero que la expansión forestal energética se desarrolle y permanezca plena.</voice><break time="2s"/>
+
+<voice lang="en">Food composition needs updating currently, although waste and gasoline affect.</voice><break time="5s"/>
+<voice lang="es">La composición alimentaria necesita actualización en la actualidad, aunque el desperdicio y la gasolina afectan.</voice><break time="2s"/>
+
+<voice lang="en">Sports runners enjoy Assembly and cultural festivities, besides taking advantage of classic movies.</voice><break time="5s"/>
+<voice lang="es">Los corredores deportivos disfrutan Ensamble y festejos culturales, además aprovechan película clásica.</voice><break time="2s"/>
+
+<voice lang="en">The inaugural entrance began late, but then intellectuals and popular groups participated.</voice><break time="5s"/>
+<voice lang="es">La entrada inaugural comenzó tarde, pero entonces participaron intelectuales y agrupaciones populares.</voice><break time="2s"/>
+
+<voice lang="en">The champion Envoy will travel soon by truck and will historically tour the mountains.</voice><break time="5s"/>
+<voice lang="es">El campeón Enviado viajará pronto en camioneta y recorrerá históricamente la sierra.</voice><break time="2s"/>
+
+<voice lang="en">The political writing appeared recently and clearly provoked strong responses and reviews.</voice><break time="5s"/>
+<voice lang="es">El escrito político apareció recientemente y claramente provocó fuertes contestaciones y reseñas.</voice><break time="2s"/>
+
+<voice lang="en">Spatial and technological educational programs will help learn mathematics and physics continuously.</voice><break time="5s"/>
+<voice lang="es">Los programas educativos espacial y tecnológico ayudarán a aprender matemáticas y física continuamente.</voice><break time="2s"/>
+
+<voice lang="en">Spanish authors and a Spanish publishing house design surprising and complete classic paintings.</voice><break time="5s"/>
+<voice lang="es">Autores españoles y una editorial española diseñan pinturas clásicas sorprendentes y completas.</voice><break time="2s"/>
+
+<voice lang="en">The Special Federation grants effective incentives and holds special raffles for its members.</voice><break time="5s"/>
+<voice lang="es">La Federación Especial otorga incentivos efectivos y realiza sorteos especiales a sus integrantes.</voice><break time="2s"/>
+
+<voice lang="en">Every minute I ask that the specialized clinic cover my daily routines.</voice><break time="5s"/>
+<voice lang="es">Cada minuto pido que la clínica especializada cubra mis rutinas diarias.</voice><break time="2s"/>
+
+<voice lang="en">Espinoza loses a kiss in dark circumstances and begins to feel hurt.</voice><break time="5s"/>
+<voice lang="es">Espinoza pierde un beso en circunstancias oscuras y comienza a sentirse herido.</voice><break time="2s"/>
+
+<voice lang="en">The brain statistics demonstrated today are subjected to simple but transcendent questions.</voice><break time="5s"/>
+<voice lang="es">La estadística cerebral demostrada hoy se somete a preguntas simples pero trascendentes.</voice><break time="2s"/>
+
+<voice lang="en">The accumulation of dangerous debts affects strategic purchases and demands permanent advice.</voice><break time="5s"/>
+<voice lang="es">La acumulación de deudas peligrosas afecta las compras estratégicas y demanda asesorías permanentes.</voice><break time="2s"/>
+
+<voice lang="en">The aquifer inspires the community.</voice><break time="5s"/>
+<voice lang="es">El acuífero inspira a la comunidad.</voice><break time="2s"/>
+
+<voice lang="en">Sciences study aquifers and point out their possible contamination in the future.</voice><break time="5s"/>
+<voice lang="es">Las ciencias estudian los acuíferos y señalan su posible contaminación en el futuro.</voice><break time="2s"/>
+
+<voice lang="en">State documents demonstrated massive legal fraud and will affect upcoming federal elections.</voice><break time="5s"/>
+<voice lang="es">Los documentos estatales demostraron fraude jurídico masivo y afectarán las próximas elecciones federales.</voice><break time="2s"/>
+
+<voice lang="en">The fresh cloud reflects clear adaptations and begins minimal changes in generations.</voice><break time="5s"/>
+<voice lang="es">La nube fresca refleja adaptaciones claras y comienza cambios mínimos en las generaciones.</voice><break time="2s"/>
+
+<voice lang="en">The hall offers adaptations and the closet provides key and interior security.</voice><break time="5s"/>
+<voice lang="es">La sala ofrece adaptaciones y el clóset brinda llave y seguridad interior.</voice><break time="2s"/>
+
+<voice lang="en">Prepared strategic tutors accompany skilled children and strengthen individual talents.</voice><break time="5s"/>
+<voice lang="es">Tutores estratégicos preparados acompañan a hijos hábiles y fortalecen talentos individuales.</voice><break time="2s"/>
+
+<voice lang="en">It's clearly European for everyone today.</voice><break time="5s"/>
+<voice lang="es">Es claramente Europea para todos hoy.</voice><break time="2s"/>
+
+<voice lang="en">The excellent buyer registered requests and then confirmed the final quote.</voice><break time="5s"/>
+<voice lang="es">El comprador excelente registró solicitudes y luego confirmó la cotización final.</voice><break time="2s"/>
+
+<voice lang="en">The Exterior blog publishes youth novelties and brilliant cultural promotions.</voice><break time="5s"/>
+<voice lang="es">El blog Exterior publica novedades juveniles y promociones culturales geniales.</voice><break time="2s"/>
+
+<voice lang="en">It always results Exteriors for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre Exteriores para muchos.</voice><break time="2s"/>
+
+<voice lang="en">There transiting easily results in an extraordinary human experience, absolutely flexible and safe.</voice><break time="5s"/>
+<voice lang="es">Allí transitar fácilmente resulta una experiencia humana extraordinaria, absolutamente flexible y segura.</voice><break time="2s"/>
+
+<voice lang="en">The design adequacy allowed transforming clinics and improving their status.</voice><break time="5s"/>
+<voice lang="es">La adecuación del diseño permitió transformar las clínicas y mejorar su estatus.</voice><break time="2s"/>
+
+<voice lang="en">I know that the continuous federal publication appears daily on my console.</voice><break time="5s"/>
+<voice lang="es">Sé que la publicación federal continua aparece diariamente en mi consola.</voice><break time="2s"/>
+
+<voice lang="en">It feels very Federal indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy Federativas en verdad.</voice><break time="2s"/>
+
+<voice lang="en">Local tourists travel by motorcycle near rivers and finally reach the final place.</voice><break time="5s"/>
+<voice lang="es">Turistas locales viajan en moto cerca de ríos y finalmente alcanzan el lugar final.</voice><break time="2s"/>
+
+<voice lang="en">Financial secretaries officially received high amounts and delivered corresponding payments.</voice><break time="5s"/>
+<voice lang="es">Las secretarías financieras recibieron oficialmente montos altos y entregaron los pagos correspondientes.</voice><break time="2s"/>
+
+<voice lang="en">The seed divides organic remains and the financier estimated a deep environmental impact.</voice><break time="5s"/>
+<voice lang="es">La semilla divide restos orgánicos y el financiero estimó un impacto ambiental profundo.</voice><break time="2s"/>
+
+<voice lang="en">I would like financiers to facilitate complete and accessible insurance for the injured.</voice><break time="5s"/>
+<voice lang="es">Quisiera que los financieros faciliten seguros completos y accesibles para los heridos.</voice><break time="2s"/>
+
+<voice lang="en">Military prosecutors expressed complaints and the writer responded without noticing reprisals.</voice><break time="5s"/>
+<voice lang="es">Los fiscales militares expresaron quejas y el escritor respondió sin notar represalias.</voice><break time="2s"/>
+
+<voice lang="en">The Strong companion participated in the championship and achieved an outstanding regional position.</voice><break time="5s"/>
+<voice lang="es">El compañero Fuerte participó en el campeonato y logró una destacada posición regional.</voice><break time="2s"/>
+
+<voice lang="en">The Livestock ejidatarios work actively and significantly strengthen community leadership.</voice><break time="5s"/>
+<voice lang="es">Los ejidatarios de Ganadera trabajan activamente y fortalecen significativamente el liderazgo comunitario.</voice><break time="2s"/>
+
+<voice lang="en">The Geomatic initiative develops complete urban atmospheric monitoring, providing clear data.</voice><break time="5s"/>
+<voice lang="es">La iniciativa Geomática desarrolla completos monitoreos atmosféricos urbanos, proporcionando datos claros.</voice><break time="2s"/>
+
+<voice lang="en">It feels very Global indeed.</voice><break time="5s"/>
+<voice lang="es">Se siente muy Global en verdad.</voice><break time="2s"/>
+
+<voice lang="en">Spanish heroes reached a divine degree and built tourist surfaces with sand.</voice><break time="5s"/>
+<voice lang="es">Héroes españoles alcanzaron un grado divino y construyeron superficies turísticas con arena.</voice><break time="2s"/>
+
+<voice lang="en">Hopefully Great Corridor has a minimal return and that police recognize the failure.</voice><break time="5s"/>
+<voice lang="es">Ojalá Gran Corredor tenga una devolución mínima y que los policías reconozcan el fallo.</voice><break time="2s"/>
+
+<voice lang="en">Large fresh tables allow producing appropriate cold and tropical foods.</voice><break time="5s"/>
+<voice lang="es">Grandes mesas frescas permiten producir alimentos fríos y tropicales apropiados.</voice><break time="2s"/>
+
+<voice lang="en">The graph shows a decrease in jobs and contributes to discussing labor policies.</voice><break time="5s"/>
+<voice lang="es">La gráfica muestra un descenso en los empleos y contribuye a discutir las políticas laborales.</voice><break time="2s"/>
+
+<voice lang="en">Guardado confirmed the public declaration and justified the corresponding imposition in June.</voice><break time="5s"/>
+<voice lang="es">Guardado confirmó la declaración pública y justificó la imposición correspondiente en junio.</voice><break time="2s"/>
+
+<voice lang="en">The governmental curricular direction drives specific assignments and intellectually transforms adults.</voice><break time="5s"/>
+<voice lang="es">La dirección curricular gubernamental impulsa asignaciones específicas y transforma intelectualmente a los adultos.</voice><break time="2s"/>
+
+<voice lang="en">The moon falls over rain oceans, eternal fact and deeply recorded.</voice><break time="5s"/>
+<voice lang="es">La luna cae sobre los océanos pluviales, hecho eterno y profundamente registrado.</voice><break time="2s"/>
+
+<voice lang="en">Beautiful marginalized forests contribute to public paving and to rebuilding affected extremes.</voice><break time="5s"/>
+<voice lang="es">Hermosos bosques marginados contribuyen a la pavimentación pública y a reconstruir los extremos afectados.</voice><break time="2s"/>
+
+<voice lang="en">The heroic congresswoman declared a favorable position and affirmed the supreme patriotic doctrine.</voice><break time="5s"/>
+<voice lang="es">La heroica diputada declaró una postura favorable y afirmó la doctrina patria suprema.</voice><break time="2s"/>
+
+<voice lang="en">Our emotional adhesion is evident and we feel sincere pleasure in the face.</voice><break time="5s"/>
+<voice lang="es">Nuestra adhesión emocional resulta evidente y sentimos un gusto sincero en la cara.</voice><break time="2s"/>
+
+<voice lang="en">Regular exams strengthen secondary education and require mortgage advice for students.</voice><break time="5s"/>
+<voice lang="es">Los exámenes regulares fortalecen la educación secundaria y requieren asesoría hipotecaria para los estudiantes.</voice><break time="2s"/>
+
+<voice lang="en">The honorable ministerial panel assumes labor sacrifice and proposes a progressive corrective.</voice><break time="5s"/>
+<voice lang="es">El honorable panel ministerial asume el sacrificio laboral y plantea un correctivo progresivo.</voice><break time="2s"/>
+
+<voice lang="en">The transfer fails because the addition of requirements breaks normative coherence.</voice><break time="5s"/>
+<voice lang="es">La transferencia fracasa porque la adición de requisitos rompe la coherencia normativa.</voice><break time="2s"/>
+
+<voice lang="en">Many automatic debits regulate online purchases and INAH selects gifts.</voice><break time="5s"/>
+<voice lang="es">Muchos débitos automáticos regulan las compras en línea y el INAH selecciona los regalos.</voice><break time="2s"/>
+
+<voice lang="en">The Ibero-American Association emerged recently and will offer public recognition soon.</voice><break time="5s"/>
+<voice lang="es">La Asociación Iberoamericana surgió recientemente y ofrecerá reconocimientos públicos próximamente.</voice><break time="2s"/>
+
+<voice lang="en">I want the Ibero-American Festival to maintain respectful interaction and cordial debates.</voice><break time="5s"/>
+<voice lang="es">Quiero que el Festival Iberoamericano mantenga una interacción respetuosa y debates cordiales.</voice><break time="2s"/>
+
+<voice lang="en">I wish Ibero-America has better private chairs and comprehensive postgraduate programs.</voice><break time="5s"/>
+<voice lang="es">Deseo que Iberoamérica tenga mejores cátedras privadas y posgrados integrales.</voice><break time="2s"/>
+
+<voice lang="en">Admission will be pertinent when contractors arrive and installation proceeds.</voice><break time="5s"/>
+<voice lang="es">La admisión será pertinente cuando lleguen los contratistas y proceda la instalación.</voice><break time="2s"/>
+
+<voice lang="en">You have an ideal criterion to close purchases and pay minimal negative fees.</voice><break time="5s"/>
+<voice lang="es">Tienes un criterio ideal para cerrar compras y pagar las mínimas tarifas negativas.</voice><break time="2s"/>
+
+<voice lang="en">Sexuality deeply affects our impressions and frequently imposes negative emotional reactions.</voice><break time="5s"/>
+<voice lang="es">La sexualidad afecta profundamente nuestras impresiones y frecuentemente impone reacciones emocionales negativas.</voice><break time="2s"/>
+
+<voice lang="en">The professional wants the included contract to allow fast and fair collective hiring.</voice><break time="5s"/>
+<voice lang="es">El profesionista quiere que el contrato incluido permita una contratación colectiva rápida y justa.</voice><break time="2s"/>
+
+<voice lang="en">Mexican industrial organizations generate significant loans and minimal credits for workers.</voice><break time="5s"/>
+<voice lang="es">Los organismos industriales mexicanos generan préstamos significativos y créditos mínimos para los trabajadores.</voice><break time="2s"/>
+
+<voice lang="en">The indigenous leader wants voluntary mediation to help the detained.</voice><break time="5s"/>
+<voice lang="es">El líder indígena quiere que la mediación voluntaria ayude a los detenidos.</voice><break time="2s"/>
+
+<voice lang="en">Adolescence brings discussions and suffering, but also new realities and hopes.</voice><break time="5s"/>
+<voice lang="es">La adolescencia trae discusiones y sufrimiento, pero también nuevas realidades y esperanzas.</voice><break time="2s"/>
+
+<voice lang="en">The computer tourist travels within the country and learns languages easily.</voice><break time="5s"/>
+<voice lang="es">El turista informático viaja dentro del país y aprende idiomas fácilmente.</voice><break time="2s"/>
+
+<voice lang="en">Initiative of help among mine, home adoption appears as reward.</voice><break time="5s"/>
+<voice lang="es">Iniciativa de ayuda entre los míos, la adopción del hogar aparece como recompensa.</voice><break time="2s"/>
+
+<voice lang="en">It always results Real Estate for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre Inmobiliaria para muchos.</voice><break time="2s"/>
+
+<voice lang="en">The institutional agreement guarantees hot and public food, and platforms to sell products.</voice><break time="5s"/>
+<voice lang="es">El convenio institucional garantiza alimentos calientes y públicos, y plataformas para vender productos.</voice><break time="2s"/>
+
+<voice lang="en">Integrated institutional labors performed pending procedures and fulfilled administrative requirements.</voice><break time="5s"/>
+<voice lang="es">Las labores institucionales integradas realizaron trámites pendientes y cumplieron requisitos administrativos.</voice><break time="2s"/>
+
+<voice lang="en">We take bills and coins for acquisitions; there's a clear preference for this branch.</voice><break time="5s"/>
+<voice lang="es">Tomamos billetes y monedas para adquisiciones; hay una preferencia clara por esta sucursal.</voice><break time="2s"/>
+
+<voice lang="en">The integral vision elaborated by human laboratories will allow releasing biodegradable drops.</voice><break time="5s"/>
+<voice lang="es">La visión integral elaborada por laboratorios humanos permitirá liberar gotas biodegradables.</voice><break time="2s"/>
+
+<voice lang="en">Health sector members generate collective prevention and offer valuable guidance.</voice><break time="5s"/>
+<voice lang="es">Los integrantes del sector salud generan prevención colectiva y ofrecen orientación valiosa.</voice><break time="2s"/>
+
+<voice lang="en">Interested parties requested exclusive t-shirts and the organizer decided to design garments.</voice><break time="5s"/>
+<voice lang="es">Los interesados solicitaron camisetas exclusivas y el organizador decidió diseñar prendas.</voice><break time="2s"/>
+
+<voice lang="en">Perfect pasta feeds well and the inter-institutional program will provide food.</voice><break time="5s"/>
+<voice lang="es">La pasta perfecta alimenta bien y el programa interinstitucional proveerá alimentos.</voice><break time="2s"/>
+
+<voice lang="en">The interior registered serious deterioration during October and they began destroying electrical panels.</voice><break time="5s"/>
+<voice lang="es">El interior registró un deterioro grave durante octubre y comenzaron a destruir los paneles eléctricos.</voice><break time="2s"/>
+
+<voice lang="en">We find relief in our internal nucleus and the internal clock keeps secrets.</voice><break time="5s"/>
+<voice lang="es">Encontramos desahogo en nuestro núcleo interno y el reloj interno guarda secretos.</voice><break time="2s"/>
+
+<voice lang="en">Homosexual immigrants celebrate an open family day that supports births and birthdays.</voice><break time="5s"/>
+<voice lang="es">Inmigrantes homosexuales celebran una jornada familiar abierta que apoya nacimientos y cumpleaños.</voice><break time="2s"/>
+
+<voice lang="en">Next to my husband we open the computer on Saturday and play music.</voice><break time="5s"/>
+<voice lang="es">Junto a mi marido abrimos la computadora el sábado y ponemos música.</voice><break time="2s"/>
+
+<voice lang="en">Every member wants Legal to confirm daily guidelines and supervise open blocks.</voice><break time="5s"/>
+<voice lang="es">Cada miembro quiere que Jurídicas confirme los lineamientos diarios y supervise los bloques abiertos.</voice><break time="2s"/>
+
+<voice lang="en">The legal undersecretary proceeded properly and recommendations were widely attended.</voice><break time="5s"/>
+<voice lang="es">El subsecretario jurídico procedió debidamente y las recomendaciones fueron ampliamente atendidas.</voice><break time="2s"/>
+
+<voice lang="en">Legal precedents are clear and the magistrate in charge knows how to transmit them.</voice><break time="5s"/>
+<voice lang="es">Los antecedentes jurídicos son claros y el magistrado encargado sabe transmitirlos.</voice><break time="2s"/>
+
+<voice lang="en">Courts order labor procedures and retired workers necessarily obey.</voice><break time="5s"/>
+<voice lang="es">Los juzgados ordenan trámites laborales y los trabajadores pensionados obedecen necesariamente.</voice><break time="2s"/>
+
+<voice lang="en">Studious Latina compares linguistic concepts and subsequently mentions features related to religion.</voice><break time="5s"/>
+<voice lang="es">Latina estudiosa compara conceptos lingüísticos y posteriormente menciona rasgos relativos a lo religioso.</voice><break time="2s"/>
+
+<voice lang="en">My beautiful Latin American residential window let dry temperatures enter from outside.</voice><break time="5s"/>
+<voice lang="es">Mi bonita ventana residencial latinoamericana dejó entrar temperaturas secas del exterior.</voice><break time="2s"/>
+
+<voice lang="en">It always results Washing for many.</voice><break time="5s"/>
+<voice lang="es">Resulta siempre Lavado para muchos.</voice><break time="2s"/>
+
+<voice lang="en">The jungle depends on responsible copper acquisition and careful promotion.</voice><break time="5s"/>
+<voice lang="es">La selva depende de la adquisición responsable de cobre y del fomento cuidadoso.</voice><break time="2s"/>
+
+<voice lang="en">Legal municipalities will inform of precise deadlines and will set due minimum limits.</voice><break time="5s"/>
+<voice lang="es">Los ayuntamientos legales informarán de plazos precisos y pondrán límites mínimos debidos.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

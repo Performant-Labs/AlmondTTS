@@ -1,0 +1,98 @@
+<voice lang="en">Practical Conversations</voice><break time="0.5s">
+<voice lang="es">Conversaciones prácticas</voice><break time="2s">
+
+<voice lang="en">No, I don't want to buy anything.</voice><break time="5s">
+<voice lang="es">No, no quiero comprar nada.</voice><break time="2s">
+
+<voice lang="en">I am not interested. Leave me alone.</voice><break time="5s">
+<voice lang="es">No estoy interesado. Déjame en paz.</voice><break time="2s">
+
+<voice lang="en">I need help.</voice><break time="5s">
+<voice lang="es">Necesito ayuda.</voice><break time="2s">
+
+<voice lang="en">I'm trying to help you.</voice><break time="5s">
+<voice lang="es">Estoy tratando de ayudarte.</voice><break time="2s">
+
+<voice lang="en">You want to meet tomorrow night?</voice><break time="5s">
+<voice lang="es">¿Quieres encontrarte mañana por la noche?</voice><break time="2s">
+
+<voice lang="en">Let's meet tomorrow night.</voice><break time="5s">
+<voice lang="es">Nos encontramos mañana por la noche.</voice><break time="2s">
+
+<voice lang="en">What are we doing tomorrow?</voice><break time="5s">
+<voice lang="es">¿Qué hacemos mañana?</voice><break time="2s">
+
+<voice lang="en">We will go for a walk and see the city.</voice><break time="5s">
+<voice lang="es">Iremos a caminar y veremos la ciudad.</voice><break time="2s">
+
+<voice lang="en">Are you hungry?</voice><break time="5s">
+<voice lang="es">¿Tienes hambre?</voice><break time="2s">
+
+<voice lang="en">I am hungry, let's eat soon.</voice><break time="5s">
+<voice lang="es">Tengo hambre, comamos pronto.</voice><break time="2s">
+
+<voice lang="en">Are you tired?</voice><break time="5s">
+<voice lang="es">¿Estás cansado?</voice><break time="2s">
+
+<voice lang="en">I am a little bit tired, I think I'm going to sleep.</voice><break time="5s">
+<voice lang="es">Estoy un poco cansado, creo que voy a dormir.</voice><break time="2s">
+
+<voice lang="en">I'm going home.</voice><break time="5s">
+<voice lang="es">Me voy a casa.</voice><break time="2s">
+
+<voice lang="en">Can you take a picture of me, please?</voice><break time="5s">
+<voice lang="es">¿Puedes tomarme una foto, por favor?</voice><break time="2s">
+
+<voice lang="en">Sure, I will take a picture of you.</voice><break time="5s">
+<voice lang="es">Claro, te tomaré una foto.</voice><break time="2s">
+
+<voice lang="en">I like taking pictures when I travel.</voice><break time="5s">
+<voice lang="es">Me gusta tomar fotos cuando viajo.</voice><break time="2s">
+
+<voice lang="en">Where's the bathroom?</voice><break time="5s">
+<voice lang="es">¿Dónde está el baño?</voice><break time="2s">
+
+<voice lang="en">I need to use the bathroom.</voice><break time="5s">
+<voice lang="es">Necesito usar el baño.</voice><break time="2s">
+
+<voice lang="en">Until when are you here?</voice><break time="5s">
+<voice lang="es">¿Hasta cuándo estás aquí?</voice><break time="2s">
+
+<voice lang="en">I am staying three more days here.</voice><break time="5s">
+<voice lang="es">Me quedo tres días más aquí.</voice><break time="2s">
+
+<voice lang="en">Then I will go back to the United States.</voice><break time="5s">
+<voice lang="es">Luego regresaré a Estados Unidos.</voice><break time="2s">
+
+<voice lang="en">Then I will go back to Idaho.</voice><break time="5s">
+<voice lang="es">Luego regresaré a Idaho.</voice><break time="2s">
+
+<voice lang="en">What have you done so far in the city?</voice><break time="5s">
+<voice lang="es">¿Qué has hecho hasta ahora en la ciudad?</voice><break time="2s">
+
+<voice lang="en">What have you seen?</voice><break time="5s">
+<voice lang="es">¿Qué has visto?</voice><break time="2s">
+
+<voice lang="en">I have gone to a lot of places.</voice><break time="5s">
+<voice lang="es">He ido a muchos lugares.</voice><break time="2s">
+
+<voice lang="en">Do you like the city so far? I like the city a lot.</voice><break time="5s">
+<voice lang="es">¿Te gusta la ciudad hasta ahora? Me gusta mucho la ciudad.</voice><break time="2s">
+
+<voice lang="en">What times are the trains?</voice><break time="5s">
+<voice lang="es">¿A qué horas pasan los trenes?</voice><break time="2s">
+
+<voice lang="en">How much does it cost?</voice><break time="5s">
+<voice lang="es">¿Cuánto cuesta?</voice><break time="2s">
+
+<voice lang="en">Can I pay by card or do I have to pay by cash?</voice><break time="5s">
+<voice lang="es">¿Puedo pagar con tarjeta o tengo que pagar en efectivo?</voice><break time="2s">
+
+<voice lang="en">Maybe, why are you asking?</voice><break time="5s">
+<voice lang="es">Tal vez, ¿por qué lo preguntas?</voice><break time="2s">
+
+<voice lang="en">How can I say this word in Spanish?</voice><break time="5s">
+<voice lang="es">¿Cómo puedo decir esta palabra en español?</voice><break time="2s">
+
+El Fin
+<break time="4s">

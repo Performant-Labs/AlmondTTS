@@ -1,0 +1,185 @@
+<voice lang="en">More Food and Restaurant Conversations</voice><break time="0.5s">
+<voice lang="es">Más conversaciones sobre comida y restaurantes</voice><break time="2s">
+
+<voice lang="en">What's your favorite food?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu comida favorita?</voice><break time="2s">
+
+<voice lang="en">What's your favorite cuisine?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu cocina favorita?</voice><break time="2s">
+
+<voice lang="en">Do you like spicy food?</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida picante?</voice><break time="2s">
+
+<voice lang="en">Do you like sweet food?</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida dulce?</voice><break time="2s">
+
+<voice lang="en">Do you have any food allergies?</voice><break time="5s">
+<voice lang="es">¿Tienes alguna alergia a la comida?</voice><break time="2s">
+
+<voice lang="en">Are you vegetarian?</voice><break time="5s">
+<voice lang="es">¿Eres vegetariano?</voice><break time="2s">
+
+<voice lang="en">Are you vegan?</voice><break time="5s">
+<voice lang="es">¿Eres vegano?</voice><break time="2s">
+
+<voice lang="en">Do you eat meat?</voice><break time="5s">
+<voice lang="es">¿Comes carne?</voice><break time="2s">
+
+<voice lang="en">Do you eat fish?</voice><break time="5s">
+<voice lang="es">¿Comes pescado?</voice><break time="2s">
+
+<voice lang="en">Do you like seafood?</voice><break time="5s">
+<voice lang="es">¿Te gusta el marisco?</voice><break time="2s">
+
+<voice lang="en">What's a typical breakfast in your country?</voice><break time="5s">
+<voice lang="es">¿Cuál es un desayuno típico en tu país?</voice><break time="2s">
+
+<voice lang="en">What's a typical lunch in your country?</voice><break time="5s">
+<voice lang="es">¿Cuál es un almuerzo típico en tu país?</voice><break time="2s">
+
+<voice lang="en">What's a typical dinner in your country?</voice><break time="5s">
+<voice lang="es">¿Cuál es una cena típica en tu país?</voice><break time="2s">
+
+<voice lang="en">Do you eat snacks between meals?</voice><break time="5s">
+<voice lang="es">¿Comes snacks entre comidas?</voice><break time="2s">
+
+<voice lang="en">Do you like street food?</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida callejera?</voice><break time="2s">
+
+<voice lang="en">What's the strangest food you've tried?</voice><break time="5s">
+<voice lang="es">¿Cuál es la comida más extraña que has probado?</voice><break time="2s">
+
+<voice lang="en">What food do you miss when you travel?</voice><break time="5s">
+<voice lang="es">¿Qué comida extrañas cuando viajas?</voice><break time="2s">
+
+<voice lang="en">Do you like trying new foods?</voice><break time="5s">
+<voice lang="es">¿Te gusta probar comidas nuevas?</voice><break time="2s">
+
+<voice lang="en">Are you a picky eater?</voice><break time="5s">
+<voice lang="es">¿Eres quisquilloso con la comida?</voice><break time="2s">
+
+<voice lang="en">Do you like desserts?</voice><break time="5s">
+<voice lang="es">¿Te gustan los postres?</voice><break time="2s">
+
+<voice lang="en">What's your favorite dessert?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu postre favorito?</voice><break time="2s">
+
+<voice lang="en">Do you drink alcohol?</voice><break time="5s">
+<voice lang="es">¿Bebes alcohol?</voice><break time="2s">
+
+<voice lang="en">What's your favorite drink?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu bebida favorita?</voice><break time="2s">
+
+<voice lang="en">Do you like coffee or tea better?</voice><break time="5s">
+<voice lang="es">¿Te gusta más el café o el té?</voice><break time="2s">
+
+<voice lang="en">How do you take your coffee?</voice><break time="5s">
+<voice lang="es">¿Cómo tomas tu café?</voice><break time="2s">
+
+<voice lang="en">Do you drink energy drinks?</voice><break time="5s">
+<voice lang="es">¿Bebes bebidas energéticas?</voice><break time="2s">
+
+<voice lang="en">Do you drink soft drinks?</voice><break time="5s">
+<voice lang="es">¿Bebes refrescos?</voice><break time="2s">
+
+<voice lang="en">Do you prefer eating at home or in restaurants?</voice><break time="5s">
+<voice lang="es">¿Prefieres comer en casa o en restaurantes?</voice><break time="2s">
+
+<voice lang="en">How often do you eat out?</voice><break time="5s">
+<voice lang="es">¿Con qué frecuencia comes fuera?</voice><break time="2s">
+
+<voice lang="en">Do you have a favorite restaurant?</voice><break time="5s">
+<voice lang="es">¿Tienes un restaurante favorito?</voice><break time="2s">
+
+<voice lang="en">What's the best meal you've ever had?</voice><break time="5s">
+<voice lang="es">¿Cuál es la mejor comida que has tenido?</voice><break time="2s">
+
+<voice lang="en">Do you like fast food?</voice><break time="5s">
+<voice lang="es">¿Te gusta la comida rápida?</voice><break time="2s">
+
+<voice lang="en">Do you meal prep?</voice><break time="5s">
+<voice lang="es">¿Preparas comidas con anticipación?</voice><break time="2s">
+
+<voice lang="en">Do you follow any recipes?</voice><break time="5s">
+<voice lang="es">¿Sigues alguna receta?</voice><break time="2s">
+
+<voice lang="en">Do you watch cooking shows?</voice><break time="5s">
+<voice lang="es">¿Ves programas de cocina?</voice><break time="2s">
+
+<voice lang="en">Who taught you to cook?</voice><break time="5s">
+<voice lang="es">¿Quién te enseñó a cocinar?</voice><break time="2s">
+
+<voice lang="en">Do you cook traditional dishes from your culture?</voice><break time="5s">
+<voice lang="es">¿Cocinas platos tradicionales de tu cultura?</voice><break time="2s">
+
+<voice lang="en">Do you like to experiment in the kitchen?</voice><break time="5s">
+<voice lang="es">¿Te gusta experimentar en la cocina?</voice><break time="2s">
+
+<voice lang="en">What's your signature dish?</voice><break time="5s">
+<voice lang="es">¿Cuál es tu plato estrella?</voice><break time="2s">
+
+<voice lang="en">Can you recommend a good restaurant here?</voice><break time="5s">
+<voice lang="es">¿Puedes recomendar un buen restaurante aquí?</voice><break time="2s">
+
+<voice lang="en">Is the food here good?</voice><break time="5s">
+<voice lang="es">¿Es buena la comida aquí?</voice><break time="2s">
+
+<voice lang="en">Do they have vegetarian options?</voice><break time="5s">
+<voice lang="es">¿Tienen opciones vegetarianas?</voice><break time="2s">
+
+<voice lang="en">Is this dish spicy?</voice><break time="5s">
+<voice lang="es">¿Es este plato picante?</voice><break time="2s">
+
+<voice lang="en">Can I have this without onions?</voice><break time="5s">
+<voice lang="es">¿Puedo tener esto sin cebolla?</voice><break time="2s">
+
+<voice lang="en">Can I have extra sauce?</voice><break time="5s">
+<voice lang="es">¿Puedo tener salsa extra?</voice><break time="2s">
+
+<voice lang="en">Is this gluten-free?</voice><break time="5s">
+<voice lang="es">¿Es esto sin gluten?</voice><break time="2s">
+
+<voice lang="en">Does this contain nuts?</voice><break time="5s">
+<voice lang="es">¿Esto contiene nueces?</voice><break time="2s">
+
+<voice lang="en">Can I see the wine list?</voice><break time="5s">
+<voice lang="es">¿Puedo ver la lista de vinos?</voice><break time="2s">
+
+<voice lang="en">What do you recommend?</voice><break time="5s">
+<voice lang="es">¿Qué recomiendas?</voice><break time="2s">
+
+<voice lang="en">What's the specialty here?</voice><break time="5s">
+<voice lang="es">¿Cuál es la especialidad aquí?</voice><break time="2s">
+
+<voice lang="en">Is this a local dish?</voice><break time="5s">
+<voice lang="es">¿Es este un plato local?</voice><break time="2s">
+
+<voice lang="en">Can we share dishes here?</voice><break time="5s">
+<voice lang="es">¿Podemos compartir platos aquí?</voice><break time="2s">
+
+<voice lang="en">Do you have a children's menu?</voice><break time="5s">
+<voice lang="es">¿Tienes un menú para niños?</voice><break time="2s">
+
+<voice lang="en">How long does it take to prepare?</voice><break time="5s">
+<voice lang="es">¿Cuánto tiempo toma prepararlo?</voice><break time="2s">
+
+<voice lang="en">Can we get the check, please?</voice><break time="5s">
+<voice lang="es">¿Podemos tener la cuenta, por favor?</voice><break time="2s">
+
+<voice lang="en">Can we split the bill?</voice><break time="5s">
+<voice lang="es">¿Podemos dividir la cuenta?</voice><break time="2s">
+
+<voice lang="en">Do you accept credit cards?</voice><break time="5s">
+<voice lang="es">¿Aceptas tarjetas de crédito?</voice><break time="2s">
+
+<voice lang="en">Is service included?</voice><break time="5s">
+<voice lang="es">¿Está incluido el servicio?</voice><break time="2s">
+
+<voice lang="en">The food was delicious!</voice><break time="5s">
+<voice lang="es">¡La comida estaba deliciosa!</voice><break time="2s">
+
+<voice lang="en">Thank you, we enjoyed it very much.</voice><break time="5s">
+<voice lang="es">Gracias, lo disfrutamos mucho.</voice><break time="2s">
+
+El Fin
+<break time="4s">

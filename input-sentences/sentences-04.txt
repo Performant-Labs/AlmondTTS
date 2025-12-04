@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number Five</voice><break time="2s"/>
+<voice lang="es">Frases — Número cinco</voice><break time="2s"/>
+
+<voice lang="en">I believe that in Guasave victory modifies emotions and strengths.</voice><break time="5s"/>
+<voice lang="es">Creo que en Guasave la victoria modifica las emociones y las fortalezas.</voice><break time="2s"/>
+
+<voice lang="en">War profoundly affects bodily health and uses a useful massage.</voice><break time="5s"/>
+<voice lang="es">La guerra afecta profundamente la salud corporal y utiliza un masaje útil.</voice><break time="2s"/>
+
+<voice lang="en">Mother nature governs our existence because she guides our daily actions.</voice><break time="5s"/>
+<voice lang="es">La madre naturaleza rige nuestra existencia porque guía nuestras acciones cotidianas.</voice><break time="2s"/>
+
+<voice lang="en">Transit authorizes traveling the highway although circulation affects each gender.</voice><break time="5s"/>
+<voice lang="es">El Tránsito autoriza recorrer la autopista aunque la circulación afecta a cada género.</voice><break time="2s"/>
+
+<voice lang="en">Furnished rooms guarantee rest and the full street facilitates conversation.</voice><break time="5s"/>
+<voice lang="es">Las habitaciones amuebladas garantizan descanso y la calle llena facilita la conversación.</voice><break time="2s"/>
+
+<voice lang="en">Treasury approved the policies, although colleagues manifested disadvantages and important obstacles persist.</voice><break time="5s"/>
+<voice lang="es">Hacienda aprobó las políticas, aunque los colegas manifestaron desventajas y persisten obstáculos importantes.</voice><break time="2s"/>
+
+<voice lang="en">Heroes perform daily sports routines and provide a living example to their siblings.</voice><break time="5s"/>
+<voice lang="es">Los héroes realizan rutinas deportivas diarias y brindan un ejemplo vivo a sus hermanos.</voice><break time="2s"/>
+
+<voice lang="en">The card is an essential tool for shopping, although it increases our financial sadness.</voice><break time="5s"/>
+<voice lang="es">La tarjeta es una herramienta esencial para las compras, aunque aumenta nuestra tristeza financiera.</voice><break time="2s"/>
+
+<voice lang="en">The Basic subject uses digital tools and promotes ancient and new knowledge.</voice><break time="5s"/>
+<voice lang="es">La materia Básico utiliza herramientas digitales y promueve saberes antiguos y nuevos.</voice><break time="2s"/>
+
+<voice lang="en">Although reducing hydrocarbons seems like a triumph, we know the tragedy continues happening around us.</voice><break time="5s"/>
+<voice lang="es">Aunque disminuir los hidrocarburos parece un triunfo, sabemos que la tragedia sigue sucediendo alrededor.</voice><break time="2s"/>
+
+<voice lang="en">Although history goes unnoticed, I read and study its course daily.</voice><break time="5s"/>
+<voice lang="es">Aunque la historia pasa desapercibida, diariamente leo y estudio su curso.</voice><break time="2s"/>
+
+<voice lang="en">The poor man sells authentic bread and other basic nutrients.</voice><break time="5s"/>
+<voice lang="es">El hombre pobre vende pan auténtico y otros nutrientes básicos.</voice><break time="2s"/>
+
+<voice lang="en">Men participate in the family celebration because they wish to keep their daughter close.</voice><break time="5s"/>
+<voice lang="es">Los hombres participan en la celebración familiar porque desean mantener cerca a la hija.</voice><break time="2s"/>
+
+<voice lang="en">Honor occupies an important place and guides public acts related to sustainability.</voice><break time="5s"/>
+<voice lang="es">El honor ocupa un lugar importante y guía los actos públicos relacionados con la sostenibilidad.</voice><break time="2s"/>
+
+<voice lang="en">The Hour protects dreams every day.</voice><break time="5s"/>
+<voice lang="es">La Hora protege sueños cada día.</voice><break time="2s"/>
+
+<voice lang="en">I have a fixed schedule and follow daily procedures that optimize my day.</voice><break time="5s"/>
+<voice lang="es">Tengo un horario fijo y sigo procedimientos diarios que optimizan mi día.</voice><break time="2s"/>
+
+<voice lang="en">The Hours provide value to everyone.</voice><break time="5s"/>
+<voice lang="es">Las Horas aportan valor a todos.</voice><break time="2s"/>
+
+<voice lang="en">The sustainable hotel receives needy residents and offers a fantastic breakfast every day.</voice><break time="5s"/>
+<voice lang="es">El hotel sostenible recibe a pobladores necesitados y ofrece un desayuno fantástico cada día.</voice><break time="2s"/>
+
+<voice lang="en">Outstanding hotels received international reviews and published examples in Letters.</voice><break time="5s"/>
+<voice lang="es">Los hoteles destacados recibieron críticas internacionales y publicaron ejemplos en Letras.</voice><break time="2s"/>
+
+<voice lang="en">The office provides professional advice when the 8-hour shift ends.</voice><break time="5s"/>
+<voice lang="es">La oficina presta asesoría profesional cuando termina el turno de 8 horas.</voice><break time="2s"/>
+
+<voice lang="en">The orchard gladdens emotions although the psychologist reported terror and abandonment.</voice><break time="5s"/>
+<voice lang="es">La huerta alegra las emociones aunque el psicólogo reportó terror y abandono.</voice><break time="2s"/>
+
+<voice lang="en">Humans live in the building and feel cold when rain occurs.</voice><break time="5s"/>
+<voice lang="es">Los humanos viven en el inmueble y sienten frío cuando ocurre la lluvia.</voice><break time="2s"/>
+
+<voice lang="en">Scholarship recipients preserve their identity and, elaborating projects, generate optimal results.</voice><break time="5s"/>
+<voice lang="es">Los becarios preservan su identidad y, elaborando proyectos, generan resultados óptimos.</voice><break time="2s"/>
+
+<voice lang="en">Magazines include electronic identification and promote efficient functioning of printers.</voice><break time="5s"/>
+<voice lang="es">Las revistas incluyen identificación electrónica y promueven el funcionamiento eficaz de las impresoras.</voice><break time="2s"/>
+
+<voice lang="en">Language provides value to everyone.</voice><break time="5s"/>
+<voice lang="es">El Idioma aporta valor a todos.</voice><break time="2s"/>
+
+<voice lang="en">The dry landscape reflects internal darkness and organic languages enjoy the pine.</voice><break time="5s"/>
+<voice lang="es">El paisaje seco refleja tinieblas internas y los idiomas orgánicos disfrutan del pino.</voice><break time="2s"/>
+
+<voice lang="en">Churches will organize dances and theater if organizers have previously promoted publicity.</voice><break time="5s"/>
+<voice lang="es">Las iglesias organizarán danzas y teatro si los organizadores han promovido previamente la publicidad.</voice><break time="2s"/>
+
+<voice lang="en">Mental and physical equality is necessary to combat negative prevalence.</voice><break time="5s"/>
+<voice lang="es">La igualdad mental y física resulta necesaria para combatir la prevalencia negativa.</voice><break time="2s"/>
+
+<voice lang="en">The image awakens emotions when spectators value paintings and poems in contests.</voice><break time="5s"/>
+<voice lang="es">La imagen despierta emociones cuando los espectadores valoran pinturas y poemas en concursos.</voice><break time="2s"/>
+
+<voice lang="en">Clean vegetables grow slowly and the clean river surrounds them.</voice><break time="5s"/>
+<voice lang="es">Las hortalizas limpias crecen lentamente y el río limpio las rodea.</voice><break time="2s"/>
+
+<voice lang="en">The unit feels unease when the impression of death provokes deep emotions.</voice><break time="5s"/>
+<voice lang="es">La unidad siente inquietud cuando la impresión de fallecimiento provoca emociones profundas.</voice><break time="2s"/>
+
+<voice lang="en">Food deserves fair taxes and the manufacturer accepts clear responsibilities.</voice><break time="5s"/>
+<voice lang="es">La comida alimenticia merece impuestos justos y el fabricante acepta responsabilidades claras.</voice><break time="2s"/>
+
+<voice lang="en">Attractive images of the ocean motivate travelers; we offer an attractive package with promotions.</voice><break time="5s"/>
+<voice lang="es">Imágenes atractivas del océano motivan a los viajeros; ofrecemos un paquete atractivo con promociones.</voice><break time="2s"/>
+
+<voice lang="en">The room keeps reflections, even when instability bothers and provokes fire.</voice><break time="5s"/>
+<voice lang="es">La habitación guarda reflexiones, incluso cuando la inestabilidad molesta y provoca fuego.</voice><break time="2s"/>
+
+<voice lang="en">Tourism incorporation preserves vegetation and democratic universities finance cultural projects.</voice><break time="5s"/>
+<voice lang="es">La incorporación turística preserva la vegetación y las universidades democráticas financian proyectos culturales.</voice><break time="2s"/>
+
+<voice lang="en">Independence drives economic and social transformations, and governability sustains current urban advances.</voice><break time="5s"/>
+<voice lang="es">La independencia impulsa transformaciones económicas y sociales, y la gobernabilidad sostiene los avances urbanos actuales.</voice><break time="2s"/>
+
+<voice lang="en">Daily time understands indicators and the analyst expects better daily work commitments.</voice><break time="5s"/>
+<voice lang="es">El tiempo cotidiano entiende los indicadores y el analista espera mejores compromisos laborales diarios.</voice><break time="2s"/>
+
+<voice lang="en">Food industries caused serious but normal muscular disability and malnutrition.</voice><break time="5s"/>
+<voice lang="es">Las industrias alimentarias provocaron discapacidad muscular y desnutrición graves pero normales.</voice><break time="2s"/>
+
+<voice lang="en">Indigenous peoples participated in the workshop and promote successful civic campaigns.</voice><break time="5s"/>
+<voice lang="es">Los pueblos indígenas participaron en el taller y fomentan campañas cívicas exitosas.</voice><break time="2s"/>
+
+<voice lang="en">Childhood thinks about peaceful responses and we will give very broad cultural alternatives.</voice><break time="5s"/>
+<voice lang="es">La infancia piensa en respuestas pacíficas y daremos alternativas culturales muy amplias.</voice><break time="2s"/>
+
+<voice lang="en">The director publishes timely information and writers characterize their growing prestige.</voice><break time="5s"/>
+<voice lang="es">La directora publica información puntual y los escritores caracterizan su prestigio creciente.</voice><break time="2s"/>
+
+<voice lang="en">The report arrived at the office and the opinions received were appreciated.</voice><break time="5s"/>
+<voice lang="es">El informe llegó a la oficina y se agradecieron las opiniones recibidas.</voice><break time="2s"/>
+
+<voice lang="en">Computer science promotes wisdom and care; tobacco and fat generate diabetes.</voice><break time="5s"/>
+<voice lang="es">La informática promueve la sabiduría y los cuidados; el tabaco y la grasa generan diabetes.</voice><break time="2s"/>
+
+<voice lang="en">The English teacher provides educational massage and guides foreign children.</voice><break time="5s"/>
+<voice lang="es">El profesor de inglés imparte masaje educativo y guía a los hijos extranjeros.</voice><break time="2s"/>
+
+<voice lang="en">The holders know the income and will consider it effective to order the process.</voice><break time="5s"/>
+<voice lang="es">Los titulares conocen el ingreso y considerarán efectivo ordenar el proceso.</voice><break time="2s"/>
+
+<voice lang="en">The beginning maintains great family workdays and frequent follow-up guarantees freedoms and consideration.</voice><break time="5s"/>
+<voice lang="es">El inicio mantiene grandes jornadas familiares y el seguimiento frecuente garantiza libertades y consideración.</voice><break time="2s"/>
+
+<voice lang="en">The teacher explains innovation and directors accept the methodology if it guarantees functionality.</voice><break time="5s"/>
+<voice lang="es">La maestra explica la innovación y los directivos aceptan la metodología si garantiza la funcionalidad.</voice><break time="2s"/>
+
+<voice lang="en">Vacations allow practicing sports and staying, although registration closes in November.</voice><break time="5s"/>
+<voice lang="es">Las vacaciones permiten practicar deportes y hospedarse, aunque la inscripción cierre en noviembre.</voice><break time="2s"/>
+
+<voice lang="en">Psychology explains changing moods and the artistic installation reflects them.</voice><break time="5s"/>
+<voice lang="es">La psicología explica los ánimos cambiantes y la instalación artística los refleja.</voice><break time="2s"/>
+
+<voice lang="en">The young lady enjoys a walk and the instance respects her consent.</voice><break time="5s"/>
+<voice lang="es">La señorita disfruta de un paseo y la instancia respeta su consentimiento.</voice><break time="2s"/>
+
+<voice lang="en">Federal instances review documents and generate clear regulations for territories.</voice><break time="5s"/>
+<voice lang="es">Las instancias federales revisan documentos y generan reglamentos claros para los territorios.</voice><break time="2s"/>
+
+<voice lang="en">Academic and Labor Institutions drive positive changes and represent greater flexibility.</voice><break time="5s"/>
+<voice lang="es">Las Instituciones Académicas y Laborales impulsan cambios positivos y representan una mayor flexibilidad.</voice><break time="2s"/>
+
+<voice lang="en">The institution guarantees therapies because the kids live in residences and require accompaniment.</voice><break time="5s"/>
+<voice lang="es">La institución garantiza terapias porque los chicos habitan en residencias y requieren acompañamiento.</voice><break time="2s"/>
+
+<voice lang="en">Institutes advance in programming because they consider it crucial to promote autonomy and care.</voice><break time="5s"/>
+<voice lang="es">Los institutos avanzan en programación porque consideran crucial promover la autonomía y los cuidados.</voice><break time="2s"/>
+
+<voice lang="en">Instruments grow in usefulness, although corporations maintain different priorities.</voice><break time="5s"/>
+<voice lang="es">Los instrumentos crecen en utilidad, aunque las corporaciones sostienen prioridades distintas.</voice><break time="2s"/>
+
+<voice lang="en">My family nucleus demonstrates intelligence and attachment, although we live in certain poverty.</voice><break time="5s"/>
+<voice lang="es">Mi núcleo familiar demuestra inteligencia y apego, aunque vivimos cierta pobreza.</voice><break time="2s"/>
+
+<voice lang="en">Media promote cultural exchange and consolidate sustainable revolutionary alliances.</voice><break time="5s"/>
+<voice lang="es">Los medios impulsan el intercambio cultural y consolidan alianzas revolucionarias sustentables.</voice><break time="2s"/>
+
+<voice lang="en">The female reader expresses her opinion about the interpretation and highlights her courage.</voice><break time="5s"/>
+<voice lang="es">La lectora expresa su opinión sobre la interpretación y destaca su valentía.</voice><break time="2s"/>
+
+<voice lang="en">Introduction and motivation form educational vocation, although newspapers and novels influence.</voice><break time="5s"/>
+<voice lang="es">Introducción y motivación forman vocación educativa, aunque periódicos y novelas influyan.</voice><break time="2s"/>
+
+<voice lang="en">Economic investment favors job opportunities and groups collaborate actively.</voice><break time="5s"/>
+<voice lang="es">La inversión económica favorece las oportunidades laborales y los grupos colaboran activamente.</voice><break time="2s"/>
+
+<voice lang="en">Current research strengthens social theories and the constitutional Rector tries to care for them.</voice><break time="5s"/>
+<voice lang="es">Las investigaciones actuales fortalecen las teorías sociales y el Rector constitucional intenta cuidarlas.</voice><break time="2s"/>
+
+<voice lang="en">The boss adopts educational principles because they stimulate computers, formats and presentations.</voice><break time="5s"/>
+<voice lang="es">El jefe adopta principios educativos porque estimulan las computadoras, los formatos y las presentaciones.</voice><break time="2s"/>
+
+<voice lang="en">Wealth and jewels stand out, but current environmental legislation affects them.</voice><break time="5s"/>
+<voice lang="es">La riqueza y las joyas destacan, pero la legislación ambiental vigente las afecta.</voice><break time="2s"/>
+
+<voice lang="en">The supreme collegiate judges issued extraordinary resolutions and had a negative controversy.</voice><break time="5s"/>
+<voice lang="es">Los jueces colegiados supremos dictaron resoluciones extraordinarias y tuvieron una polémica negativa.</voice><break time="2s"/>
+
+<voice lang="en">Typical Spanish games are liked because there are delicious foods and drinks.</voice><break time="5s"/>
+<voice lang="es">Los juegos típicos españoles gustan porque hay comidas ricas y bebidas.</voice><break time="2s"/>
+
+<voice lang="en">The girl looks at the wall and the judge comments on that home.</voice><break time="5s"/>
+<voice lang="es">La niña mira la pared y el juez comenta sobre ese hogar.</voice><break time="2s"/>
+
+<voice lang="en">Educational toys attract children and guarantee perfect fun.</voice><break time="5s"/>
+<voice lang="es">Los juguetes educativos atraen a los niños y garantizan una diversión perfecta.</voice><break time="2s"/>
+
+<voice lang="en">The minister asked for a fair trial and the army will remain attentive, offering charity.</voice><break time="5s"/>
+<voice lang="es">El ministro pidió un juicio justo y el ejército permanecerá atento, ofreciendo caridad.</voice><break time="2s"/>
+
+<voice lang="en">Although jurisdiction locates museums, we desire adventures, massages and coffee.</voice><break time="5s"/>
+<voice lang="es">Aunque la jurisdicción localiza museos, deseamos aventuras, masajes y café.</voice><break time="2s"/>
+
+<voice lang="en">The bride reached 5 km and declared a funny explanation about modern video games.</voice><break time="5s"/>
+<voice lang="es">La novia alcanzó 5 km y declaró una divertida explicación sobre los videojuegos modernos.</voice><break time="2s"/>
+
+<voice lang="en">In the laboratory we find economic discounts and fast messaging will serve.</voice><break time="5s"/>
+<voice lang="es">En el laboratorio encontramos descuentos económicos y la mensajería rápida servirá.</voice><break time="2s"/>
+
+<voice lang="en">The girl learns piano and enjoys the pool near the lagoon.</voice><break time="5s"/>
+<voice lang="es">La chica aprende piano y disfruta de la piscina cerca de la laguna.</voice><break time="2s"/>
+
+<voice lang="en">The client searches for products on tourism and press pages when shopping.</voice><break time="5s"/>
+<voice lang="es">El cliente busca productos en páginas de turismo y de prensa cuando compra.</voice><break time="2s"/>
+
+<voice lang="en">The young person masters language and uses screens to express their convictions.</voice><break time="5s"/>
+<voice lang="es">El joven domina el lenguaje y utiliza pantallas para expresar sus convicciones.</voice><break time="2s"/>
+
+<voice lang="en">Languages preserve cultural notions and teachers teach classes maintaining coordination.</voice><break time="5s"/>
+<voice lang="es">Las lenguas preservan nociones culturales y los maestros imparten clases manteniendo la coordinación.</voice><break time="2s"/>
+
+<voice lang="en">Although laws prevent certain substances, emotional context influences and heals.</voice><break time="5s"/>
+<voice lang="es">Aunque las leyes impiden ciertas sustancias, el contexto emocional influye y cura.</voice><break time="2s"/>
+
+<voice lang="en">Liberation will have difficulties and representatives will manage expectations and social guarantees.</voice><break time="5s"/>
+<voice lang="es">La Liberación tendrá dificultades y los representantes gestionarán expectativas y garantías sociales.</voice><break time="2s"/>
+
+<voice lang="en">The organized Degree includes independent subjects and intends to incentivize intense concentration.</voice><break time="5s"/>
+<voice lang="es">La Licenciatura organizada incluye asignaturas independientes y pretende incentivar una concentración intensa.</voice><break time="2s"/>
+
+<voice lang="en">The League won important prizes and fans will receive official notification.</voice><break time="5s"/>
+<voice lang="es">La Liga ganó premios importantes y los fans recibirán la notificación oficial.</voice><break time="2s"/>
+
+<voice lang="en">Students pursue school training and sports leagues transform their primary development.</voice><break time="5s"/>
+<voice lang="es">Los estudiantes cursan entrenamiento escolar y las ligas deportivas transforman su desarrollo primario.</voice><break time="2s"/>
+
+<voice lang="en">The species discovered millions of crystals and environmental guidelines will prevent their destruction.</voice><break time="5s"/>
+<voice lang="es">La especie descubrió millones de cristales y los lineamientos ambientales evitarán su destrucción.</voice><break time="2s"/>
+
+<voice lang="en">The wife found the neighbor connected and together they played music with Lira.</voice><break time="5s"/>
+<voice lang="es">La esposa encontró al vecino conectado y juntos pusieron música con Lira.</voice><break time="2s"/>
+
+<voice lang="en">Good literature helps the sick person in the hospital, taking temperature and eliminating worries.</voice><break time="5s"/>
+<voice lang="es">La buena literatura ayuda al enfermo en el hospital, tomando la temperatura y eliminando preocupaciones.</voice><break time="2s"/>
+
+<voice lang="en">Strategic logistics moves functional instruments and ensures constant vehicular operations.</voice><break time="5s"/>
+<voice lang="es">La logística estratégica mueve instrumentos funcionales y asegura operaciones vehiculares constantes.</voice><break time="2s"/>
+
+<voice lang="en">Grandmother adopts new family habits and batches of positive energies.</voice><break time="5s"/>
+<voice lang="es">La abuela adopta nuevos hábitos familiares y lotes de energías positivas.</voice><break time="2s"/>
+
+<voice lang="en">Internal struggle matters although emotions and grief remain hidden.</voice><break time="5s"/>
+<voice lang="es">La lucha interna importa aunque permanezcan ocultas las emociones y el pesar.</voice><break time="2s"/>
+
+<voice lang="en">Every February I counted weeks, fulfilled professional functions and looked at the Moon.</voice><break time="5s"/>
+<voice lang="es">Cada febrero contaba semanas, cumplía funciones profesionales y miraba la Luna.</voice><break time="2s"/>
+
+<voice lang="en">The student leader presented equitable proposals and leaders said they would support them.</voice><break time="5s"/>
+<voice lang="es">El líder estudiantil presentó propuestas equitativas y los dirigentes dijeron que las apoyarían.</voice><break time="2s"/>
+
+<voice lang="en">Identified scholars review the telephone line and mentioned global trends.</voice><break time="5s"/>
+<voice lang="es">Los estudiosos identificados revisan la línea telefónica y las tendencias globales mencionadas.</voice><break time="2s"/>
+
+<voice lang="en">Agents observe the Lines, although the senator says the omissions were serious.</voice><break time="5s"/>
+<voice lang="es">Los agentes observan las Líneas, aunque el senador dice que las omisiones resultaron graves.</voice><break time="2s"/>
+
+<voice lang="en">Focused teachers work united and foster a competitive work commitment in different sectors.</voice><break time="5s"/>
+<voice lang="es">Maestros enfocados trabajan unidos y fomentan un compromiso laboral competitivo en diferentes sectores.</voice><break time="2s"/>
+
+<voice lang="en">The master's degree begins today and applicants find academic value and rigor.</voice><break time="5s"/>
+<voice lang="es">La maestría inicia hoy y los solicitantes encuentran valor académico y rigor.</voice><break time="2s"/>
+
+<voice lang="en">Members maintain emotional maintenance, although occasional errors provoke mysteries in their states.</voice><break time="5s"/>
+<voice lang="es">Los miembros mantienen el mantenimiento emocional, aunque errores ocasionales provocan misterios en sus estados.</voice><break time="2s"/>
+
+<voice lang="en">Machinery works better when trained employees operate and care for it.</voice><break time="5s"/>
+<voice lang="es">La maquinaria funciona mejor cuando los empleados capacitados la manejan y la cuidan.</voice><break time="2s"/>
+
+<voice lang="en">Registered trademarks preserve identity when law governs and functions.</voice><break time="5s"/>
+<voice lang="es">Las marcas registradas preservan la identidad cuando la ley rige y funciona.</voice><break time="2s"/>
+
+<voice lang="en">Marco wishes to visit the desert and preserve its magical findings.</voice><break time="5s"/>
+<voice lang="es">Marco desea visitar el desierto y preservar sus mágicos hallazgos.</voice><break time="2s"/>
+
+<voice lang="en">March will bring rains although the hacienda was abandoned after the earthquake.</voice><break time="5s"/>
+<voice lang="es">Marzo traerá lluvias aunque la hacienda quedó abandonada tras el terremoto.</voice><break time="2s"/>
+
+<voice lang="en">The Agricultural Subject distributes productive protocols and generates significant economic recovery.</voice><break time="5s"/>
+<voice lang="es">La Materia Agropecuaria distribuye protocolos productivos y genera una recuperación económica significativa.</voice><break time="2s"/>
+
+<voice lang="en">Guilt appears as emotional material and helps express doubts.</voice><break time="5s"/>
+<voice lang="es">La culpa aparece como material emocional y ayuda a expresar dudas.</voice><break time="2s"/>
+
+<voice lang="en">The refrigerator uses ecological materials and nurses test wonderful honey materials.</voice><break time="5s"/>
+<voice lang="es">El refrigerador utiliza materiales ecológicos y las enfermeras prueban materiales maravillosos de miel.</voice><break time="2s"/>
+
+<voice lang="en">The hero obtains the medal and faces the enemy without excesses.</voice><break time="5s"/>
+<voice lang="es">El héroe obtiene la medalla y enfrenta al enemigo sin excesos.</voice><break time="2s"/>
+
+<voice lang="en">The international menu highlights original dishes and the restaurant offers abundant portions.</voice><break time="5s"/>
+<voice lang="es">El menú internacional destaca platos originales y el restaurante ofrece raciones abundantes.</voice><break time="2s"/>
+
+<voice lang="en">Marketing dedicates videos to the home and the press finds photographs.</voice><break time="5s"/>
+<voice lang="es">La mercadotecnia dedica videos al hogar y la prensa encuentra fotografías.</voice><break time="2s"/>
+
+<voice lang="en">The month begins family meetings because they believe enriching stories together is worthwhile.</voice><break time="5s"/>
+<voice lang="es">El mes inicia reuniones familiares porque creen que enriquecer historias juntos vale la pena.</voice><break time="2s"/>
+
+<voice lang="en">The Board will coordinate the vote and centers will implement inspections.</voice><break time="5s"/>
+<voice lang="es">La Mesa coordinará la votación y los centros implementarán las inspecciones.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>

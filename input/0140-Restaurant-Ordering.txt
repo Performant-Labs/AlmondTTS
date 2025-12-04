@@ -243,5 +243,5 @@
 <voice lang="en">Do you have any other side options?<break time="5s"></voice>
 <voice lang="es">¿Tienen otras opciones de guarnición?<break time="3s"></voice>
 
-En final
+El final
 <voice lang="en"><break time="4s"></voice>

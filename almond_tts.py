@@ -11,6 +11,8 @@ import argparse
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
 import threading
 import time
@@ -130,7 +132,7 @@ class TextSegment:
 class LongFormTTS:
     def __init__(self, model_name="tts_models/multilingual/multi-dataset/xtts_v2",
                  speaker_wav=None, language="es", output_dir=None, device=None, num_workers=1, pause_after=2.0,
-                 voice_map=None, auto_detect_language=False):
+                 voice_map=None, auto_detect_language=False, slowdown_factor=None, slowdown_engine="rubberband"):
         """
         Initialize the Long-Form TTS processor.
 
@@ -144,6 +146,7 @@ class LongFormTTS:
             pause_after: If set, add this many seconds of pause after each audio segment (default: 2.0). Break tags always take precedence.
             voice_map: Dict mapping language codes to voice files, e.g., {"en": "english.wav", "es": None}
             auto_detect_language: If True, automatically detect language per segment
+            slowdown_engine: Engine for time-stretching ('rubberband' or 'sox')
         """
         init_parts = [f"AlmondTTS start", f"model: {model_name}", f"lang: {language}"]
         if speaker_wav:
@@ -155,6 +158,8 @@ class LongFormTTS:
         self.model_name = model_name
         self.voice_map = voice_map or {}
         self.auto_detect_language = auto_detect_language
+        self.slowdown_factor = slowdown_factor if slowdown_factor and slowdown_factor > 0 else None
+        self.slowdown_engine = slowdown_engine or "rubberband"
 
         if voice_map:
             print(f"Voice mapping enabled:")
@@ -264,9 +269,19 @@ class LongFormTTS:
         self.silence_cache = {}  # Cache silence files by duration
         self.num_workers = num_workers
         self.pause_after = pause_after
-        print(f"Parallel workers: {num_workers}")
+
+        # Display all active settings
+        print(f"\n--- Active Settings ---")
+        print(f"  Workers: {num_workers}")
         if pause_after is not None:
-            print(f"Pause after each segment (unless break tag present): {pause_after}s")
+            print(f"  Pause after segment: {pause_after}s")
+        if self.slowdown_factor and self.slowdown_factor != 1.0:
+            print(f"  Slowdown: {self.slowdown_factor}x tempo ({self.slowdown_engine})")
+        if self.auto_detect_language:
+            print(f"  Auto-detect language: enabled")
+        if self.voice_map:
+            print(f"  Voice map: {len(self.voice_map)} language(s) mapped")
+        print(f"-----------------------")
 
         # Estimation: average speaking rate for Spanish TTS
         # Conservative estimate to avoid segments being too long
@@ -337,6 +352,127 @@ class LongFormTTS:
                 final_chunks.append(chunk)
 
         return [c for c in final_chunks if c]
+
+    # XTTS v2 character limits per language (from model config)
+    CHAR_LIMITS = {
+        "en": 250,
+        "es": 239,
+        "fr": 273,
+        "de": 253,
+        "it": 213,
+        "pt": 239,
+        "pl": 224,
+        "tr": 226,
+        "ru": 182,
+        "nl": 251,
+        "cs": 186,
+        "ar": 166,
+        "zh-cn": 82,
+        "ja": 71,
+        "hu": 224,
+        "ko": 95,
+    }
+    DEFAULT_CHAR_LIMIT = 200  # Conservative fallback
+
+    def split_by_char_limit(self, text: str, lang: str) -> List[str]:
+        """
+        Split text to stay under the XTTS character limit for the given language.
+        Splits at sentence boundaries first, then clause boundaries if needed.
+
+        Args:
+            text: Text to split
+            lang: Language code
+
+        Returns:
+            List of text chunks, each under the character limit
+        """
+        char_limit = self.CHAR_LIMITS.get(lang, self.DEFAULT_CHAR_LIMIT)
+
+        if len(text) <= char_limit:
+            return [text]
+
+        chunks = []
+
+        # Try splitting by sentence-ending punctuation first
+        sentence_pattern = r'([.!?]+\s+)'
+        sentences = re.split(sentence_pattern, text)
+
+        # Rejoin punctuation with preceding text
+        merged_sentences = []
+        i = 0
+        while i < len(sentences):
+            if i + 1 < len(sentences) and re.match(r'^[.!?]+\s*$', sentences[i + 1]):
+                merged_sentences.append(sentences[i] + sentences[i + 1])
+                i += 2
+            else:
+                if sentences[i].strip():
+                    merged_sentences.append(sentences[i])
+                i += 1
+
+        current_chunk = ""
+        for sentence in merged_sentences:
+            test_chunk = current_chunk + sentence
+            if len(test_chunk) > char_limit and current_chunk:
+                chunks.append(current_chunk.strip())
+                current_chunk = sentence
+            else:
+                current_chunk = test_chunk
+
+        if current_chunk.strip():
+            chunks.append(current_chunk.strip())
+
+        # If any chunk is still too long, split by clause (comma, semicolon, colon)
+        final_chunks = []
+        for chunk in chunks:
+            if len(chunk) > char_limit:
+                clause_pattern = r'([,;:]\s+)'
+                clauses = re.split(clause_pattern, chunk)
+
+                # Rejoin punctuation with preceding text
+                merged_clauses = []
+                j = 0
+                while j < len(clauses):
+                    if j + 1 < len(clauses) and re.match(r'^[,;:]\s*$', clauses[j + 1]):
+                        merged_clauses.append(clauses[j] + clauses[j + 1])
+                        j += 2
+                    else:
+                        if clauses[j].strip():
+                            merged_clauses.append(clauses[j])
+                        j += 1
+
+                sub_chunk = ""
+                for clause in merged_clauses:
+                    test_sub = sub_chunk + clause
+                    if len(test_sub) > char_limit and sub_chunk:
+                        final_chunks.append(sub_chunk.strip())
+                        sub_chunk = clause
+                    else:
+                        sub_chunk = test_sub
+
+                if sub_chunk.strip():
+                    final_chunks.append(sub_chunk.strip())
+            else:
+                final_chunks.append(chunk)
+
+        # Last resort: if still too long, hard-split at word boundaries
+        result = []
+        for chunk in final_chunks:
+            if len(chunk) > char_limit:
+                words = chunk.split()
+                sub = ""
+                for word in words:
+                    test = (sub + " " + word).strip()
+                    if len(test) > char_limit and sub:
+                        result.append(sub)
+                        sub = word
+                    else:
+                        sub = test
+                if sub:
+                    result.append(sub)
+            else:
+                result.append(chunk)
+
+        return [c for c in result if c]
 
     def segment_text(self, text: str, min_duration: float = 30.0, max_duration: float = 60.0) -> List[TextSegment]:
         """
@@ -515,14 +651,63 @@ class LongFormTTS:
 
         return segments
 
+    def _parse_speakers_header(self, content: str) -> tuple[dict[str, str], str]:
+        """
+        Parse optional <speakers> header block from content.
+
+        Format:
+            <speakers>
+            maria = ~/Documents/AlmondTTS/reference_audio/maria.wav
+            carlos = carlos.wav
+            </speakers>
+
+        Args:
+            content: Full file content
+
+        Returns:
+            Tuple of (speaker_map dict, remaining content without header)
+        """
+        speaker_map = {}
+
+        # Match <speakers>...</speakers> block
+        speakers_pattern = r'<speakers>\s*(.*?)\s*</speakers>'
+        match = re.search(speakers_pattern, content, flags=re.DOTALL | re.IGNORECASE)
+
+        if match:
+            speakers_block = match.group(1)
+            # Parse each line: name = path
+            for line in speakers_block.strip().split('\n'):
+                line = line.strip()
+                if not line or line.startswith('#'):
+                    continue
+                if '=' in line:
+                    name, path = line.split('=', 1)
+                    name = name.strip().lower()
+                    path = path.strip()
+                    # Expand ~ and resolve path
+                    expanded_path = str(_expand_path(path))
+                    speaker_map[name] = expanded_path
+
+            # Remove the speakers block from content
+            content = content[:match.start()] + content[match.end():]
+
+            if speaker_map:
+                print(f"Speakers defined in file:")
+                for name, path in speaker_map.items():
+                    print(f"  {name}: {path}")
+
+        return speaker_map, content
+
     def parse_text_with_breaks(self, filepath: str) -> List[TextSegment]:
         """
         Parse text file with explicit <break time="Xs"> and <voice> tags.
         Returns list of TextSegment objects.
 
         Supported tags:
+        - <speakers>...</speakers> - Define speaker aliases at top of file
         - <break time="2s"> - Add a pause
-        - <voice ref="path/to/voice.wav" lang="en">text</voice> - Use specific voice and language
+        - <voice speaker="name" lang="es">text</voice> - Use named speaker
+        - <voice ref="path/to/voice.wav" lang="en">text</voice> - Use specific voice file
         - <voice lang="es">text</voice> - Use default voice for language
 
         Args:
@@ -534,14 +719,30 @@ class LongFormTTS:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
+        # Parse speakers header if present
+        file_speakers, content = self._parse_speakers_header(content)
+
         # First, extract voice tags and replace with markers
-        voice_pattern = r'<voice\s+(?:ref=["\'](.*?)["\']\s+)?(?:lang=["\'](.*?)["\']\s*)?>(.*?)</voice>'
+        # Updated pattern to support: speaker="name", ref="path", lang="code" in any order
+        voice_pattern = r'<voice\s+([^>]*)>(.*?)</voice>'
         voice_segments = []
 
         def voice_replacer(match):
-            voice_ref = match.group(1)  # Can be None
-            lang = match.group(2)  # Can be None
-            text = match.group(3)
+            voice_ref = None
+            lang = None
+            speaker = None
+            attrs = match.group(1).split()
+            for attr in attrs:
+                if attr.startswith('ref='):
+                    voice_ref = attr.split('=', 1)[1].strip('"\'')
+                elif attr.startswith('lang='):
+                    lang = attr.split('=', 1)[1].strip('"\'')
+                elif attr.startswith('speaker='):
+                    speaker = attr.split('=', 1)[1].strip('"\'')
+            text = match.group(2)
+            # Resolve speaker name to voice file path
+            if speaker and speaker.lower() in file_speakers:
+                voice_ref = file_speakers[speaker.lower()]
             marker = f"__VOICE_SEGMENT_{len(voice_segments)}__"
             voice_segments.append((text, voice_ref, lang))
             return marker
@@ -575,10 +776,9 @@ class LongFormTTS:
                     # Add any text before the voice marker as a regular segment
                     before_text = text[last_end:match.start()].strip()
                     if before_text:
-                        segments.append(self._create_segment(
-                            before_text, 0.0, segment_id, None, None
-                        ))
-                        segment_id += 1
+                        new_segs = self._create_segments(before_text, 0.0, segment_id, None, None)
+                        segments.extend(new_segs)
+                        segment_id += len(new_segs)
 
                     # Add the voice segment
                     voice_idx = int(match.group(1))
@@ -590,26 +790,23 @@ class LongFormTTS:
                         is_last = match == voice_matches[-1]
                         seg_break = break_time if is_last else 0.0
 
-                        segments.append(self._create_segment(
-                            voice_text, seg_break, segment_id, voice_ref, lang
-                        ))
-                        segment_id += 1
+                        new_segs = self._create_segments(voice_text, seg_break, segment_id, voice_ref, lang)
+                        segments.extend(new_segs)
+                        segment_id += len(new_segs)
 
                     last_end = match.end()
 
                 # Add any remaining text after the last voice marker
                 after_text = text[last_end:].strip()
                 if after_text:
-                    segments.append(self._create_segment(
-                        after_text, break_time, segment_id, None, None
-                    ))
-                    segment_id += 1
+                    new_segs = self._create_segments(after_text, break_time, segment_id, None, None)
+                    segments.extend(new_segs)
+                    segment_id += len(new_segs)
             else:
                 # No voice tags, create regular segment
-                segments.append(self._create_segment(
-                    text, break_time, segment_id, None, None
-                ))
-                segment_id += 1
+                new_segs = self._create_segments(text, break_time, segment_id, None, None)
+                segments.extend(new_segs)
+                segment_id += len(new_segs)
 
         print(f"\nParsed {len(segments)} segments")
         for seg in segments:
@@ -620,10 +817,90 @@ class LongFormTTS:
 
         return segments
 
-    def _create_segment(self, text: str, break_after: float, segment_id: int,
-                       voice_ref: Optional[str], lang: Optional[str]) -> TextSegment:
+    def _create_segments(self, text: str, break_after: float, segment_id: int,
+                        voice_ref: Optional[str], lang: Optional[str]) -> List[TextSegment]:
         """
-        Helper to create a TextSegment with voice/language detection.
+        Helper to create TextSegment(s) with voice/language detection.
+        Automatically splits text that exceeds the XTTS character limit.
+
+        Args:
+            text: Segment text
+            break_after: Pause duration after segment (applied to last sub-segment only)
+            segment_id: Starting segment ID
+            voice_ref: Optional voice reference file path
+            lang: Optional language code
+
+        Returns:
+            List of TextSegment objects (may be empty if text is whitespace-only)
+        """
+        # Strip any remaining tags and check for empty text
+        clean_text = re.sub(r'<[^>]+>', '', text).strip()
+        if not clean_text:
+            return []
+
+        # Determine language first (needed for char limit lookup)
+        segment_lang = self._determine_language(clean_text, lang)
+
+        # Split by character limit if needed
+        text_chunks = self.split_by_char_limit(clean_text, segment_lang)
+
+        # Determine voice file
+        if voice_ref:
+            segment_voice = voice_ref
+        elif segment_lang in self.voice_map:
+            segment_voice = self.voice_map[segment_lang]
+        else:
+            segment_voice = self.speaker_wav
+
+        # Log if text was split due to character limit
+        if len(text_chunks) > 1:
+            char_limit = self.CHAR_LIMITS.get(segment_lang, self.DEFAULT_CHAR_LIMIT)
+            print(f"  [char-limit] Split {len(clean_text)} chars into {len(text_chunks)} segments (limit: {char_limit} for {segment_lang})")
+
+        # Create segments for each chunk
+        segments = []
+        for i, chunk in enumerate(text_chunks):
+            is_last = (i == len(text_chunks) - 1)
+            seg_break = break_after if is_last else 0.0
+
+            segments.append(TextSegment(
+                text=chunk,
+                break_after=seg_break,
+                estimated_duration=self.estimate_duration(chunk),
+                segment_id=segment_id + i,
+                voice_file=segment_voice,
+                language=segment_lang
+            ))
+
+        return segments
+
+    def _determine_language(self, text: str, lang: Optional[str]) -> str:
+        """Determine the language for a text segment."""
+        if lang:
+            return lang
+
+        if self.auto_detect_language and self._detect_language:
+            try:
+                supported_langs = set()
+                try:
+                    supported_langs = set(self.tts_models[0].speaker_manager.language_ids)
+                except Exception:
+                    pass
+
+                detected = self._detect_language(text)
+                if len(text) < 20 or (supported_langs and detected not in supported_langs):
+                    return self.language
+                return detected
+            except Exception:
+                pass
+
+        return self.language
+
+    def _create_segment(self, text: str, break_after: float, segment_id: int,
+                       voice_ref: Optional[str], lang: Optional[str]) -> Optional[TextSegment]:
+        """
+        Helper to create a single TextSegment with voice/language detection.
+        DEPRECATED: Use _create_segments() instead for proper character limit handling.
 
         Args:
             text: Segment text
@@ -633,51 +910,10 @@ class LongFormTTS:
             lang: Optional language code
 
         Returns:
-            TextSegment object
+            TextSegment object, or None if text is empty/whitespace-only
         """
-        # Determine language
-        supported_langs = set()
-        try:
-            supported_langs = set(self.tts_models[0].speaker_manager.language_ids)  # type: ignore[attr-defined]
-        except Exception:
-            pass
-
-        if lang:
-            segment_lang = lang
-        elif self.auto_detect_language and self._detect_language:
-            # Auto-detect language, but fall back for short/unsupported text
-            try:
-                detected = self._detect_language(text)
-                if len(text) < 20 or (supported_langs and detected not in supported_langs):
-                    segment_lang = self.language
-                else:
-                    segment_lang = detected
-            except Exception:
-                segment_lang = self.language
-        else:
-            segment_lang = self.language
-
-        # Determine voice file
-        if voice_ref:
-            # Explicit voice reference from tag
-            segment_voice = voice_ref
-        elif segment_lang in self.voice_map:
-            # Use mapped voice for this language
-            segment_voice = self.voice_map[segment_lang]
-        else:
-            # Use default voice
-            segment_voice = self.speaker_wav
-
-        estimated_duration = self.estimate_duration(text)
-
-        return TextSegment(
-            text=text,
-            break_after=break_after,
-            estimated_duration=estimated_duration,
-            segment_id=segment_id,
-            voice_file=segment_voice,
-            language=segment_lang
-        )
+        segments = self._create_segments(text, break_after, segment_id, voice_ref, lang)
+        return segments[0] if segments else None
 
     def _process_single_segment(self, segment: TextSegment, output_name: str, file_counter: int):
         """
@@ -697,57 +933,91 @@ class LongFormTTS:
         # Get a model instance from the queue (blocks if all models are in use)
         model_idx = self.model_queue.get()
 
+        max_attempts = 3
+        last_error = None
+
         try:
-            start_time = time.time()
+            for attempt in range(1, max_attempts + 1):
+                try:
+                    start_time = time.time()
 
-            # Use the dedicated model instance for this worker
-            tts_model = self.tts_models[model_idx]
+                    # Use the dedicated model instance for this worker
+                    tts_model = self.tts_models[model_idx]
 
-            # Use segment-specific voice and language if available
-            segment_voice = segment.voice_file if segment.voice_file is not None else self.speaker_wav
-            segment_lang = segment.language if segment.language else self.language
+                    # Use segment-specific voice and language if available
+                    segment_voice = segment.voice_file if segment.voice_file is not None else self.speaker_wav
+                    segment_lang = segment.language if segment.language else self.language
 
-            if segment_voice:
-                tts_model.tts_to_file(
-                    text=segment.text,
-                    file_path=str(tts_filename),
-                    speaker_wav=segment_voice,
-                    language=segment_lang
-                )
-            else:
-                # Use default speaker from model (Dionisio Schuyler for XTTS v2)
-                tts_model.tts_to_file(
-                    text=segment.text,
-                    file_path=str(tts_filename),
-                    speaker="Dionisio Schuyler",
-                    language=segment_lang
-                )
+                    if segment_voice:
+                        tts_model.tts_to_file(
+                            text=segment.text,
+                            file_path=str(tts_filename),
+                            speaker_wav=segment_voice,
+                            language=segment_lang
+                        )
+                    else:
+                        # Use default speaker from model (Dionisio Schuyler for XTTS v2)
+                        tts_model.tts_to_file(
+                            text=segment.text,
+                            file_path=str(tts_filename),
+                            speaker="Dionisio Schuyler",
+                            language=segment_lang
+                        )
 
-            generation_time = time.time() - start_time
+                    generation_time = time.time() - start_time
 
-            # Get actual audio duration
-            with wave.open(str(tts_filename), 'rb') as wav_file:
-                frames = wav_file.getnframes()
-                rate = wav_file.getframerate()
-                audio_duration = frames / float(rate)
+                    # Get actual audio duration
+                    with wave.open(str(tts_filename), 'rb') as wav_file:
+                        frames = wav_file.getnframes()
+                        rate = wav_file.getframerate()
+                        if rate == 0:
+                            raise ValueError("Generated audio has invalid sample rate (0)")
+                        audio_duration = frames / float(rate)
 
-        # Handle silence if needed
-            # Respect explicit break tags; otherwise apply pause_after if set
-            if segment.break_after > 0:
-                pause_duration = segment.break_after
-            elif self.pause_after is not None:
-                pause_duration = self.pause_after
-            else:
-                pause_duration = 0
+                    # Safeguard against hallucinations that run too long (e.g., language drift)
+                    if segment.estimated_duration > 0:
+                        duration_limit = max(segment.estimated_duration * 2.0, segment.estimated_duration + 2.0)
+                    else:
+                        duration_limit = 10.0  # fallback guard for very short/unknown estimates
 
-            if pause_duration > 0:
-                silence_filename = self.output_dir / f"{output_name}_{file_counter + 1:03d}.wav"
-                self.generate_silence(pause_duration, silence_filename)
+                    if audio_duration > duration_limit:
+                        raise ValueError(
+                            f"Segment {segment.segment_id:03d} exceeded duration limit: "
+                            f"{audio_duration:.2f}s (limit {duration_limit:.2f}s)"
+                        )
 
-            return (True, tts_filename, silence_filename, generation_time, audio_duration, None)
+                    # Handle silence if needed
+                    # Respect explicit break tags; otherwise apply pause_after if set
+                    if segment.break_after > 0:
+                        pause_duration = segment.break_after
+                    elif self.pause_after is not None:
+                        pause_duration = self.pause_after
+                    else:
+                        pause_duration = 0
 
-        except Exception as e:
-            return (False, None, None, 0, 0, str(e))
+                    if pause_duration > 0:
+                        silence_filename = self.output_dir / f"{output_name}_{file_counter + 1:03d}.wav"
+                        self.generate_silence(pause_duration, silence_filename)
+
+                    return (True, tts_filename, silence_filename, generation_time, audio_duration, None)
+
+                except Exception as e:
+                    last_error = str(e)
+                    if tts_filename.exists():
+                        try:
+                            tts_filename.unlink()
+                        except Exception:
+                            pass
+                    if attempt < max_attempts:
+                        print(
+                            f"Segment {segment.segment_id:03d} attempt {attempt}/{max_attempts} failed: {e}. Retrying..."
+                        )
+                        continue
+                    else:
+                        break
+
+            return (False, None, None, 0, 0, last_error or "Unknown error")
+
         finally:
             # Always return the model to the queue
             self.model_queue.put(model_idx)
@@ -932,7 +1202,7 @@ class LongFormTTS:
                             print(
                                 f"[{completed}/{len(segments)}] "
                                 f"ID {segment.segment_id:03d} "
-                                f"| gen {gen_time:.2f}s "
+                                f"| {audio_dur:.1f}s audio "
                                 f"| {text_preview}{pause_info}"
                             )
                         else:
@@ -942,7 +1212,7 @@ class LongFormTTS:
                     print("\nKeyboard interrupt received. Cancelling pending tasks...")
                     for f in future_to_task:
                         f.cancel()
-                    executor.shutdown(cancel_futures=True)
+                    executor.shutdown(wait=False, cancel_futures=True)
                     raise
                 except Exception as e:
                     task = future_to_task.get(future)
@@ -966,13 +1236,12 @@ class LongFormTTS:
                     files_for_concat.append(tts_file)
                     self.temp_files.append(tts_file)
 
-                # Handle silence files
-                    if silence_file:
-                        # Always add to temp_files for cleanup
-                        self.temp_files.append(silence_file)
+                # Handle silence files when a pause was generated
+                if silence_file:
+                    # Always add to temp_files for cleanup
+                    self.temp_files.append(silence_file)
 
-                        # For concatenation, use cached version to avoid duplicates
-                    # Use segment's break_after if present; otherwise pause_after if set
+                    # Determine the associated pause duration (explicit break overrides pause_after)
                     if segments[idx].break_after > 0:
                         pause_duration = segments[idx].break_after
                     elif self.pause_after is not None:
@@ -980,13 +1249,18 @@ class LongFormTTS:
                     else:
                         pause_duration = 0
 
-                    # Check if we have a valid cached silence file that still exists
-                    if pause_duration in self.silence_cache and self.silence_cache[pause_duration].exists():
-                        files_for_concat.append(self.silence_cache[pause_duration])
-                    else:
-                        # Use the newly generated silence file and update cache
-                        self.silence_cache[pause_duration] = silence_file
+                    if pause_duration <= 0:
+                        # Safety guard: should not happen if silence_file exists, but avoid caching None keys
                         files_for_concat.append(silence_file)
+                    else:
+                        # Check if we have a valid cached silence file that still exists
+                        cached_silence = self.silence_cache.get(pause_duration)
+                        if cached_silence and cached_silence.exists():
+                            files_for_concat.append(cached_silence)
+                        else:
+                            # Use the newly generated silence file and update cache
+                            self.silence_cache[pause_duration] = silence_file
+                            files_for_concat.append(silence_file)
 
         print(f"Total files to concatenate: {len(files_for_concat)}")
         print(f"Total files for cleanup: {len(self.temp_files)}")
@@ -1046,6 +1320,79 @@ class LongFormTTS:
             output_wav.writeframes(b''.join(all_frames))
 
         print(f"✓ Concatenation complete: {output_path.name}")
+
+    def apply_slowdown(self, wav_path: Path) -> Path:
+        """Optionally apply time-stretching to the final WAV using rubberband or sox."""
+        if not self.slowdown_factor or self.slowdown_factor == 1.0:
+            return wav_path
+
+        if not wav_path.exists():
+            print(f"WARNING: Cannot slow down missing file: {wav_path}")
+            return wav_path
+
+        temp_path = wav_path.with_name(wav_path.stem + "_tempo_tmp.wav")
+
+        if self.slowdown_engine == "rubberband":
+            return self._apply_rubberband(wav_path, temp_path)
+        else:
+            return self._apply_sox(wav_path, temp_path)
+
+    def _apply_rubberband(self, wav_path: Path, temp_path: Path) -> Path:
+        """Apply time-stretching using rubberband (higher quality for voice)."""
+        rb_path = shutil.which("rubberband")
+        if not rb_path:
+            print("WARNING: rubberband not found on PATH. Falling back to sox...")
+            return self._apply_sox(wav_path, temp_path)
+
+        # Rubberband uses time ratio (1/factor), so 0.85x tempo = 1.176x time stretch
+        time_ratio = 1.0 / self.slowdown_factor
+        try:
+            print(f"Applying rubberband time-stretch {self.slowdown_factor}x to {wav_path.name}...")
+            subprocess.run(
+                [rb_path, "-t", str(time_ratio), str(wav_path), str(temp_path)],
+                check=True,
+                capture_output=True,
+            )
+            temp_path.replace(wav_path)
+            print("✓ Rubberband processing complete")
+        except subprocess.CalledProcessError as exc:
+            print(f"WARNING: Rubberband failed: {exc.stderr.decode() if exc.stderr else exc}")
+            print("Falling back to sox...")
+            if temp_path.exists():
+                temp_path.unlink()
+            return self._apply_sox(wav_path, wav_path.with_name(wav_path.stem + "_tempo_tmp.wav"))
+        except Exception as exc:
+            print(f"WARNING: Unexpected rubberband error: {exc}")
+            if temp_path.exists():
+                temp_path.unlink()
+
+        return wav_path
+
+    def _apply_sox(self, wav_path: Path, temp_path: Path) -> Path:
+        """Apply time-stretching using sox tempo."""
+        sox_path = shutil.which("sox")
+        if not sox_path:
+            print("WARNING: Sox not found on PATH. Skipping slowdown.")
+            return wav_path
+
+        try:
+            print(f"Applying Sox tempo {self.slowdown_factor}x to {wav_path.name}...")
+            subprocess.run(
+                [sox_path, str(wav_path), str(temp_path), "tempo", str(self.slowdown_factor)],
+                check=True,
+            )
+            temp_path.replace(wav_path)
+            print("✓ Sox processing complete")
+        except subprocess.CalledProcessError as exc:
+            print(f"WARNING: Sox tempo adjustment failed: {exc}")
+            if temp_path.exists():
+                temp_path.unlink()
+        except Exception as exc:
+            print(f"WARNING: Unexpected Sox error: {exc}")
+            if temp_path.exists():
+                temp_path.unlink()
+
+        return wav_path
 
     def cleanup_temp_files(self):
         """
@@ -1157,8 +1504,16 @@ class LongFormTTS:
         final_output = self.output_dir / f"{output_name}.wav"
         try:
             self.concatenate_wav_files(audio_files, final_output)
+
+            # If slowdown is applied, keep original and create slowed version
+            if self.slowdown_factor and self.slowdown_factor != 1.0:
+                slowed_output = self.output_dir / f"{output_name}-{self.slowdown_factor:.2f}x.wav"
+                shutil.copy(final_output, slowed_output)
+                self.apply_slowdown(slowed_output)
+                print(f"✓ Original: {final_output.name}")
+                print(f"✓ Slowed:   {slowed_output.name}")
         except KeyboardInterrupt:
-            print("\nAborted during concatenation.")
+            print("\nAborted during concatenation. Cleaning up temporary files...")
             self.cleanup_temp_files()
             raise
 
@@ -1256,6 +1611,18 @@ Example usage:
         action="store_true",
         help="Automatically detect language per segment and use corresponding voice from voice-map"
     )
+    parser.add_argument(
+        "--slowdown-factor",
+        type=float,
+        default=None,
+        help="Tempo factor for time-stretching (<1 slows speech, >1 speeds)"
+    )
+    parser.add_argument(
+        "--slowdown-engine",
+        choices=["rubberband", "sox"],
+        default="rubberband",
+        help="Engine for time-stretching: 'rubberband' (higher quality) or 'sox' (default: rubberband)"
+    )
 
     args = parser.parse_args()
 
@@ -1320,7 +1687,9 @@ Example usage:
             num_workers=args.workers,
             pause_after=args.pause_after,
             voice_map=voice_map,
-            auto_detect_language=args.auto_detect_language
+            auto_detect_language=args.auto_detect_language,
+            slowdown_factor=args.slowdown_factor,
+            slowdown_engine=args.slowdown_engine
         )
 
         # Process each file
@@ -1373,7 +1742,9 @@ Example usage:
             num_workers=args.workers,
             pause_after=args.pause_after,
             voice_map=voice_map,
-            auto_detect_language=args.auto_detect_language
+            auto_detect_language=args.auto_detect_language,
+            slowdown_factor=args.slowdown_factor,
+            slowdown_engine=args.slowdown_engine
         )
 
         # Process the file

@@ -1,0 +1,320 @@
+<voice lang="en">Sentences — Number 1</voice><break time="2s"/>
+<voice lang="es">Frases — Número uno</voice><break time="2s"/>
+
+<voice lang="en">Capital city lawyers fight for institutional transparency and municipal authorities support the changes.</voice><break time="5s"/>
+<voice lang="es">Abogados capitalinos luchan por la transparencia institucional y las autoridades municipales apoyan los cambios.</voice><break time="2s"/>
+
+<voice lang="en">When Friday arrives, reading newspapers and singing works for the academic.</voice><break time="5s"/>
+<voice lang="es">Cuando llega el viernes, al académico leer diarios y cantar le funciona.</voice><break time="2s"/>
+
+<voice lang="en">Academics work less, enjoy mountains and pets, but salary maintains risk.</voice><break time="5s"/>
+<voice lang="es">Académicos trabajan menos, disfrutan montañas y mascota, pero sueldo mantiene riesgo.</voice><break time="2s"/>
+
+<voice lang="en">Access provides value to everyone.</voice><break time="5s"/>
+<voice lang="es">El Acceso aporta valor a todos.</voice><break time="2s"/>
+
+<voice lang="en">Consumers buy accessories when the price increases and the clientele disappears.</voice><break time="5s"/>
+<voice lang="es">Los consumidores compran accesorios cuando aumenta el precio y desaparece la clientela.</voice><break time="2s"/>
+
+<voice lang="en">The family lives in safe housing and community actions provide healthy care.</voice><break time="5s"/>
+<voice lang="es">La familia vive en una vivienda segura y las acciones comunitarias brindan cuidado saludable.</voice><break time="2s"/>
+
+<voice lang="en">The Organization will promote Action and herbs help health, including cream and will.</voice><break time="5s"/>
+<voice lang="es">El Organismo promoverá Acción y hierbas ayudan salud, incluyendo crema y voluntad.</voice><break time="2s"/>
+
+<voice lang="en">The man improves his health when he takes responsibility and avoids refined sugars.</voice><break time="5s"/>
+<voice lang="es">El hombre mejora su salud cuando asume responsabilidad y evita los azúcares refinados.</voice><break time="2s"/>
+
+<voice lang="en">Mothers suffer health damage and the social heritage teaches healthy eating.</voice><break time="5s"/>
+<voice lang="es">Las madres padecen daños en la salud y el acervo social enseña alimentación saludable.</voice><break time="2s"/>
+
+<voice lang="en">Adolescents feel anger, and accreditation generates approval and balance.</voice><break time="5s"/>
+<voice lang="es">Los adolescentes sienten enojo, y la acreditación genera aprobación y equilibrio.</voice><break time="2s"/>
+
+<voice lang="en">The City Council registered the minutes and the buses are driving satisfied tourists.</voice><break time="5s"/>
+<voice lang="es">El Ayuntamiento registró el acta y los autobuses van manejando a turistas satisfechos.</voice><break time="2s"/>
+
+<voice lang="en">Virtual academic activity uses educational videos and books, and learns with motivated students.</voice><break time="5s"/>
+<voice lang="es">La actividad académica virtual utiliza vídeos didácticos y libros, y aprende con estudiantes motivados.</voice><break time="2s"/>
+
+<voice lang="en">Neighbors participate in community activities and volunteers help poor migrants.</voice><break time="5s"/>
+<voice lang="es">Vecinos participan en actividades de convivencia y voluntarios ayudan a pobres migrantes.</voice><break time="2s"/>
+
+<voice lang="en">The act heads presentations and cinematography improves visualization using technologies.</voice><break time="5s"/>
+<voice lang="es">El acto encabeza presentaciones y la cinematografía mejora la visualización utilizando tecnologías.</voice><break time="2s"/>
+
+<voice lang="en">The father works with dedication and constant updating, improving family education.</voice><break time="5s"/>
+<voice lang="es">El padre trabaja con dedicación y actualización constante, mejorando la educación familiar.</voice><break time="2s"/>
+
+<voice lang="en">On Monday I need to sleep well and on Tuesday learn Aquaculture with firmness.</voice><break time="5s"/>
+<voice lang="es">El lunes necesito dormir bien y el martes aprender Acuacultura con firmeza.</voice><break time="2s"/>
+
+<voice lang="en">The Agreement promotes efficiency and executives consider the announced modernization adequate.</voice><break time="5s"/>
+<voice lang="es">El Acuerdo promueve la eficiencia y los ejecutivos consideran adecuada la modernización anunciada.</voice><break time="2s"/>
+
+<voice lang="en">The citizen declares the agreements and the courts contemplate responsibility considering current regulations.</voice><break time="5s"/>
+<voice lang="es">El ciudadano declara los acuerdos y los tribunales contemplan la responsabilidad considerando la normatividad vigente.</voice><break time="2s"/>
+
+<voice lang="en">Our home faces an economic debt and we seek calm to overcome it.</voice><break time="5s"/>
+<voice lang="es">Nuestro hogar enfrenta un adeudo económico y buscamos calma para superarlo.</voice><break time="2s"/>
+
+<voice lang="en">A Mexican administrator manages modern facilities and promotes efficient and free digital services.</voice><break time="5s"/>
+<voice lang="es">Un administrador mexicano dirige instalaciones modernas y promueve servicios digitales eficientes y gratuitos.</voice><break time="2s"/>
+
+<voice lang="en">Overweight women with concerning weight feel positive improvements during clinical medicine that administrators apply.</voice><break time="5s"/>
+<voice lang="es">Mujeres con sobrepeso preocupante sienten mejoras positivas durante la medicina clínica que aplican los administrativos.</voice><break time="2s"/>
+
+<voice lang="en">The boy will travel many kilometers on vacation and expects rapid admission.</voice><break time="5s"/>
+<voice lang="es">El chico viajará muchos kilómetros en vacaciones y espera una rápida admisión.</voice><break time="2s"/>
+
+<voice lang="en">The Colony enjoys a community experience and Acquisitions integrates optimal interior equipment.</voice><break time="5s"/>
+<voice lang="es">La Colonia disfruta de una experiencia comunitaria y Adquisiciones integra un equipamiento interior óptimo.</voice><break time="2s"/>
+
+<voice lang="en">The acquisition represents an important achievement and employers recognized the goals and loyalty.</voice><break time="5s"/>
+<voice lang="es">La adquisición representa un logro importante y los empleadores reconocieron las metas y la lealtad.</voice><break time="2s"/>
+
+<voice lang="en">Adults and children eat a healthy menu in restaurants and businesses that feed them.</voice><break time="5s"/>
+<voice lang="es">Adultos y niños comen un menú saludable en restaurantes y comercios que los alimentan.</voice><break time="2s"/>
+
+<voice lang="en">Airport workers have stable employment and develop solid institutional productivity.</voice><break time="5s"/>
+<voice lang="es">Los trabajadores del aeropuerto tienen empleo estable y desarrollan una sólida productividad institucional.</voice><break time="2s"/>
+
+<voice lang="en">The fans feel an intense sensation and we believe it improves their mood.</voice><break time="5s"/>
+<voice lang="es">La afición siente una sensación intensa y creemos que mejora su ánimo.</voice><break time="2s"/>
+
+<voice lang="en">The Environmental Agency develops sustainable solutions and offers comprehensive knowledge for the province.</voice><break time="5s"/>
+<voice lang="es">La Agencia Ambiental desarrolla soluciones sustentables y ofrece conocimientos integrales para la provincia.</voice><break time="2s"/>
+
+<voice lang="en">The agent organizes productive collaborations and trains delegates, developing solid capacities.</voice><break time="5s"/>
+<voice lang="es">El agente organiza colaboraciones productivas y capacita a los delegados, desarrollando sólidas capacidades.</voice><break time="2s"/>
+
+<voice lang="en">Medical agents administer sugar to the baby and evaluate their feelings and frustrations.</voice><break time="5s"/>
+<voice lang="es">Agentes médicos administran azúcar al bebé y evalúan sus sentimientos y frustraciones.</voice><break time="2s"/>
+
+<voice lang="en">Agriculture strengthens crops and the population considers the costs minimal.</voice><break time="5s"/>
+<voice lang="es">La agricultura fortalece los cultivos y la población considera mínimos los costos.</voice><break time="2s"/>
+
+<voice lang="en">The woman finds prevention in exercise and in daily clean water.</voice><break time="5s"/>
+<voice lang="es">La mujer encuentra prevención en el ejercicio y en el agua limpia diaria.</voice><break time="2s"/>
+
+<voice lang="en">Mexican companies process the purchase of industrial materials and Waters generates incredible flavors.</voice><break time="5s"/>
+<voice lang="es">Empresas mexicanas tramitan la compra de materiales industriales y Aguas genera sabores increíbles.</voice><break time="2s"/>
+
+<voice lang="en">The group of professionals conserves savings and projects strategies that benefit hospitals.</voice><break time="5s"/>
+<voice lang="es">El grupo de profesionistas conserva el ahorro y proyecta estrategias que beneficien a los hospitales.</voice><break time="2s"/>
+
+<voice lang="en">The air remains clean and fresh if it shelters and feeds trees.</voice><break time="5s"/>
+<voice lang="es">El aire queda limpio y fresco si alberga y alimenta árboles.</voice><break time="2s"/>
+
+<voice lang="en">The community maintains emotional well-being, but in Pools some cry defeats.</voice><break time="5s"/>
+<voice lang="es">La comunidad mantiene el bienestar emocional, pero en Albercas algunos lloran derrotas.</voice><break time="2s"/>
+
+<voice lang="en">The mayor recognizes interference in homes, but firefighters decrease emissions and fears.</voice><break time="5s"/>
+<voice lang="es">El alcalde reconoce interferencias en viviendas, pero los bomberos disminuyen las emisiones y los temores.</voice><break time="2s"/>
+
+<voice lang="en">Families on alert maintain a healthy spirit and healthy comforts.</voice><break time="5s"/>
+<voice lang="es">Las familias en alerta mantienen un espíritu sano y comodidades saludables.</voice><break time="2s"/>
+
+<voice lang="en">Alfa recommends tomato and lemon as ingredients, but the consumer prefers milk.</voice><break time="5s"/>
+<voice lang="es">Alfa recomienda tomate y limón como ingredientes, pero el consumidor prefiere leche.</voice><break time="2s"/>
+
+<voice lang="en">The company supports migrants and the alliance offers better deals.</voice><break time="5s"/>
+<voice lang="es">La empresa apoya a los migrantes y la alianza ofrece mejores ofertas.</voice><break time="2s"/>
+
+<voice lang="en">The house uses healthy foods and takes advantage of the beautiful garden for daily laughter.</voice><break time="5s"/>
+<voice lang="es">La casa utiliza alimentos saludables y aprovecha el hermoso jardín para la risa diaria.</voice><break time="2s"/>
+
+<voice lang="en">Alma analyzes waste and designs products that preserve safety and humanity.</voice><break time="5s"/>
+<voice lang="es">Alma analiza residuos y diseña productos que preservan la seguridad y la humanidad.</voice><break time="2s"/>
+
+<voice lang="en">Happy passengers need cheap cars and optimal storage for tourist trips.</voice><break time="5s"/>
+<voice lang="es">Pasajeros contentos necesitan autos baratos y almacenamiento óptimo para viajes turísticos.</voice><break time="2s"/>
+
+<voice lang="en">Society discovers tenderness and shame when warehouses show caresses and sorrows.</voice><break time="5s"/>
+<voice lang="es">La sociedad descubre ternura y vergüenza cuando los almacenes muestran caricias y penas.</voice><break time="2s"/>
+
+<voice lang="en">The Admiral returned serious to the auditorium and the members listened attentively.</voice><break time="5s"/>
+<voice lang="es">El Almirante volvió serio al auditorio y los miembros escucharon atentos.</voice><break time="2s"/>
+
+<voice lang="en">Satisfied citizens resort to rental and ensure perfect comfort through the establishment.</voice><break time="5s"/>
+<voice lang="es">Ciudadanos satisfechos recurren al alquiler y aseguran una comodidad perfecta mediante el establecimiento.</voice><break time="2s"/>
+
+<voice lang="en">Golf afternoons represent a fun alternative; families enjoy conforming children's music.</voice><break time="5s"/>
+<voice lang="es">Las tardes de golf representan una alternativa divertida; las familias disfrutan de música infantil conforme.</voice><break time="2s"/>
+
+<voice lang="en">Students remember their priorities when the store applies fair cost to aluminum.</voice><break time="5s"/>
+<voice lang="es">Los alumnos recuerdan sus prioridades cuando la tienda aplica costo justo en aluminio.</voice><break time="2s"/>
+
+<voice lang="en">Tourists enjoy Sundays on clean terraces and the fun atmosphere encourages rest.</voice><break time="5s"/>
+<voice lang="es">Los turistas disfrutan los domingos en terrazas limpias y el ambiente divertido fomenta el descanso.</voice><break time="2s"/>
+
+<voice lang="en">Quiet friendship keeps domestic intimacy comfortable and feeds full emotions.</voice><break time="5s"/>
+<voice lang="es">La amistad tranquila mantiene cómoda la intimidad doméstica y alimenta emociones llenas.</voice><break time="2s"/>
+
+<voice lang="en">The comparative analyst found solid data and offered effective help.</voice><break time="5s"/>
+<voice lang="es">El analista comparativo encontró datos sólidos y ofreció ayuda efectiva.</voice><break time="2s"/>
+
+<voice lang="en">Specialists analyze diseases and the annex demonstrates serious complications in individuals who struggle.</voice><break time="5s"/>
+<voice lang="es">Especialistas analizan enfermedades y el anexo demuestra complicaciones graves en individuos que luchan.</voice><break time="2s"/>
+
+<voice lang="en">Every anniversary I bring beer and prepare food; then we read notes together.</voice><break time="5s"/>
+<voice lang="es">Cada aniversario llevo cerveza y preparo comida; luego leemos notas juntos.</voice><break time="2s"/>
+
+<voice lang="en">Anthropology researchers show their discoveries and students analyze tracks in the trees.</voice><break time="5s"/>
+<voice lang="es">Investigadores de Antropología muestran sus descubrimientos y los estudiantes analizan huellas en los árboles.</voice><break time="2s"/>
+
+<voice lang="en">Users consume local ads and improve their emotional perspectives, growing as learners.</voice><break time="5s"/>
+<voice lang="es">Los usuarios consumen anuncios locales y mejoran sus perspectivas emocionales, creciendo como aprendices.</voice><break time="2s"/>
+
+<voice lang="en">Anáhuac improves daily life.</voice><break time="5s"/>
+<voice lang="es">La Anáhuac mejora la vida diaria.</voice><break time="2s"/>
+
+<voice lang="en">Professionals perform emotion analysis and know patterns that facilitate stability.</voice><break time="5s"/>
+<voice lang="es">Profesionales realizan análisis de emociones y conocen patrones que facilitan la estabilidad.</voice><break time="2s"/>
+
+<voice lang="en">The opening of the bilingual classroom grows and fundamental content is taught.</voice><break time="5s"/>
+<voice lang="es">La apertura del aula bilingüe crece y se imparten contenidos fundamentales.</voice><break time="2s"/>
+
+<voice lang="en">Girls use educational applications and sharing digital videos is fantastic.</voice><break time="5s"/>
+<voice lang="es">Las chicas usan aplicaciones educativas y compartir videos digitales resulta fantástico.</voice><break time="2s"/>
+
+<voice lang="en">Responsible consumption maintains joys and the application facilitates fresh seafood and automobiles.</voice><break time="5s"/>
+<voice lang="es">El consumo responsable mantiene alegrías y la aplicación facilita mariscos frescos y automóviles.</voice><break time="2s"/>
+
+<voice lang="en">Emotions represent important contributions and demand constant curiosity, cooperation and conviction.</voice><break time="5s"/>
+<voice lang="es">Las emociones representan aportaciones importantes y exigen curiosidad, cooperación y convicción constantes.</voice><break time="2s"/>
+
+<voice lang="en">Public universities offer support with scholarships and courses, and students carry out simple trainings.</voice><break time="5s"/>
+<voice lang="es">Las universidades públicas ofrecen apoyo con becas y cursos, y los alumnos realizan capacitaciones sencillas.</voice><break time="2s"/>
+
+<voice lang="en">The user lives constant learning and develops programs that improve homes and patients.</voice><break time="5s"/>
+<voice lang="es">El usuario vive un aprendizaje constante y desarrolla programas que mejoran hogares y pacientes.</voice><break time="2s"/>
+
+<voice lang="en">Approval protects dreams every day.</voice><break time="5s"/>
+<voice lang="es">La Aprobación protege sueños cada día.</voice><break time="2s"/>
+
+<voice lang="en">Achilles fulfills teaching duties and strengthens educational bonds when we work.</voice><break time="5s"/>
+<voice lang="es">Aquiles cumple con deberes de docencia y fortalece vínculos educativos cuando trabajamos.</voice><break time="2s"/>
+
+<voice lang="en">The Arbitration Coordinator established fair rules and we conscious participants are grateful.</voice><break time="5s"/>
+<voice lang="es">La Coordinadora de Arbitraje estableció reglas justas y los participantes conscientes lo agradecemos.</voice><break time="2s"/>
+
+<voice lang="en">The journalist published the file and the commission analyzed its content.</voice><break time="5s"/>
+<voice lang="es">El periodista publicó el archivo y la comisión analizó su contenido.</voice><break time="2s"/>
+
+<voice lang="en">Digital files grow and demonstrate progress in educational quality.</voice><break time="5s"/>
+<voice lang="es">Los archivos digitales crecen y demuestran un progreso en la calidad educativa.</voice><break time="2s"/>
+
+<voice lang="en">The purchasing area offers visible luxury and guarantees gradual payment with checks.</voice><break time="5s"/>
+<voice lang="es">El área de compras ofrece lujo visible y garantiza el pago gradual con cheques.</voice><break time="2s"/>
+
+<voice lang="en">Arenas protesters work in offices and improve regulations regarding stations.</voice><break time="5s"/>
+<voice lang="es">Los manifestantes de Arenas trabajan en oficinas y mejoran la reglamentación respecto a estaciones.</voice><break time="2s"/>
+
+<voice lang="en">The minister warns about the impact of weapons and proposes inclusion campaigns.</voice><break time="5s"/>
+<voice lang="es">El ministro advierte sobre el impacto de las armas y propone campañas de inclusión.</voice><break time="2s"/>
+
+<voice lang="en">Business digitization drives adequate harmonization and offers good experiences without hassles.</voice><break time="5s"/>
+<voice lang="es">La digitalización del negocio impulsa una armonización adecuada y ofrece buenas experiencias sin molestias.</voice><break time="2s"/>
+
+<voice lang="en">The architect eats plastic and the child warned about dangerous waste.</voice><break time="5s"/>
+<voice lang="es">El arquitecto come plástico y el niño advirtió sobre residuos peligrosos.</voice><break time="2s"/>
+
+<voice lang="en">Architecture schools promote workshops and courses that develop excellent education.</voice><break time="5s"/>
+<voice lang="es">Los planteles de Arquitectura fomentan talleres y cursos que desarrollan una excelente educación.</voice><break time="2s"/>
+
+<voice lang="en">Lease allows Gold harvest and Movement safeguard Community rights.</voice><break time="5s"/>
+<voice lang="es">Arrendamiento permite cosecha de Oro y Movimiento salvaguardar derechos de Comunidad.</voice><break time="2s"/>
+
+<voice lang="en">Art seems universal and beloved, but reflects a considerable human contradiction.</voice><break time="5s"/>
+<voice lang="es">Art parece universal y querido, pero refleja una contradicción humana considerable.</voice><break time="2s"/>
+
+<voice lang="en">Travelers find art in every country and the world reflects its origins.</voice><break time="5s"/>
+<voice lang="es">Los viajeros encuentran arte en cada país y el mundo refleja sus orígenes.</voice><break time="2s"/>
+
+<voice lang="en">Domingo loves his family; arts and stories share enthusiasm and benefits.</voice><break time="5s"/>
+<voice lang="es">Domingo ama a su familia; artes y relatos comparten entusiasmo y beneficios.</voice><break time="2s"/>
+
+<voice lang="en">The articles protect property and the regulation controls situations.</voice><break time="5s"/>
+<voice lang="es">Los artículos protegen la propiedad y el reglamento controla las situaciones.</voice><break time="2s"/>
+
+<voice lang="en">Culture and Course belong to Artists and strengthen educational improvement indexes.</voice><break time="5s"/>
+<voice lang="es">Cultura y Curso pertenecen a Artistas y fortalecen los índices de mejoría educativa.</voice><break time="2s"/>
+
+<voice lang="en">Gastronomy combines spectacular recipes and the article provides the correct guidance.</voice><break time="5s"/>
+<voice lang="es">La gastronomía combina recetas espectaculares y el artículo brinda la orientación correcta.</voice><break time="2s"/>
+
+<voice lang="en">Bibliographic and web articles contribute to reading and understand complex cases.</voice><break time="5s"/>
+<voice lang="es">Artículos bibliográficos y web contribuyen a la lectura y comprenden casos complejos.</voice><break time="2s"/>
+
+<voice lang="en">The archbishop celebrates the metropolitan assembly and specialists analyze urban problems.</voice><break time="5s"/>
+<voice lang="es">El arzobispo celebra la asamblea metropolitana y especialistas analizan problemáticas urbanas.</voice><break time="2s"/>
+
+<voice lang="en">The Assembly demands better work practices and achieves solid professional agreements.</voice><break time="5s"/>
+<voice lang="es">La Asamblea exige mejores prácticas de trabajo y consigue acuerdos profesionales sólidos.</voice><break time="2s"/>
+
+<voice lang="en">Residents have insurance and reusable bags if they collect at the warehouses.</voice><break time="5s"/>
+<voice lang="es">Los residentes cuentan con aseguramiento y bolsas reutilizables si cobran en las bodegas.</voice><break time="2s"/>
+
+<voice lang="en">The advisor indicated significant discounts and the farmers agreed to work until tomorrow.</voice><break time="5s"/>
+<voice lang="es">El asesor indicó descuentos importantes y los campesinos aceptaron trabajar hasta mañana.</voice><break time="2s"/>
+
+<voice lang="en">The family seeks professional advice, but daily affection works miracles.</voice><break time="5s"/>
+<voice lang="es">La familia busca asesoría profesional, pero el cariño cotidiano hace milagros.</voice><break time="2s"/>
+
+<voice lang="en">Magistrates coordinate institutional assistance and guarantee solid labor benefits.</voice><break time="5s"/>
+<voice lang="es">Los magistrados coordinan la asistencia institucional y garantizan prestaciones laborales sólidas.</voice><break time="2s"/>
+
+<voice lang="en">The friendly assistant provides mutual respect and students obtain interesting learnings.</voice><break time="5s"/>
+<voice lang="es">El asistente amable brinda respeto mutuo y los estudiantes obtienen aprendizajes interesantes.</voice><break time="2s"/>
+
+<voice lang="en">Associations organize recreation for society and guarantee satisfaction during the stay.</voice><break time="5s"/>
+<voice lang="es">Las asociaciones organizan esparcimiento para la sociedad y garantizan la satisfacción durante la estancia.</voice><break time="2s"/>
+
+<voice lang="en">The Association organizes colorful crafts and social techniques, then will deliver the necessary medicines.</voice><break time="5s"/>
+<voice lang="es">La Asociación organiza artesanías coloridas y técnicas sociales, luego entregará los medicamentos necesarios.</voice><break time="2s"/>
+
+<voice lang="en">Healthy food benefits aspiring students and they eat it after daily workdays.</voice><break time="5s"/>
+<voice lang="es">La comida sana beneficia a los aspirantes y ellos la comen tras las jornadas cotidianas.</voice><break time="2s"/>
+
+<voice lang="en">My uncle addresses family matters with honesty and, as a brother, understands past scenes.</voice><break time="5s"/>
+<voice lang="es">Mi tío aborda asuntos familiares con honestidad y, como hermano, comprende escenas pasadas.</voice><break time="2s"/>
+
+<voice lang="en">The restaurant offers healthy foods and the audit guarantees correctly calculated calories.</voice><break time="5s"/>
+<voice lang="es">El restaurante ofrece alimentos saludables y la auditoría garantiza calorías correctamente calculadas.</voice><break time="2s"/>
+
+<voice lang="en">The classroom offers interdisciplinary programming and teachers attend to intelligence matters.</voice><break time="5s"/>
+<voice lang="es">El aula ofrece programación interdisciplinaria y las maestras atienden asuntos de inteligencia.</voice><break time="2s"/>
+
+<voice lang="en">Aurora lives in another province, but we want to walk together and explore cultures.</voice><break time="5s"/>
+<voice lang="es">Aurora vive en otra provincia, pero queremos caminar juntas y explorar culturas.</voice><break time="2s"/>
+
+<voice lang="en">The nutritional Auto offers basic recipes and contributes to economic savings.</voice><break time="5s"/>
+<voice lang="es">El Auto nutricional ofrece recetas básicas y contribuye al ahorro económico.</voice><break time="2s"/>
+
+<voice lang="en">The automotive industry affects plants and systems, but conserving energy will save hearts.</voice><break time="5s"/>
+<voice lang="es">La industria automotriz afecta a plantas y sistemas, pero conservar energía salvará corazones.</voice><break time="2s"/>
+
+<voice lang="en">A Mexican author wrote about an affected humanity and readers contribute sincere admiration.</voice><break time="5s"/>
+<voice lang="es">Un autor mexicano escribió sobre una humanidad afectada y los lectores aportan sincera admiración.</voice><break time="2s"/>
+
+<voice lang="en">The secretary granted authorization and the subjects initiated marketing operations.</voice><break time="5s"/>
+<voice lang="es">La secretaria otorgó la autorización y los sujetos iniciaron operaciones de marketing.</voice><break time="2s"/>
+
+<voice lang="en">Committed self-employed people seek exquisite jewels in an accessible catalog and pay quickly.</voice><break time="5s"/>
+<voice lang="es">Autónomos comprometidos buscan joyas exquisitas en un catálogo accesible y pagar rápido.</voice><break time="2s"/>
+
+<voice lang="en">The committee published a notice and people received support and benefits.</voice><break time="5s"/>
+<voice lang="es">El comité publicó un aviso y la gente recibió respaldo y beneficios.</voice><break time="2s"/>
+
+<voice lang="en">Municipal news report important notices and the platform will allow sharing them from Thursday.</voice><break time="5s"/>
+<voice lang="es">Las noticias municipales reportan avisos importantes y la plataforma permitirá compartirlos desde el jueves.</voice><break time="2s"/>
+
+<voice lang="en">The teacher tells how fishing provides sustenance and helps indigenous communities.</voice><break time="5s"/>
+<voice lang="es">La profesora cuenta cómo la pesca proporciona sustento y ayuda a las comunidades indígenas.</voice><break time="2s"/>
+
+<voice lang="en">The municipalities approved the legalization of equal marriage and communities enjoy social comfort.</voice><break time="5s"/>
+<voice lang="es">Los ayuntamientos aprobaron la legalización del matrimonio igualitario y las comunidades gozan de confort social.</voice><break time="2s"/>
+
+El fin
+<break time="4s"/>
