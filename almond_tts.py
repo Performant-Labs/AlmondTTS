@@ -132,7 +132,8 @@ class TextSegment:
 class LongFormTTS:
     def __init__(self, model_name="tts_models/multilingual/multi-dataset/xtts_v2",
                  speaker_wav=None, language="es", output_dir=None, device=None, num_workers=1, pause_after=2.0,
-                 voice_map=None, auto_detect_language=False, slowdown_factor=None, slowdown_engine="rubberband"):
+                 voice_map=None, auto_detect_language=False, slowdown_factor=None, slowdown_engine="rubberband",
+                 strip_terminal_punctuation=True):
         """
         Initialize the Long-Form TTS processor.
 
@@ -147,6 +148,7 @@ class LongFormTTS:
             voice_map: Dict mapping language codes to voice files, e.g., {"en": "english.wav", "es": None}
             auto_detect_language: If True, automatically detect language per segment
             slowdown_engine: Engine for time-stretching ('rubberband' or 'sox')
+            strip_terminal_punctuation: If True, drop trailing periods/colons/semicolons to avoid spoken "punto"
         """
         init_parts = [f"AlmondTTS start", f"model: {model_name}", f"lang: {language}"]
         if speaker_wav:
@@ -160,6 +162,7 @@ class LongFormTTS:
         self.auto_detect_language = auto_detect_language
         self.slowdown_factor = slowdown_factor if slowdown_factor and slowdown_factor > 0 else None
         self.slowdown_engine = slowdown_engine or "rubberband"
+        self.strip_terminal_punctuation = strip_terminal_punctuation
 
         if voice_map:
             print(f"Voice mapping enabled:")
@@ -281,6 +284,8 @@ class LongFormTTS:
             print(f"  Auto-detect language: enabled")
         if self.voice_map:
             print(f"  Voice map: {len(self.voice_map)} language(s) mapped")
+        if self.strip_terminal_punctuation:
+            print(f"  Strip terminal punctuation: enabled")
         print(f"-----------------------")
 
         # Estimation: average speaking rate for Spanish TTS
@@ -874,6 +879,23 @@ class LongFormTTS:
 
         return segments
 
+    def _prepare_segment_text(self, text: str) -> str:
+        """
+        Normalize text before sending to TTS to reduce spoken punctuation artifacts.
+        - Collapse stray spaces before punctuation.
+        - Optionally remove terminal . ; : so XTTS doesn't say "punto" in Spanish.
+        """
+        normalized = re.sub(r'\s+([.,;:!?])', r'\1', text)
+
+        if self.strip_terminal_punctuation:
+            # Keep trailing quotes if present (e.g., 'texto."') while dropping the terminal punctuation
+            normalized = re.sub(r'([.;:]+)(["\'])\s*$', r'\2', normalized)
+            normalized = re.sub(r'\s*[.;:]+\s*$', '', normalized)
+            # Append underscore to give model a "landing" character and reduce hallucinations
+            normalized = normalized.strip() + '_'
+
+        return normalized.strip()
+
     def _determine_language(self, text: str, lang: Optional[str]) -> str:
         """Determine the language for a text segment."""
         if lang:
@@ -933,7 +955,7 @@ class LongFormTTS:
         # Get a model instance from the queue (blocks if all models are in use)
         model_idx = self.model_queue.get()
 
-        max_attempts = 3
+        max_attempts = 5
         last_error = None
 
         try:
@@ -947,10 +969,13 @@ class LongFormTTS:
                     # Use segment-specific voice and language if available
                     segment_voice = segment.voice_file if segment.voice_file is not None else self.speaker_wav
                     segment_lang = segment.language if segment.language else self.language
+                    tts_text = self._prepare_segment_text(segment.text)
+                    if not tts_text:
+                        raise ValueError(f"Segment {segment.segment_id:03d} became empty after text normalization")
 
                     if segment_voice:
                         tts_model.tts_to_file(
-                            text=segment.text,
+                            text=tts_text,
                             file_path=str(tts_filename),
                             speaker_wav=segment_voice,
                             language=segment_lang
@@ -958,7 +983,7 @@ class LongFormTTS:
                     else:
                         # Use default speaker from model (Dionisio Schuyler for XTTS v2)
                         tts_model.tts_to_file(
-                            text=segment.text,
+                            text=tts_text,
                             file_path=str(tts_filename),
                             speaker="Dionisio Schuyler",
                             language=segment_lang
@@ -976,9 +1001,9 @@ class LongFormTTS:
 
                     # Safeguard against hallucinations that run too long (e.g., language drift)
                     if segment.estimated_duration > 0:
-                        duration_limit = max(segment.estimated_duration * 2.0, segment.estimated_duration + 2.0)
+                        duration_limit = max(segment.estimated_duration * 1.5, segment.estimated_duration + 2.0)
                     else:
-                        duration_limit = 10.0  # fallback guard for very short/unknown estimates
+                        duration_limit = 5.0  # fallback guard for very short/unknown estimates
 
                     if audio_duration > duration_limit:
                         raise ValueError(
@@ -1319,7 +1344,7 @@ class LongFormTTS:
             output_wav.setparams(params)
             output_wav.writeframes(b''.join(all_frames))
 
-        print(f"✓ Concatenation complete: {output_path.name}")
+        print(f"✓ Concatenation complete: {output_path.resolve()}")
 
     def apply_slowdown(self, wav_path: Path) -> Path:
         """Optionally apply time-stretching to the final WAV using rubberband or sox."""
@@ -1523,7 +1548,7 @@ class LongFormTTS:
         print(f"\n{'='*60}")
         print(f"✓ COMPLETE")
         print(f"{'='*60}")
-        print(f"Final audio: {final_output}")
+        print(f"Final audio: {final_output.resolve()}")
         print(f"Total words processed: {total_words}")
         print(f"Total processing time: {total_time:.1f}s ({total_time/60:.1f} minutes)")
 
@@ -1540,6 +1565,19 @@ Example usage:
   %(prog)s input.txt
   %(prog)s input.txt --min-duration 20 --max-duration 45
   %(prog)s input.txt --device cpu --keep-temp
+
+Input file format:
+  Use <voice> tags to switch speakers/languages, <break> for pauses.
+  Define named speakers in a <speakers> header:
+
+    <speakers>
+    maria = ~/Documents/AlmondTTS/reference_audio/maria.wav
+    carlos = ~/Documents/AlmondTTS/reference_audio/carlos.wav
+    </speakers>
+
+    <voice speaker="maria" lang="es">Hola, soy María.</voice>
+    <break time="1s">
+    <voice speaker="carlos" lang="es">Y yo soy Carlos.</voice>
         """
     )
     parser.add_argument(
@@ -1623,6 +1661,13 @@ Example usage:
         default="rubberband",
         help="Engine for time-stretching: 'rubberband' (higher quality) or 'sox' (default: rubberband)"
     )
+    parser.add_argument(
+        "--no-strip-terminal-punctuation",
+        action="store_false",
+        dest="strip_terminal_punctuation",
+        default=True,
+        help="Keep trailing . ; : instead of stripping them before TTS (default strips to avoid spoken 'punto')"
+    )
 
     args = parser.parse_args()
 
@@ -1689,7 +1734,8 @@ Example usage:
             voice_map=voice_map,
             auto_detect_language=args.auto_detect_language,
             slowdown_factor=args.slowdown_factor,
-            slowdown_engine=args.slowdown_engine
+            slowdown_engine=args.slowdown_engine,
+            strip_terminal_punctuation=args.strip_terminal_punctuation
         )
 
         # Process each file
@@ -1744,7 +1790,8 @@ Example usage:
             voice_map=voice_map,
             auto_detect_language=args.auto_detect_language,
             slowdown_factor=args.slowdown_factor,
-            slowdown_engine=args.slowdown_engine
+            slowdown_engine=args.slowdown_engine,
+            strip_terminal_punctuation=args.strip_terminal_punctuation
         )
 
         # Process the file

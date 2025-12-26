@@ -25,7 +25,7 @@ read `README.md` for build/packaging details; everyone else can stay right here.
    (Replace /Applications/AlmondTTS if you stored the folder somewhere else.)
 3) Create the working folders and see the available options:
       ./almond_tts --help
-   This command creates a “AlmondTTS” folder inside Documents with the subfolders input, output, reference_audio, and working, and it copies the sample file (0000-BasicGrammar.txt) into the input folder automatically. On the very first run, Finder opens the input folder automatically.
+   In the packaged AlmondTTS download, this command creates a “AlmondTTS” folder inside Documents with the subfolders input, output, reference_audio, and working, and it copies the sample file (0000-BasicGrammar.txt) into the input folder automatically. On the very first run, Finder opens the input folder automatically.
 4) If Finder didn’t open, you can get there manually:
    - In Finder choose Go → Go to Folder…
    - Type:  ~/Documents/AlmondTTS/input
@@ -56,14 +56,25 @@ format as the sample:
 ----------------------------------------------------------------------
 3. Run AlmondTTS
 ----------------------------------------------------------------------
+There are two ways to run AlmondTTS:
+
+  A) WIZARD (recommended for beginners)
+     Run ./start.sh and answer the prompts. The wizard asks for input file,
+     output directory, language, device, and other options one by one. It shows
+     the full command before running and asks for confirmation.
+
+  B) DIRECT COMMAND (faster once you know the options)
+     Run ./almond_tts with command-line flags. Runs immediately without prompts.
+
 1) Back in Terminal (or reopen it and run cd /Applications/AlmondTTS).
 2) Process the sample file first to make sure everything works:
-      ./almond_tts ~/Documents/AlmondTTS/input/0000-BasicGrammar.txt --device mps
+   - Using the wizard:
+        ./start.sh
+   - Or using the direct command:
+        ./almond_tts ~/Documents/AlmondTTS/input/0000-BasicGrammar.txt --device mps
    - If you see “permission denied,” run  chmod +x almond_tts  once, then rerun the command.
    - To process every .txt file inside `input`, pass the folder instead of a single file:
         ./almond_tts ~/Documents/AlmondTTS/input --device mps
-   - Prefer a guided setup? Run the wizard:
-        ./start.sh
 3) Leave the Terminal window open while it runs. You will see progress logs for
       each segment and a completion message.
 
@@ -74,6 +85,7 @@ format as the sample:
 2) Each run creates:
    - Individual segment WAV files (filename_000.wav, filename_001.wav, …)
    - One final merged WAV (filename.wav)
+   - The terminal prints the full absolute output path when the final WAV is written.
 3) Reference audio for voice cloning lives in:
       ~/Documents/AlmondTTS/reference_audio
 
@@ -97,6 +109,8 @@ Run  ./almond_tts --help  for the full list. Popular examples:
   time.
 • No output files – Confirm your .txt file is inside ~/Documents/AlmondTTS/input
   and contains text. Then rerun the command from /Applications/AlmondTTS.
+• Output file looks old in Finder – Make sure you are checking “Date Modified” (not “Date Created” / “Date Added”). Also copy the absolute path printed in the Terminal (“Final audio: …”) and confirm that exact file exists.
+• Output is going somewhere else – If you used --output-dir, the WAV will be written there instead of ~/Documents/AlmondTTS/output.
 • App can’t open – Control-click almond_tts, choose Open, then click Open again.
 • Running on CPU – Apple Silicon defaults to “mps”. Force it explicitly with
   --device mps if needed.

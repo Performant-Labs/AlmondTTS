@@ -28,7 +28,8 @@ community-maintained [Idiap fork](https://github.com/idiap/coqui-ai-TTS) from
 - **Voice cloning and multi-voice**
   - Clone a voice from a short reference audio clip.
   - Use different voices or languages for different parts of the same script
-    via tags and configuration.
+    via `<voice>` tags.
+  - Define named speakers in a `<speakers>` header to avoid repeating file paths.
 
 - **Flexible timing**
   - Control minimum/maximum segment duration.
